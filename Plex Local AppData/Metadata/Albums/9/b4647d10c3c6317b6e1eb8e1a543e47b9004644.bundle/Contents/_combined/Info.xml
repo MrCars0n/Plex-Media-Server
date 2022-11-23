@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2017-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="97b56f1bda1a02bdc43739c5427b2e51" media="com.plexapp.agents.localmedia_34ceb61e07df51ff91ce7ab33877f6357e83374a" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="d9eb37a4f98e5854e883c69c9ee8b082" media="com.plexapp.agents.localmedia_e9b5f81f2b4416e62bfb9d14e9914503b8047e60" sort_order="2" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="b1e0500222c3d1c00f10f6141d800eb3" media="com.plexapp.agents.localmedia_5e05345c0ffdfa49e9689d918c761c46c431e72e" sort_order="3" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Star Wars Battlefront II: Inferno Squad</title>
+  <tracks>
+    <item key="18888" path="tracks\1638381aadadddecc55676add7936db53096e8da">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Star Wars Battlefront II: Inferno Squad</title>
+      <track_index>11</track_index>
+    </item>
+    <item key="18889" path="tracks\6cc3bdf942813f069f010ea8c81b8ccd4a629efc">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Star Wars Battlefront II: Inferno Squad</title>
+      <track_index>12</track_index>
+    </item>
+    <item key="18884" path="tracks\3d0f442713099cf974c0da2f8f52702c32f0fb31">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Star Wars Battlefront II: Inferno Squad</title>
+      <track_index>7</track_index>
+    </item>
+    <item key="18885" path="tracks\9e51f3e9eee078c7bc7f07dcaa91225ddd87462d">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Star Wars Battlefront II: Inferno Squad</title>
+      <track_index>8</track_index>
+    </item>
+    <item key="18886" path="tracks\646244a8ece0690dc32ad97ec46d13bfbd107852">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Star Wars Battlefront II: Inferno Squad</title>
+      <track_index>9</track_index>
+    </item>
+    <item key="18887" path="tracks\521bfe90d5a0d3f6d821e054c1893394677dd56e">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Star Wars Battlefront II: Inferno Squad</title>
+      <track_index>10</track_index>
+    </item>
+    <item key="18880" path="tracks\90f74b0750f53d925337e7a5c1f83e4368a5c7c7">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Star Wars Battlefront II: Inferno Squad</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="18881" path="tracks\6460d1a779f7f488fed4430c9ffa9b309767daca">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Star Wars Battlefront II: Inferno Squad</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="18882" path="tracks\a2814356083b631520cda048e732c3ec476146ab">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Star Wars Battlefront II: Inferno Squad</title>
+      <track_index>5</track_index>
+    </item>
+    <item key="18883" path="tracks\584c331b96a9498c45c1473f6c1204df152a34a4">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Star Wars Battlefront II: Inferno Squad</title>
+      <track_index>6</track_index>
+    </item>
+    <item key="18879" path="tracks\7dc48353ab25a84918ff6f15ce3c2cdea1081566">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Star Wars Battlefront II: Inferno Squad</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="18878" path="tracks\3ecead3248497cfb18691b706b1ccd56caef9e35">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Star Wars Battlefront II: Inferno Squad</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="18893" path="tracks\e0b084bf52486c9a0dca192e710c8c7a691af385">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Star Wars Battlefront II: Inferno Squad</title>
+      <track_index>16</track_index>
+    </item>
+    <item key="18892" path="tracks\cc177f65524430a7226d9216cba7e8c239890bf7">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Star Wars Battlefront II: Inferno Squad</title>
+      <track_index>15</track_index>
+    </item>
+    <item key="18891" path="tracks\7e52236033557bc9587936038bc0036046a1006e">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Star Wars Battlefront II: Inferno Squad</title>
+      <track_index>14</track_index>
+    </item>
+    <item key="18890" path="tracks\7679d11b9a2b7dc218b038ea3a21e037d01bd2a3">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Star Wars Battlefront II: Inferno Squad</title>
+      <track_index>13</track_index>
+    </item>
+    <item key="18897" path="tracks\da36cf17de59fc08ea91cf42fe8f32b084efe415">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Star Wars Battlefront II: Inferno Squad</title>
+      <track_index>20</track_index>
+    </item>
+    <item key="18896" path="tracks\483f0df4a1f0aa7a032fc71cfdf49cb7739445e7">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Star Wars Battlefront II: Inferno Squad</title>
+      <track_index>19</track_index>
+    </item>
+    <item key="18895" path="tracks\65aacd0ec84c1ae0567097288bd4f46184eba020">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Star Wars Battlefront II: Inferno Squad</title>
+      <track_index>18</track_index>
+    </item>
+    <item key="18894" path="tracks\229b75289f54afa42148201533a5d327c951cf2e">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Star Wars Battlefront II: Inferno Squad</title>
+      <track_index>17</track_index>
+    </item>
+    <item key="18899" path="tracks\981d8f6ba8b59850cdc545ec86f1f481884489a3">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Star Wars Battlefront II: Inferno Squad</title>
+      <track_index>22</track_index>
+    </item>
+    <item key="18898" path="tracks\94e3aee996042941d824f69a4c824f393f2bf2f6">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Star Wars Battlefront II: Inferno Squad</title>
+      <track_index>21</track_index>
+    </item>
+    <item key="18905" path="tracks\f950314b8900d90f08cdac6b0e5ec3f9f4de4724">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Star Wars Battlefront II: Inferno Squad</title>
+      <track_index>28</track_index>
+    </item>
+    <item key="18904" path="tracks\10ad2a934e81325523812472f067ebcee38b3f1a">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Star Wars Battlefront II: Inferno Squad</title>
+      <track_index>27</track_index>
+    </item>
+    <item key="18906" path="tracks\653ee154612936b85575aa99d0ec3ccb2b12a001">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Star Wars Battlefront II: Inferno Squad</title>
+      <track_index>29</track_index>
+    </item>
+    <item key="18901" path="tracks\50b254a5666658a7e581a30d5a376ba9eecf9498">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Star Wars Battlefront II: Inferno Squad</title>
+      <track_index>24</track_index>
+    </item>
+    <item key="18900" path="tracks\40e02f47222d445b8f2fd4380dc08dec9349421d">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Star Wars Battlefront II: Inferno Squad</title>
+      <track_index>23</track_index>
+    </item>
+    <item key="18903" path="tracks\f2e61269f40b424b498753d9e7b91e7e55b01b26">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Star Wars Battlefront II: Inferno Squad</title>
+      <track_index>26</track_index>
+    </item>
+    <item key="18902" path="tracks\37496508341f9188e0ae118b675a9128635e6f33">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Star Wars Battlefront II: Inferno Squad</title>
+      <track_index>25</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

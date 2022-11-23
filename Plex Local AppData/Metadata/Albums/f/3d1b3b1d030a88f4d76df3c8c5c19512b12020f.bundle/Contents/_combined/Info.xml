@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters>
+    <item external="True" url="ab80766a93fe2537b4878423d219387a" media="com.plexapp.agents.localmedia_4bb86af1dfd1fffb46b5885e0ab2c1231d3d4bd3" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Ariadne - A Novel</title>
+  <tracks>
+    <item key="17631" path="tracks\ed8356a2f3268a55a3db812bb814197b21fe607e">
+      <lyrics/>
+      <moods/>
+      <original_title>Jennifer Saint</original_title>
+      <tags/>
+      <title>Ariadne</title>
+      <track_index>0</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

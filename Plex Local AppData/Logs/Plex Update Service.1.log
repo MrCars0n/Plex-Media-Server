@@ -1,0 +1,17 @@
+Aug 17, 2022 17:20:52.706 [2044] INFO - Plex Update Service v1.28.1.6092-87136b92b - Microsoft PC x64 - build: windows-x86
+Aug 17, 2022 17:20:52.706 [2044] INFO - Windows version: 6.2 (Build 9200), language en-US
+Aug 17, 2022 17:20:52.706 [2044] INFO - 4 3504 MHz processor(s): Architecture=0, Level=6, Revision=24067 Processor Identifier=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+Aug 17, 2022 17:20:52.706 [2044] DEBUG - "C:\Program Files (x86)\Plex\Plex Media Server\Plex Update Service.exe"
+Aug 17, 2022 17:20:52.705 [12604] DEBUG - CheckBundle() from UpdateInterface: C:\Users\carso\AppData\Local\Plex Media Server\Updates\1.28.1.6104-788f82488\packages\PlexMediaServer-1.28.1.6104-788f82488-x86.exe
+Aug 17, 2022 17:20:52.705 [12604] DEBUG - Checking Certificate of installer: C:\Users\carso\AppData\Local\Plex Media Server\Updates\1.28.1.6104-788f82488\packages\PlexMediaServer-1.28.1.6104-788f82488-x86.exe
+Aug 17, 2022 17:20:53.333 [12604] DEBUG - Certificate integrity verified
+Aug 17, 2022 17:20:53.334 [12604] DEBUG - [HCl#1] HTTP requesting GET https://plex.tv/api/pmscert/profile
+Aug 17, 2022 17:20:53.335 [4832] WARN - [HttpClient/HCl#1] HTTP error requesting GET https://plex.tv/api/pmscert/profile (6, Couldn't resolve host name) (Could not resolve host: plex.tv)
+Aug 17, 2022 17:20:53.335 [12604] ERROR - Error: Could not receive json data, http code:  -6
+Aug 17, 2022 17:20:53.335 [12604] DEBUG - Certificate hash: ace23f84fdbc226b533c646a6acdfb3c5414f48b9f6bd503f5fb96e96a660dee
+Aug 17, 2022 17:20:53.335 [12604] DEBUG - Certificate Common Name: Plex, Inc.
+Aug 17, 2022 17:20:53.335 [12604] DEBUG - Certificate Organization Name: Plex, Inc.
+Aug 17, 2022 17:20:53.335 [12604] DEBUG - Certificate Locality Name: Los Gatos
+Aug 17, 2022 17:20:53.335 [12604] DEBUG - Certificate State Name: California
+Aug 17, 2022 17:20:53.335 [12604] DEBUG - Certificate Country Name: US
+Aug 17, 2022 17:20:53.335 [12604] ERROR - Certificate couldn't be verified

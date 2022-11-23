@@ -1,0 +1,41 @@
+Aug 20, 2022 04:54:27.751 [12176] INFO - Plex Media Scanner v1.28.1.6092-87136b92b - Microsoft PC x64 - build: windows-x86 - GMT -04:00
+Aug 20, 2022 04:54:27.752 [12176] INFO - Windows version: 6.2 (Build 9200), language en-US
+Aug 20, 2022 04:54:27.752 [12176] INFO - 4 3504 MHz processor(s): Architecture=0, Level=6, Revision=24067 Processor Identifier=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+Aug 20, 2022 04:54:27.752 [12176] DEBUG - "C:\Program Files (x86)\Plex\Plex Media Server\Plex Media Scanner.exe" --analyze-deeply --item 13515 --log-file-suffix " Deep Analysis"
+Aug 20, 2022 04:54:27.751 [7080] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.35.5, threadsafe=1
+Aug 20, 2022 04:54:27.848 [7080] DEBUG - [MI] Opening input file: "D:\TV\One Tree Hill\Season 1\One Tree Hill - s01e01 - Pilot.avi"
+Aug 20, 2022 04:54:27.848 [7080] DEBUG - [FFMPEG] - Opening 'D:\TV\One Tree Hill\Season 1\One Tree Hill - s01e01 - Pilot.avi' for reading
+Aug 20, 2022 04:54:27.848 [7080] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Aug 20, 2022 04:54:27.903 [7080] DEBUG - [FFMPEG] - Format avi probed with size=2048 and score=100
+Aug 20, 2022 04:54:27.903 [7080] DEBUG - [FFMPEG] - use odml:1
+Aug 20, 2022 04:54:27.903 [7080] DEBUG - [FFMPEG] - st:1 removing common factor 384 from timebase
+Aug 20, 2022 04:54:27.976 [7080] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 10252 bytes read:2807180 seeks:4 nb_streams:2
+Aug 20, 2022 04:54:27.983 [7080] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Aug 20, 2022 04:54:27.984 [7080] DEBUG - [FFMPEG] - All info found
+Aug 20, 2022 04:54:27.984 [7080] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 21628 bytes read:2807180 seeks:4 frames:22
+Aug 20, 2022 04:54:28.156 [7080] DEBUG - Deep Analysis: Read 10000 packets at 152.496000
+Aug 20, 2022 04:54:28.340 [7080] DEBUG - Deep Analysis: Read 20000 packets at 304.848000
+Aug 20, 2022 04:54:28.441 [7080] DEBUG - Deep Analysis: Read 30000 packets at 457.176000
+Aug 20, 2022 04:54:28.535 [7080] DEBUG - Deep Analysis: Read 40000 packets at 609.528000
+Aug 20, 2022 04:54:28.606 [7080] DEBUG - Deep Analysis: Read 50000 packets at 761.856000
+Aug 20, 2022 04:54:28.688 [7080] DEBUG - Deep Analysis: Read 60000 packets at 914.208000
+Aug 20, 2022 04:54:28.807 [7080] DEBUG - Deep Analysis: Read 70000 packets at 1066.536000
+Aug 20, 2022 04:54:28.919 [7080] DEBUG - Deep Analysis: Read 80000 packets at 1218.888000
+Aug 20, 2022 04:54:29.030 [7080] DEBUG - Deep Analysis: Read 90000 packets at 1371.216000
+Aug 20, 2022 04:54:29.135 [7080] DEBUG - Deep Analysis: Read 100000 packets at 1523.568000
+Aug 20, 2022 04:54:29.281 [7080] DEBUG - Deep Analysis: Read 110000 packets at 1675.896000
+Aug 20, 2022 04:54:29.395 [7080] DEBUG - Deep Analysis: Read 120000 packets at 1828.248000
+Aug 20, 2022 04:54:29.475 [7080] DEBUG - Deep Analysis: Read 130000 packets at 1980.576000
+Aug 20, 2022 04:54:29.551 [7080] DEBUG - Deep Analysis: Read 140000 packets at 2132.928000
+Aug 20, 2022 04:54:29.716 [7080] DEBUG - Deep Analysis: Read 150000 packets at 2285.256000
+Aug 20, 2022 04:54:29.864 [7080] DEBUG - Deep Analysis: Read 160000 packets at 2437.103770
+Aug 20, 2022 04:54:29.908 [7080] DEBUG - Deep Analysis: Sorting packets
+Aug 20, 2022 04:54:29.916 [7080] DEBUG - Deep Analysis: Performing file bitrate analysis
+Aug 20, 2022 04:54:29.943 [7080] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 0
+Aug 20, 2022 04:54:29.958 [7080] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 1
+Aug 20, 2022 04:54:29.975 [7080] DEBUG - Deep Analysis: Saving GoP analysis for stream 0
+Aug 20, 2022 04:54:29.977 [7080] DEBUG - Deep Analysis: Saving bitrate analysis
+Aug 20, 2022 04:54:29.979 [7080] DEBUG - Updating part with ID=31025 [D:\TV\One Tree Hill\Season 1\One Tree Hill - s01e01 - Pilot.avi]
+Aug 20, 2022 04:54:29.981 [7080] DEBUG - [MI] Closing input file: "D:\TV\One Tree Hill\Season 1\One Tree Hill - s01e01 - Pilot.avi"
+Aug 20, 2022 04:54:29.983 [7080] DEBUG - Updating media item 31025, size=366911782, metadata_item_id=13515
+Aug 20, 2022 04:54:29.983 [7080] DEBUG - Updating part with ID=31025 [D:\TV\One Tree Hill\Season 1\One Tree Hill - s01e01 - Pilot.avi]

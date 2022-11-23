@@ -1,0 +1,514 @@
+2022-08-17 17:14:07,855 (30d0) :  INFO (core:349) - Starting framework core - Version: 2.6.3, Build: 87136b9 (Tue Aug 16 04:39:41 UTC 2022)
+2022-08-17 17:14:07,855 (30d0) :  DEBUG (core:361) - Using the elevated policy
+2022-08-17 17:14:07,855 (30d0) :  DEBUG (core:450) - Starting runtime component.
+2022-08-17 17:14:07,858 (30d0) :  DEBUG (core:450) - Starting caching component.
+2022-08-17 17:14:07,858 (30d0) :  DEBUG (core:450) - Starting data component.
+2022-08-17 17:14:07,858 (30d0) :  DEBUG (core:450) - Starting networking component.
+2022-08-17 17:14:07,858 (30d0) :  DEBUG (networking:261) - Loaded HTTP cookies
+2022-08-17 17:14:07,858 (30d0) :  DEBUG (caching:108) - No info file found, trashing the cache folder
+2022-08-17 17:14:07,861 (30d0) :  DEBUG (networking:428) - Setting the default network timeout to 20.0
+2022-08-17 17:14:07,861 (30d0) :  DEBUG (core:450) - Starting localization component.
+2022-08-17 17:14:07,861 (30d0) :  INFO (localization:409) - Setting the default locale to en-us
+2022-08-17 17:14:07,861 (30d0) :  DEBUG (localization:427) - Loaded en strings
+2022-08-17 17:14:07,861 (30d0) :  DEBUG (core:450) - Starting messaging component.
+2022-08-17 17:14:07,862 (30d0) :  DEBUG (core:450) - Starting debugging component.
+2022-08-17 17:14:07,862 (30d0) :  DEBUG (core:450) - Starting services component.
+2022-08-17 17:14:07,862 (edc) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400/system/messaging/clear_events/com.plexapp.plugins.WebTools'
+2022-08-17 17:14:07,864 (30d0) :  DEBUG (core:450) - Starting myplex component.
+2022-08-17 17:14:07,864 (30d0) :  DEBUG (core:450) - Starting notifications component.
+2022-08-17 17:14:07,990 (30d0) :  DEBUG (accessor:68) - Creating a new model access point for provider com.plexapp.plugins.WebTools in namespace 'metadata'
+2022-08-17 17:14:07,996 (30d0) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/resourceHashes'
+2022-08-17 17:14:18,022 (30d0) :  CRITICAL (core:574) - Exception getting hosted resource hashes (most recent call last):
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\components\runtime.py", line 1293, in get_resource_hashes
+    json = self._core.networking.http_request("http://127.0.0.1:32400/:/plugins/com.plexapp.system/resourceHashes", timeout=10).content
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\components\networking.py", line 242, in content
+    return self.__str__()
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\components\networking.py", line 220, in __str__
+    self.load()
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\components\networking.py", line 158, in load
+    f = self._opener.open(req, timeout=self._timeout)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 447, in _open
+    '_open', req)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 1201, in do_open
+    r = h.getresponse(buffering=True)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\httplib.py", line 1148, in getresponse
+    response.begin()
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\httplib.py", line 448, in begin
+    version, status, reason = self._read_status()
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\httplib.py", line 404, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+timeout: timed out
+
+2022-08-17 17:14:18,046 (30d0) :  DEBUG (runtime:1117) - Created a thread named 'load_all_services'
+2022-08-17 17:14:18,046 (2ff8) :  DEBUG (services:265) - Plug-in is not daemonized - loading services from system
+2022-08-17 17:14:18,052 (30d0) :  DEBUG (runtime:1117) - Created a thread named 'get_server_info'
+2022-08-17 17:14:18,055 (30d0) :  DEBUG (core:150) - Finished starting framework core
+2022-08-17 17:14:18,055 (30dc) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400'
+2022-08-17 17:14:18,055 (2ff8) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_'
+2022-08-17 17:14:18,056 (30d0) :  DEBUG (core:560) - Loading plug-in code
+2022-08-17 17:14:18,069 (30dc) :  DEBUG (core:538) - Machine identifier is 1fdbb643d7ecf4de09d917684ebc0c17c09d7032
+2022-08-17 17:14:18,069 (30dc) :  DEBUG (core:539) - Server version is 1.28.1.6092-87136b92b
+2022-08-17 17:14:18,076 (2ff8) :  DEBUG (services:362) - Loaded services
+2022-08-17 17:14:18,091 (1254) :  DEBUG (services:438) - No shared code to load
+2022-08-17 17:14:18,108 (30d0) :  DEBUG (core:566) - Finished loading plug-in code
+2022-08-17 17:14:18,244 (30d0) :  INFO (datakit:118) - No default dictionary file
+2022-08-17 17:14:18,266 (30d0) :  DEBUG (preferences:258) - Loaded preferences from DefaultPrefs.json
+2022-08-17 17:14:18,266 (30d0) :  DEBUG (preferences:178) - Loaded the user preferences for com.plexapp.plugins.WebTools
+2022-08-17 17:14:19,282 (30d0) :  DEBUG (runtime:640) - Adding a prefix handler for 'WebTools' ('/applications/webtools')
+2022-08-17 17:14:19,283 (30d0) :  DEBUG (logkit:13) - *******  Started WebTools V3.0.0 on Windows at 2022-08-17 17:14 with locale set to ('en_US', 'cp1252') ***********
+2022-08-17 17:14:19,283 (30d0) :  DEBUG (logkit:13) - updateTranslationStore started
+2022-08-17 17:14:19,283 (30d0) :  DEBUG (logkit:13) - bundleStore: C:\Users\carso\AppData\Local\Plex Media Server\Plug-ins\WebTools.bundle\http\static\_shared\translations.js
+2022-08-17 17:14:19,283 (30d0) :  DEBUG (logkit:13) - dataStore: C:\Users\carso\AppData\Local\Plex Media Server\Plug-in Support\Data\com.plexapp.plugins.WebTools\DataItems\translations.js
+2022-08-17 17:14:19,285 (30d0) :  INFO (logkit:16) - Running upgradeCleanup
+2022-08-17 17:14:19,285 (30d0) :  DEBUG (logkit:13) - Asked Tornado to exit
+2022-08-17 17:14:22,292 (30d0) :  DEBUG (logkit:13) - tornado is handling the following URI: [('/login', <class 'LoginHandler'>), ('/logout', <class 'LogoutHandler'>), ('/version', <class 'versionHandler'>), ('/uas/Resources.*$', <class 'imageHandler'>), ('/static/_shared/translations.js', <class 'translateHandler'>), ('/', <class 'idxHandler'>), ('', <class 'idxHandler'>), ('/index.html', <class 'idxHandler'>), ('/api/v3.*$', <class 'apiv3'>), ('/getTranslate.*$', <class 'getTranslationHandler'>), ('/(.*)', <class 'MyStaticFileHandler'>, {'path': u'C:\\Users\\carso\\AppData\\Local\\Plex Media Server\\Plug-ins\\WebTools.bundle\\http'})]
+2022-08-17 17:14:22,293 (30d0) :  INFO (core:611) - Started plug-in
+2022-08-17 17:14:22,296 (30d0) :  DEBUG (socketinterface:160) - Starting socket server
+2022-08-17 17:14:22,302 (30d0) :  DEBUG (runtime:1117) - Created a thread named 'start'
+2022-08-17 17:14:22,305 (30d0) :  INFO (socketinterface:184) - Socket server started on port 65369
+2022-08-17 17:14:22,308 (30d0) :  INFO (pipeinterface:25) - Entering run loop
+2022-08-17 17:14:22,311 (30d0) :  DEBUG (runtime:717) - Handling request GET /:/prefixes
+2022-08-17 17:14:22,321 (25cc) :  INFO (logkit:16) - Certificate crt file is C:\Users\carso\AppData\Local\Plex Media Server\Plug-ins\WebTools.bundle\Contents\Code\Certificate\WebTools.crt
+2022-08-17 17:14:22,325 (30d0) :  DEBUG (runtime:814) - Found route matching /:/prefixes
+2022-08-17 17:14:22,326 (25cc) :  INFO (logkit:16) - Certificate key file is C:\Users\carso\AppData\Local\Plex Media Server\Plug-ins\WebTools.bundle\Contents\Code\Certificate\WebTools.key
+2022-08-17 17:14:22,334 (30d0) :  DEBUG (runtime:924) - Response: [200] MediaContainer, 455 bytes
+2022-08-17 17:14:22,335 (25cc) :  DEBUG (logkit:13) - Starting tornado on ports 33400 and 33443
+2022-08-17 17:14:23,257 (20) :  INFO (datakit:131) - Saved the dictionary file
+2022-08-17 17:14:39,555 (25cc) :  INFO (logkit:16) - Verified a correct install path as: C:\Users\carso\AppData\Local\Plex Media Server\Plug-ins
+2022-08-17 17:14:39,558 (25cc) :  INFO (logkit:16) - Returning login page: C:\Users\carso\AppData\Local\Plex Media Server\Plug-ins\WebTools.bundle\http\login.html
+2022-08-17 17:14:44,529 (25cc) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400/identity'
+2022-08-17 17:14:44,530 (25cc) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400'
+2022-08-17 17:14:44,533 (25cc) :  INFO (logkit:16) - Version requested, returning {'UILanguageDebug': False, 'WT_URL': 'https://github.com/ukdtom/WebTools.bundle', 'PasswordSet': False, 'wt_csstheme': 'WhiteBlue.css', 'version': '3.0.0', 'PlexTVOnline': True, 'UILanguage': 'en'}
+2022-08-17 17:14:51,188 (25cc) :  INFO (logkit:16) - No Basic Auth header, so looking for params
+2022-08-17 17:14:51,188 (25cc) :  INFO (logkit:16) - User is: Kramerfam
+2022-08-17 17:14:51,190 (25cc) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400/identity'
+2022-08-17 17:14:51,191 (25cc) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400'
+2022-08-17 17:14:51,194 (25cc) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400/identity'
+2022-08-17 17:14:51,197 (25cc) :  INFO (logkit:16) - Start to auth towards plex.tv
+2022-08-17 17:14:51,197 (25cc) :  DEBUG (networking:143) - Requesting 'https://plex.tv/users/sign_in.json'
+2022-08-17 17:15:51,861 (25cc) :  ERROR (networking:196) - Error opening URL 'https://plex.tv/users/sign_in.json'
+2022-08-17 17:15:51,865 (25cc) :  CRITICAL (core:574) - Login error: HTTP Error 401: Unauthorized (most recent call last):
+  File "C:\Users\carso\AppData\Local\Plex Media Server\Plug-ins\WebTools.bundle\Contents\Code\plextvhelper.py", line 44, in login
+    self.loginUrl + '.json', headers=self.myHeader, method='POST')['user']['authToken']
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\api\parsekit.py", line 145, in ObjectFromURL
+    method=method,
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\api\networkkit.py", line 67, in _http_request
+    req = self._core.networking.http_request(url, *args, **kwargs)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\components\networking.py", line 346, in http_request
+    return HTTPRequest(self._core, url, data, h, url_cache, encoding, errors, timeout, immediate, sleep, opener, follow_redirects, method)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\components\networking.py", line 118, in __init__
+    self.load()
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\components\networking.py", line 158, in load
+    f = self._opener.open(req, timeout=self._timeout)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 401: Unauthorized
+
+2022-08-17 17:15:51,865 (25cc) :  ERROR (logkit:22) - Bad credentials detected, denying access
+2022-08-17 17:15:51,869 (25cc) :  INFO (logkit:16) - Verified a correct install path as: C:\Users\carso\AppData\Local\Plex Media Server\Plug-ins
+2022-08-17 17:15:51,871 (25cc) :  INFO (logkit:16) - Returning login page: C:\Users\carso\AppData\Local\Plex Media Server\Plug-ins\WebTools.bundle\http\login.html
+2022-08-17 17:15:52,322 (25cc) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400/identity'
+2022-08-17 17:15:52,323 (25cc) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400'
+2022-08-17 17:15:52,326 (25cc) :  INFO (logkit:16) - Version requested, returning {'UILanguageDebug': False, 'WT_URL': 'https://github.com/ukdtom/WebTools.bundle', 'PasswordSet': False, 'wt_csstheme': 'WhiteBlue.css', 'version': '3.0.0', 'PlexTVOnline': True, 'UILanguage': 'en'}
+2022-08-17 17:15:53,878 (25cc) :  INFO (logkit:16) - No Basic Auth header, so looking for params
+2022-08-17 17:15:53,878 (25cc) :  INFO (logkit:16) - User is: Kramerfam
+2022-08-17 17:15:53,880 (25cc) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400/identity'
+2022-08-17 17:15:53,881 (25cc) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400'
+2022-08-17 17:15:53,885 (25cc) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400/identity'
+2022-08-17 17:15:53,888 (25cc) :  INFO (logkit:16) - Start to auth towards plex.tv
+2022-08-17 17:15:53,888 (25cc) :  DEBUG (networking:143) - Requesting 'https://plex.tv/users/sign_in.json'
+2022-08-17 17:15:54,936 (25cc) :  ERROR (networking:196) - Error opening URL 'https://plex.tv/users/sign_in.json'
+2022-08-17 17:15:54,937 (25cc) :  CRITICAL (core:574) - Login error: HTTP Error 401: Unauthorized (most recent call last):
+  File "C:\Users\carso\AppData\Local\Plex Media Server\Plug-ins\WebTools.bundle\Contents\Code\plextvhelper.py", line 44, in login
+    self.loginUrl + '.json', headers=self.myHeader, method='POST')['user']['authToken']
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\api\parsekit.py", line 145, in ObjectFromURL
+    method=method,
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\api\networkkit.py", line 67, in _http_request
+    req = self._core.networking.http_request(url, *args, **kwargs)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\components\networking.py", line 346, in http_request
+    return HTTPRequest(self._core, url, data, h, url_cache, encoding, errors, timeout, immediate, sleep, opener, follow_redirects, method)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\components\networking.py", line 118, in __init__
+    self.load()
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\components\networking.py", line 158, in load
+    f = self._opener.open(req, timeout=self._timeout)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 401: Unauthorized
+
+2022-08-17 17:15:54,937 (25cc) :  ERROR (logkit:22) - Bad credentials detected, denying access
+2022-08-17 17:15:56,653 (25cc) :  INFO (logkit:16) - No Basic Auth header, so looking for params
+2022-08-17 17:15:56,653 (25cc) :  INFO (logkit:16) - User is: Kramerfam
+2022-08-17 17:15:56,654 (25cc) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400/identity'
+2022-08-17 17:15:56,655 (25cc) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400'
+2022-08-17 17:15:56,658 (25cc) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400/identity'
+2022-08-17 17:15:56,661 (25cc) :  INFO (logkit:16) - Start to auth towards plex.tv
+2022-08-17 17:15:56,661 (25cc) :  DEBUG (networking:143) - Requesting 'https://plex.tv/users/sign_in.json'
+2022-08-17 17:15:57,170 (25cc) :  ERROR (networking:196) - Error opening URL 'https://plex.tv/users/sign_in.json'
+2022-08-17 17:15:57,171 (25cc) :  CRITICAL (core:574) - Login error: HTTP Error 401: Unauthorized (most recent call last):
+  File "C:\Users\carso\AppData\Local\Plex Media Server\Plug-ins\WebTools.bundle\Contents\Code\plextvhelper.py", line 44, in login
+    self.loginUrl + '.json', headers=self.myHeader, method='POST')['user']['authToken']
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\api\parsekit.py", line 145, in ObjectFromURL
+    method=method,
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\api\networkkit.py", line 67, in _http_request
+    req = self._core.networking.http_request(url, *args, **kwargs)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\components\networking.py", line 346, in http_request
+    return HTTPRequest(self._core, url, data, h, url_cache, encoding, errors, timeout, immediate, sleep, opener, follow_redirects, method)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\components\networking.py", line 118, in __init__
+    self.load()
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\components\networking.py", line 158, in load
+    f = self._opener.open(req, timeout=self._timeout)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 401: Unauthorized
+
+2022-08-17 17:15:57,173 (25cc) :  ERROR (logkit:22) - Bad credentials detected, denying access
+2022-08-17 17:16:06,315 (25cc) :  INFO (logkit:16) - No Basic Auth header, so looking for params
+2022-08-17 17:16:06,315 (25cc) :  INFO (logkit:16) - User is: Kramerfam
+2022-08-17 17:16:06,315 (25cc) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400/identity'
+2022-08-17 17:16:06,318 (25cc) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400'
+2022-08-17 17:16:06,321 (25cc) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400/identity'
+2022-08-17 17:16:06,322 (25cc) :  INFO (logkit:16) - Start to auth towards plex.tv
+2022-08-17 17:16:06,322 (25cc) :  DEBUG (networking:143) - Requesting 'https://plex.tv/users/sign_in.json'
+2022-08-17 17:16:06,917 (25cc) :  INFO (logkit:16) - Authenticated towards plex.tv with success
+2022-08-17 17:16:06,920 (25cc) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400/identity'
+2022-08-17 17:16:06,924 (25cc) :  DEBUG (logkit:13) - Checking server for ownership
+2022-08-17 17:16:06,926 (25cc) :  DEBUG (networking:143) - Requesting 'https://plex.tv/pms/resources.xml'
+2022-08-17 17:16:07,401 (25cc) :  DEBUG (logkit:13) - Authenticated ok towards 1fdbb643d7ecf4de09d917684ebc0c17c09d7032
+2022-08-17 17:16:07,403 (25cc) :  INFO (logkit:16) - All is good, we are authenticated
+2022-08-17 17:16:07,403 (25cc) :  INFO (logkit:16) - Server is not online according to plex.tv
+2022-08-17 17:16:07,404 (25cc) :  INFO (logkit:16) - First local login, so we need to set the local password
+2022-08-17 17:16:07,411 (25cc) :  INFO (logkit:16) - Returning: C:\Users\carso\AppData\Local\Plex Media Server\Plug-ins\WebTools.bundle\http\index.html
+2022-08-17 17:16:07,421 (25cc) :  DEBUG (logkit:13) - Recieved an apiV3 call for module: GIT for method: GET
+2022-08-17 17:16:07,421 (25cc) :  DEBUG (logkit:13) - ******* Starting gitV3 *******
+2022-08-17 17:16:07,421 (25cc) :  DEBUG (logkit:13) - Plugin directory is: C:\Users\carso\AppData\Local\Plex Media Server\Plug-ins
+2022-08-17 17:16:07,421 (25cc) :  CRITICAL (logkit:25) - UAS dir was missing the json, so doing a forced download here
+2022-08-17 17:16:07,421 (25cc) :  DEBUG (logkit:13) - Starting to update the UAS Cache
+2022-08-17 17:16:07,423 (25cc) :  DEBUG (networking:143) - Requesting 'https://api.github.com/repos/ukdtom/UAS2Res/branches/master'
+2022-08-17 17:16:07,611 (25cc) :  DEBUG (logkit:13) - Local SHA for UAS is: None
+2022-08-17 17:16:07,611 (25cc) :  DEBUG (logkit:13) - Online SHA for UAS is: 329c6a798f59ed8fecc72d0d84181e6a000c69f0
+2022-08-17 17:16:07,615 (25cc) :  DEBUG (networking:143) - Requesting 'https://github.com/ukdtom/UAS2Res/archive/master.zip'
+2022-08-17 17:16:08,142 (25cc) :  DEBUG (logkit:13) - Extracting file: REMOVED.md
+2022-08-17 17:16:08,154 (25cc) :  DEBUG (logkit:13) - Extracting file: art-default.jpg
+2022-08-17 17:16:08,157 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-adultdvdempire.png
+2022-08-17 17:16:08,158 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-anidb.png
+2022-08-17 17:16:08,160 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-argustv.png
+2022-08-17 17:16:08,161 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-audiobooks.png
+2022-08-17 17:16:08,164 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-data18-content.png
+2022-08-17 17:16:08,164 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-data18.png
+2022-08-17 17:16:08,167 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-default.png
+2022-08-17 17:16:08,168 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-dnetwork.png
+2022-08-17 17:16:08,171 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-epg-dk.png
+2022-08-17 17:16:08,173 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-excaliburfilms.png
+2022-08-17 17:16:08,174 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-exporttools.png
+2022-08-17 17:16:08,177 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-fanarttv.png
+2022-08-17 17:16:08,177 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-find-missing.png
+2022-08-17 17:16:08,180 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-hama.png
+2022-08-17 17:16:08,180 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-hdbits.png
+2022-08-17 17:16:08,183 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-kink.png
+2022-08-17 17:16:08,184 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-lambda.png
+2022-08-17 17:16:08,187 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-legendastv.png
+2022-08-17 17:16:08,187 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-libupdate.png
+2022-08-17 17:16:08,190 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-moviemeter.png
+2022-08-17 17:16:08,190 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-namez.png
+2022-08-17 17:16:08,193 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-plextools.png
+2022-08-17 17:16:08,194 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-plexwink.png
+2022-08-17 17:16:08,196 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-podnapisi.png
+2022-08-17 17:16:08,197 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-prefs.png
+2022-08-17 17:16:08,198 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-sabnzbd.png
+2022-08-17 17:16:08,200 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-sickbeard.png
+2022-08-17 17:16:08,200 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-smiconvert.png
+2022-08-17 17:16:08,203 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-speedtest.png
+2022-08-17 17:16:08,203 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-srt2utf-8.png
+2022-08-17 17:16:08,204 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-trakt.png
+2022-08-17 17:16:08,210 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-wol.png
+2022-08-17 17:16:08,213 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-xbmcnfomoviesimporter.png
+2022-08-17 17:16:08,214 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-xbmcnfotvimporter.png
+2022-08-17 17:16:08,217 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-youporn.png
+2022-08-17 17:16:08,219 (25cc) :  DEBUG (logkit:13) - Extracting file: icon-youtube-agent.jpg
+2022-08-17 17:16:08,220 (25cc) :  DEBUG (logkit:13) - Extracting file: plugin_details.json
+2022-08-17 17:16:08,230 (25cc) :  DEBUG (logkit:13) - UAS was present
+2022-08-17 17:16:08,237 (25cc) :  INFO (datakit:131) - Saved the dictionary file
+2022-08-17 17:16:08,243 (25cc) :  INFO (datakit:131) - Saved the dictionary file
+2022-08-17 17:16:08,247 (25cc) :  INFO (datakit:131) - Saved the dictionary file
+2022-08-17 17:16:08,247 (25cc) :  DEBUG (logkit:13) - Function to call is: GETRELEASEINFO with params: ['url', 'https%3A%2F%2Fgithub.com%2Fukdtom%2FWebTools.bundle', 'version', 'latest?_=1660770952309']
+2022-08-17 17:16:08,247 (25cc) :  INFO (logkit:16) - Starting getReleaseInfo
+2022-08-17 17:16:08,263 (25cc) :  INFO (logkit:16) - Returning: C:\Users\carso\AppData\Local\Plex Media Server\Plug-ins\WebTools.bundle\http\index.html
+2022-08-17 17:16:08,530 (25cc) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400/identity'
+2022-08-17 17:16:08,532 (25cc) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400'
+2022-08-17 17:16:08,536 (25cc) :  INFO (logkit:16) - Version requested, returning {'UILanguageDebug': False, 'WT_URL': 'https://github.com/ukdtom/WebTools.bundle', 'PasswordSet': True, 'wt_csstheme': 'WhiteBlue.css', 'version': '3.0.0', 'PlexTVOnline': True, 'UILanguage': 'en'}
+2022-08-17 17:16:08,536 (25cc) :  DEBUG (logkit:13) - Recieved an apiV3 call for module: SETTINGS for method: GET
+2022-08-17 17:16:08,536 (25cc) :  DEBUG (logkit:13) - Function to call is: GETSETTINGS with params: ['wt_csstheme']
+2022-08-17 17:16:08,536 (25cc) :  DEBUG (logkit:13) - Recieved a call for getSettings
+2022-08-17 17:16:08,536 (25cc) :  DEBUG (logkit:13) - Returning WhiteBlue.css
+2022-08-17 17:16:08,539 (25cc) :  DEBUG (logkit:13) - Recieved an apiV3 call for module: SETTINGS for method: GET
+2022-08-17 17:16:08,539 (25cc) :  DEBUG (logkit:13) - Function to call is: GETSETTINGS with params: ['UILanguage']
+2022-08-17 17:16:08,539 (25cc) :  DEBUG (logkit:13) - Recieved a call for getSettings
+2022-08-17 17:16:08,539 (25cc) :  DEBUG (logkit:13) - Returning en
+2022-08-17 17:16:08,552 (25cc) :  DEBUG (logkit:13) - Recieved an apiV3 call for module: GIT for method: GET
+2022-08-17 17:16:08,553 (25cc) :  DEBUG (logkit:13) - Function to call is: GETRELEASEINFO with params: ['url', 'https%3A%2F%2Fgithub.com%2Fukdtom%2FWebTools.bundle', 'version', 'latest']
+2022-08-17 17:16:08,553 (25cc) :  INFO (logkit:16) - Starting getReleaseInfo
+2022-08-17 17:16:08,553 (25cc) :  DEBUG (logkit:13) - Getting release info from url: https://api.github.com/repos/ukdtom/WebTools.bundle/releases/latest
+2022-08-17 17:16:08,555 (25cc) :  DEBUG (networking:143) - Requesting 'https://api.github.com/repos/ukdtom/WebTools.bundle/releases/latest'
+2022-08-17 17:16:08,697 (25cc) :  DEBUG (logkit:13) - ***** Got the following from github *****
+2022-08-17 17:16:08,697 (25cc) :  DEBUG (logkit:13) - {
+  "url": "https://api.github.com/repos/ukdtom/WebTools.bundle/releases/8843644",
+  "assets_url": "https://api.github.com/repos/ukdtom/WebTools.bundle/releases/8843644/assets",
+  "upload_url": "https://uploads.github.com/repos/ukdtom/WebTools.bundle/releases/8843644/assets{?name,label}",
+  "html_url": "https://github.com/ukdtom/WebTools.bundle/releases/tag/3.0.0",
+  "id": 8843644,
+  "author": {
+    "login": "ukdtom",
+    "id": 4699449,
+    "node_id": "MDQ6VXNlcjQ2OTk0NDk=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/4699449?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ukdtom",
+    "html_url": "https://github.com/ukdtom",
+    "followers_url": "https://api.github.com/users/ukdtom/followers",
+    "following_url": "https://api.github.com/users/ukdtom/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ukdtom/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ukdtom/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ukdtom/subscriptions",
+    "organizations_url": "https://api.github.com/users/ukdtom/orgs",
+    "repos_url": "https://api.github.com/users/ukdtom/repos",
+    "events_url": "https://api.github.com/users/ukdtom/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ukdtom/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "node_id": "MDc6UmVsZWFzZTg4NDM2NDQ=",
+  "tag_name": "3.0.0",
+  "target_commitish": "master",
+  "name": "Version 3.0.0",
+  "draft": false,
+  "prerelease": false,
+  "created_at": "2017-12-10T13:59:49Z",
+  "published_at": "2017-12-10T14:12:18Z",
+  "assets": [
+    {
+      "url": "https://api.github.com/repos/ukdtom/WebTools.bundle/releases/assets/5579527",
+      "id": 5579527,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDU1Nzk1Mjc=",
+      "name": "WebTools.bundle.zip",
+      "label": null,
+      "uploader": {
+        "login": "ukdtom",
+        "id": 4699449,
+        "node_id": "MDQ6VXNlcjQ2OTk0NDk=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/4699449?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/ukdtom",
+        "html_url": "https://github.com/ukdtom",
+        "followers_url": "https://api.github.com/users/ukdtom/followers",
+        "following_url": "https://api.github.com/users/ukdtom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/ukdtom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/ukdtom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/ukdtom/subscriptions",
+        "organizations_url": "https://api.github.com/users/ukdtom/orgs",
+        "repos_url": "https://api.github.com/users/ukdtom/repos",
+        "events_url": "https://api.github.com/users/ukdtom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/ukdtom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "content_type": "application/zip",
+      "state": "uploaded",
+      "size": 5899909,
+      "download_count": 494306,
+      "created_at": "2017-12-10T14:11:42Z",
+      "updated_at": "2017-12-10T14:11:47Z",
+      "browser_download_url": "https://github.com/ukdtom/WebTools.bundle/releases/download/3.0.0/WebTools.bundle.zip"
+    }
+  ],
+  "tarball_url": "https://api.github.com/repos/ukdtom/WebTools.bundle/tarball/3.0.0",
+  "zipball_url": "https://api.github.com/repos/ukdtom/WebTools.bundle/zipball/3.0.0",
+  "body": "WebTools for Plex V3.0.0\r\n\r\nTo install, look here:\r\nhttps://github.com/ukdtom/WebTools.bundle/wiki/Install",
+  "reactions": {
+    "url": "https://api.github.com/repos/ukdtom/WebTools.bundle/releases/8843644/reactions",
+    "total_count": 8,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 7,
+    "rocket": 0,
+    "eyes": 0
+  }
+}
+</body></html>
+
+2022-08-17 17:16:08,697 (25cc) :  DEBUG (logkit:13) - Ending getReleaseInfo
+2022-08-17 17:16:12,427 (1154) :  INFO (datakit:131) - Saved the dictionary file
+2022-08-17 17:16:13,773 (25cc) :  DEBUG (logkit:13) - Recieved an apiV3 call for module: SETTINGS for method: GET
+2022-08-17 17:16:13,773 (25cc) :  DEBUG (logkit:13) - Function to call is: GETSETTINGS with params: ['HideWithoutSubs']
+2022-08-17 17:16:13,773 (25cc) :  DEBUG (logkit:13) - Recieved a call for getSettings
+2022-08-17 17:16:13,773 (25cc) :  DEBUG (logkit:13) - Returning False
+2022-08-17 17:16:13,775 (25cc) :  DEBUG (logkit:13) - Recieved an apiV3 call for module: PMS for method: GET
+2022-08-17 17:16:13,775 (25cc) :  DEBUG (logkit:13) - Function to call is: GETSECTIONSLIST with params: None
+2022-08-17 17:16:13,775 (25cc) :  DEBUG (logkit:13) - getSectionsList requested
+2022-08-17 17:16:13,776 (25cc) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400/library/sections'
+2022-08-17 17:16:13,779 (25cc) :  DEBUG (logkit:13) - Returning Sectionlist as [{'type': 'movie', 'key': '1', 'title': 'CK-Movies'}, {'type': 'show', 'key': '2', 'title': 'CK-TV'}]
+2022-08-17 17:16:21,039 (25cc) :  DEBUG (logkit:13) - Recieved an apiV3 call for module: GIT for method: POST
+2022-08-17 17:16:21,039 (25cc) :  DEBUG (logkit:13) - Function to call is: UPDATEUASCACHE with params: None
+2022-08-17 17:16:21,039 (25cc) :  DEBUG (logkit:13) - Starting to update the UAS Cache
+2022-08-17 17:16:21,040 (25cc) :  DEBUG (networking:143) - Requesting 'https://api.github.com/repos/ukdtom/UAS2Res/branches/master'
+2022-08-17 17:16:21,117 (25cc) :  DEBUG (logkit:13) - Local SHA for UAS is: 329c6a798f59ed8fecc72d0d84181e6a000c69f0
+2022-08-17 17:16:21,117 (25cc) :  DEBUG (logkit:13) - Online SHA for UAS is: 329c6a798f59ed8fecc72d0d84181e6a000c69f0
+2022-08-17 17:16:21,117 (25cc) :  DEBUG (logkit:13) - UAS Cache already up to date
+2022-08-17 17:16:21,121 (25cc) :  DEBUG (logkit:13) - Recieved an apiV3 call for module: GIT for method: GET
+2022-08-17 17:16:21,121 (25cc) :  DEBUG (logkit:13) - Function to call is: UASTYPES with params: None
+2022-08-17 17:16:21,121 (25cc) :  DEBUG (logkit:13) - Starting uasTypes
+2022-08-17 17:16:21,128 (25cc) :  DEBUG (logkit:13) - Recieved an apiV3 call for module: GIT for method: GET
+2022-08-17 17:16:21,128 (25cc) :  DEBUG (logkit:13) - Function to call is: GETLISTOFBUNDLES with params: None
+2022-08-17 17:16:21,128 (25cc) :  DEBUG (logkit:13) - Starting getListofBundles
+2022-08-17 17:16:21,131 (25cc) :  DEBUG (logkit:13) - getListofBundles returned: {u'https://github.com/gboudreau/XBMCnfoMoviesImporter.bundle': {u'DeleteDataDir': False, u'description': u'Import Movies information from locally exported XBMC database.', u'title': u'XBMCnfoMoviesImporter', u'supporturl': u'https://forums.plex.tv/discussion/38402/metadata-agents-for-exported-xbmc-library', u'bundle': u'XBMCnfoMoviesImporter.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.xbmcnfo', u'type': [u'Agent'], u'icon': u'icon-xbmcnfomoviesimporter.png'}, u'https://github.com/jwdempsey/PlexTools.bundle': {u'DeleteDataDir': False, u'description': u'Download subtitles and convert videos to MP4', u'title': u'Plex Tools', u'supporturl': u'https://forums.plex.tv/discussion/85258', u'bundle': u'PlexTools.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.plugins.plextools', u'type': [u'Video'], u'icon': u'icon-plextools.png'}, u'https://github.com/mikedm139/LibraryUpdater.bundle': {u'DeleteDataDir': False, u'description': u'Update Plex library sections or entire library without leaving Plex interface', u'title': u'Library Updater', u'supporturl': u'https://forums.plex.tv/discussion/21108/library-updater-update-library-from-a-plug-in', u'bundle': u'LibraryUpdater.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.plugins.libraryupdater', u'type': [u'Application'], u'icon': u'icon-libupdate.png'}, u'https://github.com/Coi-l/HdbitsSubtitles.bundle': {u'identifier': u'com.plexapp.agents.hdbits', u'description': u'Downloads subtitles automatically from HDBits.org (Private torrent tracker)', u'title': u'HDBits Subtitles', u'supporturl': u'', u'bundle': u'HdbitsSubtitles.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'DeleteDataDir': False, u'type': [u'Metadata Agent', u'Subtitles'], u'icon': u'icon-hdbits.png'}, u'https://github.com/trakt/Plex-Trakt-Scrobbler': {u'description': u'Keep track of TV shows and movies you watch, synchronize your watched history and ratings between applications, and use the trakt.tv website to see upcoming episodes on a calendar, participate in the community and discover new TV shows and movies.', u'title': u'Trakt.tv', u'supporturl': u'https://forums.plex.tv/discussion/102818', u'bundle': u'Trakttv.bundle', u'branch': u'master', u'identifier': u'com.plexapp.plugins.trakttv', u'type': [u'Application', u'Social'], u'icon': u'icon-trakt.png'}, u'https://github.com/Twoure/Speedtest.bundle': {u'DeleteDataDir': False, u'description': u'Test upload/download bandwith using Speedtest.net', u'title': u'Speedtest', u'supporturl': u'https://forums.plex.tv/discussion/253526', u'bundle': u'Speedtest.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.plugins.speedtest', u'type': [u'Application'], u'icon': u'icon-speedtest.png'}, u'https://github.com/srazer/FindMissing.bundle': {u'DeleteDataDir': False, u'description': u'List any files that are missing.', u'title': u'FindMissing', u'supporturl': u'https://forums.plex.tv/discussion/95148', u'bundle': u'FindMissing.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.plugins.findMissing', u'type': [u'Application'], u'icon': u'icon-find-missing.png'}, u'https://github.com/ZeroQI/Hama.bundle': {u'DeleteDataDir': False, u'description': u'Metadata agent that back up Plex metadata locally along video and audio files', u'title': u'HTTP AniDB Metadata Agent', u'supporturl': u'https://forums.plex.tv/t/rel-http-anidb-metadata-agent-hama/40470', u'bundle': u'Hama.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.hama', u'type': [u'Metadata Agent'], u'icon': u'icon-hama.png'}, u'https://github.com/naguar/AdultDVDEmpire.bundle': {u'DeleteDataDir': False, u'description': u'Metadata agent for adult movies', u'title': u'Adult DVD Empire Metadata Agent', u'supporturl': u'https://forums.plex.tv/t/rel-adult-dvd-empire-metadata-agent-2018/277371', u'bundle': u'AdultDVDEmpire.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.adultdvdempire', u'type': [u'Metadata Agent', u'Adult'], u'icon': u'icon-adultdvdempire.png'}, u'https://github.com/Coi-l/PodnapisiSubtitles.bundle': {u'identifier': u'com.plexapp.agents.podnapisi', u'description': u'Downloads subtitles automatically from Podnapisi.net', u'title': u'Podnapisi Subtitles', u'supporturl': u'https://forums.plex.tv/discussion/33683', u'bundle': u'PodnapisiSubtitles.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'DeleteDataDir': False, u'type': [u'Metadata Agent', u'Subtitles'], u'icon': u'icon-podnapisi.png'}, u'https://github.com/hojel/SmiConvert.bundle': {u'DeleteDataDir': False, u'description': u'A agent to convert subtitles in SMI format to SRT format', u'title': u'SMI Convert', u'supporturl': u'', u'bundle': u'SmiConvert.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.smiconvert', u'type': [u'Agent'], u'icon': u'icon-smiconvert.png'}, u'https://github.com/mikedm139/SABnzbd.bundle': {u'DeleteDataDir': False, u'description': u'Manage your SABnzbd+ queue and history from within Plex.', u'title': u'SABnzbd+', u'supporturl': u'https://forums.plex.tv/discussion/21947/rel-sabnzbd-plugin', u'bundle': u'SABnzbd.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.plugins.sabnzbd', u'type': [u'Application'], u'icon': u'icon-sabnzbd.png'}, u'https://github.com/vanstinator/PlexWink.bundle': {u'DeleteDataDir': False, u'description': u'Allow Plex Media Server to control your Wink smart lights', u'title': u'PlexWink', u'supporturl': u'https://forums.plex.tv/discussion/205647', u'bundle': u'PlexWink.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.plugins.plexwink', u'type': [u'Application'], u'icon': u'icon-plexwink.png'}, u'https://github.com/chidychi/Data18.bundle': {u'DeleteDataDir': False, u'description': u'Metadata agent for adult films from Data18.com', u'title': u'Data18 Metadata Agent', u'supporturl': u'https://forums.plex.tv/discussion/66061/adult-data18-com-metadata-agent-release', u'bundle': u'Data18.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.data18', u'type': [u'Metadata Agent', u'Adult'], u'icon': u'icon-data18.png'}, u'https://github.com/SpacemanJT/wol.bundle': {u'DeleteDataDir': False, u'description': u'WOL allows you to wake additional media servers or PCs using the PMS to send a Magic Packet. This allows you to gain access to Library resources or folders that you might not permanently leave switched on. WOL lets you configure up to 10 systems to be woken and allows up to two groups of devices to be configured.', u'title': u'Wake on LAN (WOL) Plugin for Plex', u'supporturl': u'https://forums.plex.tv/discussion/215107', u'bundle': u'wol.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.plugins.wol', u'type': [u'Application'], u'icon': u'icon-wol.png'}, u'https://github.com/electblake/Namez.bundle': {u'DeleteDataDir': False, u'description': u'Metadata agent loads actors, studios, sites and more from parsing file names', u'title': u'Namez Metadata Agent', u'supporturl': u'https://github.com/electblake/Namez.bundle/issues', u'bundle': u'Namez.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.namez', u'type': [u'Metadata Agent'], u'icon': u'icon-namez.png'}, u'https://github.com/ukdtom/SRT2UTF-8.bundle': {u'DeleteDataDir': False, u'description': u"Plex Media Agent, that'll convert sidecar subtitle files into UTF-8, if not", u'title': u'Srt2Utf-8', u'supporturl': u'https://forums.plex.tv/discussion/94864', u'bundle': u'SRT2UTF-8.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.srt2utf8', u'type': [u'Agent', u'Subtitles'], u'icon': u'icon-srt2utf-8.png'}, u'https://github.com/daeks/ArgusTV-Agent.bundle': {u'DeleteDataDir': False, u'description': u'Metadata Agent for ArgusTV', u'title': u'ArgusTV', u'supporturl': u'https://forums.plex.tv/discussion/257004', u'bundle': u'ArgusTV-Agent.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.argustv', u'type': [u'Metadata Agent'], u'icon': u'icon-argustv.png'}, u'https://github.com/chidychi/Data18-Content.bundle': {u'DeleteDataDir': False, u'description': u'Metadata agent for adult Content from Data18.com', u'title': u'Data18-Content Metadata Agent', u'supporturl': u'https://forums.plex.tv/discussion/66061/adult-data18-com-metadata-agent-release', u'bundle': u'Data18-Content.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.data18-content', u'type': [u'Metadata Agent', u'Adult'], u'icon': u'icon-data18-content.png'}, u'https://github.com/mikedm139/SickBeard.bundle': {u'DeleteDataDir': False, u'description': u'A plugin for Plex media center to view and control basic functions of SickBeard', u'title': u'SickBeard', u'supporturl': u'https://forums.plex.tv/discussion/20159', u'bundle': u'SickBeard.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.plugins.sickbeard', u'type': [u'Application'], u'icon': u'icon-sickbeard.png'}, u'https://github.com/ZeroQI/Lambda.bundle': {u'DeleteDataDir': False, u'description': u'Metadata agent that back up Plex metadata locally along video and audio files', u'title': u'Local Assets-Metadata Backup Double Agent', u'supporturl': u'https://forums.plex.tv/t/rel-lambda-local-assets-metadata-double-agent-for-plex-metadata-export/295681', u'bundle': u'Lambda.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.lambda', u'type': [u'Agent'], u'icon': u'icon-lambda.png'}, u'https://github.com/ukdtom/ExportTools.bundle': {u'DeleteDataDir': False, u'description': u'Will export selected sections into a CSV or xlsx file', u'icon': u'icon-exporttools.png', u'title': u'ExportTools', u'supporturl': u'https://forums.plex.tv/discussion/254248', u'manual': u'https://github.com/ukdtom/ExportTools.bundle/wiki', u'bundle': u'ExportTools.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'release': u'ExportTools.bundle.zip', u'identifier': u'com.plexapp.plugins.ExportTools', u'type': [u'Application'], u'popupmsg': u'This tool is a replacement for Plex2CSV. If Plex2CSV is installed, please uninstall it. To see further info, look here: https://github.com/ukdtom/ExportTools.bundle/wiki'}, u'https://github.com/daeks/Webhook-Agent.bundle': {u'DeleteDataDir': False, u'description': u'Webhook Agent which sends metadata payload to given URL', u'title': u'Webhook', u'supporturl': u'https://forums.plex.tv/discussion/257668', u'bundle': u'Webhook-Agent.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.webhook', u'type': [u'Application'], u'icon': u'icon-dnetwork.png'}, u'https://github.com/sander1/Fanart-TV-Agent.bundle': {u'DeleteDataDir': False, u'description': u'Fanart.tv is a community driven website providing fanart for TV shows, movies and artists.', u'title': u'Fanart.tv Agent (sander1)', u'supporturl': u'https://github.com/sander1/Fanart-TV-Agent.bundle/issues', u'bundle': u'Fanart-TV-Agent.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'sander1.plexagents.fanarttv', u'type': [u'Metadata Agent'], u'icon': u'icon-fanarttv.png'}, u'https://github.com/ZeroQI/YouTube-Agent.bundle': {u'description': u'A Metadata Agent for downloaded YouTube videos, video id in filename, support channel/playlist id in foldername', u'title': u'YouTube Series and Movies Metadata Agent', u'supporturl': u'https://forums.plex.tv/discussion/83106', u'bundle': u'YouTube-Agent.bundle', u'branch': u'master', u'identifier': u'com.plexapp.agents.youtube', u'type': [u'Metadata Agent'], u'icon': u'icon-youtube-agent.jpg'}, u'https://github.com/ukdtom/epg-dk.bundle': {u'DeleteDataDir': False, u'description': u'Download automaticly an xmltv file from YouSee Denmark', u'title': u'epg-dk', u'supporturl': u'https://forums.plex.tv/discussion/248011', u'manual': u'https://github.com/ukdtom/epg-dk.bundle/wiki', u'bundle': u'epg-dk.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'release': u'epg-dk.bundle.zip', u'identifier': u'com.plexapp.plugins.epg-dk.bundle', u'type': [u'Application'], u'icon': u'icon-epg-dk.png'}, u'https://github.com/daeks/Chapter-Agent.bundle': {u'DeleteDataDir': False, u'description': u'Metadata Agent which creates chapters based on EDL files', u'title': u'Chapter Metadata Agent', u'supporturl': u'https://forums.plex.tv/discussion/257650', u'bundle': u'Chapter-Agent.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.chapter', u'type': [u'Metadata Agent'], u'icon': u'icon-dnetwork.png'}, u'https://github.com/sander1/YouTube-Agent.bundle': {u'description': u'A Metadata Agent for downloaded YouTube videos.', u'title': u'YouTube Metadata Agent', u'supporturl': u'https://forums.plex.tv/discussion/83106', u'bundle': u'YouTube-Agent.bundle', u'branch': u'master', u'identifier': u'com.plexapp.agents.youtube', u'type': [u'Metadata Agent'], u'icon': u'icon-youtube-agent.jpg'}, u'https://github.com/vofik/Kink.bundle': {u'DeleteDataDir': False, u'description': u'Metadata agent for adult shoots from any Kink.com site', u'title': u'Kink.com Metadata Agent', u'supporturl': u'https://forums.plex.tv/discussion/35633/adult-kink-com-metadata-agent', u'bundle': u'Kink.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.kink', u'type': [u'Metadata Agent', u'Adult'], u'icon': u'icon-kink.png'}, u'https://github.com/daeks/StaticMedia-Agent.bundle': {u'DeleteDataDir': False, u'description': u'Metadata Agent which stores static images as poster / background', u'title': u'StaticMedia', u'supporturl': u'https://forums.plex.tv/discussion/241713', u'bundle': u'StaticMedia-Agent.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.staticmedia', u'type': [u'Metadata Agent'], u'icon': u'icon-dnetwork.png'}, u'https://github.com/bstard/AniDB.bundle': {u'DeleteDataDir': False, u'description': u'Metadata agent for anime movies and tv-shows', u'title': u'AniDB.net Metadata Agent', u'supporturl': u'', u'bundle': u'AniDB.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.anidb', u'type': [u'Metadata Agent'], u'icon': u'icon-anidb.png'}, u'https://github.com/macr0dev/Audiobooks.bundle': {u'identifier': u'com.plexapp.agents.audiobooks', u'description': u'A Metadata Agent for downloaded Audiobooks', u'title': u'Audiobook Metadata Agent', u'supporturl': u'https://forums.plex.tv/discussion/280161/', u'bundle': u'Audiobooks.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'DeleteDataDir': False, u'type': [u'Metadata Agent'], u'icon': u'icon-audiobooks.png'}, u'https://github.com/sander1/MovieMeter.bundle': {u'description': u'Dutch movie titles, summaries and genres by MovieMeter', u'title': u'MovieMeter', u'supporturl': u'https://github.com/sander1/MovieMeter.bundle/issues', u'bundle': u'MovieMeter.bundle', u'branch': u'master', u'identifier': u'sander1.plexagents.moviemeter', u'type': [u'Metadata Agent'], u'icon': u'icon-moviemeter.png'}, u'https://github.com/gboudreau/XBMCnfoTVImporter.bundle': {u'DeleteDataDir': False, u'description': u'Import TVShow information from locally exported XBMC database.', u'title': u'XBMCnfoTVImporter', u'supporturl': u'https://forums.plex.tv/discussion/38402/metadata-agents-for-exported-xbmc-library', u'bundle': u'XBMCnfoTVImporter.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.xbmcnfotv', u'type': [u'Agent'], u'icon': u'icon-xbmcnfotvimporter.png'}, u'https://github.com/BrutuZ/LegendasTV.bundle': {u'identifier': u'com.plexapp.agents.legendastv', u'description': u'Downloads subtitles automatically from Legendas.tv', u'title': u'Legendas.tv Subtitles Agent', u'supporturl': u'https://forums.plex.tv/discussion/129730/rel-legendas-tv-subtitle-agent', u'bundle': u'LegendasTV.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'DeleteDataDir': False, u'type': [u'Metadata Agent', u'Subtitles'], u'icon': u'icon-legendastv.png'}, u'https://github.com/vofik/ExcaliburFilms.bundle': {u'DeleteDataDir': False, u'description': u'Metadata agent for adult films from ExcaliburFilms.com', u'title': u'ExcaliburFilms Metadata Agent', u'supporturl': u'https://forums.plex.tv/discussion/31889/excaliburfilms-agent', u'bundle': u'ExcaliburFilms.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.excaliburfilms', u'type': [u'Metadata Agent', u'Adult'], u'icon': u'icon-excaliburfilms.png'}}
+2022-08-17 17:16:21,138 (25cc) :  DEBUG (logkit:13) - Recieved an apiV3 call for module: GIT for method: GET
+2022-08-17 17:16:21,138 (25cc) :  DEBUG (logkit:13) - Function to call is: LIST with params: None
+2022-08-17 17:16:21,138 (25cc) :  DEBUG (logkit:13) - Installed channes are: {}
+2022-08-17 17:16:26,134 (1e0c) :  INFO (datakit:131) - Saved the dictionary file
+2022-08-17 17:16:30,614 (25cc) :  DEBUG (logkit:13) - Recieved an apiV3 call for module: GIT for method: PUT
+2022-08-17 17:16:30,614 (25cc) :  DEBUG (logkit:13) - Function to call is: INSTALL with params: None
+2022-08-17 17:16:30,614 (25cc) :  DEBUG (logkit:13) - Starting install
+2022-08-17 17:16:30,614 (25cc) :  DEBUG (logkit:13) - Bundle directory name digested as: C:\Users\carso\AppData\Local\Plex Media Server\Plug-ins\Audiobooks.bundle
+2022-08-17 17:16:30,615 (25cc) :  DEBUG (networking:143) - Requesting 'https://github.com/macr0dev/Audiobooks.bundle/archive/master.zip'
+2022-08-17 17:16:30,989 (25cc) :  DEBUG (logkit:13) - Identifier of the bundle to be installed is: com.plexapp.agents.audiobooks
+2022-08-17 17:16:30,996 (25cc) :  INFO (logkit:16) - Extracting plugin to: u'c:\\users\\carso\\appdata\\local\\temp\\wt-p90jso\\Audiobooks.bundle'
+2022-08-17 17:16:30,996 (25cc) :  DEBUG (logkit:13) - Audiobooks.bundle-master
+2022-08-17 17:16:30,996 (25cc) :  DEBUG (logkit:13) - Extracting folder: c:\users\carso\appdata\local\temp\wt-p90jso\Audiobooks.bundle/
+2022-08-17 17:16:30,997 (25cc) :  DEBUG (logkit:13) - Extracting file: c:\users\carso\appdata\local\temp\wt-p90jso\Audiobooks.bundle/.gitattributes
+2022-08-17 17:16:30,999 (25cc) :  DEBUG (logkit:13) - Contents
+2022-08-17 17:16:31,000 (25cc) :  DEBUG (logkit:13) - Extracting folder: c:\users\carso\appdata\local\temp\wt-p90jso\Audiobooks.bundle/Contents/
+2022-08-17 17:16:31,000 (25cc) :  DEBUG (logkit:13) - Code
+2022-08-17 17:16:31,000 (25cc) :  DEBUG (logkit:13) - Extracting folder: c:\users\carso\appdata\local\temp\wt-p90jso\Audiobooks.bundle/Contents/Code/
+2022-08-17 17:16:31,002 (25cc) :  DEBUG (logkit:13) - Extracting file: c:\users\carso\appdata\local\temp\wt-p90jso\Audiobooks.bundle/Contents/Code/__init__.py
+2022-08-17 17:16:31,005 (25cc) :  DEBUG (logkit:13) - Extracting file: c:\users\carso\appdata\local\temp\wt-p90jso\Audiobooks.bundle/Contents/DefaultPrefs.json
+2022-08-17 17:16:31,007 (25cc) :  DEBUG (logkit:13) - Extracting file: c:\users\carso\appdata\local\temp\wt-p90jso\Audiobooks.bundle/Contents/Info.plist
+2022-08-17 17:16:31,009 (25cc) :  DEBUG (logkit:13) - Resources
+2022-08-17 17:16:31,010 (25cc) :  DEBUG (logkit:13) - Extracting folder: c:\users\carso\appdata\local\temp\wt-p90jso\Audiobooks.bundle/Contents/Resources/
+2022-08-17 17:16:31,012 (25cc) :  DEBUG (logkit:13) - Extracting file: c:\users\carso\appdata\local\temp\wt-p90jso\Audiobooks.bundle/Contents/Resources/attribution.png
+2022-08-17 17:16:31,013 (25cc) :  DEBUG (logkit:13) - Extracting file: c:\users\carso\appdata\local\temp\wt-p90jso\Audiobooks.bundle/README.md
+2022-08-17 17:16:31,015 (25cc) :  INFO (logkit:16) - Deleting u'C:\\Users\\carso\\AppData\\Local\\Plex Media Server\\Plug-ins\\Audiobooks.bundle'
+2022-08-17 17:16:31,015 (25cc) :  INFO (logkit:16) - Moving u'c:\\users\\carso\\appdata\\local\\temp\\wt-p90jso\\Audiobooks.bundle' to u'C:\\Users\\carso\\AppData\\Local\\Plex Media Server\\Plug-ins\\Audiobooks.bundle'
+2022-08-17 17:16:31,020 (25cc) :  DEBUG (networking:143) - Requesting 'https://github.com/macr0dev/Audiobooks.bundle/commits/master.atom'
+2022-08-17 17:16:31,220 (25cc) :  DEBUG (logkit:13) - Dict stamped with the following install entry: https://github.com/macr0dev/Audiobooks.bundle - {u'identifier': u'com.plexapp.agents.audiobooks', u'description': u'A Metadata Agent for downloaded Audiobooks', u'title': u'Audiobook Metadata Agent', u'supporturl': u'https://forums.plex.tv/discussion/280161/', u'bundle': u'Audiobooks.bundle', 'CommitId': 'b49fc8811c', u'DeleteCacheDir': False, u'branch': u'master', 'date': '2022-08-17 17:16:31', u'DeleteDataDir': False, u'type': [u'Metadata Agent'], u'icon': u'icon-audiobooks.png'}
+2022-08-17 17:16:31,226 (25cc) :  INFO (datakit:131) - Saved the dictionary file
+2022-08-17 17:16:31,233 (25cc) :  INFO (datakit:131) - Saved the dictionary file
+2022-08-17 17:16:31,233 (25cc) :  DEBUG (logkit:13) - Finished installing C:\Users\carso\AppData\Local\Plex Media Server\Plug-ins\Audiobooks.bundle from branch master
+2022-08-17 17:16:31,233 (25cc) :  DEBUG (logkit:13) - ******* Ending install *******
+2022-08-17 17:18:58,713 (25cc) :  DEBUG (logkit:13) - Recieved an apiV3 call for module: GIT for method: PUT
+2022-08-17 17:18:58,713 (25cc) :  DEBUG (logkit:13) - Function to call is: INSTALL with params: None
+2022-08-17 17:18:58,713 (25cc) :  DEBUG (logkit:13) - Starting install
+2022-08-17 17:18:58,713 (25cc) :  DEBUG (logkit:13) - Bundle directory name digested as: C:\Users\carso\AppData\Local\Plex Media Server\Plug-ins\PodnapisiSubtitles.bundle
+2022-08-17 17:18:58,713 (25cc) :  DEBUG (networking:143) - Requesting 'https://github.com/Coi-l/PodnapisiSubtitles.bundle/archive/master.zip'
+2022-08-17 17:18:58,865 (25cc) :  ERROR (networking:196) - Error opening URL 'https://github.com/Coi-l/PodnapisiSubtitles.bundle/archive/master.zip'
+2022-08-17 17:18:58,869 (25cc) :  CRITICAL (core:574) - Exception in downloadBundle2tmp while downloading from GitHub: HTTP Error 404: Not Found (most recent call last):
+  File "C:\Users\carso\AppData\Local\Plex Media Server\Plug-ins\WebTools.bundle\Contents\Code\gitV3.py", line 190, in downloadBundle2tmp
+    zipfile = Archive.ZipFromURL(zipPath)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\api\utilkit.py", line 50, in ZipFromURL
+    opener = self._opener,
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\api\networkkit.py", line 67, in _http_request
+    req = self._core.networking.http_request(url, *args, **kwargs)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\components\networking.py", line 346, in http_request
+    return HTTPRequest(self._core, url, data, h, url_cache, encoding, errors, timeout, immediate, sleep, opener, follow_redirects, method)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\components\networking.py", line 118, in __init__
+    self.load()
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\components\networking.py", line 158, in load
+    f = self._opener.open(req, timeout=self._timeout)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+
+2022-08-17 17:18:58,871 (25cc) :  CRITICAL (logkit:25) - Fatal error happened in install for :https://github.com/Coi-l/PodnapisiSubtitles.bundle
+2022-08-17 17:18:58,891 (25cc) :  DEBUG (logkit:13) - Recieved an apiV3 call for module: LOGS for method: PUT
+2022-08-17 17:18:58,892 (25cc) :  DEBUG (logkit:13) - Log Root dir is: C:\Users\carso\AppData\Local\Plex Media Server\Logs
+2022-08-17 17:18:58,894 (25cc) :  DEBUG (logkit:13) - Function to call is: ENTRY with params: None
+2022-08-17 17:18:58,894 (25cc) :  DEBUG (logkit:13) - Starting Logs.entry function
+2022-08-17 17:18:58,894 (25cc) :  DEBUG (logkit:13) - FrontEnd: Location: Uas<br />Error: Could not install or update bundle. Check the following URL<br /> BUNDLE URL: https://github.com/Coi-l/PodnapisiSubtitles.bundle
+2022-08-17 17:19:06,490 (25cc) :  DEBUG (logkit:13) - Recieved an apiV3 call for module: GIT for method: PUT
+2022-08-17 17:19:06,490 (25cc) :  DEBUG (logkit:13) - Function to call is: INSTALL with params: None
+2022-08-17 17:19:06,490 (25cc) :  DEBUG (logkit:13) - Starting install
+2022-08-17 17:19:06,490 (25cc) :  DEBUG (logkit:13) - Bundle directory name digested as: C:\Users\carso\AppData\Local\Plex Media Server\Plug-ins\HdbitsSubtitles.bundle
+2022-08-17 17:19:06,490 (25cc) :  DEBUG (networking:143) - Requesting 'https://github.com/Coi-l/HdbitsSubtitles.bundle/archive/master.zip'
+2022-08-17 17:19:06,611 (25cc) :  ERROR (networking:196) - Error opening URL 'https://github.com/Coi-l/HdbitsSubtitles.bundle/archive/master.zip'
+2022-08-17 17:19:06,611 (25cc) :  CRITICAL (core:574) - Exception in downloadBundle2tmp while downloading from GitHub: HTTP Error 404: Not Found (most recent call last):
+  File "C:\Users\carso\AppData\Local\Plex Media Server\Plug-ins\WebTools.bundle\Contents\Code\gitV3.py", line 190, in downloadBundle2tmp
+    zipfile = Archive.ZipFromURL(zipPath)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\api\utilkit.py", line 50, in ZipFromURL
+    opener = self._opener,
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\api\networkkit.py", line 67, in _http_request
+    req = self._core.networking.http_request(url, *args, **kwargs)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\components\networking.py", line 346, in http_request
+    return HTTPRequest(self._core, url, data, h, url_cache, encoding, errors, timeout, immediate, sleep, opener, follow_redirects, method)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\components\networking.py", line 118, in __init__
+    self.load()
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\components\networking.py", line 158, in load
+    f = self._opener.open(req, timeout=self._timeout)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+
+2022-08-17 17:19:06,612 (25cc) :  CRITICAL (logkit:25) - Fatal error happened in install for :https://github.com/Coi-l/HdbitsSubtitles.bundle
+2022-08-17 17:19:06,619 (25cc) :  DEBUG (logkit:13) - Recieved an apiV3 call for module: LOGS for method: PUT
+2022-08-17 17:19:06,619 (25cc) :  DEBUG (logkit:13) - Log Root dir is: C:\Users\carso\AppData\Local\Plex Media Server\Logs
+2022-08-17 17:19:06,621 (25cc) :  DEBUG (logkit:13) - Function to call is: ENTRY with params: None
+2022-08-17 17:19:06,621 (25cc) :  DEBUG (logkit:13) - Starting Logs.entry function
+2022-08-17 17:19:06,621 (25cc) :  DEBUG (logkit:13) - FrontEnd: Location: Uas<br />Error: Could not install or update bundle. Check the following URL<br /> BUNDLE URL: https://github.com/Coi-l/HdbitsSubtitles.bundle
+2022-08-17 17:19:13,453 (25cc) :  DEBUG (logkit:13) - Recieved an apiV3 call for module: GIT for method: GET
+2022-08-17 17:19:13,453 (25cc) :  DEBUG (logkit:13) - Function to call is: UASTYPES with params: None
+2022-08-17 17:19:13,453 (25cc) :  DEBUG (logkit:13) - Starting uasTypes
+2022-08-17 17:19:13,457 (25cc) :  DEBUG (logkit:13) - Recieved an apiV3 call for module: GIT for method: GET
+2022-08-17 17:19:13,457 (25cc) :  DEBUG (logkit:13) - Function to call is: GETLISTOFBUNDLES with params: None
+2022-08-17 17:19:13,457 (25cc) :  DEBUG (logkit:13) - Starting getListofBundles
+2022-08-17 17:19:13,461 (25cc) :  DEBUG (logkit:13) - getListofBundles returned: {u'https://github.com/gboudreau/XBMCnfoMoviesImporter.bundle': {u'DeleteDataDir': False, u'description': u'Import Movies information from locally exported XBMC database.', u'title': u'XBMCnfoMoviesImporter', u'supporturl': u'https://forums.plex.tv/discussion/38402/metadata-agents-for-exported-xbmc-library', u'bundle': u'XBMCnfoMoviesImporter.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.xbmcnfo', u'type': [u'Agent'], u'icon': u'icon-xbmcnfomoviesimporter.png'}, u'https://github.com/jwdempsey/PlexTools.bundle': {u'DeleteDataDir': False, u'description': u'Download subtitles and convert videos to MP4', u'title': u'Plex Tools', u'supporturl': u'https://forums.plex.tv/discussion/85258', u'bundle': u'PlexTools.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.plugins.plextools', u'type': [u'Video'], u'icon': u'icon-plextools.png'}, u'https://github.com/mikedm139/LibraryUpdater.bundle': {u'DeleteDataDir': False, u'description': u'Update Plex library sections or entire library without leaving Plex interface', u'title': u'Library Updater', u'supporturl': u'https://forums.plex.tv/discussion/21108/library-updater-update-library-from-a-plug-in', u'bundle': u'LibraryUpdater.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.plugins.libraryupdater', u'type': [u'Application'], u'icon': u'icon-libupdate.png'}, u'https://github.com/Coi-l/HdbitsSubtitles.bundle': {u'identifier': u'com.plexapp.agents.hdbits', u'description': u'Downloads subtitles automatically from HDBits.org (Private torrent tracker)', u'title': u'HDBits Subtitles', u'supporturl': u'', u'bundle': u'HdbitsSubtitles.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'DeleteDataDir': False, u'type': [u'Metadata Agent', u'Subtitles'], u'icon': u'icon-hdbits.png'}, u'https://github.com/trakt/Plex-Trakt-Scrobbler': {u'description': u'Keep track of TV shows and movies you watch, synchronize your watched history and ratings between applications, and use the trakt.tv website to see upcoming episodes on a calendar, participate in the community and discover new TV shows and movies.', u'title': u'Trakt.tv', u'supporturl': u'https://forums.plex.tv/discussion/102818', u'bundle': u'Trakttv.bundle', u'branch': u'master', u'identifier': u'com.plexapp.plugins.trakttv', u'type': [u'Application', u'Social'], u'icon': u'icon-trakt.png'}, u'https://github.com/Twoure/Speedtest.bundle': {u'DeleteDataDir': False, u'description': u'Test upload/download bandwith using Speedtest.net', u'title': u'Speedtest', u'supporturl': u'https://forums.plex.tv/discussion/253526', u'bundle': u'Speedtest.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.plugins.speedtest', u'type': [u'Application'], u'icon': u'icon-speedtest.png'}, u'https://github.com/srazer/FindMissing.bundle': {u'DeleteDataDir': False, u'description': u'List any files that are missing.', u'title': u'FindMissing', u'supporturl': u'https://forums.plex.tv/discussion/95148', u'bundle': u'FindMissing.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.plugins.findMissing', u'type': [u'Application'], u'icon': u'icon-find-missing.png'}, u'https://github.com/ZeroQI/Hama.bundle': {u'DeleteDataDir': False, u'description': u'Metadata agent that back up Plex metadata locally along video and audio files', u'title': u'HTTP AniDB Metadata Agent', u'supporturl': u'https://forums.plex.tv/t/rel-http-anidb-metadata-agent-hama/40470', u'bundle': u'Hama.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.hama', u'type': [u'Metadata Agent'], u'icon': u'icon-hama.png'}, u'https://github.com/naguar/AdultDVDEmpire.bundle': {u'DeleteDataDir': False, u'description': u'Metadata agent for adult movies', u'title': u'Adult DVD Empire Metadata Agent', u'supporturl': u'https://forums.plex.tv/t/rel-adult-dvd-empire-metadata-agent-2018/277371', u'bundle': u'AdultDVDEmpire.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.adultdvdempire', u'type': [u'Metadata Agent', u'Adult'], u'icon': u'icon-adultdvdempire.png'}, u'https://github.com/Coi-l/PodnapisiSubtitles.bundle': {u'identifier': u'com.plexapp.agents.podnapisi', u'description': u'Downloads subtitles automatically from Podnapisi.net', u'title': u'Podnapisi Subtitles', u'supporturl': u'https://forums.plex.tv/discussion/33683', u'bundle': u'PodnapisiSubtitles.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'DeleteDataDir': False, u'type': [u'Metadata Agent', u'Subtitles'], u'icon': u'icon-podnapisi.png'}, u'https://github.com/hojel/SmiConvert.bundle': {u'DeleteDataDir': False, u'description': u'A agent to convert subtitles in SMI format to SRT format', u'title': u'SMI Convert', u'supporturl': u'', u'bundle': u'SmiConvert.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.smiconvert', u'type': [u'Agent'], u'icon': u'icon-smiconvert.png'}, u'https://github.com/mikedm139/SABnzbd.bundle': {u'DeleteDataDir': False, u'description': u'Manage your SABnzbd+ queue and history from within Plex.', u'title': u'SABnzbd+', u'supporturl': u'https://forums.plex.tv/discussion/21947/rel-sabnzbd-plugin', u'bundle': u'SABnzbd.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.plugins.sabnzbd', u'type': [u'Application'], u'icon': u'icon-sabnzbd.png'}, u'https://github.com/vanstinator/PlexWink.bundle': {u'DeleteDataDir': False, u'description': u'Allow Plex Media Server to control your Wink smart lights', u'title': u'PlexWink', u'supporturl': u'https://forums.plex.tv/discussion/205647', u'bundle': u'PlexWink.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.plugins.plexwink', u'type': [u'Application'], u'icon': u'icon-plexwink.png'}, u'https://github.com/chidychi/Data18.bundle': {u'DeleteDataDir': False, u'description': u'Metadata agent for adult films from Data18.com', u'title': u'Data18 Metadata Agent', u'supporturl': u'https://forums.plex.tv/discussion/66061/adult-data18-com-metadata-agent-release', u'bundle': u'Data18.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.data18', u'type': [u'Metadata Agent', u'Adult'], u'icon': u'icon-data18.png'}, u'https://github.com/SpacemanJT/wol.bundle': {u'DeleteDataDir': False, u'description': u'WOL allows you to wake additional media servers or PCs using the PMS to send a Magic Packet. This allows you to gain access to Library resources or folders that you might not permanently leave switched on. WOL lets you configure up to 10 systems to be woken and allows up to two groups of devices to be configured.', u'title': u'Wake on LAN (WOL) Plugin for Plex', u'supporturl': u'https://forums.plex.tv/discussion/215107', u'bundle': u'wol.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.plugins.wol', u'type': [u'Application'], u'icon': u'icon-wol.png'}, u'https://github.com/electblake/Namez.bundle': {u'DeleteDataDir': False, u'description': u'Metadata agent loads actors, studios, sites and more from parsing file names', u'title': u'Namez Metadata Agent', u'supporturl': u'https://github.com/electblake/Namez.bundle/issues', u'bundle': u'Namez.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.namez', u'type': [u'Metadata Agent'], u'icon': u'icon-namez.png'}, u'https://github.com/ukdtom/SRT2UTF-8.bundle': {u'DeleteDataDir': False, u'description': u"Plex Media Agent, that'll convert sidecar subtitle files into UTF-8, if not", u'title': u'Srt2Utf-8', u'supporturl': u'https://forums.plex.tv/discussion/94864', u'bundle': u'SRT2UTF-8.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.srt2utf8', u'type': [u'Agent', u'Subtitles'], u'icon': u'icon-srt2utf-8.png'}, u'https://github.com/daeks/ArgusTV-Agent.bundle': {u'DeleteDataDir': False, u'description': u'Metadata Agent for ArgusTV', u'title': u'ArgusTV', u'supporturl': u'https://forums.plex.tv/discussion/257004', u'bundle': u'ArgusTV-Agent.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.argustv', u'type': [u'Metadata Agent'], u'icon': u'icon-argustv.png'}, u'https://github.com/chidychi/Data18-Content.bundle': {u'DeleteDataDir': False, u'description': u'Metadata agent for adult Content from Data18.com', u'title': u'Data18-Content Metadata Agent', u'supporturl': u'https://forums.plex.tv/discussion/66061/adult-data18-com-metadata-agent-release', u'bundle': u'Data18-Content.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.data18-content', u'type': [u'Metadata Agent', u'Adult'], u'icon': u'icon-data18-content.png'}, u'https://github.com/mikedm139/SickBeard.bundle': {u'DeleteDataDir': False, u'description': u'A plugin for Plex media center to view and control basic functions of SickBeard', u'title': u'SickBeard', u'supporturl': u'https://forums.plex.tv/discussion/20159', u'bundle': u'SickBeard.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.plugins.sickbeard', u'type': [u'Application'], u'icon': u'icon-sickbeard.png'}, u'https://github.com/ZeroQI/Lambda.bundle': {u'DeleteDataDir': False, u'description': u'Metadata agent that back up Plex metadata locally along video and audio files', u'title': u'Local Assets-Metadata Backup Double Agent', u'supporturl': u'https://forums.plex.tv/t/rel-lambda-local-assets-metadata-double-agent-for-plex-metadata-export/295681', u'bundle': u'Lambda.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.lambda', u'type': [u'Agent'], u'icon': u'icon-lambda.png'}, u'https://github.com/ukdtom/ExportTools.bundle': {u'DeleteDataDir': False, u'description': u'Will export selected sections into a CSV or xlsx file', u'icon': u'icon-exporttools.png', u'title': u'ExportTools', u'supporturl': u'https://forums.plex.tv/discussion/254248', u'manual': u'https://github.com/ukdtom/ExportTools.bundle/wiki', u'bundle': u'ExportTools.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'release': u'ExportTools.bundle.zip', u'identifier': u'com.plexapp.plugins.ExportTools', u'type': [u'Application'], u'popupmsg': u'This tool is a replacement for Plex2CSV. If Plex2CSV is installed, please uninstall it. To see further info, look here: https://github.com/ukdtom/ExportTools.bundle/wiki'}, u'https://github.com/daeks/Webhook-Agent.bundle': {u'DeleteDataDir': False, u'description': u'Webhook Agent which sends metadata payload to given URL', u'title': u'Webhook', u'supporturl': u'https://forums.plex.tv/discussion/257668', u'bundle': u'Webhook-Agent.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.webhook', u'type': [u'Application'], u'icon': u'icon-dnetwork.png'}, u'https://github.com/sander1/Fanart-TV-Agent.bundle': {u'DeleteDataDir': False, u'description': u'Fanart.tv is a community driven website providing fanart for TV shows, movies and artists.', u'title': u'Fanart.tv Agent (sander1)', u'supporturl': u'https://github.com/sander1/Fanart-TV-Agent.bundle/issues', u'bundle': u'Fanart-TV-Agent.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'sander1.plexagents.fanarttv', u'type': [u'Metadata Agent'], u'icon': u'icon-fanarttv.png'}, u'https://github.com/ZeroQI/YouTube-Agent.bundle': {u'description': u'A Metadata Agent for downloaded YouTube videos, video id in filename, support channel/playlist id in foldername', u'title': u'YouTube Series and Movies Metadata Agent', u'supporturl': u'https://forums.plex.tv/discussion/83106', u'bundle': u'YouTube-Agent.bundle', u'branch': u'master', u'identifier': u'com.plexapp.agents.youtube', u'type': [u'Metadata Agent'], u'icon': u'icon-youtube-agent.jpg'}, u'https://github.com/ukdtom/epg-dk.bundle': {u'DeleteDataDir': False, u'description': u'Download automaticly an xmltv file from YouSee Denmark', u'title': u'epg-dk', u'supporturl': u'https://forums.plex.tv/discussion/248011', u'manual': u'https://github.com/ukdtom/epg-dk.bundle/wiki', u'bundle': u'epg-dk.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'release': u'epg-dk.bundle.zip', u'identifier': u'com.plexapp.plugins.epg-dk.bundle', u'type': [u'Application'], u'icon': u'icon-epg-dk.png'}, u'https://github.com/daeks/Chapter-Agent.bundle': {u'DeleteDataDir': False, u'description': u'Metadata Agent which creates chapters based on EDL files', u'title': u'Chapter Metadata Agent', u'supporturl': u'https://forums.plex.tv/discussion/257650', u'bundle': u'Chapter-Agent.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.chapter', u'type': [u'Metadata Agent'], u'icon': u'icon-dnetwork.png'}, u'https://github.com/sander1/YouTube-Agent.bundle': {u'description': u'A Metadata Agent for downloaded YouTube videos.', u'title': u'YouTube Metadata Agent', u'supporturl': u'https://forums.plex.tv/discussion/83106', u'bundle': u'YouTube-Agent.bundle', u'branch': u'master', u'identifier': u'com.plexapp.agents.youtube', u'type': [u'Metadata Agent'], u'icon': u'icon-youtube-agent.jpg'}, u'https://github.com/vofik/Kink.bundle': {u'DeleteDataDir': False, u'description': u'Metadata agent for adult shoots from any Kink.com site', u'title': u'Kink.com Metadata Agent', u'supporturl': u'https://forums.plex.tv/discussion/35633/adult-kink-com-metadata-agent', u'bundle': u'Kink.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.kink', u'type': [u'Metadata Agent', u'Adult'], u'icon': u'icon-kink.png'}, u'https://github.com/daeks/StaticMedia-Agent.bundle': {u'DeleteDataDir': False, u'description': u'Metadata Agent which stores static images as poster / background', u'title': u'StaticMedia', u'supporturl': u'https://forums.plex.tv/discussion/241713', u'bundle': u'StaticMedia-Agent.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.staticmedia', u'type': [u'Metadata Agent'], u'icon': u'icon-dnetwork.png'}, u'https://github.com/bstard/AniDB.bundle': {u'DeleteDataDir': False, u'description': u'Metadata agent for anime movies and tv-shows', u'title': u'AniDB.net Metadata Agent', u'supporturl': u'', u'bundle': u'AniDB.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.anidb', u'type': [u'Metadata Agent'], u'icon': u'icon-anidb.png'}, u'https://github.com/macr0dev/Audiobooks.bundle': {u'identifier': u'com.plexapp.agents.audiobooks', u'description': u'A Metadata Agent for downloaded Audiobooks', u'title': u'Audiobook Metadata Agent', u'supporturl': u'https://forums.plex.tv/discussion/280161/', u'bundle': u'Audiobooks.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'DeleteDataDir': False, u'type': [u'Metadata Agent'], u'icon': u'icon-audiobooks.png'}, u'https://github.com/sander1/MovieMeter.bundle': {u'description': u'Dutch movie titles, summaries and genres by MovieMeter', u'title': u'MovieMeter', u'supporturl': u'https://github.com/sander1/MovieMeter.bundle/issues', u'bundle': u'MovieMeter.bundle', u'branch': u'master', u'identifier': u'sander1.plexagents.moviemeter', u'type': [u'Metadata Agent'], u'icon': u'icon-moviemeter.png'}, u'https://github.com/gboudreau/XBMCnfoTVImporter.bundle': {u'DeleteDataDir': False, u'description': u'Import TVShow information from locally exported XBMC database.', u'title': u'XBMCnfoTVImporter', u'supporturl': u'https://forums.plex.tv/discussion/38402/metadata-agents-for-exported-xbmc-library', u'bundle': u'XBMCnfoTVImporter.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.xbmcnfotv', u'type': [u'Agent'], u'icon': u'icon-xbmcnfotvimporter.png'}, u'https://github.com/BrutuZ/LegendasTV.bundle': {u'identifier': u'com.plexapp.agents.legendastv', u'description': u'Downloads subtitles automatically from Legendas.tv', u'title': u'Legendas.tv Subtitles Agent', u'supporturl': u'https://forums.plex.tv/discussion/129730/rel-legendas-tv-subtitle-agent', u'bundle': u'LegendasTV.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'DeleteDataDir': False, u'type': [u'Metadata Agent', u'Subtitles'], u'icon': u'icon-legendastv.png'}, u'https://github.com/vofik/ExcaliburFilms.bundle': {u'DeleteDataDir': False, u'description': u'Metadata agent for adult films from ExcaliburFilms.com', u'title': u'ExcaliburFilms Metadata Agent', u'supporturl': u'https://forums.plex.tv/discussion/31889/excaliburfilms-agent', u'bundle': u'ExcaliburFilms.bundle', u'DeleteCacheDir': False, u'branch': u'master', u'identifier': u'com.plexapp.agents.excaliburfilms', u'type': [u'Metadata Agent', u'Adult'], u'icon': u'icon-excaliburfilms.png'}}
+2022-08-17 17:19:13,503 (25cc) :  DEBUG (logkit:13) - Recieved an apiV3 call for module: GIT for method: GET
+2022-08-17 17:19:13,503 (25cc) :  DEBUG (logkit:13) - Function to call is: LIST with params: None
+2022-08-17 17:19:13,503 (25cc) :  DEBUG (logkit:13) - Installed channes are: {u'https://github.com/macr0dev/Audiobooks.bundle': {u'identifier': u'com.plexapp.agents.audiobooks', u'description': u'A Metadata Agent for downloaded Audiobooks', u'title': u'Audiobook Metadata Agent', u'supporturl': u'https://forums.plex.tv/discussion/280161/', u'bundle': u'Audiobooks.bundle', 'CommitId': 'b49fc8811c', u'DeleteCacheDir': False, u'branch': u'master', 'date': '2022-08-17 17:16:31', u'DeleteDataDir': False, u'type': [u'Metadata Agent'], u'icon': u'icon-audiobooks.png'}}

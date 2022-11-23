@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters>
+    <item external="True" url="1a70e359194880e4b01c52d2640fbce0" media="com.plexapp.agents.localmedia_d1a2cbd81d4d5add338ff3c68fc463828eaf6b07" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Final Girls A Novel</title>
+  <tracks>
+    <item key="17643" path="tracks\b6e7d689d956e88c906e3e50fe5c2f209d3ba88c">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Final Girls A Novel</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

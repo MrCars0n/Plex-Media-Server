@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters>
+    <item external="True" url="2b5eff6b39ecd233f7656c48971a48dc" media="com.plexapp.agents.localmedia_5e58be628e7a2da646e83e37ac31d8a229d034d0" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Radio Drama - Star Wars Episode IV</title>
+  <tracks>
+    <item key="18631" path="tracks\6d4cf5e7a7712ac39245d40ca0535a37708e6f1d">
+      <lyrics/>
+      <moods/>
+      <original_title>Brian Daley</original_title>
+      <tags/>
+      <title>Rogues, Rebels And Robots</title>
+      <track_index>9</track_index>
+    </item>
+    <item key="18632" path="tracks\e1a3ab10afb57a23afef248d2b7117d49e39cc40">
+      <lyrics/>
+      <moods/>
+      <original_title>Brian Daley</original_title>
+      <tags/>
+      <title>The Luke Skywalker Initiative</title>
+      <track_index>10</track_index>
+    </item>
+    <item key="18630" path="tracks\1dbe6368da9016bc0c6f8e4def838e02caa8718f">
+      <lyrics/>
+      <moods/>
+      <original_title>Brian Daley</original_title>
+      <tags/>
+      <title>Death Star's Transit</title>
+      <track_index>8</track_index>
+    </item>
+    <item key="18635" path="tracks\321f75041649669b53e1e7eddbd409157b4c8054">
+      <lyrics/>
+      <moods/>
+      <original_title>Brian Daley</original_title>
+      <tags/>
+      <title>Force and Counter Force</title>
+      <track_index>13</track_index>
+    </item>
+    <item key="18634" path="tracks\f37b569897393ef06ae8b21193aa8ff204068b2e">
+      <lyrics/>
+      <moods/>
+      <original_title>Brian Daley</original_title>
+      <tags/>
+      <title>The Case for Rebellion</title>
+      <track_index>12</track_index>
+    </item>
+    <item key="18633" path="tracks\9e20bba07769926cb262e02af77bbbb10b7a73e3">
+      <lyrics/>
+      <moods/>
+      <original_title>Brian Daley</original_title>
+      <tags/>
+      <title>The Jedi Nexus</title>
+      <track_index>11</track_index>
+    </item>
+    <item key="18625" path="tracks\b545fc0ea20f1545a8533036681d55ce78a491b5">
+      <lyrics/>
+      <moods/>
+      <original_title>Brian Daley</original_title>
+      <tags/>
+      <title>Black Knight, White Princess, and Pawns</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="18626" path="tracks\c4503fd5929596ff05c81ae30de1d6bcc10a824c">
+      <lyrics/>
+      <moods/>
+      <original_title>Brian Daley</original_title>
+      <tags/>
+      <title>While Giants Mark Time</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="18627" path="tracks\f11d29932275b4e95a6299c27617eb8e183f9a56">
+      <lyrics/>
+      <moods/>
+      <original_title>Brian Daley</original_title>
+      <tags/>
+      <title>Jedi That Was, Jedi to Be</title>
+      <track_index>5</track_index>
+    </item>
+    <item key="18628" path="tracks\2228e34a515b940bb90e54bfd12ec771eb73f0a8">
+      <lyrics/>
+      <moods/>
+      <original_title>Brian Daley</original_title>
+      <tags/>
+      <title>The Millenium Falcon Deal</title>
+      <track_index>6</track_index>
+    </item>
+    <item key="18629" path="tracks\ecbc91e94c2f31bbf3df107897fb487fce59c496">
+      <lyrics/>
+      <moods/>
+      <original_title>Brian Daley</original_title>
+      <tags/>
+      <title>The Han Solo Solution</title>
+      <track_index>7</track_index>
+    </item>
+    <item key="18624" path="tracks\06c8c77563e861bcf4f5071a5a370309d292c613">
+      <lyrics/>
+      <moods/>
+      <original_title>Brian Daley</original_title>
+      <tags/>
+      <title>Points of Origin</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="18623" path="tracks\b7b8e5daf6c379f732623b887b8142a69ed09085">
+      <lyrics/>
+      <moods/>
+      <original_title>Brian Daley</original_title>
+      <tags/>
+      <title>A Wind to Shake the Stars</title>
+      <track_index>1</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

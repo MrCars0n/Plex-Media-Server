@@ -1,0 +1,16 @@
+Aug 20, 2022 04:36:46.892 [7052] INFO - Plex Media Scanner v1.28.1.6092-87136b92b - Microsoft PC x64 - build: windows-x86 - GMT -04:00
+Aug 20, 2022 04:36:46.892 [7052] INFO - Windows version: 6.2 (Build 9200), language en-US
+Aug 20, 2022 04:36:46.892 [7052] INFO - 4 3504 MHz processor(s): Architecture=0, Level=6, Revision=24067 Processor Identifier=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+Aug 20, 2022 04:36:46.892 [7052] DEBUG - "C:\Program Files (x86)\Plex\Plex Media Server\Plex Media Scanner.exe" --analyze-deeply --item 13946 --log-file-suffix " Deep Analysis"
+Aug 20, 2022 04:36:46.892 [12112] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.35.5, threadsafe=1
+Aug 20, 2022 04:36:46.988 [12112] DEBUG - Updating media item 31428, size=141931185, metadata_item_id=13946
+Aug 20, 2022 04:36:46.988 [12112] DEBUG - Updating part with ID=31428 [D:\TV\Regular Show\Season 2\Regular Show - S02E27.mkv]
+Aug 20, 2022 04:36:46.988 [12112] DEBUG - [MI] Opening input file: "D:\TV\Regular Show\Season 2\Regular Show S02E27 Skunked BluRay 2.0 (Commentary) 1080p x265 HEVC-ByteShare[UTR].mkv"
+Aug 20, 2022 04:36:46.988 [12112] DEBUG - [FFMPEG] - Opening 'D:\TV\Regular Show\Season 2\Regular Show S02E27 Skunked BluRay 2.0 (Commentary) 1080p x265 HEVC-ByteShare[UTR].mkv' for reading
+Aug 20, 2022 04:36:46.988 [12112] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Aug 20, 2022 04:36:47.121 [12112] WARN - [FFMPEG] - Format matroska,webm detected only with low score of 1, misdetection possible!
+Aug 20, 2022 04:36:47.121 [12112] ERROR - [FFMPEG] - 0x00 at pos 0 (0x0) invalid as first byte of an EBML number
+Aug 20, 2022 04:36:47.121 [12112] ERROR - [FFMPEG] - EBML header parsing failed
+Aug 20, 2022 04:36:47.121 [12112] ERROR - Exception analyzing media file 'D:\TV\Regular Show\Season 2\Regular Show S02E27 Skunked BluRay 2.0 (Commentary) 1080p x265 HEVC-ByteShare[UTR].mkv' (Could not parse D:\TV\Regular Show\Season 2\Regular Show S02E27 Skunked BluRay 2.0 (Commentary) 1080p x265 HEVC-ByteShare[UTR].mkv (error=-1094995529): Invalid data found when processing input)
+Aug 20, 2022 04:36:47.122 [12112] DEBUG - Updating media item 31429, size=141931185, metadata_item_id=13946
+Aug 20, 2022 04:36:47.122 [12112] DEBUG - Updating part with ID=31429 [D:\TV\Regular Show\Season 2\Regular Show S02E27 Skunked BluRay 2.0 (Commentary) 1080p x265 HEVC-ByteShare[UTR].mkv]

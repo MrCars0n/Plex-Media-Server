@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2010-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="b636fe898cbc427322f657532a4bc8ea" media="com.plexapp.agents.localmedia_90af8e11efabae90119e35b3e908c3c950d8755f" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="298e6beb40bfd4aabb69e48e3a488290" media="com.plexapp.agents.localmedia_65022179db3f0d70e7ba36d6157a789187ee4f2d" sort_order="2" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Extra Lives: Why Video Games M</title>
+  <tracks>
+    <item key="19186" path="tracks\232963c7f5dc5fdb2ffa34b5497245176281bc6f">
+      <lyrics/>
+      <moods/>
+      <original_title>Tom Bissell</original_title>
+      <tags/>
+      <title>Why Video Games Matter (36)</title>
+      <track_index>36</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

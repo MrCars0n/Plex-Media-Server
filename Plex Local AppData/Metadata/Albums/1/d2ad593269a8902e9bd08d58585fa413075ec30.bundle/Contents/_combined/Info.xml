@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters>
+    <item external="True" url="e856d0a1f0f898b06bf9bc6fea19891a" media="com.plexapp.agents.localmedia_c7d922a97705b8872f2fb59285578fbca3e99020" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Ninth House</title>
+  <tracks>
+    <item key="17663" path="tracks\62d2821bf9656d9e009c8ff895ea97e6aff42e26">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Ninth House</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

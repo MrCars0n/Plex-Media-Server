@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2000-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="82d0064b8c0c598c9470c3aee070de0d" media="com.plexapp.agents.localmedia_1ab3fe268d3e271d37843e92856bad12b09c0ffa" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>01-Magician's Nephew</title>
+  <tracks>
+    <item key="19121" path="tracks\af5bfa93394a1720cc9898eb1bc7bf17d4124fa0">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>01-Magician's Nephew-01</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="19122" path="tracks\eb3046934f268ecc7e98dbc2b0a61ed13130df66">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>01-Magician's Nephew-02</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="19123" path="tracks\ae9622ca8e45016b5468079824396fb657c31377">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>01-Magician's Nephew-03</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="19124" path="tracks\70194921003a7e3b101b2d1289dc0adc2639d874">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>01-Magician's Nephew-04</title>
+      <track_index>4</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

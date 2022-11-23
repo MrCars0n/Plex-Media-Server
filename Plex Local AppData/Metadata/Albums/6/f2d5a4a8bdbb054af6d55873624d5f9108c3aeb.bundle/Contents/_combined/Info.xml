@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2014-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="bf8e13d094617d46f21c336da3be2164" media="com.plexapp.agents.localmedia_3e611ac5ea0169b278e17d8eb83578ed7bb59ee0" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="c858dd521e1eef07ecc708b6fdcf27d9" media="com.plexapp.agents.localmedia_1f9af54261310f469f143f783e4ef0952e773a2a" sort_order="2" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="e233b248c965ed147f23d234e0e3e23c" media="com.plexapp.agents.localmedia_87195c63ee2cfe88fbf6eb38739a8c4deea486a4" sort_order="3" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration</title>
+  <tracks>
+    <item key="19209" path="tracks\6df57d141e0322ea4a9c7ec9b69ba5f28a04f630">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>06 Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration</title>
+      <track_index>6</track_index>
+    </item>
+    <item key="19208" path="tracks\6c886fb9fd57d029da8a371aef5de68e61cfff86">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>05 Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration</title>
+      <track_index>5</track_index>
+    </item>
+    <item key="19212" path="tracks\68e79a5708934e2f0e55ecd62f2d9af8700b92af">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>09 Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration</title>
+      <track_index>9</track_index>
+    </item>
+    <item key="19213" path="tracks\2b40d1c801eec5563f09e8401dba6bc58acb2491">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>10 Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration</title>
+      <track_index>10</track_index>
+    </item>
+    <item key="19210" path="tracks\97e9dd12bf006740101265dfa4325137e33f2d03">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>07 Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration</title>
+      <track_index>7</track_index>
+    </item>
+    <item key="19211" path="tracks\1178b9ea310a155284fe5593685b42ff9bea9f76">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>08 Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration</title>
+      <track_index>8</track_index>
+    </item>
+    <item key="19205" path="tracks\43e91134540e268630a92763d342afc7820ca451">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>02 Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="19204" path="tracks\932a46df82b294d74e8f267782f983f3ce22230c">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>01 Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="19207" path="tracks\dcee9f7fb518afff26782867fac623bcf043bc78">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>04 Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="19206" path="tracks\205d31597c0123f7f39d02e72573667e1888e6d4">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>03 Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="19214" path="tracks\39f004245e782b2b9fe16f55615cb0b2ecf66037">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>11 Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration</title>
+      <track_index>11</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

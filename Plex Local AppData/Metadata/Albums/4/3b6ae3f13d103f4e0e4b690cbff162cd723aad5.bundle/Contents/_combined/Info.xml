@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2020-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="c99f2f31bad71eb4179de71f7eaa3ce0" media="com.plexapp.agents.localmedia_0cc06782e5c8bac7d6480969686fc26b1a5d8b89" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>The Guest List</title>
+  <tracks>
+    <item key="17684" path="tracks\b500d03f24b7fdd1f32ac63ce2f8dd5394b41b29">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Guest List</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2018-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="6095590872f8aba7d4299fa79cc787ff" media="com.plexapp.agents.localmedia_4e7418d66ef7c2fba967a8926aec3dfa689f1237" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Harry Potter: Quidditch Through the Ages</title>
+  <tracks>
+    <item key="19252" path="tracks\3b5042d67da7e08c03f15f2deb0a6f21a7606a01">
+      <lyrics/>
+      <moods/>
+      <original_title>J.K. Rowling</original_title>
+      <tags/>
+      <title>Harry Potter: Quidditch Through the Ages</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

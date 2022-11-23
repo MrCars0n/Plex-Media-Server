@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Album id="19363">
+  <rating/>
+  <album_type/>
+  <title_sort></title_sort>
+  <art/>
+  <duration/>
+  <genres/>
+  <title>The Girl on the Dock: A Dark Fairy Tale</title>
+  <rating_count/>
+  <collections/>
+  <available_at/>
+  <styles/>
+  <tags/>
+  <audience_rating_image/>
+  <rating_image/>
+  <producers/>
+  <audience_rating/>
+  <tracks>
+    <item key="19364">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index/>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>The Girl on the Dock: A Dark Fairy Tale</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title></original_title>
+      <summary/>
+      <art_url/>
+    </item>
+  </tracks>
+  <studio/>
+  <moods/>
+  <posters>
+    <item external="True" url="82943dc7ed23b886b2c69dbe97e81cb2" media="0d741dbca18c7df78f010e2eec86b60c7bf4596c" sort_order="1"/>
+  </posters>
+  <originally_available_at>2016-01-01</originally_available_at>
+  <artist/>
+  <countries/>
+  <original_title/>
+  <summary/>
+  <reviews/>
+  <album_format/>
+</Album>

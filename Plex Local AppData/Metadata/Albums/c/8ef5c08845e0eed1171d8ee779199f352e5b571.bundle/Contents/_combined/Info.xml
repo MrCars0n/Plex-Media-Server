@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters/>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <tracks>
+    <item key="18541" path="tracks\300f112b628538dfa90b790f6ee675c150e95e11">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Revenge of the Sith - Part 02</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

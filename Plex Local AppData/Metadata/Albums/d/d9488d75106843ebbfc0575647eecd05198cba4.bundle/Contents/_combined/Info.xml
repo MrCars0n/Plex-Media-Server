@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>1994-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="c56fb40287b851f66ea6d2a20cf4a7d8" media="com.plexapp.agents.localmedia_67debca96f2525b346d37c887a0b8e111193a4a3" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Star Wars Episode VI</title>
+  <tracks>
+    <item key="18608" path="tracks\19561f627ea5c6ce839ddb22d48ee36d7bb7b1bc">
+      <disc_index>0</disc_index>
+      <lyrics/>
+      <moods/>
+      <original_title>James Kahn</original_title>
+      <tags/>
+      <title>Return of the Jedi</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="18609" path="tracks\df2f6e6f8b59aa3b9c6b165f5a6976151d927c0e">
+      <disc_index>0</disc_index>
+      <lyrics/>
+      <moods/>
+      <original_title>James Kahn</original_title>
+      <tags/>
+      <title>Return of the Jedi</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="18606" path="tracks\650046b4ddbc39a7d403f0c81c4c8ced0016abd0">
+      <lyrics/>
+      <moods/>
+      <original_title>James Kahn</original_title>
+      <tags/>
+      <title>Return of the Jedi</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="18607" path="tracks\c8e816f5c6ae4fb3e9c027e8f230474e21f58778">
+      <disc_index>0</disc_index>
+      <lyrics/>
+      <moods/>
+      <original_title>James Kahn</original_title>
+      <tags/>
+      <title>Return of the Jedi</title>
+      <track_index>2</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

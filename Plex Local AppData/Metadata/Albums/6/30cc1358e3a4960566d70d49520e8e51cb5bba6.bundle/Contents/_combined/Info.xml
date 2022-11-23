@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>1994-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="2da6b8328ef12cd708a326f950425998" media="com.plexapp.agents.localmedia_52e87877c2c96dcf7ab2aefbc26e9e39db614bb4" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Star Wars Episode V</title>
+  <tracks>
+    <item key="18589" path="tracks\4c194aeb083c5a810dbc53338b2934bc334c7fb8">
+      <disc_index>0</disc_index>
+      <lyrics/>
+      <moods/>
+      <original_title>Donald F. Glut</original_title>
+      <tags/>
+      <title>The Empire Strikes Back</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="18592" path="tracks\ada095d10d6678e7f06c85b994a52f333ce55234">
+      <disc_index>0</disc_index>
+      <lyrics/>
+      <moods/>
+      <original_title>Donald F. Glut</original_title>
+      <tags/>
+      <title>The Empire Strikes Back</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="18590" path="tracks\6badb27b92ab05bcb48b6bf060150b4331bd44d9">
+      <disc_index>0</disc_index>
+      <lyrics/>
+      <moods/>
+      <original_title>Donald F. Glut</original_title>
+      <tags/>
+      <title>The Empire Strikes Back</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="18591" path="tracks\39d103826ff03a474568f632c5a1ffde97c864d2">
+      <disc_index>0</disc_index>
+      <lyrics/>
+      <moods/>
+      <original_title>Donald F. Glut</original_title>
+      <tags/>
+      <title>The Empire Strikes Back</title>
+      <track_index>3</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

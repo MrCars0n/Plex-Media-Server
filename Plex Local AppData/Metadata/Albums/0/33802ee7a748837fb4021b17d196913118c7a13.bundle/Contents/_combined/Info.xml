@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters>
+    <item external="True" url="8e6c331fca72cf8f636ec46d1363dcd3" media="com.plexapp.agents.localmedia_19f81fb93ffa1bc491c47c0afdb2c7942b84ecc0" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Beneath a Scarlet Sky A Novel</title>
+  <tracks>
+    <item key="17634" path="tracks\9ff3601acbcb28ccedeb151f18ddb81d4fedad84">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Beneath a Scarlet Sky</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

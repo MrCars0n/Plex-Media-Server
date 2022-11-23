@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters>
+    <item external="True" url="4fc01d4ccab6820ef1b43ffa4913c205" media="com.plexapp.agents.localmedia_2ab01b05224989e7bb939b61b24bd92dea4e74c6" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Mistletoe and Mr. Right: Moose Springs, Alaska, Book 2</title>
+  <tracks>
+    <item key="17660" path="tracks\0a9445a3da70b79e65b77c50a890c4e9d15b2040">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Mistletoe and Mr. Right: Moose Springs, Alaska, Book 2</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

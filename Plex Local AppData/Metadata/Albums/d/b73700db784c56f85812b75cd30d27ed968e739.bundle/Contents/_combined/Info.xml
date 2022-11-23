@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2015-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="9dfd6ee0e7e7fc3fdadc4d56534da0f1" media="com.plexapp.agents.localmedia_48b5ff9203152f0a7c64b6c0ea1985980d7dee7b" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="64d128583d53b8f8238969aa1ffa17cd" media="com.plexapp.agents.localmedia_0519177de71019b017c9d1ae787e6deda6156f93" sort_order="2" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="6e7ff0fa86accc51b6b83b8c62467d68" media="com.plexapp.agents.localmedia_cf74eece7531f48571d322f8f76f2476ddabe163" sort_order="3" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Lost Stars</title>
+  <tracks>
+    <item key="19058" path="tracks\ecf933a99d0285a6f2fe0d61ac8074db3c4f709a">
+      <lyrics/>
+      <moods/>
+      <original_title>Claudia Gray</original_title>
+      <tags/>
+      <title>Star Wars: Lost Stars (Unabridged)</title>
+    </item>
+    <item key="19059" path="tracks\8a6ccd6b33007d903e1de6f5b1d4c4c3d1d3576a">
+      <lyrics/>
+      <moods/>
+      <original_title>Claudia Gray</original_title>
+      <tags/>
+      <title>Star Wars: Lost Stars (Unabridged)</title>
+    </item>
+    <item key="19049" path="tracks\d3e44be348232ffb10feac9deacbd7ed70aa34df">
+      <lyrics/>
+      <moods/>
+      <original_title>Claudia Gray</original_title>
+      <tags/>
+      <title>Star Wars: Lost Stars (Unabridged)</title>
+    </item>
+    <item key="19060" path="tracks\32901dc85d65387b4054c6ab30d28b885de58a4d">
+      <lyrics/>
+      <moods/>
+      <original_title>Claudia Gray</original_title>
+      <tags/>
+      <title>Star Wars: Lost Stars (Unabridged)</title>
+    </item>
+    <item key="19050" path="tracks\4b3f4e4e21809c72bd38efd46a3104f2d6460c4b">
+      <lyrics/>
+      <moods/>
+      <original_title>Claudia Gray</original_title>
+      <tags/>
+      <title>Star Wars: Lost Stars (Unabridged)</title>
+    </item>
+    <item key="19051" path="tracks\4a2321a62fd61b628fcf5e92a7b6f40ef10d1630">
+      <lyrics/>
+      <moods/>
+      <original_title>Claudia Gray</original_title>
+      <tags/>
+      <title>Star Wars: Lost Stars (Unabridged)</title>
+    </item>
+    <item key="19052" path="tracks\28f63bd879aaf37737b2667a3801fad7c17a4447">
+      <lyrics/>
+      <moods/>
+      <original_title>Claudia Gray</original_title>
+      <tags/>
+      <title>Star Wars: Lost Stars (Unabridged)</title>
+    </item>
+    <item key="19053" path="tracks\15ecb375d583b1ce0ae1c473fbcd82913855ed70">
+      <lyrics/>
+      <moods/>
+      <original_title>Claudia Gray</original_title>
+      <tags/>
+      <title>Star Wars: Lost Stars (Unabridged)</title>
+    </item>
+    <item key="19054" path="tracks\51df59d3939b0c79c657f25505c9d6483c2917d0">
+      <lyrics/>
+      <moods/>
+      <original_title>Claudia Gray</original_title>
+      <tags/>
+      <title>Star Wars: Lost Stars (Unabridged)</title>
+    </item>
+    <item key="19055" path="tracks\fdffff85cd1349957dfd77226ae247c15c42fc61">
+      <lyrics/>
+      <moods/>
+      <original_title>Claudia Gray</original_title>
+      <tags/>
+      <title>Star Wars: Lost Stars (Unabridged)</title>
+    </item>
+    <item key="19056" path="tracks\d66d64ff9b2fc0d269008548fec02ad9a899046e">
+      <lyrics/>
+      <moods/>
+      <original_title>Claudia Gray</original_title>
+      <tags/>
+      <title>Star Wars: Lost Stars (Unabridged)</title>
+    </item>
+    <item key="19057" path="tracks\494eabedd5bd415c68ccd1913d8e12d6178f45bc">
+      <lyrics/>
+      <moods/>
+      <original_title>Claudia Gray</original_title>
+      <tags/>
+      <title>Star Wars: Lost Stars (Unabridged)</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

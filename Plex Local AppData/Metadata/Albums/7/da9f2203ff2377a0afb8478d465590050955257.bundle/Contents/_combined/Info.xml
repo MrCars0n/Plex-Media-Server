@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters>
+    <item external="True" url="7739b92a9d878dcd897ccc2ba9a3facb" media="com.plexapp.agents.localmedia_af8c2776215e7ae62d1491cfddc94ff6324c1e48" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Know My Name - A Memoir</title>
+  <tracks>
+    <item key="18013" path="tracks\0a3783bcc503eb72bb39a4dd12b51ecda560b030">
+      <lyrics/>
+      <moods/>
+      <original_title>Chanel Miller</original_title>
+      <tags/>
+      <title>Know My Name - 003 - Introduction</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="18015" path="tracks\90d826b6c211eeaac6fbddbc298a717bb240f612">
+      <lyrics/>
+      <moods/>
+      <original_title>Chanel Miller</original_title>
+      <tags/>
+      <title>Know My Name - 005 - Chapter 1</title>
+      <track_index>5</track_index>
+    </item>
+    <item key="18012" path="tracks\da7e212cb41c31098178a668adb1f633094c7c05">
+      <lyrics/>
+      <moods/>
+      <original_title>Chanel Miller</original_title>
+      <tags/>
+      <title>Know My Name - 001 - Know My Name</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="18023" path="tracks\791f398482190d925fb8ccc68fcda0b229069b10">
+      <lyrics/>
+      <moods/>
+      <original_title>Chanel Miller</original_title>
+      <tags/>
+      <title>Know My Name - 013 - Chapter 9</title>
+      <track_index>13</track_index>
+    </item>
+    <item key="18014" path="tracks\43e0408c829ff2a3adf2c6751ec8d95e51bd2eb6">
+      <lyrics/>
+      <moods/>
+      <original_title>Chanel Miller</original_title>
+      <tags/>
+      <title>Know My Name - 004 - Epigraph</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="18022" path="tracks\c935c69eebad1f1d1a4c1ae71fde2872335331b2">
+      <lyrics/>
+      <moods/>
+      <original_title>Chanel Miller</original_title>
+      <tags/>
+      <title>Know My Name - 012 - Chapter 8</title>
+      <track_index>12</track_index>
+    </item>
+    <item key="18026" path="tracks\aab3810d3ab96a947ec61cbd296155091900a71b">
+      <lyrics/>
+      <moods/>
+      <original_title>Chanel Miller</original_title>
+      <tags/>
+      <title>Know My Name - 016 - Chapter 12</title>
+      <track_index>16</track_index>
+    </item>
+    <item key="18027" path="tracks\2592d2e79f6f7720fbdd18734afcf9c1f3b4385f">
+      <lyrics/>
+      <moods/>
+      <original_title>Chanel Miller</original_title>
+      <tags/>
+      <title>Know My Name - 017 - Chapter 13</title>
+      <track_index>17</track_index>
+    </item>
+    <item key="18024" path="tracks\a491eb816587494683cf21bd18be15799a94fd85">
+      <lyrics/>
+      <moods/>
+      <original_title>Chanel Miller</original_title>
+      <tags/>
+      <title>Know My Name - 014 - Chapter 10</title>
+      <track_index>14</track_index>
+    </item>
+    <item key="18025" path="tracks\5bcfc4065acfb3118a1a3bc120bbba4a3ab21172">
+      <lyrics/>
+      <moods/>
+      <original_title>Chanel Miller</original_title>
+      <tags/>
+      <title>Know My Name - 015 - Chapter 11</title>
+      <track_index>15</track_index>
+    </item>
+    <item key="18031" path="tracks\73563d425c20081ceff5a5bde84cf4c039d219e8">
+      <lyrics/>
+      <moods/>
+      <original_title>Chanel Miller</original_title>
+      <tags/>
+      <title>Know My Name - 021 - Credits</title>
+      <track_index>21</track_index>
+    </item>
+    <item key="18016" path="tracks\c226eb324097650ac3176f39bfa297deb875df85">
+      <lyrics/>
+      <moods/>
+      <original_title>Chanel Miller</original_title>
+      <tags/>
+      <title>Know My Name - 006 - Chapter 2</title>
+      <track_index>6</track_index>
+    </item>
+    <item key="18020" path="tracks\22f757e65a88335e68abf97406e7a2133df1863b">
+      <lyrics/>
+      <moods/>
+      <original_title>Chanel Miller</original_title>
+      <tags/>
+      <title>Know My Name - 010 - Chapter 6</title>
+      <track_index>10</track_index>
+    </item>
+    <item key="18021" path="tracks\6f18eba1607ea4456e75b5e539bd9fdb34b52b97">
+      <lyrics/>
+      <moods/>
+      <original_title>Chanel Miller</original_title>
+      <tags/>
+      <title>Know My Name - 011 - Chapter 7</title>
+      <track_index>11</track_index>
+    </item>
+    <item key="18030" path="tracks\c9d319c823a614d70ba847cecad5c1c9e3eae49b">
+      <lyrics/>
+      <moods/>
+      <original_title>Chanel Miller</original_title>
+      <tags/>
+      <title>Know My Name - 020 - Acknowledgments</title>
+      <track_index>20</track_index>
+    </item>
+    <item key="18017" path="tracks\f51d5e68d50eb128dae72b1c15f0aeb114059070">
+      <lyrics/>
+      <moods/>
+      <original_title>Chanel Miller</original_title>
+      <tags/>
+      <title>Know My Name - 007 - Chapter 3</title>
+      <track_index>7</track_index>
+    </item>
+    <item key="18019" path="tracks\ecb9d5e25bc99b92db78c82511bb8aaa24d5cedb">
+      <lyrics/>
+      <moods/>
+      <original_title>Chanel Miller</original_title>
+      <tags/>
+      <title>Know My Name - 009 - Chapter 5</title>
+      <track_index>9</track_index>
+    </item>
+    <item key="18018" path="tracks\a2f0ac968e654e855742e1fd1d71a827c5deba73">
+      <lyrics/>
+      <moods/>
+      <original_title>Chanel Miller</original_title>
+      <tags/>
+      <title>Know My Name - 008 - Chapter 4</title>
+      <track_index>8</track_index>
+    </item>
+    <item key="18028" path="tracks\e61f83368f93882a370388a7bc2256464245070d">
+      <lyrics/>
+      <moods/>
+      <original_title>Chanel Miller</original_title>
+      <tags/>
+      <title>Know My Name - 018 - Chapter 14</title>
+      <track_index>18</track_index>
+    </item>
+    <item key="18029" path="tracks\7de51f9f8df476f59d8623905dcb02ae7e8059de">
+      <lyrics/>
+      <moods/>
+      <original_title>Chanel Miller</original_title>
+      <tags/>
+      <title>Know My Name - 019 - Emily Doe's Victim Impact Statement</title>
+      <track_index>19</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

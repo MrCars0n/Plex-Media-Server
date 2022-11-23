@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2015-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="426e90d52399f9afd05e747ef5c866d0" media="com.plexapp.agents.localmedia_50f907f24f41ca5a5d2736da611baaef69f2ea7a" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Harry Potter 5: The Order of the Phoenix</title>
+  <tracks>
+    <item key="19243" path="tracks\b0d8e6bd01eb9ebe9f0db98c273fc3b8c8a01fbe">
+      <lyrics/>
+      <moods/>
+      <original_title>J.K. Rowling</original_title>
+      <tags/>
+      <title>Harry Potter: The Order of the Phoenix</title>
+      <track_index>5</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters>
+    <item external="True" url="c183f53a1f27412a46b6be42e0de7d09" media="com.plexapp.agents.localmedia_f18585517ff7551c91d7c795042b22f47083c05a" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Star Wars Episode I</title>
+  <tracks>
+    <item key="18644" path="tracks\a19fd065fb1e89cc56b221555d399cf610d01a61">
+      <lyrics/>
+      <moods/>
+      <original_title>Terry Brooks</original_title>
+      <tags/>
+      <title>Phantom Menace</title>
+      <track_index>8</track_index>
+    </item>
+    <item key="18645" path="tracks\2139989c226480d2c4871e16e49c57f208458f5c">
+      <lyrics/>
+      <moods/>
+      <original_title>Terry Brooks</original_title>
+      <tags/>
+      <title>Phantom Menace</title>
+      <track_index>9</track_index>
+    </item>
+    <item key="18642" path="tracks\3d4d7f4e788cf83d94586e75f5dd17463ea7d023">
+      <lyrics/>
+      <moods/>
+      <original_title>Terry Brooks</original_title>
+      <tags/>
+      <title>Phantom Menace</title>
+      <track_index>6</track_index>
+    </item>
+    <item key="18643" path="tracks\680a893e24df3597d32f58cd41930e969027dc06">
+      <lyrics/>
+      <moods/>
+      <original_title>Terry Brooks</original_title>
+      <tags/>
+      <title>Phantom Menace</title>
+      <track_index>7</track_index>
+    </item>
+    <item key="18640" path="tracks\c2234a06828a8c406a2aa78e62a39fa15e8033b4">
+      <lyrics/>
+      <moods/>
+      <original_title>Terry Brooks</original_title>
+      <tags/>
+      <title>Phantom Menace</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="18641" path="tracks\1f9cc1486bd110a5383419d6a763ffdd94a47ec1">
+      <lyrics/>
+      <moods/>
+      <original_title>Terry Brooks</original_title>
+      <tags/>
+      <title>Phantom Menace</title>
+      <track_index>5</track_index>
+    </item>
+    <item key="18637" path="tracks\7a90c2a7a15b47ad7601e507352e8bd2a88daa31">
+      <lyrics/>
+      <moods/>
+      <original_title>Terry Brooks</original_title>
+      <tags/>
+      <title>Phantom Menace</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="18639" path="tracks\afc3f91005f908274f9605349ff9fe9f4a5e2b94">
+      <lyrics/>
+      <moods/>
+      <original_title>Terry Brooks</original_title>
+      <tags/>
+      <title>Phantom Menace</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="18638" path="tracks\da2b969f03a8bf363abb4235b897c51504ec333f">
+      <lyrics/>
+      <moods/>
+      <original_title>Terry Brooks</original_title>
+      <tags/>
+      <title>Phantom Menace</title>
+      <track_index>2</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

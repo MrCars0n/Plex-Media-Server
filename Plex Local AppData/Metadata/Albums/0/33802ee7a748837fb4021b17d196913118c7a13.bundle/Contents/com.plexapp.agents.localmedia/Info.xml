@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Album id="17633">
+  <rating/>
+  <album_type/>
+  <title_sort></title_sort>
+  <art/>
+  <duration/>
+  <genres/>
+  <title>Beneath a Scarlet Sky A Novel</title>
+  <rating_count/>
+  <collections/>
+  <available_at/>
+  <styles/>
+  <tags/>
+  <audience_rating_image/>
+  <rating_image/>
+  <producers/>
+  <audience_rating/>
+  <tracks>
+    <item key="17634">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index/>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Beneath a Scarlet Sky</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title></original_title>
+      <summary/>
+      <art_url/>
+    </item>
+  </tracks>
+  <studio/>
+  <moods/>
+  <posters>
+    <item external="True" url="8e6c331fca72cf8f636ec46d1363dcd3" media="19f81fb93ffa1bc491c47c0afdb2c7942b84ecc0" sort_order="1"/>
+  </posters>
+  <originally_available_at/>
+  <artist/>
+  <countries/>
+  <original_title/>
+  <summary/>
+  <reviews/>
+  <album_format/>
+</Album>

@@ -1,0 +1,76 @@
+2022-08-17 17:13:47,974 (1b1c) :  INFO (core:349) - Starting framework core - Version: 2.6.3, Build: 87136b9 (Tue Aug 16 04:39:41 UTC 2022)
+2022-08-17 17:13:47,974 (1b1c) :  DEBUG (core:361) - Using the elevated policy
+2022-08-17 17:13:47,974 (1b1c) :  DEBUG (core:450) - Starting runtime component.
+2022-08-17 17:13:47,976 (1b1c) :  DEBUG (core:450) - Starting caching component.
+2022-08-17 17:13:47,977 (1b1c) :  DEBUG (core:450) - Starting data component.
+2022-08-17 17:13:47,977 (1b1c) :  DEBUG (core:450) - Starting networking component.
+2022-08-17 17:13:47,977 (1b1c) :  DEBUG (networking:265) - No cookie jar found
+2022-08-17 17:13:47,980 (1b1c) :  DEBUG (networking:428) - Setting the default network timeout to 20.0
+2022-08-17 17:13:47,980 (1b1c) :  DEBUG (core:450) - Starting localization component.
+2022-08-17 17:13:47,980 (1b1c) :  INFO (localization:409) - Setting the default locale to en-us
+2022-08-17 17:13:47,980 (1b1c) :  DEBUG (localization:427) - Loaded en strings
+2022-08-17 17:13:47,980 (1b1c) :  DEBUG (core:450) - Starting messaging component.
+2022-08-17 17:13:47,980 (1b1c) :  DEBUG (core:450) - Starting debugging component.
+2022-08-17 17:13:47,982 (1b1c) :  DEBUG (core:450) - Starting services component.
+2022-08-17 17:13:47,982 (1b1c) :  DEBUG (core:450) - Starting myplex component.
+2022-08-17 17:13:47,982 (3258) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400/system/messaging/clear_events/com.plexapp.plugins.WebTools'
+2022-08-17 17:13:47,983 (1b1c) :  DEBUG (core:450) - Starting notifications component.
+2022-08-17 17:13:48,105 (1b1c) :  DEBUG (accessor:68) - Creating a new model access point for provider com.plexapp.plugins.WebTools in namespace 'metadata'
+2022-08-17 17:13:48,115 (1b1c) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/resourceHashes'
+2022-08-17 17:13:58,125 (1b1c) :  CRITICAL (core:574) - Exception getting hosted resource hashes (most recent call last):
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\components\runtime.py", line 1293, in get_resource_hashes
+    json = self._core.networking.http_request("http://127.0.0.1:32400/:/plugins/com.plexapp.system/resourceHashes", timeout=10).content
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\components\networking.py", line 242, in content
+    return self.__str__()
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\components\networking.py", line 220, in __str__
+    self.load()
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\components\networking.py", line 158, in load
+    f = self._opener.open(req, timeout=self._timeout)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 447, in _open
+    '_open', req)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 1201, in do_open
+    r = h.getresponse(buffering=True)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\httplib.py", line 1148, in getresponse
+    response.begin()
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\httplib.py", line 448, in begin
+    version, status, reason = self._read_status()
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\httplib.py", line 404, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+timeout: timed out
+
+2022-08-17 17:13:58,141 (1b1c) :  DEBUG (runtime:1117) - Created a thread named 'load_all_services'
+2022-08-17 17:13:58,141 (d4c) :  DEBUG (services:265) - Plug-in is not daemonized - loading services from system
+2022-08-17 17:13:58,144 (1b1c) :  DEBUG (runtime:1117) - Created a thread named 'get_server_info'
+2022-08-17 17:13:58,148 (2c20) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400'
+2022-08-17 17:13:58,148 (d4c) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_'
+2022-08-17 17:13:58,153 (1b1c) :  DEBUG (core:150) - Finished starting framework core
+2022-08-17 17:13:58,154 (1b1c) :  DEBUG (core:560) - Loading plug-in code
+2022-08-17 17:13:58,167 (2c20) :  DEBUG (core:538) - Machine identifier is 1fdbb643d7ecf4de09d917684ebc0c17c09d7032
+2022-08-17 17:13:58,167 (2c20) :  DEBUG (core:539) - Server version is 1.28.1.6092-87136b92b
+2022-08-17 17:13:58,173 (d4c) :  DEBUG (services:362) - Loaded services
+2022-08-17 17:13:58,184 (20ac) :  DEBUG (services:438) - No shared code to load
+2022-08-17 17:13:58,196 (1b1c) :  DEBUG (core:566) - Finished loading plug-in code
+2022-08-17 17:13:58,321 (1b1c) :  INFO (datakit:118) - No default dictionary file
+2022-08-17 17:13:58,342 (1b1c) :  DEBUG (preferences:258) - Loaded preferences from DefaultPrefs.json
+2022-08-17 17:13:58,342 (1b1c) :  INFO (preferences:161) - No user preferences file exists
+2022-08-17 17:13:58,342 (1b1c) :  DEBUG (preferences:198) - Saved the user preferences
+2022-08-17 17:13:59,046 (1b1c) :  DEBUG (logkit:13) - updateTranslationStore started
+2022-08-17 17:13:59,046 (1b1c) :  DEBUG (logkit:13) - bundleStore: C:\Users\carso\AppData\Local\Plex Media Server\Plug-ins\WebTools.bundle\http\static\_shared\translations.js
+2022-08-17 17:13:59,046 (1b1c) :  DEBUG (logkit:13) - dataStore: C:\Users\carso\AppData\Local\Plex Media Server\Plug-in Support\Data\com.plexapp.plugins.WebTools\DataItems\translations.js
+2022-08-17 17:13:59,048 (1b1c) :  INFO (logkit:16) - Updating translation file in storage
+2022-08-17 17:13:59,085 (1b1c) :  INFO (logkit:16) - Running upgradeCleanup
+2022-08-17 17:13:59,404 (1b1c) :  DEBUG (runtime:640) - Adding a prefix handler for 'WebTools' ('/applications/webtools')
+2022-08-17 17:13:59,404 (1b1c) :  DEBUG (logkit:13) - *******  Started WebTools V3.0.0 on Windows at 2022-08-17 17:13 with locale set to ('en_US', 'cp1252') ***********
+2022-08-17 17:13:59,404 (1b1c) :  DEBUG (logkit:13) - updateTranslationStore started
+2022-08-17 17:13:59,404 (1b1c) :  DEBUG (logkit:13) - bundleStore: C:\Users\carso\AppData\Local\Plex Media Server\Plug-ins\WebTools.bundle\http\static\_shared\translations.js
+2022-08-17 17:13:59,405 (1b1c) :  DEBUG (logkit:13) - dataStore: C:\Users\carso\AppData\Local\Plex Media Server\Plug-in Support\Data\com.plexapp.plugins.WebTools\DataItems\translations.js
+2022-08-17 17:13:59,405 (1b1c) :  INFO (logkit:16) - Running upgradeCleanup
+2022-08-17 17:13:59,407 (1b1c) :  DEBUG (logkit:13) - Asked Tornado to exit

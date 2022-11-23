@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters>
+    <item external="True" url="c602e7ca707b94abfca64e9993aeae90" media="com.plexapp.agents.localmedia_e9602e2703e476cc65dd91f8324de0e4a998a0ce" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <tracks>
+    <item key="17689" path="tracks\d92772a7e308c503284b0beac2686478d7b7b3ed">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Push</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

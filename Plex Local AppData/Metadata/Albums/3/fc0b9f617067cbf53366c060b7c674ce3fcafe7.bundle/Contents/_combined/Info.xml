@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters>
+    <item external="True" url="33780e491bcae15670036663424b45fd" media="com.plexapp.agents.localmedia_5b9c99cab6dfb62de35355d4042d989237077217" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Folk of the Air, Bk 2</title>
+  <tracks>
+    <item key="17694" path="tracks\eeccf2b2e7857eba6d30c6fdba4c7560b9a92870">
+      <lyrics/>
+      <moods/>
+      <original_title>Holly Black</original_title>
+      <tags/>
+      <title>The Wicked King</title>
+      <track_index>1</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

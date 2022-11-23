@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters>
+    <item external="True" url="21143733c5a8997977aebaec2c10c4bc" media="com.plexapp.agents.localmedia_a1396e5bb2a92eea81658d2ce420014431a153e9" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Radio Drama - Star Wars Episode VI</title>
+  <tracks>
+    <item key="18611" path="tracks\639f404a12725e818f8ebd9ad0577714e81e751b">
+      <lyrics/>
+      <moods/>
+      <original_title>Brian Daley</original_title>
+      <tags/>
+      <title>Tatooine Haunts</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="18613" path="tracks\77850c735a0c623ed742a7f865382156ed08150e">
+      <lyrics/>
+      <moods/>
+      <original_title>Brian Daley</original_title>
+      <tags/>
+      <title>Prophesies and Destinies</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="18612" path="tracks\a5b3506b6ddb21c99fb6c715e4483a7a01cf4fb9">
+      <lyrics/>
+      <moods/>
+      <original_title>Brian Daley</original_title>
+      <tags/>
+      <title>Fast Friends</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="18615" path="tracks\cee950450290431d97d82f9a332a4183afbadebf">
+      <lyrics/>
+      <moods/>
+      <original_title>Brian Daley</original_title>
+      <tags/>
+      <title>So Turns a Galaxy, So Turns a Wheel</title>
+      <track_index>5</track_index>
+    </item>
+    <item key="18614" path="tracks\118af24fcd634602f4943e4aaee0de44ce49e7d6">
+      <lyrics/>
+      <moods/>
+      <original_title>Brian Daley</original_title>
+      <tags/>
+      <title>Pattern and Web</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="18616" path="tracks\42b198431e012c8b6f488a7f4e7a21b517a519e3">
+      <lyrics/>
+      <moods/>
+      <original_title>Brian Daley</original_title>
+      <tags/>
+      <title>Blood of a Jedi</title>
+      <track_index>6</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

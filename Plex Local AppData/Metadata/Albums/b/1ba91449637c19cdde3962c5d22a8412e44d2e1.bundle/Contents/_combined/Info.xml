@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2018-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="9a59200ae37a76bfca24613b2b94cff1" media="com.plexapp.agents.localmedia_81ae143c440f960ea9469817ab3e54fc03357ab5" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>The Last Time I Lied: A Novel</title>
+  <tracks>
+    <item key="17803" path="tracks\985d0743bb48c3841735f185234280b0dbbfebf6">
+      <lyrics/>
+      <moods/>
+      <original_title>Riley Sager/Riley Sager</original_title>
+      <tags/>
+      <title>The Last Time I Lied (1)</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="17804" path="tracks\8b27a79dffffe1b6f8bfb86190a31cb77852924b">
+      <lyrics/>
+      <moods/>
+      <original_title>Riley Sager/Riley Sager</original_title>
+      <tags/>
+      <title>The Last Time I Lied (2)</title>
+      <track_index>2</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

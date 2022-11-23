@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2000-01-01</originally_available_at>
+  <posters/>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>07-The Last Battle</title>
+  <tracks>
+    <item key="19134" path="tracks\164756ae90c9c1bbed0ce98d33f9a9e4c24df3bd">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>07-The Last Battle-04</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="19133" path="tracks\56c288fe2208f85bc8d08d54bc0363439a8535be">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>07-The Last Battle-03</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="19132" path="tracks\d02659d711b0cc9a775a14a24438d9e5c0e1979f">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>07-The Last Battle-02</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="19131" path="tracks\46bd16c06fa545286c8df899de1ae56de5fe3c41">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>07-The Last Battle-01</title>
+      <track_index>1</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

@@ -1,0 +1,241 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters>
+    <item external="True" url="2cd6f1939ba29a45166578e70082dab6" media="com.plexapp.agents.localmedia_b9b5af6ac0262f28af903ea7848cdaa99b96cc05" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="37858617377917bbffe2397381a8adbe" media="com.plexapp.agents.localmedia_19267e6edf62b342a060d76beee3a9428cc25ea2" sort_order="2" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="2583257b603a656e80ba3e1ceebc2519" media="com.plexapp.agents.localmedia_9edaf16230fd9f346be09408492136301f2563cb" sort_order="3" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="5eff2754697970acd1881ea735087e83" media="com.plexapp.agents.localmedia_bcab489abc93e537f85cbe9e62ec336b3f190893" sort_order="4" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="0896229c39904126cea365ec9d114163" media="com.plexapp.agents.localmedia_b49baf47d982203e93c70e8d0647284aea4193a7" sort_order="5" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="131bf238b9b4ab26ebe5ea33e4200694" media="com.plexapp.agents.localmedia_3747c8d39b8905fea5d04c4467361d647dc4b8b3" sort_order="6" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <tracks>
+    <item key="18422" path="tracks\8e5c5ccff38c614b636682001c49d6da0f0c1421">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+    <item key="18410" path="tracks\99d4fcdf9b312d053ca9c0223c528dc940fb220c">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+    <item key="18423" path="tracks\5cdd9f0d04198ed43c4636d88d5dddcfa26ebb99">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+    <item key="18408" path="tracks\c41f2d24003ac2ff13fb54aac93dfa1d416d5741">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+    <item key="18409" path="tracks\9596819baebccadb97437119f6feee1e38459948">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+    <item key="18420" path="tracks\a9734d7b21f07027096bf7d0666c074f8f9be3a8">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+    <item key="18421" path="tracks\aa07ae07095036a9dd24eaf35bc0167c9cbe0834">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+    <item key="18424" path="tracks\58b9087073dcfebaa46f4698fd8d694b6ca4e597">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+    <item key="18425" path="tracks\512e15e3675f90121af56453af8c1f26a6b26d55">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+    <item key="18400" path="tracks\20e6706902670fa9a013303af7855604fa568f39">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+    <item key="18401" path="tracks\6cd178c33a46476dd7d3030f664f57fcda620eb8">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+    <item key="18402" path="tracks\93c5b16216256e2d22910d1fe769745776d45071">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+    <item key="18403" path="tracks\45218e609fed79d850179e97e09902d8fc8fb0d0">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+    <item key="18404" path="tracks\903d58a7be50617f201621c22234cff059d9b06a">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+    <item key="18405" path="tracks\dd86fe720f9a95009b991fb8005d1cca034acc91">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+    <item key="18406" path="tracks\d55c1b4e3a31ebe17d8c1d7e8e188edb700d6b53">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+    <item key="18407" path="tracks\2512819b573563da9bef3758d246ebfe2d92333e">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+    <item key="17604" path="tracks\2bc33714ac38f4f043cdc031843f6c4589b4f183">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bird by Bird Some Instructions on Writing and Life by Anne Lamott</title>
+    </item>
+    <item key="18398" path="tracks\f17e29b33b31f230fa1ad0b832aed005424cce1a">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+    <item key="18399" path="tracks\ad144fc6f3aa6687b0d491b11667a4ca559a2fa1">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+    <item key="18411" path="tracks\ad1ad7d4e6a58c48aa5bee0a32d9d777a092e1f0">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+    <item key="18419" path="tracks\751a08ab6bb2c8ed3644cde0b92abcf20ec9d3df">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+    <item key="18418" path="tracks\e5f9a3f2b17868498ca57f259e3935e8694c8ad6">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+    <item key="18417" path="tracks\2c8270ee7cc659cb394b8fdf7dd7123eaa105a97">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+    <item key="18416" path="tracks\8613ddec13e671380d9b9a90d28eff2f86d99114">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+    <item key="18415" path="tracks\c698bf3fee384f7024f04570b8cd27edeb6be72b">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+    <item key="18414" path="tracks\d2b1f46a0f366fd68f32f493ff04855d14f4812a">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+    <item key="18413" path="tracks\973c0639d5584399e4b4dc7ebb9d861cfb3ce4e4">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+    <item key="18412" path="tracks\e6cedd4d1bb47c8944a679beb50717338a2fd4e5">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+    <item key="18396" path="tracks\6c94670146030fcd618614bafbc1cf650dfea57a">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+    <item key="18397" path="tracks\9eea1a8f3776cd8caa660aed2255f989db108db1">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Champions of the Force</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

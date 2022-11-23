@@ -1,0 +1,553 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Album id="18011">
+  <rating/>
+  <album_type/>
+  <title_sort></title_sort>
+  <art/>
+  <duration/>
+  <genres/>
+  <title>Know My Name - A Memoir</title>
+  <rating_count/>
+  <collections/>
+  <available_at/>
+  <styles/>
+  <tags/>
+  <audience_rating_image/>
+  <rating_image/>
+  <producers/>
+  <audience_rating/>
+  <tracks>
+    <item key="18026">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>16</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Know My Name - 016 - Chapter 12</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>Chanel Miller</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="18031">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>21</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Know My Name - 021 - Credits</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>Chanel Miller</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="18020">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>10</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Know My Name - 010 - Chapter 6</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>Chanel Miller</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="18027">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>17</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Know My Name - 017 - Chapter 13</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>Chanel Miller</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="18029">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>19</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Know My Name - 019 - Emily Doe's Victim Impact Statement</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>Chanel Miller</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="18021">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>11</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Know My Name - 011 - Chapter 7</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>Chanel Miller</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="18013">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>3</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Know My Name - 003 - Introduction</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>Chanel Miller</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="18012">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>1</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Know My Name - 001 - Know My Name</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>Chanel Miller</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="18024">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>14</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Know My Name - 014 - Chapter 10</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>Chanel Miller</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="18025">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>15</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Know My Name - 015 - Chapter 11</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>Chanel Miller</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="18017">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>7</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Know My Name - 007 - Chapter 3</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>Chanel Miller</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="18016">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>6</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Know My Name - 006 - Chapter 2</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>Chanel Miller</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="18015">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>5</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Know My Name - 005 - Chapter 1</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>Chanel Miller</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="18014">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>4</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Know My Name - 004 - Epigraph</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>Chanel Miller</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="18030">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>20</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Know My Name - 020 - Acknowledgments</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>Chanel Miller</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="18022">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>12</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Know My Name - 012 - Chapter 8</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>Chanel Miller</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="18019">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>9</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Know My Name - 009 - Chapter 5</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>Chanel Miller</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="18018">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>8</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Know My Name - 008 - Chapter 4</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>Chanel Miller</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="18028">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>18</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Know My Name - 018 - Chapter 14</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>Chanel Miller</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="18023">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>13</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Know My Name - 013 - Chapter 9</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>Chanel Miller</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+  </tracks>
+  <studio/>
+  <moods/>
+  <posters>
+    <item external="True" url="7739b92a9d878dcd897ccc2ba9a3facb" media="af8c2776215e7ae62d1491cfddc94ff6324c1e48" sort_order="1"/>
+  </posters>
+  <originally_available_at/>
+  <artist/>
+  <countries/>
+  <original_title/>
+  <summary/>
+  <reviews/>
+  <album_format/>
+</Album>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters>
+    <item external="True" url="65eda9b47b1d99bec77abfde3e8877f0" media="com.plexapp.agents.localmedia_4059246e4ff787c0527597b91925194968ae1bf2" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>A Court of Wings and Ruin</title>
+  <tracks>
+    <item key="17628" path="tracks\b74e7c2b6d9400a2a04992d6b723c52c87589d02">
+      <lyrics/>
+      <moods/>
+      <original_title>Sarah J. Maas</original_title>
+      <tags/>
+      <title>A Court of Wings and Ruin</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

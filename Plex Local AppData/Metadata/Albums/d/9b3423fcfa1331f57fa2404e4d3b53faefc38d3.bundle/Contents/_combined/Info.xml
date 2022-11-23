@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters/>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>The Lost Apothecary - A Novel</title>
+  <tracks>
+    <item key="17973" path="tracks\791d6736d22916e74b5f4c1e486aafb9fccb20be">
+      <lyrics/>
+      <moods/>
+      <original_title>Sarah Penner</original_title>
+      <tags/>
+      <title>The Lost Apothecary - Part 04</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

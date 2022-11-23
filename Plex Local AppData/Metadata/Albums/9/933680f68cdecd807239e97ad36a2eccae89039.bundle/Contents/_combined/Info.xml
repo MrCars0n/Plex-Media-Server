@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2014-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="6788daf50817dda1a2e7b4b655ba5bc1" media="com.plexapp.agents.localmedia_3cde4309ba6c0a97d14106f7722f28e4a25b58b7" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>James Potter and the Hall of Elders Crossing</title>
+  <tracks>
+    <item key="19399" path="tracks\1e90e61568a57942888af04eed2f3f3d6bd15c4d">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 10, Holiday At Grimauld Place</title>
+      <track_index>11</track_index>
+    </item>
+    <item key="19398" path="tracks\b76b5facfae261b2709d845af23989306aa934e8">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 9, The Debate Betrayal</title>
+      <track_index>10</track_index>
+    </item>
+    <item key="19397" path="tracks\a8719d72094c43f581fedb115710edda0c36bf48">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 8, The Grotto Keep</title>
+      <track_index>9</track_index>
+    </item>
+    <item key="19396" path="tracks\da261265731e0c947a594bd7d0d49a6de0aa7f40">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 7, Broken Loyalty</title>
+      <track_index>8</track_index>
+    </item>
+    <item key="19395" path="tracks\47c469e9c624c956017dcf150a8faaa0dc876916">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 6, Harry's Midnight Meeting</title>
+      <track_index>7</track_index>
+    </item>
+    <item key="19394" path="tracks\e4c1ccdbb27c62f4b771ed604b2444945a2634c1">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 5, The Book Of Austramaddux</title>
+      <track_index>6</track_index>
+    </item>
+    <item key="19393" path="tracks\bf7acdf044d5ca5c927b3c0aca32352e75c6d522">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 4, The Progressive Element</title>
+      <track_index>5</track_index>
+    </item>
+    <item key="19392" path="tracks\0fa1f5303446a8e335c5eb7d9637a9bf7cf83c65">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 3, The Ghost And The Intruder</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="19391" path="tracks\d16e048e5fe1d9b88261023c095a7b6b5abb139f">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 2, Arival Of The Alma Alarons</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="19390" path="tracks\e78f49879f7ddf600b14f8a101b3a3d00fa134cf">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 1, Shadow Of Legends</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="19409" path="tracks\fded7637b5c189d8a3d0e6e73f5e31d0e8eb0d98">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 20, Tale of the Traitor</title>
+      <track_index>21</track_index>
+    </item>
+    <item key="19408" path="tracks\e3f90817e463abab668a685cda5a14b2404e5b72">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 19, Secrets Unveiled</title>
+      <track_index>20</track_index>
+    </item>
+    <item key="19407" path="tracks\841d0869bad9d755513981c6f97787504019ea6c">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 18, The Tower Assembly</title>
+      <track_index>19</track_index>
+    </item>
+    <item key="19406" path="tracks\c0d35e3c688354cdd653cbaa55e900ea8612c1b0">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 17, Night of the Returning</title>
+      <track_index>18</track_index>
+    </item>
+    <item key="19405" path="tracks\41d9f8638d3f917f32a0ed685e6bbd218d514875">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 16, Disaster of the Merlin Staff</title>
+      <track_index>17</track_index>
+    </item>
+    <item key="19404" path="tracks\ae391e580ead6bf97a093fa55e8f9c859e6fdea7">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 15, The Muggle Spy</title>
+      <track_index>16</track_index>
+    </item>
+    <item key="19403" path="tracks\c6fe67431eea97202ea5cf0c6919d0d6e4dd8410">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 14, The Hall of Elders Crossing</title>
+      <track_index>15</track_index>
+    </item>
+    <item key="19402" path="tracks\7c47444bce185308769fd9965379e37fcc5b30bc">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 13, Revelation of the Robe</title>
+      <track_index>14</track_index>
+    </item>
+    <item key="19401" path="tracks\d4d561d8aedfc0e2ccedf07593bdd50e4a6eed9e">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 12, Visum-Ineptio</title>
+      <track_index>13</track_index>
+    </item>
+    <item key="19400" path="tracks\3b5caf3c12f84b221afbf8764cd321d1709864a6">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 11, The Three Relics</title>
+      <track_index>12</track_index>
+    </item>
+    <item key="19389" path="tracks\13185c094cd7379c2ee62ab53b634bc60441a217">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Prologue</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="19410" path="tracks\7a54ca9a5d74ae2e900a3c5df785933b77c9a52c">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 21, The Gift of the Green Box</title>
+      <track_index>22</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

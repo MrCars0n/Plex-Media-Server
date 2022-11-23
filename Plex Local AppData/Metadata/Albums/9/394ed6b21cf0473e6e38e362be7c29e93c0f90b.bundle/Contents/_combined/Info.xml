@@ -1,0 +1,918 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2020-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="29cb69e5ec64e5880a146c156900ea3b" media="com.plexapp.agents.localmedia_da2e4eb8d012993dd27e2e56cb83fd8cbb3cd184" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="5f724120f2063337ea38c4b772830a37" media="com.plexapp.agents.localmedia_1b4a698f425ce18a1c90b6bf13064d2d7430d44c" sort_order="2" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>The Invisible Life of Addie LaRue</title>
+  <tracks>
+    <item key="18099" path="tracks\3953a2007b35e400a0f6244d4fb698d1ce9c38fc">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>14</track_index>
+    </item>
+    <item key="18098" path="tracks\68cae60b4f16826958f84a85c3179757b127044b">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>13</track_index>
+    </item>
+    <item key="18093" path="tracks\44b552503308072c8521c580b8deababbe52d48a">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>8</track_index>
+    </item>
+    <item key="18092" path="tracks\11ce83c39b94a005ddea8abd8152bb4abbe91354">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>7</track_index>
+    </item>
+    <item key="18091" path="tracks\d8d4c0437218bd6830b93fd195ca9e1485a70fd4">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>6</track_index>
+    </item>
+    <item key="18090" path="tracks\92f2e8341903599c8e3fa471e7956499ef1b6d7c">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>5</track_index>
+    </item>
+    <item key="18097" path="tracks\8c139d462ad2eed5c69f209627a75f093fab6dd1">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>12</track_index>
+    </item>
+    <item key="18096" path="tracks\232e44e617ca263f7b5164e5cc94ed4610e0fb02">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>11</track_index>
+    </item>
+    <item key="18095" path="tracks\129b7fca4f2e635948fb81dcf1e34d0e67d5d4bd">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>10</track_index>
+    </item>
+    <item key="18094" path="tracks\02bed63713e7284fa2597d3ed54b52ff08db0a78">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>9</track_index>
+    </item>
+    <item key="18158" path="tracks\a38c39f29d68b702459eeddb54df470040b4c7d6">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>73</track_index>
+    </item>
+    <item key="18159" path="tracks\91f08bc19976216d48a564128e445af932d86e85">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>74</track_index>
+    </item>
+    <item key="18152" path="tracks\340779c74c052ea2761edf28750580222f08d1f5">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>67</track_index>
+    </item>
+    <item key="18153" path="tracks\62ea786a253b5910d1fa11350eb756ed9bd4971b">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>68</track_index>
+    </item>
+    <item key="18150" path="tracks\b4398a2d4da674c6f48ef57ead31c023bb5a5704">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>65</track_index>
+    </item>
+    <item key="18151" path="tracks\681b931c09db689e73c12721bc4ba2064d9441f9">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>66</track_index>
+    </item>
+    <item key="18156" path="tracks\1bc1b7d6556b10b384ada903d716488d41b9715f">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>71</track_index>
+    </item>
+    <item key="18157" path="tracks\654ddeba300c5783dca67f114008af2b9ced6645">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>72</track_index>
+    </item>
+    <item key="18154" path="tracks\3011bd1c29c31758701d781ca03740edc619dc2b">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>69</track_index>
+    </item>
+    <item key="18155" path="tracks\dd32d97c58369dc13f96c37efb9211ac90f43b09">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>70</track_index>
+    </item>
+    <item key="18167" path="tracks\0034d1e50196e621218f752d0c3f249ff33bc066">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>82</track_index>
+    </item>
+    <item key="18166" path="tracks\38af8f617a49e15fe3a65000d0f5ab584b9bde12">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>81</track_index>
+    </item>
+    <item key="18165" path="tracks\6e2b75f20cd935de99988d7f858c7a582d1e586d">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>80</track_index>
+    </item>
+    <item key="18164" path="tracks\013f2e9787ac91f3905140b67af672b55862b053">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>79</track_index>
+    </item>
+    <item key="18163" path="tracks\88b271dbe239d54ad85a842916cae8ef129c71ec">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>78</track_index>
+    </item>
+    <item key="18162" path="tracks\44f44dd2de0b860edb9b4e68da38e38a34049c71">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>77</track_index>
+    </item>
+    <item key="18161" path="tracks\a6e8b0e66756c954fae27764cb835fe8022c8f2e">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>76</track_index>
+    </item>
+    <item key="18160" path="tracks\a9f7e20a449ec610653bbc9a760277e51e2c74c6">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>75</track_index>
+    </item>
+    <item key="18169" path="tracks\441d772dc4fd4b75282ae02bc45a481d94242ff8">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>84</track_index>
+    </item>
+    <item key="18168" path="tracks\552058b8ab88b8e2c7505c136a740298f6cd9784">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>83</track_index>
+    </item>
+    <item key="18170" path="tracks\c9c619ec2dc99c84d88e653101a0309c06aded12">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>85</track_index>
+    </item>
+    <item key="18171" path="tracks\ef271b79d2abd44441fcf201677d754b0fa697f7">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>86</track_index>
+    </item>
+    <item key="18172" path="tracks\6073c8a3b89e1ce4c40ff59544439c7900c17b54">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>87</track_index>
+    </item>
+    <item key="18173" path="tracks\f7d92cbf4ca6bfb4e604ea978199546c6d2ba0a0">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>88</track_index>
+    </item>
+    <item key="18174" path="tracks\d75de97e68f5c95cc4ee2e13dbf4bbc6210f2b68">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>89</track_index>
+    </item>
+    <item key="18175" path="tracks\22f8e445028e8fb18c109c83491e6a3410a58daa">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>90</track_index>
+    </item>
+    <item key="18176" path="tracks\6c7b003b2ef9f8af41a7e43f4e6289aec82e7003">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>91</track_index>
+    </item>
+    <item key="18177" path="tracks\8aec2368d33584db99e8059f342b16722317aeaf">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>92</track_index>
+    </item>
+    <item key="18178" path="tracks\c44c3b0d8ed8f40887cfea471c08aacb8928f585">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>93</track_index>
+    </item>
+    <item key="18179" path="tracks\a34f75c3bb79c735a6a8e8b2b60034cf03243cdc">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>94</track_index>
+    </item>
+    <item key="18086" path="tracks\c34cafcd8d309b1a01b86b246745ef52072313ed">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="18087" path="tracks\bd7e77140b51d82945399b593e761a592dc046d9">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="18088" path="tracks\784e28b4b20f558b72f759737077ad9db571bc0c">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="18089" path="tracks\44dc87be596b5974ffd3b22cd872e45b9cab69b6">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="18189" path="tracks\8ea8fe14379e34d28122282c7eace49f95ae0e89">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>104</track_index>
+    </item>
+    <item key="18188" path="tracks\85e165995a33d99bc3ef4473ba5e571550bd8933">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>103</track_index>
+    </item>
+    <item key="18185" path="tracks\2e8435882d77f0aa182d3786887f63985b3e4e2e">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>100</track_index>
+    </item>
+    <item key="18184" path="tracks\d5fcf0cbb2d4742217bec8b4d9ffa318661dd56e">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>99</track_index>
+    </item>
+    <item key="18187" path="tracks\4dfdb8c27ad3cdd4ee4708febf2df97481877fab">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>102</track_index>
+    </item>
+    <item key="18186" path="tracks\82c3c46cc8112407c3db679aeae52f7c72a9396a">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>101</track_index>
+    </item>
+    <item key="18181" path="tracks\431cc3dc8225d4e8bc73990309f049d3518173c6">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>96</track_index>
+    </item>
+    <item key="18180" path="tracks\be1be8d64c645e6cfcd746a9cb91149228ef1c03">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>95</track_index>
+    </item>
+    <item key="18183" path="tracks\43ad4ee18386941df51951accaa4ba8ee26f5293">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>98</track_index>
+    </item>
+    <item key="18182" path="tracks\f7ba50d42a9604ff3085c2ab4b9734c471f1ef86">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>97</track_index>
+    </item>
+    <item key="18105" path="tracks\851a7b029649bd12368446bd5170b922bc818c13">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>20</track_index>
+    </item>
+    <item key="18104" path="tracks\92bf0f6cdf241d4f87a27ac757af285890bfe3c0">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>19</track_index>
+    </item>
+    <item key="18107" path="tracks\99345a77f8878e864cd60aca5916db7f1ccbf2ab">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>22</track_index>
+    </item>
+    <item key="18106" path="tracks\0534d8834540c4b4e59e71b1937e2c7f5967e473">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>21</track_index>
+    </item>
+    <item key="18101" path="tracks\317616fb2de2618251490803d859ac66be7e72cb">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>16</track_index>
+    </item>
+    <item key="18100" path="tracks\c18f903afb137983e1fa3f8fd9d8f71b61d2ec37">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>15</track_index>
+    </item>
+    <item key="18103" path="tracks\7d993254afd6b8dc6003a3a2a0cf4abefae1ef6c">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>18</track_index>
+    </item>
+    <item key="18102" path="tracks\2efe59bfef96cc872505e1aeab0e197db85f2fd4">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>17</track_index>
+    </item>
+    <item key="18109" path="tracks\7447293c1a3026ff7d2eda9c2d2558501932732b">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>24</track_index>
+    </item>
+    <item key="18108" path="tracks\fdf5e58f0a0692f95975102a0842bcb5f519ca45">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>23</track_index>
+    </item>
+    <item key="18196" path="tracks\b12da183aab26ff577e17cdf97397bcc6f672392">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>111</track_index>
+    </item>
+    <item key="18197" path="tracks\a02fa3ce337d0e036d3b721f56aed91fce5160f6">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>112</track_index>
+    </item>
+    <item key="18194" path="tracks\7039f603111866174c08b16e5b36327db7f59d5c">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>109</track_index>
+    </item>
+    <item key="18195" path="tracks\9aa5ff2ec3cfcb711ff4ee36e111f4fb407c661e">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>110</track_index>
+    </item>
+    <item key="18192" path="tracks\9f71664fe789d2321f44b75974925f605cfd4ff4">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>107</track_index>
+    </item>
+    <item key="18193" path="tracks\ec5077e1543b45552f45f0e5e7ca613ead760a14">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>108</track_index>
+    </item>
+    <item key="18190" path="tracks\75ae443e1ada691a29f06c3ca6d4179c0892b6aa">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>105</track_index>
+    </item>
+    <item key="18191" path="tracks\3f0c984b3a8d604093c8e17f57aab81adf58dbd0">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>106</track_index>
+    </item>
+    <item key="18116" path="tracks\91978b930b4a4d2ac57bd5deef4404ed2b4c550e">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>31</track_index>
+    </item>
+    <item key="18117" path="tracks\492938fb126a30210f989c47f4ba01cde943971e">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>32</track_index>
+    </item>
+    <item key="18114" path="tracks\3dfdef7a9cda3c74ebe5a475ac569f6afc48c6ca">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>29</track_index>
+    </item>
+    <item key="18115" path="tracks\4fe4e70711506909d1317fe2ec6aab0983b142b0">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>30</track_index>
+    </item>
+    <item key="18112" path="tracks\cf3540d334f8ccdef2badde9fa2458488e5aa63c">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>27</track_index>
+    </item>
+    <item key="18113" path="tracks\99227f7002155799fad957883794dfaf407364f7">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>28</track_index>
+    </item>
+    <item key="18110" path="tracks\0c84cbd0744e77ffa01cf9105999a0d2c34b6a46">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>25</track_index>
+    </item>
+    <item key="18111" path="tracks\c2c98654f9516b7ac31bf972e0df9b640c81435a">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>26</track_index>
+    </item>
+    <item key="18118" path="tracks\d9d63d57c0e2237328fc60ad0da7836a48632a5b">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>33</track_index>
+    </item>
+    <item key="18119" path="tracks\d87085ca7ddb8d80312dba9e53112fcb7b3d52ff">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>34</track_index>
+    </item>
+    <item key="18123" path="tracks\04c37773603e97cfeab014f5da8342404b3431f5">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>38</track_index>
+    </item>
+    <item key="18122" path="tracks\07ac0329588e66f37ce1c2e1de593a4048d0e236">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>37</track_index>
+    </item>
+    <item key="18121" path="tracks\5bcc1c9832647bc19e88c82e080a5a3f0b816088">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>36</track_index>
+    </item>
+    <item key="18120" path="tracks\e2701a01f86141c5aaa5392ea556f9e014ba6515">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>35</track_index>
+    </item>
+    <item key="18127" path="tracks\481a0dd414d73971d77e4084b8b1ab808f3e4b0f">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>42</track_index>
+    </item>
+    <item key="18126" path="tracks\f07c5109c4568631e533c904931d2d62f5655296">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>41</track_index>
+    </item>
+    <item key="18125" path="tracks\bce7c9af03bbf767e05f966b19a749c0183e7a8c">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>40</track_index>
+    </item>
+    <item key="18124" path="tracks\49b2b8c5ffa95b7d76b84a39a98317e5ad837b1c">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>39</track_index>
+    </item>
+    <item key="18129" path="tracks\b30c9e47cd7aa1ae0c6c449a66231e3563d30330">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>44</track_index>
+    </item>
+    <item key="18128" path="tracks\419c023bdbd0789cb5fc60af311a964d2036fdb7">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>43</track_index>
+    </item>
+    <item key="18138" path="tracks\f39142faa7f89f5dff97d259c6dfbaf816316b02">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>53</track_index>
+    </item>
+    <item key="18139" path="tracks\62156c56740b54836a37988ebf4e8ccb6fc38df7">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>54</track_index>
+    </item>
+    <item key="18134" path="tracks\13f568600bb2209b95ee037cf640d3514faaed14">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>49</track_index>
+    </item>
+    <item key="18135" path="tracks\ad1bf0bc8593ab19eaa337999a0acdac504be528">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>50</track_index>
+    </item>
+    <item key="18136" path="tracks\8b5d6ce0b66673b4d924b5ad3f13465e471b3325">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>51</track_index>
+    </item>
+    <item key="18137" path="tracks\61f21cb6f24b2d55406a52833080aac988363813">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>52</track_index>
+    </item>
+    <item key="18130" path="tracks\3456183a9484e1b2d841ed1afed38dbf4101b3dc">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>45</track_index>
+    </item>
+    <item key="18131" path="tracks\4c2040f344805fb04a42398fcbe7ecd5182029ce">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>46</track_index>
+    </item>
+    <item key="18132" path="tracks\12c0c5d82ca8e740b84f316d4d2233fb86058add">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>47</track_index>
+    </item>
+    <item key="18133" path="tracks\299b28c4791eb2615dc7fcf905b966e8c3661d52">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>48</track_index>
+    </item>
+    <item key="18149" path="tracks\bb0a3320ddd20f49ab777d848d289566621d18c6">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>64</track_index>
+    </item>
+    <item key="18148" path="tracks\b97bf4b87b9bd18c06afc3d73a5a132e7441b589">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>63</track_index>
+    </item>
+    <item key="18141" path="tracks\44b0a734a29f8e2d887775662425bee2031bced2">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>56</track_index>
+    </item>
+    <item key="18140" path="tracks\de0de6d53f2008158dcf4d8dddea1fe66f57cd86">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>55</track_index>
+    </item>
+    <item key="18143" path="tracks\fcf01def6edc90226613a0ad63c0e5b478676954">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>58</track_index>
+    </item>
+    <item key="18142" path="tracks\a4a951ffc432cec7c37dba4c6114d3f175c46223">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>57</track_index>
+    </item>
+    <item key="18145" path="tracks\cfcd3d5818a373d1ed84b4be2b27a8f12dfd29cc">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>60</track_index>
+    </item>
+    <item key="18144" path="tracks\074d422ad98aec2133709f2b667389246a760775">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>59</track_index>
+    </item>
+    <item key="18147" path="tracks\af8463ac86e545099329721ab8e97d41838799bf">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>62</track_index>
+    </item>
+    <item key="18146" path="tracks\da08493d89374fa793025b0dbbeb4a9f018fa2d1">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Invisible Life of Addie LaRue</title>
+      <track_index>61</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

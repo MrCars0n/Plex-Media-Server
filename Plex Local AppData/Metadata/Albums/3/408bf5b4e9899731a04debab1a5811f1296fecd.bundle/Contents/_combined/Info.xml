@@ -1,0 +1,286 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters>
+    <item external="True" url="53978ee5f59644e60555482da79b8bfe" media="com.plexapp.agents.localmedia_5433b6159d1843671b1a9aa5dab955467e560cfe" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="e8b79a7fa06121f9494c62a9932cce58" media="com.plexapp.agents.localmedia_2a543f5815502db2009f215779ddf61fdc5a4e4d" sort_order="2" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="f5e2f9838252e5171cae2a8385dbb1e1" media="com.plexapp.agents.localmedia_da8e45d0ffe8205dfc44b0e9f82514a868db702b" sort_order="3" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Catalyst : A Rogue One Novel</title>
+  <tracks>
+    <item key="18832" path="tracks\2fdeb3cedc8cd6a299605858f709a65ebfb33b47">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Chapter 5</title>
+      <track_index>8</track_index>
+    </item>
+    <item key="18831" path="tracks\7225c3378c6b9ecbcafed4bb8073f9e340234e9e">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Chapter 4</title>
+      <track_index>7</track_index>
+    </item>
+    <item key="18819" path="tracks\5ef124839372fc08277f547f00547d98cd4e6009">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Chapter 19</title>
+      <track_index>23</track_index>
+    </item>
+    <item key="18818" path="tracks\84da14d2554a0bfe1a007d6cc0e36140fdd67b19">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Chapter 18</title>
+      <track_index>22</track_index>
+    </item>
+    <item key="18839" path="tracks\fb4fcb766a3306eaae63667eab5b73d64de48c99">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Part 2 (The Pursuit of Peace)</title>
+      <track_index>17</track_index>
+    </item>
+    <item key="18838" path="tracks\9e6213df5ee72b265e0c7e2d309d91d19cdcfed7">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Part 1 (Life During Wartime)</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="18835" path="tracks\3b63fb2ac8c3c17893a5a01653faa63a6578bb78">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Chapter 8</title>
+      <track_index>11</track_index>
+    </item>
+    <item key="18834" path="tracks\e4d0b255a58198828870e8b9fcea9aa9970d9a11">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Chapter 7</title>
+      <track_index>10</track_index>
+    </item>
+    <item key="18837" path="tracks\7375e2192b0cd3a35a9084b1380a10a6143c49a1">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Intro</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="18810" path="tracks\6a5976ec6e491534073f3271702e1ddf601060ca">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Chapter 10</title>
+      <track_index>13</track_index>
+    </item>
+    <item key="18817" path="tracks\c66407f3ca2976517458ebd10dee85d528035e0f">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Chapter 17</title>
+      <track_index>21</track_index>
+    </item>
+    <item key="18830" path="tracks\f99092f850003889c334c488a0c4f2cb4bb40461">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Chapter 3</title>
+      <track_index>6</track_index>
+    </item>
+    <item key="18833" path="tracks\4942e76f7dd0569173699ca6f39112a15be3c5cc">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Chapter 6</title>
+      <track_index>9</track_index>
+    </item>
+    <item key="18814" path="tracks\b5ab3e5b0bfe58c2bcf081721b65ec4513bfaa85">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Chapter 14</title>
+      <track_index>18</track_index>
+    </item>
+    <item key="18813" path="tracks\dd1899dff22bbef3e2e1d2fdccd3c38c25d1bfe9">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Chapter 13</title>
+      <track_index>16</track_index>
+    </item>
+    <item key="18812" path="tracks\e7ad47867dea62c53e5e8f33764db89e2fe44ebe">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Chapter 12</title>
+      <track_index>15</track_index>
+    </item>
+    <item key="18811" path="tracks\3dd831383568a8281fa9dbf613fe27f1cd4fd613">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Chapter 11</title>
+      <track_index>14</track_index>
+    </item>
+    <item key="18836" path="tracks\89a479187edf111874c6cd869577d404636a256b">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Chapter 9</title>
+      <track_index>12</track_index>
+    </item>
+    <item key="18840" path="tracks\9412a841a28dab1a476c661a29dd761d06a67185">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Part 3 (Dead Reckoning)</title>
+      <track_index>27</track_index>
+    </item>
+    <item key="18841" path="tracks\ce63468f9db6684a9b773b7047722862b612f966">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Prologue</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="18809" path="tracks\ad6568eadc8adf513b70a592edd1a0132b2db6e8">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Chapter 1</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="18816" path="tracks\57b3fd52d316840c3ca0faebeb2883774d89a11d">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Chapter 16</title>
+      <track_index>20</track_index>
+    </item>
+    <item key="18815" path="tracks\a6b7aac0060d64150291886a0b417c6c18103255">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Chapter 15</title>
+      <track_index>19</track_index>
+    </item>
+    <item key="18828" path="tracks\7aae74f8e8c2b5991434505e298a011e97c7ff8a">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Chapter 27</title>
+      <track_index>32</track_index>
+    </item>
+    <item key="18829" path="tracks\39e0466532d4285aea8c7769351dfabbb11ea4a8">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Chapter 28</title>
+      <track_index>33</track_index>
+    </item>
+    <item key="18826" path="tracks\656b3122d58b71df63a54cedb47c2ee2b9b47c21">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Chapter 25</title>
+      <track_index>30</track_index>
+    </item>
+    <item key="18827" path="tracks\eddb3630d7c6664d751c81c8d1a1b17e55611640">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Chapter 26</title>
+      <track_index>31</track_index>
+    </item>
+    <item key="18824" path="tracks\44956d51f7ec0ac79edb0e5f68028de9a9aef75a">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Chapter 23</title>
+      <track_index>28</track_index>
+    </item>
+    <item key="18825" path="tracks\b0a299923cc3fa2b045f942d410c114a16beb1eb">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Chapter 24</title>
+      <track_index>29</track_index>
+    </item>
+    <item key="18822" path="tracks\620b23868792edcf433bac7966f740e5cd3f9cd1">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Chapter 21</title>
+      <track_index>25</track_index>
+    </item>
+    <item key="18823" path="tracks\33ca1fa02aa8cd0c6ea51f18d9820e75700c8360">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Chapter 22</title>
+      <track_index>26</track_index>
+    </item>
+    <item key="18820" path="tracks\9bcafa0533624283aec66c8c447f0fdb19883b55">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Chapter 2</title>
+      <track_index>5</track_index>
+    </item>
+    <item key="18821" path="tracks\2b4a56703e039e1d97f6e50b882f38d1ed717c0d">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Bloodline - Chapter 20</title>
+      <track_index>24</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

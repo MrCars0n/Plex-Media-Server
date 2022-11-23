@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2006-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="dd45e3b3cbea441d9f92e152a9644c06" media="com.plexapp.agents.localmedia_5fc2cc31b4b04fd90a1e971f9372ba0f6d60318c" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <summary>Here is the novel that will be forever considered a triumph of the imagination. Set on the desert planet Arrakis, Dune is the story of the boy Paul Atreides, who would become the mysterious man known as Maud'dib. He would avenge the traitorous plot against his noble family and would bring to fruition humankind's most ancient and unattainable dream.</summary>
+  <tags/>
+  <title>Dune 01 - Dune</title>
+  <tracks>
+    <item key="19137" path="tracks\3e8163363c1ed8d5a3f035254fd99e46104beddf">
+      <lyrics/>
+      <moods/>
+      <original_title>Frank Herbert</original_title>
+      <tags/>
+      <title>Dune 01 - Dune</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

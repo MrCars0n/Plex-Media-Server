@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2015-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="282feccf274e810df06278ea09d75d7e" media="com.plexapp.agents.localmedia_6714ff0c3357e806c001875086cfc8ac19f47500" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="8846c58b5ee569755ba64a457bb5147b" media="com.plexapp.agents.localmedia_dbfe08aed3215d24431c10248bd1a62025543085" sort_order="2" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="d44ee06e6bc40cf2da4a9a5d3fa2aa38" media="com.plexapp.agents.localmedia_79a29cf8272db9d54539d0996f36adac848758d2" sort_order="3" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Armada</title>
+  <tracks>
+    <item key="19696" path="tracks\d28e5a86c66ef93c510e1a67ecedb05ae60f952e">
+      <lyrics/>
+      <moods/>
+      <original_title>Ernest Cline</original_title>
+      <tags/>
+      <title>Armada - Chapter 23</title>
+      <track_index>23</track_index>
+    </item>
+    <item key="19697" path="tracks\c2e90144db7cf5d0687f026174915573f40f3e36">
+      <lyrics/>
+      <moods/>
+      <original_title>Ernest Cline</original_title>
+      <tags/>
+      <title>Armada - Chapter 24</title>
+      <track_index>24</track_index>
+    </item>
+    <item key="19694" path="tracks\fd157c0cf0034540ea9643d71fcf918937342c18">
+      <lyrics/>
+      <moods/>
+      <original_title>Ernest Cline</original_title>
+      <tags/>
+      <title>Armada - Chapter 21</title>
+      <track_index>21</track_index>
+    </item>
+    <item key="19695" path="tracks\40c20aa8a5b82abd105bd61c088c15e8118a485c">
+      <lyrics/>
+      <moods/>
+      <original_title>Ernest Cline</original_title>
+      <tags/>
+      <title>Armada - Chapter 22</title>
+      <track_index>22</track_index>
+    </item>
+    <item key="19692" path="tracks\6610e1a561263fb29dbf5c5dc9077bf98cf2a957">
+      <lyrics/>
+      <moods/>
+      <original_title>Ernest Cline</original_title>
+      <tags/>
+      <title>Armada - Chapter 2</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="19693" path="tracks\cef5e593095ae080283f16cc31b790fd508c44a0">
+      <lyrics/>
+      <moods/>
+      <original_title>Ernest Cline</original_title>
+      <tags/>
+      <title>Armada - Chapter 20</title>
+      <track_index>20</track_index>
+    </item>
+    <item key="19690" path="tracks\e3bb6d0e4a7fd887c0ac317e3ae600ffda52ea3f">
+      <lyrics/>
+      <moods/>
+      <original_title>Ernest Cline</original_title>
+      <tags/>
+      <title>Armada - Chapter 18</title>
+      <track_index>18</track_index>
+    </item>
+    <item key="19691" path="tracks\af35785ebf8045ae7c6b3babfc006826ae799f20">
+      <lyrics/>
+      <moods/>
+      <original_title>Ernest Cline</original_title>
+      <tags/>
+      <title>Armada - Chapter 19</title>
+      <track_index>19</track_index>
+    </item>
+    <item key="19698" path="tracks\23e4c3ab4a3e4618bb394b101e95725dd84d84a2">
+      <lyrics/>
+      <moods/>
+      <original_title>Ernest Cline</original_title>
+      <tags/>
+      <title>Armada - Chapter 25</title>
+      <track_index>25</track_index>
+    </item>
+    <item key="19699" path="tracks\d27665924b8ed8d2e5127779d2b76ee26372d36d">
+      <lyrics/>
+      <moods/>
+      <original_title>Ernest Cline</original_title>
+      <tags/>
+      <title>Armada - Chapter 26</title>
+      <track_index>26</track_index>
+    </item>
+    <item key="19704" path="tracks\4f4a54e09e6c0d85aad10796aff01996c396cdb9">
+      <lyrics/>
+      <moods/>
+      <original_title>Ernest Cline</original_title>
+      <tags/>
+      <title>Armada - Chapter 5</title>
+      <track_index>5</track_index>
+    </item>
+    <item key="19705" path="tracks\86ccca6c18b7f6c1ad9332b485836ef04112fa39">
+      <lyrics/>
+      <moods/>
+      <original_title>Ernest Cline</original_title>
+      <tags/>
+      <title>Armada - Chapter 6</title>
+      <track_index>6</track_index>
+    </item>
+    <item key="19706" path="tracks\65f0035d342d5d3e246bac318bb6b8bb8e815ab2">
+      <lyrics/>
+      <moods/>
+      <original_title>Ernest Cline</original_title>
+      <tags/>
+      <title>Armada - Chapter 7</title>
+      <track_index>7</track_index>
+    </item>
+    <item key="19707" path="tracks\e33a7d3c4ab721ab0ad16c132036d19ca48b7143">
+      <lyrics/>
+      <moods/>
+      <original_title>Ernest Cline</original_title>
+      <tags/>
+      <title>Armada - Chapter 8</title>
+      <track_index>8</track_index>
+    </item>
+    <item key="19700" path="tracks\0a5813b6b7b6297940ae6525aa765128a2117815">
+      <lyrics/>
+      <moods/>
+      <original_title>Ernest Cline</original_title>
+      <tags/>
+      <title>Armada - Chapter 27 (Epilogue)</title>
+      <track_index>27</track_index>
+    </item>
+    <item key="19701" path="tracks\67d38dcf74815590b600efe43b567ec3565d8e93">
+      <lyrics/>
+      <moods/>
+      <original_title>Ernest Cline</original_title>
+      <tags/>
+      <title>Armada - Chapter 28 (Mix List)</title>
+      <track_index>28</track_index>
+    </item>
+    <item key="19702" path="tracks\5a14020bb83c59d81bf8208c8833c1cc1f9f628f">
+      <lyrics/>
+      <moods/>
+      <original_title>Ernest Cline</original_title>
+      <tags/>
+      <title>Armada - Chapter 3</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="19703" path="tracks\94c14cc53851e80bffb13538b08ef1eac4a43845">
+      <lyrics/>
+      <moods/>
+      <original_title>Ernest Cline</original_title>
+      <tags/>
+      <title>Armada - Chapter 4</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="19708" path="tracks\72323486532e184b1dd1da37e6716460bd413cd7">
+      <lyrics/>
+      <moods/>
+      <original_title>Ernest Cline</original_title>
+      <tags/>
+      <title>Armada - Chapter 9</title>
+      <track_index>9</track_index>
+    </item>
+    <item key="19685" path="tracks\a331d30a13f246066cc19ec5d4f7a61a778bd0e7">
+      <lyrics/>
+      <moods/>
+      <original_title>Ernest Cline</original_title>
+      <tags/>
+      <title>Armada - Chapter 13</title>
+      <track_index>13</track_index>
+    </item>
+    <item key="19684" path="tracks\be4c8b8fbc00ee2a4e1188d5ba156ddfbc8b22e3">
+      <lyrics/>
+      <moods/>
+      <original_title>Ernest Cline</original_title>
+      <tags/>
+      <title>Armada - Chapter 12</title>
+      <track_index>12</track_index>
+    </item>
+    <item key="19687" path="tracks\ee82e334a79fe2d6d1a1441afbd33483d60b5b8e">
+      <lyrics/>
+      <moods/>
+      <original_title>Ernest Cline</original_title>
+      <tags/>
+      <title>Armada - Chapter 15</title>
+      <track_index>15</track_index>
+    </item>
+    <item key="19686" path="tracks\a088b1ba1b91a3caeb0bd4e8bd3cf20cd2874b4b">
+      <lyrics/>
+      <moods/>
+      <original_title>Ernest Cline</original_title>
+      <tags/>
+      <title>Armada - Chapter 14</title>
+      <track_index>14</track_index>
+    </item>
+    <item key="19681" path="tracks\29245a9c7e944424153ffe9f4ff233ef8651c955">
+      <lyrics/>
+      <moods/>
+      <original_title>Ernest Cline</original_title>
+      <tags/>
+      <title>Armada - Chapter 1</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="19683" path="tracks\bbef5976e6b5e31126f5a44944b45967a1eb7d13">
+      <lyrics/>
+      <moods/>
+      <original_title>Ernest Cline</original_title>
+      <tags/>
+      <title>Armada - Chapter 11</title>
+      <track_index>11</track_index>
+    </item>
+    <item key="19682" path="tracks\3d05ae084124b8a0b539931b480a800cbed1e4e2">
+      <lyrics/>
+      <moods/>
+      <original_title>Ernest Cline</original_title>
+      <tags/>
+      <title>Armada - Chapter 10</title>
+      <track_index>10</track_index>
+    </item>
+    <item key="19689" path="tracks\71dee9600d6456284a6709b09601ea915112bde9">
+      <lyrics/>
+      <moods/>
+      <original_title>Ernest Cline</original_title>
+      <tags/>
+      <title>Armada - Chapter 17</title>
+      <track_index>17</track_index>
+    </item>
+    <item key="19688" path="tracks\adffe0d337625fa2663d7c5d6418fb81490bb71b">
+      <lyrics/>
+      <moods/>
+      <original_title>Ernest Cline</original_title>
+      <tags/>
+      <title>Armada - Chapter 16</title>
+      <track_index>16</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

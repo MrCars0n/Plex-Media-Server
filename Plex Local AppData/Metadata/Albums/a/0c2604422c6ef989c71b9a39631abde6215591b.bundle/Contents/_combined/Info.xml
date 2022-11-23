@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2015-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="98a80e3113498d776556a8b16cdac0bd" media="com.plexapp.agents.localmedia_9891da0db09eca032087cdbb19de8bc5582dbc2a" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>A Court of Thorns and Roses (Unabridged)</title>
+  <tracks>
+    <item key="17626" path="tracks\fa04c0ef3393ea19801b63292f785041e4c2d6ec">
+      <lyrics/>
+      <moods/>
+      <original_title>Sarah J. Maas</original_title>
+      <tags/>
+      <title>A Court of Thorns and Roses</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2000-01-01</originally_available_at>
+  <posters/>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>06-The Silver Chair</title>
+  <tracks>
+    <item key="19128" path="tracks\a48e7fbd323c7db52dcc224590790b3bfa999378">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>06-The Silver Chair-03</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="19129" path="tracks\d357a52f6d3b2cb321690bb6a644bb49c55e2c2c">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>06-The Silver Chair-04</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="19126" path="tracks\bdf4910ce47145171e3064935b6e49231dedb770">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>06-The Silver Chair-01</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="19127" path="tracks\f1d1840d267c9aa8aa3bef061c721f419af83da8">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>06-The Silver Chair-02</title>
+      <track_index>2</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2015-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="5567658662caab784b6b723074efafc4" media="com.plexapp.agents.localmedia_93cf5030706f8d4bbb78af67f9c20be6df9cb095" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>James Potter and the Vault of Destinies</title>
+  <tracks>
+    <item key="19339" path="tracks\a01af6570994c21195dd64752579b95f6d5a2526">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 2, The Gwyndemere</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="19348" path="tracks\92b6f541bd3c4e9eb39591396ae2b585f887bb2a">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 11, Jardin le Jardin d'Éden</title>
+      <track_index>12</track_index>
+    </item>
+    <item key="19349" path="tracks\554c00cc2be3066c9764f70053744db1d1f893d4">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 12, Game Magic</title>
+      <track_index>13</track_index>
+    </item>
+    <item key="19360" path="tracks\bc1df6e11cf39fd3b6e4745fe8ded8030c888bb6">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 23, The Beginning of the End</title>
+      <track_index>24</track_index>
+    </item>
+    <item key="19361" path="tracks\baf30f9cb6098ac5ce3b1d67986b963c63f34ce2">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 24, Through the Curtains</title>
+      <track_index>25</track_index>
+    </item>
+    <item key="19344" path="tracks\a52a95ee2905daa5ebc96dd23c6f757e907de841">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 7: Alma Aleron</title>
+      <track_index>8</track_index>
+    </item>
+    <item key="19345" path="tracks\5cb26bee1bd0c419f598df8c29c427f6c0c49c5f">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 8, The Vault of Destinies</title>
+      <track_index>9</track_index>
+    </item>
+    <item key="19346" path="tracks\c3a4e1a863777c0821849d87a07842e7f6e3e7f1">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 9, The Archive Attack</title>
+      <track_index>10</track_index>
+    </item>
+    <item key="19347" path="tracks\abb26622cb5d8c46000bd71f05408a02d46bfcbd">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 10, James and the Skrim</title>
+      <track_index>11</track_index>
+    </item>
+    <item key="19340" path="tracks\6095842e577c96d2c23b2978289f1968c7588411">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 3, 88 knots</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="19341" path="tracks\c6c731ddacf6e3b8d474239e0ecd622c24ac5b10">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 4, The Dream Story</title>
+      <track_index>5</track_index>
+    </item>
+    <item key="19342" path="tracks\a92f5df8750a6fc8c0ac2c5a7416c8ebbd714434">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 5, New Amsterdam</title>
+      <track_index>6</track_index>
+    </item>
+    <item key="19343" path="tracks\157915b3aec012366f6083816b59131cdf556bd3">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 6: Under the Warping Willow</title>
+      <track_index>7</track_index>
+    </item>
+    <item key="19362" path="tracks\82590d7f48db4ddf7411e6d0690b59dd725064ba">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 25, Those who stayed behind</title>
+      <track_index>26</track_index>
+    </item>
+    <item key="19353" path="tracks\41d682a43c12f373885d8cb32094270d9a81fe8d">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 16, Christmas in Philidelfia</title>
+      <track_index>17</track_index>
+    </item>
+    <item key="19352" path="tracks\91b7cb3e6b0056306269396417a0b82e91bf5eb0">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 15, The Star of Convergence</title>
+      <track_index>16</track_index>
+    </item>
+    <item key="19351" path="tracks\e072ee372869ac6c580180e42099202c8dcb6554">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 14, The Magnoson Riddles</title>
+      <track_index>15</track_index>
+    </item>
+    <item key="19350" path="tracks\e583e27a5958cb7c90f79a757a30b97478bd78f4">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 13, The Octosphere and the Arbiter</title>
+      <track_index>14</track_index>
+    </item>
+    <item key="19357" path="tracks\0a27443dc88c11b026f62d40e546797be61175b2">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 20, Albus' Story</title>
+      <track_index>21</track_index>
+    </item>
+    <item key="19356" path="tracks\12d0ad0d9d272ff9e4bd38cf8482fd432c58e1cc">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 19, Unhelpful Revelations</title>
+      <track_index>20</track_index>
+    </item>
+    <item key="19355" path="tracks\a7e1ab1940094ad40152adc4d619133436d7f8c4">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 18, The Dimensional Key</title>
+      <track_index>19</track_index>
+    </item>
+    <item key="19354" path="tracks\212642b689fce9325f787938546bb85407f0ee72">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 17, The Ballad of The Rider</title>
+      <track_index>18</track_index>
+    </item>
+    <item key="19359" path="tracks\aacce06f58797e2eea46a28a9e72406e98d77e05">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 22, Woven Destinies</title>
+      <track_index>23</track_index>
+    </item>
+    <item key="19358" path="tracks\87f832d2eec88148aebf14ba316c0eef289456d9">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 21, Unlikely Alienses</title>
+      <track_index>22</track_index>
+    </item>
+    <item key="19337" path="tracks\efdb1a9be941117e0e0939df987ada1f0869a788">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Prologue</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="19338" path="tracks\25d6d66411afe83f98cfaf8ea75fbffd29b501c5">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 1, Hogwarts Farewells</title>
+      <track_index>2</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

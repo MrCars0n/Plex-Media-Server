@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2017-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="be7e2325c8df0f5d3631e068af7c3b02" media="com.plexapp.agents.localmedia_3a6ffe80568a0b5714909a633b515655043152c2" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="c4a5b392cda7298125f0270f704c89aa" media="com.plexapp.agents.localmedia_22eb02befb415f32a42c759195dc05982d357b87" sort_order="2" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="a4152862fd86e65385e1ba11292c40f9" media="com.plexapp.agents.localmedia_f2278f61c85e3c4f84386240cc2f5f09f9ef193b" sort_order="3" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Blood, Sweat, and Pixels</title>
+  <tracks>
+    <item key="19218" path="tracks\6cd191d8c09c4f785d82bd94355e14f7ec16a382">
+      <lyrics/>
+      <moods/>
+      <original_title>Jason Schreier</original_title>
+      <tags/>
+      <title>Blood, Sweat, and Pixels - The Triumphant, Turbulent Stories Behind How Video Games Are Made - 02</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="19219" path="tracks\82bbd4fb22e6321374c9c01639a023421b5bb6ef">
+      <lyrics/>
+      <moods/>
+      <original_title>Jason Schreier</original_title>
+      <tags/>
+      <title>Blood, Sweat, and Pixels - The Triumphant, Turbulent Stories Behind How Video Games Are Made - 03</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="19217" path="tracks\c3991d942c4cea60da392dd6f4e6e9dc95c1e6ac">
+      <lyrics/>
+      <moods/>
+      <original_title>Jason Schreier</original_title>
+      <tags/>
+      <title>Blood, Sweat, and Pixels - The Triumphant, Turbulent Stories Behind How Video Games Are Made - 01</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="19227" path="tracks\71d4a460340f3b4355a47a2891c09416856dae79">
+      <lyrics/>
+      <moods/>
+      <original_title>Jason Schreier</original_title>
+      <tags/>
+      <title>Blood, Sweat, and Pixels - The Triumphant, Turbulent Stories Behind How Video Games Are Made - 11</title>
+      <track_index>11</track_index>
+    </item>
+    <item key="19226" path="tracks\71fcfcb6568fb3baaef2155df95b570cb1e9ccb3">
+      <lyrics/>
+      <moods/>
+      <original_title>Jason Schreier</original_title>
+      <tags/>
+      <title>Blood, Sweat, and Pixels - The Triumphant, Turbulent Stories Behind How Video Games Are Made - 10</title>
+      <track_index>10</track_index>
+    </item>
+    <item key="19225" path="tracks\c4f382a583bac87c2a24816df53fd9d7cbc5bed8">
+      <lyrics/>
+      <moods/>
+      <original_title>Jason Schreier</original_title>
+      <tags/>
+      <title>Blood, Sweat, and Pixels - The Triumphant, Turbulent Stories Behind How Video Games Are Made - 09</title>
+      <track_index>9</track_index>
+    </item>
+    <item key="19224" path="tracks\5f6351d71470deaabdd5aaba847ae4a7cddd5005">
+      <lyrics/>
+      <moods/>
+      <original_title>Jason Schreier</original_title>
+      <tags/>
+      <title>Blood, Sweat, and Pixels - The Triumphant, Turbulent Stories Behind How Video Games Are Made - 08</title>
+      <track_index>8</track_index>
+    </item>
+    <item key="19223" path="tracks\6e1f94577d31cdbb352340e224b0f47be5c07465">
+      <lyrics/>
+      <moods/>
+      <original_title>Jason Schreier</original_title>
+      <tags/>
+      <title>Blood, Sweat, and Pixels - The Triumphant, Turbulent Stories Behind How Video Games Are Made - 07</title>
+      <track_index>7</track_index>
+    </item>
+    <item key="19222" path="tracks\e8365b9d0f8f97eee1fe9095fc4306bd5ac87252">
+      <lyrics/>
+      <moods/>
+      <original_title>Jason Schreier</original_title>
+      <tags/>
+      <title>Blood, Sweat, and Pixels - The Triumphant, Turbulent Stories Behind How Video Games Are Made - 06</title>
+      <track_index>6</track_index>
+    </item>
+    <item key="19221" path="tracks\a1bc6cdcd9f89d87d1dedec16f93171346f7254d">
+      <lyrics/>
+      <moods/>
+      <original_title>Jason Schreier</original_title>
+      <tags/>
+      <title>Blood, Sweat, and Pixels - The Triumphant, Turbulent Stories Behind How Video Games Are Made - 05</title>
+      <track_index>5</track_index>
+    </item>
+    <item key="19220" path="tracks\08a6867f8320cec9db27b2518c9114d89b4f89e1">
+      <lyrics/>
+      <moods/>
+      <original_title>Jason Schreier</original_title>
+      <tags/>
+      <title>Blood, Sweat, and Pixels - The Triumphant, Turbulent Stories Behind How Video Games Are Made - 04</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="19229" path="tracks\89a077eab28349a4f281c50d1d6273cbc4838908">
+      <lyrics/>
+      <moods/>
+      <original_title>Jason Schreier</original_title>
+      <tags/>
+      <title>Blood, Sweat, and Pixels - The Triumphant, Turbulent Stories Behind How Video Games Are Made - 13</title>
+      <track_index>13</track_index>
+    </item>
+    <item key="19228" path="tracks\63a301be7d08b19f2485f06834d77c476f095000">
+      <lyrics/>
+      <moods/>
+      <original_title>Jason Schreier</original_title>
+      <tags/>
+      <title>Blood, Sweat, and Pixels - The Triumphant, Turbulent Stories Behind How Video Games Are Made - 12</title>
+      <track_index>12</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

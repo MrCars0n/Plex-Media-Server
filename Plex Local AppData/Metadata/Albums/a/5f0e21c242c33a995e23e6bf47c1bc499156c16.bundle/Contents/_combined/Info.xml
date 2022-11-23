@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters/>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Throne of Glass bk 2</title>
+  <tracks>
+    <item key="17860" path="tracks\39ce8a19d6b6a7d051266792b0c557db6cda8245">
+      <lyrics/>
+      <moods/>
+      <original_title>Sarah J. Maas</original_title>
+      <tags/>
+      <title>Crown of Midnight</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="17859" path="tracks\ca9a030927ec450b13b019eed8be39ed2a6852de">
+      <lyrics/>
+      <moods/>
+      <original_title>Sarah J. Maas</original_title>
+      <tags/>
+      <title>Crown of Midnight</title>
+      <track_index>2</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

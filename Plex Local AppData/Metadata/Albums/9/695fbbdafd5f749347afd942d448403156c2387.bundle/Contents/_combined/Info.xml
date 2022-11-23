@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2020-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="76c88bac42b3baa1837de6b777a6d736" media="com.plexapp.agents.localmedia_7c4fbeab65095da3cf92fe49def930f81bf9524e" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="2cd6f1939ba29a45166578e70082dab6" media="com.plexapp.agents.localmedia_b9b5af6ac0262f28af903ea7848cdaa99b96cc05" sort_order="2" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="37858617377917bbffe2397381a8adbe" media="com.plexapp.agents.localmedia_19267e6edf62b342a060d76beee3a9428cc25ea2" sort_order="3" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="2583257b603a656e80ba3e1ceebc2519" media="com.plexapp.agents.localmedia_9edaf16230fd9f346be09408492136301f2563cb" sort_order="4" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="5eff2754697970acd1881ea735087e83" media="com.plexapp.agents.localmedia_bcab489abc93e537f85cbe9e62ec336b3f190893" sort_order="5" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="0896229c39904126cea365ec9d114163" media="com.plexapp.agents.localmedia_b49baf47d982203e93c70e8d0647284aea4193a7" sort_order="6" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="131bf238b9b4ab26ebe5ea33e4200694" media="com.plexapp.agents.localmedia_3747c8d39b8905fea5d04c4467361d647dc4b8b3" sort_order="7" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <summary>Kyoshi’s place as the true Avatar has finally been cemented - but at a heavy cost. With her mentors gone, Kyoshi voyages across the Four Nations, struggling to keep the peace. But while her reputation grows, a mysterious threat emerges from the Spirit World. To stop it, Kyoshi, Rangi, and their reluctant allies must join forces before the Four Nations are destroyed irreparably. This thrilling follow-up continues Kyoshi’s journey from a girl of humble origins to the merciless pursuer of justice still feared and admired centuries after becoming the Avatar.</summary>
+  <tags/>
+  <title>Avatar: The Last Airbender: The Shadow of Kyoshi: The Kyoshi Novels, Book 2</title>
+  <tracks>
+    <item key="17601" path="tracks\ef554b291eccedf160c808636ce2788fe17f0bb1">
+      <lyrics/>
+      <moods/>
+      <original_title>F. C. Yee, Michael Dante DiMartino</original_title>
+      <tags/>
+      <title>Avatar: The Last Airbender: The Shadow of Kyoshi: The Kyoshi Novels, Book 2</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

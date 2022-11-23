@@ -1,0 +1,17 @@
+Nov 23, 2022 01:17:38.500 [7684] INFO - Plex Update Service v1.28.1.6092-87136b92b - Microsoft PC x64 - build: windows-x86
+Nov 23, 2022 01:17:38.500 [7684] INFO - Windows version: 6.2 (Build 9200), language en-US
+Nov 23, 2022 01:17:38.500 [7684] INFO - 4 3504 MHz processor(s): Architecture=0, Level=6, Revision=24067 Processor Identifier=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+Nov 23, 2022 01:17:38.501 [7684] DEBUG - "C:\Program Files (x86)\Plex\Plex Media Server\Plex Update Service.exe"
+Nov 23, 2022 01:17:38.499 [1232] DEBUG - Main Thread
+Nov 23, 2022 01:17:38.499 [1232] DEBUG - Creating UpdateService singleton
+Nov 23, 2022 01:17:38.500 [12344] DEBUG - Win32Service::serviceMain: RegisterServiceCtrlHandlerEx
+Nov 23, 2022 01:17:38.500 [12344] DEBUG - Win32Service::sendServiceStartPending - SERVICE_START_PENDING
+Nov 23, 2022 01:17:38.500 [12344] DEBUG - Win32Service::serviceMain: Call initialize()
+Nov 23, 2022 01:17:38.508 [12344] DEBUG - UpdateService::initialize: Plex Update Service
+Nov 23, 2022 01:17:38.508 [12344] DEBUG - Win32Service::serviceMain: Finished initialize()
+Nov 23, 2022 01:17:38.508 [12344] DEBUG - Win32Service::sendServiceRunning - SERVICE_RUNNING
+Nov 23, 2022 01:17:38.508 [12344] DEBUG - Win32Service::serviceMain: Call run()
+Nov 23, 2022 01:17:38.508 [12344] DEBUG - Running Plex Update Service
+Nov 23, 2022 01:17:38.508 [12344] DEBUG - Attempting to delete stale update file.
+Nov 23, 2022 01:17:38.508 [12344] DEBUG - Listening for remote procedure calls...
+Nov 23, 2022 01:21:52.991 [1232] DEBUG - Win32Service::serviceCtrlHandler: Received SERVICE_CONTROL_INTERROGATE

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>1994-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="efc5535eea580cb8df7e7df3758dd719" media="com.plexapp.agents.localmedia_97a84559ede853b8803979915f3cbaea4b071193" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Star Wars Episode IV</title>
+  <tracks>
+    <item key="18619" path="tracks\98f2bb5523bbb30118555e110d2b81d7e5ca8fa3">
+      <disc_index>0</disc_index>
+      <lyrics/>
+      <moods/>
+      <original_title>Alan Dean Foster</original_title>
+      <tags/>
+      <title>A New Hope</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="18618" path="tracks\ac9c521e6dc434e1eac19c48c37466602bf3a805">
+      <disc_index>0</disc_index>
+      <lyrics/>
+      <moods/>
+      <original_title>Alan Dean Foster</original_title>
+      <tags/>
+      <title>A New Hope</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="18620" path="tracks\8a6bd80afedba685d2a2cbb956606fc783d5a256">
+      <disc_index>0</disc_index>
+      <lyrics/>
+      <moods/>
+      <original_title>Alan Dean Foster</original_title>
+      <tags/>
+      <title>A New Hope</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="18621" path="tracks\7183d1ef0e9c561af05121e8786c0858886692d0">
+      <disc_index>0</disc_index>
+      <lyrics/>
+      <moods/>
+      <original_title>Alan Dean Foster</original_title>
+      <tags/>
+      <title>A New Hope</title>
+      <track_index>4</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2012-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="1dac91f64d89206b2c2bef5fb4eeb1a6" media="com.plexapp.agents.localmedia_787e02befe8842089ffc15de1853e590a8fa1b6e" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <summary>The dying Empire's most cunning and ruthless warlord - Grand Admiral Thrawn - has taken command of the remnants of the Imperial fleet and launched a massive campaign aimed at the New Republic's destruction. With the aid of unimaginable weapons long hidde</summary>
+  <tags/>
+  <title>Star Wars: Dark Force Rising: The Thrawn Trilogy, Book 2</title>
+  <tracks>
+    <item key="18491" path="tracks\780392610c25757fce57a476e600e9f5477b1607">
+      <lyrics/>
+      <moods/>
+      <original_title>Timothy Zahn</original_title>
+      <tags/>
+      <title>Star Wars: Dark Force Rising: The Thrawn Trilogy, Book 2 (Unabridged)</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

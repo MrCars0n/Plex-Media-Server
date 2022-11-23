@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Album id="19240">
+  <rating/>
+  <album_type/>
+  <title_sort></title_sort>
+  <art/>
+  <duration/>
+  <genres/>
+  <title>Harry Potter 4: The Goblet of Fire</title>
+  <rating_count/>
+  <collections/>
+  <available_at/>
+  <styles/>
+  <tags/>
+  <audience_rating_image/>
+  <rating_image/>
+  <producers/>
+  <audience_rating/>
+  <tracks>
+    <item key="19241">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>4</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Harry Potter: The Goblet of Fire</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>J.K. Rowling</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+  </tracks>
+  <studio/>
+  <moods/>
+  <posters>
+    <item external="True" url="09b589747716943913beb3e4a90387a6" media="e0f97ac7d72584a6713abe565cf6e4c6a1af0fa9" sort_order="1"/>
+  </posters>
+  <originally_available_at>2015-01-01</originally_available_at>
+  <artist/>
+  <countries/>
+  <original_title/>
+  <summary></summary>
+  <reviews/>
+  <album_format/>
+</Album>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters/>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>The Sweetest Remedy</title>
+  <tracks>
+    <item key="17856" path="tracks\8c016d48247a68802bd0a0aad86f6fa8ada012f9">
+      <lyrics/>
+      <moods/>
+      <original_title>Jane Igharo</original_title>
+      <tags/>
+      <title>The Sweetest Remedy - Part 7</title>
+      <track_index>7</track_index>
+    </item>
+    <item key="17857" path="tracks\3f4f671b4e091b1c25ae41f023dfbbcc70a20135">
+      <lyrics/>
+      <moods/>
+      <original_title>Jane Igharo</original_title>
+      <tags/>
+      <title>The Sweetest Remedy - Part 8</title>
+      <track_index>8</track_index>
+    </item>
+    <item key="17854" path="tracks\a59fec7b98d3d16e5692f90d9de7ef53d73c42f4">
+      <lyrics/>
+      <moods/>
+      <original_title>Jane Igharo</original_title>
+      <tags/>
+      <title>The Sweetest Remedy - Part 5</title>
+      <track_index>5</track_index>
+    </item>
+    <item key="17855" path="tracks\67dd7328c16dab54ba742cd3459a1bbe5823d82c">
+      <lyrics/>
+      <moods/>
+      <original_title>Jane Igharo</original_title>
+      <tags/>
+      <title>The Sweetest Remedy - Part 6</title>
+      <track_index>6</track_index>
+    </item>
+    <item key="17852" path="tracks\3edaed9d2b73d9800ff1cf43a2bb720885cf6e75">
+      <lyrics/>
+      <moods/>
+      <original_title>Jane Igharo</original_title>
+      <tags/>
+      <title>The Sweetest Remedy - Part 3</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="17853" path="tracks\faa3ec8df08a4f79204ad42a32ecb98b0d474c37">
+      <lyrics/>
+      <moods/>
+      <original_title>Jane Igharo</original_title>
+      <tags/>
+      <title>The Sweetest Remedy - Part 4</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="17850" path="tracks\eec741ed3c3d4677cdc4be0130870428305585be">
+      <lyrics/>
+      <moods/>
+      <original_title>Jane Igharo</original_title>
+      <tags/>
+      <title>The Sweetest Remedy - Part 1</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="17851" path="tracks\b52b2f003b73625cfe2ffa4d18f16568475fdb62">
+      <lyrics/>
+      <moods/>
+      <original_title>Jane Igharo</original_title>
+      <tags/>
+      <title>The Sweetest Remedy - Part 2</title>
+      <track_index>2</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

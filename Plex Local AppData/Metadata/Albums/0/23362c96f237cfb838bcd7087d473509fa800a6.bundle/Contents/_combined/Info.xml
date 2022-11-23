@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters>
+    <item external="True" url="9b2bbab8c98c22d27f5a26ba07d3d3c3" media="com.plexapp.agents.localmedia_3a4fc9c32a1a3492bce211c7d73a537949e87d9f" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="2d4e63cefac951885eaf038519178772" media="com.plexapp.agents.localmedia_7a429d75ef8427326e3781f8b9772e6f4629d07c" sort_order="2" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="ba9f6fd2f792d26d8c17f43ef251040e" media="com.plexapp.agents.localmedia_a04a23c1acb5ee7f448456d6a0c45428d13ba127" sort_order="3" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Ahsoka</title>
+  <tracks>
+    <item key="19065" path="tracks\fa44cf18e9869db1e0938955345300b9fef35d6e">
+      <lyrics/>
+      <moods/>
+      <original_title>E.K. Johnston</original_title>
+      <tags/>
+      <title>Ahsoka - Part 2</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

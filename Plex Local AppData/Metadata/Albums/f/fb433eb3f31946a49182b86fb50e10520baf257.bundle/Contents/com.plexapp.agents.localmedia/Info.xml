@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Album id="19520">
+  <rating/>
+  <album_type/>
+  <title_sort></title_sort>
+  <art/>
+  <duration/>
+  <genres/>
+  <title>A Separate Peace</title>
+  <rating_count/>
+  <collections/>
+  <available_at/>
+  <styles/>
+  <tags/>
+  <audience_rating_image/>
+  <rating_image/>
+  <producers/>
+  <audience_rating/>
+  <tracks>
+    <item key="19521">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index/>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>A Separate Peace (Part 29)</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>John Knowles</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+  </tracks>
+  <studio/>
+  <moods/>
+  <posters>
+    <item external="True" url="8b0883661e07bd57da5c868f0c3c6b0b" media="5961f5c04cacf65d1d01e7d0ae2b94d3b1effccc" sort_order="1"/>
+    <item external="True" url="b63dcb814496f43ab680c13b03430795" media="2933fc6d51a0e3337705887a350ede577305067a" sort_order="2"/>
+    <item external="True" url="785ac6c8721beb7b34e4ce7a7040dbad" media="79b25a1d7d9fbe2d03e05bfe214e83599626ed1b" sort_order="3"/>
+  </posters>
+  <originally_available_at>1959-01-01</originally_available_at>
+  <artist/>
+  <countries/>
+  <original_title/>
+  <summary/>
+  <reviews/>
+  <album_format/>
+</Album>

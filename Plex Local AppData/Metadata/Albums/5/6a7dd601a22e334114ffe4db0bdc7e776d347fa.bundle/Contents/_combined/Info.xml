@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2019-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="a2691b96c9129baf09b0bbeb47499ad0" media="com.plexapp.agents.localmedia_684997d713900e1b7bebf25d1dda1ef4b89c25c8" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Maybe You Should Talk to Someone: A Therapist, HER Therapist, and Our Lives Revealed</title>
+  <tracks>
+    <item key="17657" path="tracks\2a23ece699ac62d9268dfc78536f3b6a324b4fde">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Maybe You Should Talk to Someone: A Therapist, HER Therapist, and Our Lives Revealed</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

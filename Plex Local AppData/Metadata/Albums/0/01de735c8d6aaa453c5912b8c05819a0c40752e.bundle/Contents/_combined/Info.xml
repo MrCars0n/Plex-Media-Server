@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters>
+    <item external="True" url="ccb5397916fa51eb9f0ebc5ef9c20ab3" media="com.plexapp.agents.localmedia_8779169572047e91dc36dd8b4f78119d41b8303e" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Bounty Hunter Wars - Book 1</title>
+  <tracks>
+    <item key="18307" path="tracks\a75c42a9cc58c4ae45ddf8dd981183027ce868c1">
+      <lyrics/>
+      <moods/>
+      <original_title>K. W. Jeter</original_title>
+      <tags/>
+      <title>The Mandalorian Armor</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="18306" path="tracks\0c4870f33086e31b410a181b628cf00b3bfdf254">
+      <lyrics/>
+      <moods/>
+      <original_title>K. W. Jeter</original_title>
+      <tags/>
+      <title>The Mandalorian Armor</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="18309" path="tracks\c9cd6eca5cdaf6c4192440738b0081a7a5799596">
+      <lyrics/>
+      <moods/>
+      <original_title>K. W. Jeter</original_title>
+      <tags/>
+      <title>The Mandalorian Armor</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="18308" path="tracks\9a4433978b2d9f1dda460fca773386d0526dc54a">
+      <lyrics/>
+      <moods/>
+      <original_title>K. W. Jeter</original_title>
+      <tags/>
+      <title>The Mandalorian Armor</title>
+      <track_index>3</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

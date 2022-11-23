@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2015-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="d821a79c09d0f5bbc42b9c8d8a4c2e3d" media="com.plexapp.agents.localmedia_6a0e509744767970df2247d308a9e6093261fae1" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Harry Potter 6: The Half-Blood Prince</title>
+  <tracks>
+    <item key="19245" path="tracks\2d9ffb7a91a0741eb4dc1a33d44df9f45046fc9f">
+      <lyrics/>
+      <moods/>
+      <original_title>J.K. Rowling</original_title>
+      <tags/>
+      <title>Harry Potter: The Half-Blood Prince</title>
+      <track_index>6</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

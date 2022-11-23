@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2000-01-01</originally_available_at>
+  <posters/>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>03-The Horse And His Boy</title>
+  <tracks>
+    <item key="19119" path="tracks\82584b5389198eb4fbcdcd0f274e8c4b6a5ac170">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>03-The Horse And His Boy-04</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="19118" path="tracks\b2a76adeec6e157c2a953c82ec2216e50b142202">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>03-The Horse And His Boy-03</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="19117" path="tracks\8ae6419647a19794c87b06c31578c69386f0f892">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>03-The Horse And His Boy-02</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="19116" path="tracks\0f0cedfb4fc9f5c766665939af76548ff3ed80ab">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>03-The Horse And His Boy-01</title>
+      <track_index>1</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters/>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Once There Were Wolves</title>
+  <tracks>
+    <item key="17869" path="tracks\1cad44f7e6e733ef41de2639d9410f7b82028885">
+      <lyrics/>
+      <moods/>
+      <original_title>Charlotte McConaghy</original_title>
+      <tags/>
+      <title>Once There Were Wolves - Part 7</title>
+      <track_index>7</track_index>
+    </item>
+    <item key="17868" path="tracks\d102de17f03a0ecbb49a185f54abb8862498dc62">
+      <lyrics/>
+      <moods/>
+      <original_title>Charlotte McConaghy</original_title>
+      <tags/>
+      <title>Once There Were Wolves - Part 6</title>
+      <track_index>6</track_index>
+    </item>
+    <item key="17863" path="tracks\4cdf4592f57100cca24498e423726ff0d50319ae">
+      <lyrics/>
+      <moods/>
+      <original_title>Charlotte McConaghy</original_title>
+      <tags/>
+      <title>Once There Were Wolves - Part 1</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="17867" path="tracks\f60f94f79c365dcf8501ff8caa96c79f23798fff">
+      <lyrics/>
+      <moods/>
+      <original_title>Charlotte McConaghy</original_title>
+      <tags/>
+      <title>Once There Were Wolves - Part 5</title>
+      <track_index>5</track_index>
+    </item>
+    <item key="17866" path="tracks\a7101db332d7c83c24b2ab03b47f140780e32c82">
+      <lyrics/>
+      <moods/>
+      <original_title>Charlotte McConaghy</original_title>
+      <tags/>
+      <title>Once There Were Wolves - Part 4</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="17865" path="tracks\93398dd072adb0d892a8749604739ccaf6bc9bd2">
+      <lyrics/>
+      <moods/>
+      <original_title>Charlotte McConaghy</original_title>
+      <tags/>
+      <title>Once There Were Wolves - Part 3</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="17864" path="tracks\799d1b90ef529fc84e38e8b3fa29db7be2a9d94b">
+      <lyrics/>
+      <moods/>
+      <original_title>Charlotte McConaghy</original_title>
+      <tags/>
+      <title>Once There Were Wolves - Part 2</title>
+      <track_index>2</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

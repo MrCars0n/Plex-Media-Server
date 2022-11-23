@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2012-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="b4390a9415b659c2676faea568c2ff46" media="com.plexapp.agents.localmedia_6c0302f766c7a5a2cbe0f891d171af703a41e0aa" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Daring Greatly</title>
+  <tracks>
+    <item key="17640" path="tracks\0cf3a0bcc42f6aa6d6888a4ad0539af5e1275812">
+      <lyrics/>
+      <moods/>
+      <original_title>Brené Brown</original_title>
+      <tags/>
+      <title>Daring Greatly</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

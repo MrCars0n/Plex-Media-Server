@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2016-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="8617db2353d38661d5ef7bc4ad119c45" media="com.plexapp.agents.localmedia_91ec96ee7833c419f690508085819d1295e7a9bf" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Harry Potter 8: The Cursed Child</title>
+  <tracks>
+    <item key="19249" path="tracks\c31a4960c2740ccbcfa7da5d292bf8c557d105ad">
+      <lyrics/>
+      <moods/>
+      <original_title>J.K. Rowling</original_title>
+      <tags/>
+      <title>Harry Potter: The Cursed Child</title>
+      <track_index>8</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

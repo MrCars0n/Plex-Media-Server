@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2022-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="fefe54b95522a8c5d69bedb20a956f4d" media="com.plexapp.agents.localmedia_59b94c95161f44f015098d36a56ef09029e29816" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>The Lies I Tell (Unabridged)</title>
+  <tracks>
+    <item key="17687" path="tracks\36ae7c7cc8bed7a2c7264cabb08f1ef59687da94">
+      <lyrics/>
+      <moods/>
+      <original_title>Julie Clark</original_title>
+      <tags/>
+      <title>The Lies I Tell: A Novel (Unabridged)</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

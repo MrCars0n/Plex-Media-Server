@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2014-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="a80467a6ade569926cfda6066fea9002" media="com.plexapp.agents.localmedia_b01cf5a36d558f0d32e2d4e25f5efb2f866bbf68" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>James Potter and the Curst of the Gatekeeper</title>
+  <tracks>
+    <item key="19373" path="tracks\1fbbb11d9286977f46dc8a65e074b2479170703a">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 6</title>
+      <track_index>7</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

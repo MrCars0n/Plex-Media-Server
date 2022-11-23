@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters>
+    <item external="True" url="c5d4bf98c0ec525150e213fa17631f4d" media="com.plexapp.agents.localmedia_c9d4b7dfad0f0a86f9fe5f4783ea20f370816bd6" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>The Approaching Storm</title>
+  <tracks>
+    <item key="18329" path="tracks\0f9241b28e109259cc89556d14aabe093daf57d4">
+      <lyrics/>
+      <moods/>
+      <original_title>Alan Dean Foster</original_title>
+      <tags/>
+      <title>The Approaching Storm</title>
+      <track_index>5</track_index>
+    </item>
+    <item key="18328" path="tracks\dd13f5fbdcfc16118093f90564924114144704a7">
+      <lyrics/>
+      <moods/>
+      <original_title>Alan Dean Foster</original_title>
+      <tags/>
+      <title>The Approaching Storm</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="18325" path="tracks\2fa47d0f743470957f1350e639ef01171834de91">
+      <lyrics/>
+      <moods/>
+      <original_title>Alan Dean Foster</original_title>
+      <tags/>
+      <title>The Approaching Storm</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="18327" path="tracks\d17927013f6e19d2e98ae78c51dafe8ddff1dd27">
+      <lyrics/>
+      <moods/>
+      <original_title>Alan Dean Foster</original_title>
+      <tags/>
+      <title>The Approaching Storm</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="18326" path="tracks\1381d08d33d8a33470027b8b16a7521d5195cb1a">
+      <lyrics/>
+      <moods/>
+      <original_title>Alan Dean Foster</original_title>
+      <tags/>
+      <title>The Approaching Storm</title>
+      <track_index>2</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

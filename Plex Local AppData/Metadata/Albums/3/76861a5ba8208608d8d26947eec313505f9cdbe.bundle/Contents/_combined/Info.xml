@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters>
+    <item external="True" url="f306f155e14a7b77fe9471659fe95775" media="com.plexapp.agents.localmedia_69ce82863c4315a102650e812a13b58022311a9f" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>In a Holidaze (Unabridged)</title>
+  <tracks>
+    <item key="17646" path="tracks\3b37b833000b5646f0ea8606a5e980b5728c77c4">
+      <lyrics/>
+      <moods/>
+      <original_title>Christina Lauren</original_title>
+      <tags/>
+      <title>In a Holidaze (Unabridged)</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

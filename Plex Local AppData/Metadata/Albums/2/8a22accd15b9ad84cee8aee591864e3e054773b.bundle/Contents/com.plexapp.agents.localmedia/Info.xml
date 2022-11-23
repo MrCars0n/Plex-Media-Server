@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Album id="17620">
+  <rating/>
+  <album_type/>
+  <title_sort></title_sort>
+  <art/>
+  <duration/>
+  <genres/>
+  <title>56 Days</title>
+  <rating_count/>
+  <collections/>
+  <available_at/>
+  <styles/>
+  <tags/>
+  <audience_rating_image/>
+  <rating_image/>
+  <producers/>
+  <audience_rating/>
+  <tracks>
+    <item key="17621">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>1</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>56 Days</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>Catherine Ryan Howard</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+  </tracks>
+  <studio/>
+  <moods/>
+  <posters>
+    <item external="True" url="b4ca2a2350ec41f0764c9b684d012565" media="b27e2d7506d96f1e68d487d926568e74adf8e8cf" sort_order="1"/>
+  </posters>
+  <originally_available_at>2021-01-01</originally_available_at>
+  <artist/>
+  <countries/>
+  <original_title/>
+  <summary></summary>
+  <reviews/>
+  <album_format/>
+</Album>

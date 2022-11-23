@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2019-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="805549bcf08657ab3d235376146eec7b" media="com.plexapp.agents.localmedia_eb16b1d7ce426b4f1d57abbe0275f72934dcc876" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>James Potter and the Crimson Thread</title>
+  <tracks>
+    <item key="19280" path="tracks\a7daf410e4edddd28e91fa193c27ed2a6f7a0c1c">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 27 - Crimson Thread</title>
+    </item>
+    <item key="19261" path="tracks\e4713264d210c05b02a69e992fdb9e19b27668e9">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 12 - Crimson Thread</title>
+    </item>
+    <item key="19260" path="tracks\af549c49865b68fc55a22f8e0936bade0c4f5002">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 11 - Crimson Thread</title>
+    </item>
+    <item key="19267" path="tracks\0613aefbea509e381db5ce48673d9820da88665e">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 16 - Crimson Thread</title>
+    </item>
+    <item key="19266" path="tracks\329723a437b28e9b6bff04a788e16aa148be95f5">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 15 - Crimson Thread</title>
+    </item>
+    <item key="19265" path="tracks\59b7bff287f56f901c57cfc01bc89088f95e5f3a">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 14 - Crimson Thread</title>
+    </item>
+    <item key="19274" path="tracks\e7144566faec8d2ddda0443b43085f5942cbba4d">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 21 - Crimson Thread</title>
+    </item>
+    <item key="19275" path="tracks\cc40756c4a764042abc80b7f08f02e80e779494e">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 22 - Crimson Thread</title>
+    </item>
+    <item key="19269" path="tracks\0092350edf71e6f2ec42ff084b06555653ae10ac">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 18 - Crimson Thread</title>
+    </item>
+    <item key="19268" path="tracks\5f0ecd9a013dc9f75a44274f800f1fd495b16a43">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 17 - Crimson Thread</title>
+    </item>
+    <item key="19270" path="tracks\98b0b238e5f23be70c47ed6764f02aca59b0f404">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 19 - Crimson Thread</title>
+    </item>
+    <item key="19258" path="tracks\fff3023821f8086ad067b3653d0554631d34706e">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 1 - Crimson Thread</title>
+    </item>
+    <item key="19259" path="tracks\d26f3df88bed52bebcad012e9fc637f109397b96">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 10 - Crimson Thread</title>
+    </item>
+    <item key="19277" path="tracks\3565f4599d436f060465e6843e4886b973b3e0b3">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 24 - Crimson Thread</title>
+    </item>
+    <item key="19278" path="tracks\2e2a7fb755bb914154c77e4f157dbb24b424e6d2">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 25 - Crimson Thread</title>
+    </item>
+    <item key="19273" path="tracks\7f3492c3cab8c7a51107a93c904f9451082d78b4">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 20 - Crimson Thread</title>
+    </item>
+    <item key="19276" path="tracks\fcdc1089b9a0527714bde49fb0acc30727eeb4cd">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 23 - Crimson Thread</title>
+    </item>
+    <item key="19279" path="tracks\8cba76f2d70e0c8bce58157e4f7032a3849304ce">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 26 - Crimson Thread</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

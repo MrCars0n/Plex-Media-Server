@@ -1,0 +1,407 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2017-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="8cf10d7b755a7bcd84bf276320b7852e" media="com.plexapp.agents.localmedia_204ba0eff862a3b46a7e4d1b5889701a22940cfb" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="5fbcdc14ee6e4064c858d4c4f6b8474c" media="com.plexapp.agents.localmedia_14dba977d4368e7f4674b03226a990f47d54fa56" sort_order="2" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="c1b200a05a93117e387a13214bc43a1b" media="com.plexapp.agents.localmedia_f14b212405cf1b6f066ff48e9c99b5dee25e45b8" sort_order="3" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Star Wars: Rebel Rising</title>
+  <tracks>
+    <item key="18769" path="tracks\2fcfa31577791bbbd32092c037b43175610e42f2">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>41</track_index>
+    </item>
+    <item key="18768" path="tracks\5598d252dc71f7809cbe02bc29271e2b170f502d">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>5</track_index>
+    </item>
+    <item key="18761" path="tracks\95573eccc9f2a894d28f6c0375804a5777f3e200">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>34</track_index>
+    </item>
+    <item key="18760" path="tracks\889f31a8af88541b0bcdebf4360847fca4a1e7ab">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>33</track_index>
+    </item>
+    <item key="18763" path="tracks\92e8a689b7ab4b45f394ae1005d6c08dd3d4550e">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>36</track_index>
+    </item>
+    <item key="18762" path="tracks\c938bcd79d5daa61cc913c0b590c2fd1c9b8e6d8">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>35</track_index>
+    </item>
+    <item key="18765" path="tracks\d968a767646085e6d1c1daebd04a1905adb0ad0c">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>38</track_index>
+    </item>
+    <item key="18764" path="tracks\597abd8c1c447aa8167c95900d260f902f3e0b30">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>37</track_index>
+    </item>
+    <item key="18767" path="tracks\9ac420e3a4d9589acd174445db92be2ba8f1739d">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>40</track_index>
+    </item>
+    <item key="18766" path="tracks\1e2bcda4055ba72fbcbd04bbb864de21d3e51aea">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>39</track_index>
+    </item>
+    <item key="18735" path="tracks\9c5af60288a7346a5c5077c7ab72848ab271b67a">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="18750" path="tracks\367c62bfca7587ca10e023bf9c2149701897c325">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>24</track_index>
+    </item>
+    <item key="18751" path="tracks\8d186454b1dde7c5e77d5a158ebc28d4291e6396">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>25</track_index>
+    </item>
+    <item key="18752" path="tracks\24d5427a98cf59d46c89761791423ff080ce39d1">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>26</track_index>
+    </item>
+    <item key="18753" path="tracks\d43899312df38c70829ca4e0f4d45a00f6690f44">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>27</track_index>
+    </item>
+    <item key="18754" path="tracks\edb09b064dcf0ed367ccc30be23be59947b37804">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>28</track_index>
+    </item>
+    <item key="18755" path="tracks\de0014db6574f27ecc0becf7d76c8bd04bcb1414">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>29</track_index>
+    </item>
+    <item key="18756" path="tracks\6ebe3384e59092910890ffe13135096cac802030">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>30</track_index>
+    </item>
+    <item key="18757" path="tracks\776738f3a7f9a70ed1e48d95c9cf7cd8a6395c91">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="18758" path="tracks\f2e5b5d3ee798a4fb49d925f8e037b2293d56cf1">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>31</track_index>
+    </item>
+    <item key="18759" path="tracks\0020aa731e264cf40ebfaca0087e81c7bd18fa8f">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>32</track_index>
+    </item>
+    <item key="18736" path="tracks\241f1b5fc33f7749b6d364c943ea7794b66d4e2a">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>11</track_index>
+    </item>
+    <item key="18737" path="tracks\75ded464a32106563987b278f821201d73803b2e">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>12</track_index>
+    </item>
+    <item key="18778" path="tracks\85b616c7ed47cf72aa5f64deb4866bc615106d39">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>8</track_index>
+    </item>
+    <item key="18779" path="tracks\a0ae0e44687a206c31b3b121235dbbf840c58101">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>9</track_index>
+    </item>
+    <item key="18772" path="tracks\0cf11ae7106f154ec224025e1927f31416443bb4">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>44</track_index>
+    </item>
+    <item key="18773" path="tracks\6e2706a28026b729b4609fde4f0f8dd6d5c41726">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>45</track_index>
+    </item>
+    <item key="18770" path="tracks\bfa853c7fd6364ca8b21e1736218c67b24a0f6eb">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>42</track_index>
+    </item>
+    <item key="18771" path="tracks\51425fa6dfd0c63179b392f7aaa164437d5ce449">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>43</track_index>
+    </item>
+    <item key="18776" path="tracks\823b278fb8a8127ef133769445aeda5fbb0199e6">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>6</track_index>
+    </item>
+    <item key="18777" path="tracks\a41bc61fc405c2d0169b2ce42d8d5f31a73c97e7">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>7</track_index>
+    </item>
+    <item key="18738" path="tracks\d15fdeb82334b0c3d6d598c5858417681197888b">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>13</track_index>
+    </item>
+    <item key="18739" path="tracks\205800bfcf4295bba30884e5cf43cda0a43fb484">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>14</track_index>
+    </item>
+    <item key="18774" path="tracks\154541a6a7f9465b82329caa20858c2e64914e81">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>46</track_index>
+    </item>
+    <item key="18775" path="tracks\ac126e448b71e8d3db9d46e21d197899a4874185">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>47</track_index>
+    </item>
+    <item key="18747" path="tracks\2add6a228e5b4df9972471339baed587f1b3da1c">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>21</track_index>
+    </item>
+    <item key="18746" path="tracks\b482fcffcc09b4e3214eb9db9b879fde15a9fc1d">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="18745" path="tracks\d177940d20a5b7392f30a3522b9f453bde4104a1">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>20</track_index>
+    </item>
+    <item key="18744" path="tracks\e6bdb2afd5fbff66b6afb4c03ee10f44a1f3e090">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>19</track_index>
+    </item>
+    <item key="18743" path="tracks\be27a9378b3cab21e672c305695ac4a37f3d21d9">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>18</track_index>
+    </item>
+    <item key="18742" path="tracks\0757b64adfb4b4ddac7d700750a2f2e4020489fe">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>17</track_index>
+    </item>
+    <item key="18741" path="tracks\f0947a244fe69856b6650a51c04aba48b35bedf5">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>16</track_index>
+    </item>
+    <item key="18740" path="tracks\93fb1ebc053a6f0d5d154542e6180667d34dd8cb">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>15</track_index>
+    </item>
+    <item key="18782" path="tracks\3b720f877ff66a07fbac5ef806c851b807594eb4">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="18781" path="tracks\1378af2f353ae6a568389c4055dafa3163e5490d">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>48</track_index>
+    </item>
+    <item key="18780" path="tracks\114159244bb432cc87c41f1d907952067c6fc8f0">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>10</track_index>
+    </item>
+    <item key="18749" path="tracks\0785054da65789e9b19bb68440c72a558fa23e49">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>23</track_index>
+    </item>
+    <item key="18748" path="tracks\0d90da36ea5d3e6be44d530e23ebb3d64f7d42fa">
+      <lyrics/>
+      <moods/>
+      <original_title>Beth Revis</original_title>
+      <tags/>
+      <title>Rebel Rising: Star Wars</title>
+      <track_index>22</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

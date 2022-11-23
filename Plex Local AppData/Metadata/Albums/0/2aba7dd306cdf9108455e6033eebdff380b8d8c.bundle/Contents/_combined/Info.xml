@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2019-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="f2e728dc085cb1b3039c6b7a892da16d" media="com.plexapp.agents.localmedia_925bbc1dfef5b96d2b62682b327ebd6bbc02b8cc" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>With The Fire On High</title>
+  <tracks>
+    <item key="17702" path="tracks\81e6223370b91f1b5f9b935852a2344ecf75d659">
+      <lyrics/>
+      <moods/>
+      <original_title>Elizabeth Acevedo</original_title>
+      <tags/>
+      <title>With The Fire On High</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

@@ -1,0 +1,35 @@
+Aug 20, 2022 02:48:06.680 [11864] INFO - Plex Media Scanner v1.28.1.6092-87136b92b - Microsoft PC x64 - build: windows-x86 - GMT -04:00
+Aug 20, 2022 02:48:06.681 [11864] INFO - Windows version: 6.2 (Build 9200), language en-US
+Aug 20, 2022 02:48:06.681 [11864] INFO - 4 3504 MHz processor(s): Architecture=0, Level=6, Revision=24067 Processor Identifier=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+Aug 20, 2022 02:48:06.681 [11864] DEBUG - "C:\Program Files (x86)\Plex\Plex Media Server\Plex Media Scanner.exe" --match --type 1 --log-file-suffix " Matcher" --item 9397
+Aug 20, 2022 02:48:06.678 [6220] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.35.5, threadsafe=1
+Aug 20, 2022 02:48:06.781 [6220] DEBUG - [MI] Opening input file: "D:\Movies\The Highwaymen\The Highwaymen.mp4"
+Aug 20, 2022 02:48:06.781 [6220] DEBUG - [FFMPEG] - Opening 'D:\Movies\The Highwaymen\The Highwaymen.mp4' for reading
+Aug 20, 2022 02:48:06.781 [6220] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Aug 20, 2022 02:48:06.795 [6220] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Aug 20, 2022 02:48:06.795 [6220] DEBUG - [FFMPEG] - ISO: File Type Major Brand: isom
+Aug 20, 2022 02:48:06.795 [6220] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Aug 20, 2022 02:48:06.828 [6220] DEBUG - [FFMPEG] - Processing st: 0, edit list 0 - media time: 1024, duration: 97522692
+Aug 20, 2022 02:48:06.837 [6220] DEBUG - [FFMPEG] - Offset DTS by 1024 to make first pts zero.
+Aug 20, 2022 02:48:06.839 [6220] DEBUG - [FFMPEG] - Setting codecpar->delay to 2 for stream st: 0
+Aug 20, 2022 02:48:06.839 [6220] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Aug 20, 2022 02:48:06.858 [6220] DEBUG - [FFMPEG] - Processing st: 1, edit list 0 - media time: 2048, duration: 380949504
+Aug 20, 2022 02:48:06.858 [6220] DEBUG - [FFMPEG] - drop a frame at curr_cts: 0 @ 0
+Aug 20, 2022 02:48:06.858 [6220] DEBUG - [FFMPEG] - drop a frame at curr_cts: 1024 @ 1
+Aug 20, 2022 02:48:06.870 [6220] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 5391865 bytes read:5416218 seeks:0 nb_streams:2
+Aug 20, 2022 02:48:06.870 [6220] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Aug 20, 2022 02:48:06.870 [6220] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Aug 20, 2022 02:48:06.872 [6220] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 02:48:06.872 [6220] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Aug 20, 2022 02:48:06.872 [6220] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Aug 20, 2022 02:48:06.874 [6220] DEBUG - [FFMPEG] - no picture 
+Aug 20, 2022 02:48:06.875 [6220] DEBUG - [FFMPEG] - demuxer injecting skip 2048 / discard 0
+Aug 20, 2022 02:48:06.875 [6220] DEBUG - [FFMPEG] - skip 2048 / discard 0 samples due to side data
+Aug 20, 2022 02:48:06.875 [6220] DEBUG - [FFMPEG] - All info found
+Aug 20, 2022 02:48:06.876 [6220] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 5393077 bytes read:5416218 seeks:0 frames:2
+Aug 20, 2022 02:48:06.876 [6220] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Aug 20, 2022 02:48:06.876 [6220] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Aug 20, 2022 02:48:06.876 [6220] DEBUG - [MI] Closing input file: "D:\Movies\The Highwaymen\The Highwaymen.mp4"
+Aug 20, 2022 02:48:06.878 [6220] DEBUG - Matcher: found 1 auxiliary files in "D:\Movies\The Highwaymen" (single media: no)
+Aug 20, 2022 02:48:06.878 [6220] DEBUG - Matcher: no sidecar subtitle files found for "D:\Movies\The Highwaymen\The Highwaymen.mp4"
+Aug 20, 2022 02:48:06.884 [6220] DEBUG - Matcher: no valid subtitles found, removing any existing media bundle file

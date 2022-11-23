@@ -1,0 +1,1040 @@
+Aug 20, 2022 02:11:41.652 [5064] INFO - Plex Media Scanner v1.28.1.6092-87136b92b - Microsoft PC x64 - build: windows-x86 - GMT -04:00
+Aug 20, 2022 02:11:41.652 [5064] INFO - Windows version: 6.2 (Build 9200), language en-US
+Aug 20, 2022 02:11:41.652 [5064] INFO - 4 3504 MHz processor(s): Architecture=0, Level=6, Revision=24067 Processor Identifier=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+Aug 20, 2022 02:11:41.652 [5064] DEBUG - "C:\Program Files (x86)\Plex\Plex Media Server\Plex Media Scanner.exe" --analyze --item 19422,18087,15036,12456,18236,15033,16395,11734,16961,12581 --log-file-suffix " Analysis"
+Aug 20, 2022 02:11:41.651 [7320] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.35.5, threadsafe=1
+Aug 20, 2022 02:11:41.751 [7320] DEBUG - Analyzing media parts for item 19422 (The Rise of Kyoshi - 10): 36507
+Aug 20, 2022 02:11:41.771 [7320] DEBUG - [ID 36508] Media part analysis: D:\Audiobooks\The Rise of Kyoshi\The Rise of Kyoshi - 10.mp3
+Aug 20, 2022 02:11:41.771 [7320] DEBUG - [MI] Opening input file: "D:\Audiobooks\The Rise of Kyoshi\The Rise of Kyoshi - 10.mp3"
+Aug 20, 2022 02:11:41.771 [7320] DEBUG - [FFMPEG] - Opening 'D:\Audiobooks\The Rise of Kyoshi\The Rise of Kyoshi - 10.mp3' for reading
+Aug 20, 2022 02:11:41.771 [7320] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Aug 20, 2022 02:11:41.783 [7320] DEBUG - [FFMPEG] - Format mp3 probed with size=262144 and score=50
+Aug 20, 2022 02:11:41.783 [7320] DEBUG - [FFMPEG] - id3v2 ver:4 flags:00 len:64611
+Aug 20, 2022 02:11:41.783 [7320] INFO - [FFMPEG] - Skipping 194 bytes of junk at 64621.
+Aug 20, 2022 02:11:41.783 [7320] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 64815 bytes read:163840 seeks:0 nb_streams:2
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - marker=d8 avail_size_in_buf=62529
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - marker=e0 avail_size_in_buf=62527
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - marker parser used 16 bytes (128 bits)
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - marker=db avail_size_in_buf=62509
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - index=0
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - qscale[0]: 3
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - marker parser used 67 bytes (536 bits)
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - marker=db avail_size_in_buf=62440
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - index=1
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - qscale[1]: 6
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - marker parser used 67 bytes (536 bits)
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - marker=c0 avail_size_in_buf=62371
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - Changing bps from 0 to 8
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - sof0: picture: 500x500
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - component 0 2:2 id: 0 quant:0
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - component 1 1:1 id: 1 quant:1
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - component 2 1:1 id: 2 quant:1
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - pix fmt id 22111100
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - Format yuvj420p chosen by get_format().
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - marker parser used 17 bytes (136 bits)
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=62352
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=62319
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=62136
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=62103
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - escaping removed 212 bytes
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - marker=da avail_size_in_buf=61920
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - marker parser used 61708 bytes (493664 bits)
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - marker=d9 avail_size_in_buf=0
+Aug 20, 2022 02:11:41.784 [7320] DEBUG - [FFMPEG] - decode frame unused 0 bytes
+Aug 20, 2022 02:11:41.785 [7320] DEBUG - [FFMPEG] - All info found
+Aug 20, 2022 02:11:41.785 [7320] WARN - [FFMPEG] - Estimating duration from bitrate, this may be inaccurate
+Aug 20, 2022 02:11:41.785 [7320] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 86319 bytes read:163840 seeks:0 frames:51
+Aug 20, 2022 02:11:41.785 [7320] DEBUG - [MI]  * de73100c4b72efc774ccebcfb9712df3ccd3275e [mp3 /mp3] Duration: 1338175ms, 0x0 (0.000000) 0.000fps, bitrate=128kbps, audio channels=2, optimizedForStreaming=0 ("D:\Audiobooks\The Rise of Kyoshi\The Rise of Kyoshi - 10.mp3")
+Aug 20, 2022 02:11:41.785 [7320] DEBUG - [MI] Importing 1 media chapters.
+Aug 20, 2022 02:11:41.785 [7320] DEBUG - [MI] Closing input file: "D:\Audiobooks\The Rise of Kyoshi\The Rise of Kyoshi - 10.mp3"
+Aug 20, 2022 02:11:41.786 [7320] DEBUG - Updating media item 36507, size=21475610, metadata_item_id=19422
+Aug 20, 2022 02:11:41.786 [7320] DEBUG - Updating part with ID=36508 [D:\Audiobooks\The Rise of Kyoshi\The Rise of Kyoshi - 10.mp3]
+Aug 20, 2022 02:11:41.787 [0740] DEBUG - [HCl#1] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=3&metadataItemID=19422&metadataType=10&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Aug 20, 2022 02:11:41.788 [7320] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Aug 20, 2022 02:11:41.788 [7320] DEBUG - [HCl#2] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Aug 20, 2022 02:11:41.788 [4784] DEBUG - [HttpClient/HCl#1] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=3&metadataItemID=19422&metadataType=10&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Aug 20, 2022 02:11:41.789 [4784] DEBUG - [HttpClient/HCl#2] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp
+Aug 20, 2022 02:11:41.789 [0740] DEBUG - [HCl#3] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=3&metadataItemID=19422&metadataType=10&state=-1&parentID=-1&rootID=-1&mediaState=idle
+Aug 20, 2022 02:11:41.789 [7320] DEBUG - Updating metadata item (save) (The Rise of Kyoshi - 10) with ID 19422
+Aug 20, 2022 02:11:41.789 [4784] DEBUG - [HttpClient/HCl#3] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=3&metadataItemID=19422&metadataType=10&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+Aug 20, 2022 02:11:41.792 [7320] DEBUG - Analyzing media parts for item 18087 (The Invisible Life of Addie LaRue): 35381
+Aug 20, 2022 02:11:41.814 [7320] DEBUG - [ID 35382] Media part analysis: D:\Audiobooks\Kelsi Books\The Invisible Life of Addie LaRue\The Invisible Life of Addie LaRue 002.mp3
+Aug 20, 2022 02:11:41.814 [7320] DEBUG - [MI] Opening input file: "D:\Audiobooks\Kelsi Books\The Invisible Life of Addie LaRue\The Invisible Life of Addie LaRue 002.mp3"
+Aug 20, 2022 02:11:41.814 [7320] DEBUG - [FFMPEG] - Opening 'D:\Audiobooks\Kelsi Books\The Invisible Life of Addie LaRue\The Invisible Life of Addie LaRue 002.mp3' for reading
+Aug 20, 2022 02:11:41.814 [7320] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - Format mp3 probed with size=65536 and score=51
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - id3v2 ver:3 flags:00 len:44542
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - pad 0 0
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 44865 bytes read:65536 seeks:0 nb_streams:2
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - marker=d8 avail_size_in_buf=42550
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - marker=e0 avail_size_in_buf=42548
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - marker parser used 16 bytes (128 bits)
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - marker=fe avail_size_in_buf=42530
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - marker parser used 16 bytes (128 bits)
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - marker=db avail_size_in_buf=42512
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - index=0
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - qscale[0]: 8
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - marker parser used 67 bytes (536 bits)
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=42443
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - marker=c0 avail_size_in_buf=42251
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - Changing bps from 0 to 8
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - sof0: picture: 500x500
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - component 0 1:2 id: 0 quant:0
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - component 1 1:2 id: 1 quant:0
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - component 2 1:2 id: 2 quant:0
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - pix fmt id 12121200
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - Format yuvj444p chosen by get_format().
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - marker parser used 17 bytes (136 bits)
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - escaping removed 151 bytes
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - marker=da avail_size_in_buf=42232
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - marker parser used 42081 bytes (336648 bits)
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - marker=d9 avail_size_in_buf=0
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - decode frame unused 0 bytes
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - demuxer injecting skip 529 / discard 0
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - skip 529 / discard 0 samples due to side data
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - skip 529/1152 samples
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - All info found
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 60225 bytes read:65536 seeks:0 frames:51
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [MI]  * 191b7838c31361ae2aa4043b3bae29a056091ee2 [mp3 /mp3] Duration: 35161ms, 0x0 (0.000000) 0.000fps, bitrate=91kbps, audio channels=2, optimizedForStreaming=0 ("D:\Audiobooks\Kelsi Books\The Invisible Life of Addie LaRue\The Invisible Life of Addie LaRue 002.mp3")
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [MI] Importing 3 media chapters.
+Aug 20, 2022 02:11:41.819 [7320] DEBUG - [MI] Chapters had generic titles, clearing.
+Aug 20, 2022 02:11:41.820 [7320] DEBUG - [MI] Closing input file: "D:\Audiobooks\Kelsi Books\The Invisible Life of Addie LaRue\The Invisible Life of Addie LaRue 002.mp3"
+Aug 20, 2022 02:11:41.820 [7320] DEBUG - Committing media stream changes for part 35382
+Aug 20, 2022 02:11:41.821 [7320] DEBUG - Updating media item 35381, size=448300, metadata_item_id=18087
+Aug 20, 2022 02:11:41.821 [7320] DEBUG - Updating part with ID=35382 [D:\Audiobooks\Kelsi Books\The Invisible Life of Addie LaRue\The Invisible Life of Addie LaRue 002.mp3]
+Aug 20, 2022 02:11:41.821 [0740] DEBUG - [HCl#4] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=3&metadataItemID=18087&metadataType=10&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Aug 20, 2022 02:11:41.821 [4784] DEBUG - [HttpClient/HCl#4] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=3&metadataItemID=18087&metadataType=10&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+Aug 20, 2022 02:11:41.821 [0740] DEBUG - [HCl#5] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=3&metadataItemID=18087&metadataType=10&state=-1&parentID=-1&rootID=-1&mediaState=idle
+Aug 20, 2022 02:11:41.822 [4784] DEBUG - [HttpClient/HCl#5] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=3&metadataItemID=18087&metadataType=10&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+Aug 20, 2022 02:11:41.825 [7320] DEBUG - Analyzing media parts for item 15036 (Mermaid Man and Barnacle Boy V): 32455
+Aug 20, 2022 02:11:41.826 [7320] DEBUG - [ID 32455] Media part analysis: D:\TV\Spongebob\Season 3\SpongeBob SquarePants - S03E21-E22 - Club SpongeBob & My Pretty Seahorse.mkv
+Aug 20, 2022 02:11:41.826 [7320] DEBUG - [MI] Opening input file: "D:\TV\Spongebob\Season 3\SpongeBob SquarePants - S03E21-E22 - Club SpongeBob && My Pretty Seahorse.mkv"
+Aug 20, 2022 02:11:41.826 [7320] DEBUG - [FFMPEG] - Opening 'D:\TV\Spongebob\Season 3\SpongeBob SquarePants - S03E21-E22 - Club SpongeBob & My Pretty Seahorse.mkv' for reading
+Aug 20, 2022 02:11:41.826 [7320] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Aug 20, 2022 02:11:41.826 [7320] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Aug 20, 2022 02:11:41.826 [7320] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:41.826 [7320] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:41.826 [7320] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:41.826 [7320] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:41.826 [7320] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 9245 bytes read:263438 seeks:4 nb_streams:5
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - nal_unit_type: 32(VPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - Decoding VPS
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - Main 10 profile bitstream
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - nal_unit_type: 33(SPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - Decoding SPS
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - Main 10 profile bitstream
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - Decoding VUI
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - nal_unit_type: 34(PPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - Decoding PPS
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - nal_unit_type: 39(SEI_PREFIX), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - Decoding SEI
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - marker=d8 avail_size_in_buf=229077
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - marker=e0 avail_size_in_buf=229075
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - marker parser used 16 bytes (128 bits)
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - marker=db avail_size_in_buf=229057
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - index=0
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - qscale[0]: 0
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - marker parser used 67 bytes (536 bits)
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - marker=db avail_size_in_buf=228988
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - index=1
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - qscale[1]: 1
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - marker parser used 67 bytes (536 bits)
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - marker=c0 avail_size_in_buf=228919
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - Changing bps from 0 to 8
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - sof0: picture: 600x800
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - component 0 2:2 id: 0 quant:0
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - component 1 1:1 id: 1 quant:1
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - component 2 1:1 id: 2 quant:1
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - pix fmt id 22111100
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - Format yuvj420p chosen by get_format().
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - marker parser used 17 bytes (136 bits)
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=228900
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=228867
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=228684
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=228651
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - escaping removed 2145 bytes
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - marker=da avail_size_in_buf=228468
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - marker parser used 226323 bytes (1810584 bits)
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - marker=d9 avail_size_in_buf=0
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - decode frame unused 0 bytes
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - All info found
+Aug 20, 2022 02:11:41.827 [7320] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 26433 bytes read:296206 seeks:4 frames:19
+Aug 20, 2022 02:11:41.833 [7320] DEBUG - [MI]  * a5c9a2d4b7225d96603b4d8cae7e3aad6d76354c [mkv hevc/eac3] Duration: 1448352ms, 1424x1080 (1.318519) 23.976fps, bitrate=2488kbps, audio channels=2, optimizedForStreaming=0 ("D:\TV\Spongebob\Season 3\SpongeBob SquarePants - S03E21-E22 - Club SpongeBob && My Pretty Seahorse.mkv")
+Aug 20, 2022 02:11:41.833 [7320] DEBUG - [MI] Importing 22 media chapters.
+Aug 20, 2022 02:11:41.834 [7320] DEBUG - [MI] Closing input file: "D:\TV\Spongebob\Season 3\SpongeBob SquarePants - S03E21-E22 - Club SpongeBob && My Pretty Seahorse.mkv"
+Aug 20, 2022 02:11:41.835 [7320] DEBUG - Committing media stream changes for part 32455
+Aug 20, 2022 02:11:41.835 [7320] DEBUG - Updating media item 32455, size=450593317, metadata_item_id=15036
+Aug 20, 2022 02:11:41.836 [7320] DEBUG - Updating part with ID=32455 [D:\TV\Spongebob\Season 3\SpongeBob SquarePants - S03E21-E22 - Club SpongeBob & My Pretty Seahorse.mkv]
+Aug 20, 2022 02:11:41.836 [0740] DEBUG - [HCl#6] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=15036&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Aug 20, 2022 02:11:41.836 [4784] DEBUG - [HttpClient/HCl#6] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=15036&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+Aug 20, 2022 02:11:41.836 [0740] DEBUG - [HCl#7] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=15036&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing
+Aug 20, 2022 02:11:41.836 [4784] DEBUG - [HttpClient/HCl#7] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=15036&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing (reused)
+Aug 20, 2022 02:11:41.836 [0740] DEBUG - [HCl#8] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=15036&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+Aug 20, 2022 02:11:41.837 [4784] DEBUG - [HttpClient/HCl#8] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=15036&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+Aug 20, 2022 02:11:41.841 [7320] DEBUG - Analyzing media parts for item 12456 (Episode 6): 30073
+Aug 20, 2022 02:11:41.878 [7320] DEBUG - [ID 30073] Media part analysis: D:\TV\Gravity Falls\Episodes\Gravity Falls - S02E06 - Little Gift Shop of Horrors.mkv
+Aug 20, 2022 02:11:41.879 [7320] DEBUG - [MI] Opening input file: "D:\TV\Gravity Falls\Episodes\Gravity Falls - S02E06 - Little Gift Shop of Horrors.mkv"
+Aug 20, 2022 02:11:41.879 [7320] DEBUG - [FFMPEG] - Opening 'D:\TV\Gravity Falls\Episodes\Gravity Falls - S02E06 - Little Gift Shop of Horrors.mkv' for reading
+Aug 20, 2022 02:11:41.879 [7320] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Aug 20, 2022 02:11:41.879 [7320] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Aug 20, 2022 02:11:41.889 [7320] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:41.890 [7320] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:41.890 [7320] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:41.890 [7320] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:41.890 [7320] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 8109 bytes read:382018 seeks:4 nb_streams:5
+Aug 20, 2022 02:11:41.890 [7320] DEBUG - [FFMPEG] - nal_unit_type: 32(VPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:41.890 [7320] DEBUG - [FFMPEG] - Decoding VPS
+Aug 20, 2022 02:11:41.890 [7320] DEBUG - [FFMPEG] - Main 10 profile bitstream
+Aug 20, 2022 02:11:41.890 [7320] DEBUG - [FFMPEG] - nal_unit_type: 33(SPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:41.890 [7320] DEBUG - [FFMPEG] - Decoding SPS
+Aug 20, 2022 02:11:41.890 [7320] DEBUG - [FFMPEG] - Main 10 profile bitstream
+Aug 20, 2022 02:11:41.890 [7320] DEBUG - [FFMPEG] - Decoding VUI
+Aug 20, 2022 02:11:41.890 [7320] DEBUG - [FFMPEG] - nal_unit_type: 34(PPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:41.890 [7320] DEBUG - [FFMPEG] - Decoding PPS
+Aug 20, 2022 02:11:41.890 [7320] DEBUG - [FFMPEG] - nal_unit_type: 39(SEI_PREFIX), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:41.890 [7320] DEBUG - [FFMPEG] - Decoding SEI
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - marker=d8 avail_size_in_buf=316427
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - marker=e0 avail_size_in_buf=316425
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - marker parser used 16 bytes (128 bits)
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - marker=db avail_size_in_buf=316407
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - index=0
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - qscale[0]: 0
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - marker parser used 67 bytes (536 bits)
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - marker=db avail_size_in_buf=316338
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - index=1
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - qscale[1]: 1
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - marker parser used 67 bytes (536 bits)
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - marker=c0 avail_size_in_buf=316269
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - Changing bps from 0 to 8
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - sof0: picture: 600x800
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - component 0 2:2 id: 0 quant:0
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - component 1 1:1 id: 1 quant:1
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - component 2 1:1 id: 2 quant:1
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - pix fmt id 22111100
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - Format yuvj420p chosen by get_format().
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - marker parser used 17 bytes (136 bits)
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=316250
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=316217
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=316034
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=316001
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - escaping removed 2325 bytes
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - marker=da avail_size_in_buf=315818
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - marker parser used 313493 bytes (2507944 bits)
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - marker=d9 avail_size_in_buf=0
+Aug 20, 2022 02:11:41.892 [7320] DEBUG - [FFMPEG] - decode frame unused 0 bytes
+Aug 20, 2022 02:11:41.893 [7320] DEBUG - [FFMPEG] - first_dts 0 not matching first dts NOPTS (pts 0, duration 41) in the queue
+Aug 20, 2022 02:11:41.896 [7320] DEBUG - [FFMPEG] - All info found
+Aug 20, 2022 02:11:41.896 [7320] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 425131 bytes read:824628 seeks:4 frames:206
+Aug 20, 2022 02:11:41.896 [7320] DEBUG - [MI]  * d57567c2d9b74f1d45077950f20f4f6787701604 [mkv hevc/aac] Duration: 1444030ms, 1920x1080 (1.777778) 23.976fps, bitrate=2832kbps, audio channels=6, optimizedForStreaming=0 ("D:\TV\Gravity Falls\Episodes\Gravity Falls - S02E06 - Little Gift Shop of Horrors.mkv")
+Aug 20, 2022 02:11:41.896 [7320] DEBUG - [MI] Importing 5 media chapters.
+Aug 20, 2022 02:11:41.896 [7320] DEBUG - [MI] Chapters had generic titles, clearing.
+Aug 20, 2022 02:11:41.896 [7320] DEBUG - [MI] Closing input file: "D:\TV\Gravity Falls\Episodes\Gravity Falls - S02E06 - Little Gift Shop of Horrors.mkv"
+Aug 20, 2022 02:11:41.897 [7320] DEBUG - Streams didn't change in analysis, not saving.
+Aug 20, 2022 02:11:41.897 [7320] DEBUG - Updating media item 30073, size=511323493, metadata_item_id=12456
+Aug 20, 2022 02:11:41.897 [7320] DEBUG - Updating part with ID=30073 [D:\TV\Gravity Falls\Episodes\Gravity Falls - S02E06 - Little Gift Shop of Horrors.mkv]
+Aug 20, 2022 02:11:41.897 [0740] DEBUG - [HCl#9] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=12456&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Aug 20, 2022 02:11:41.898 [4784] DEBUG - [HttpClient/HCl#9] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=12456&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+Aug 20, 2022 02:11:41.898 [0740] DEBUG - [HCl#a] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=12456&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing
+Aug 20, 2022 02:11:41.898 [4784] DEBUG - [HttpClient/HCl#a] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=12456&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing (reused)
+Aug 20, 2022 02:11:41.898 [0740] DEBUG - [HCl#b] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=12456&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+Aug 20, 2022 02:11:41.899 [4784] DEBUG - [HttpClient/HCl#b] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=12456&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+Aug 20, 2022 02:11:41.904 [7320] DEBUG - Analyzing media parts for item 18236 (Star Wars [Alphabet Squadron]): 35517
+Aug 20, 2022 02:11:41.940 [7320] DEBUG - [ID 35518] Media part analysis: D:\Audiobooks\Star Wars\Alphabet Squadron.m4b
+Aug 20, 2022 02:11:41.940 [7320] DEBUG - [MI] Opening input file: "D:\Audiobooks\Star Wars\Alphabet Squadron.m4b"
+Aug 20, 2022 02:11:41.940 [7320] DEBUG - [FFMPEG] - Opening 'D:\Audiobooks\Star Wars\Alphabet Squadron.m4b' for reading
+Aug 20, 2022 02:11:41.940 [7320] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Aug 20, 2022 02:11:41.941 [7320] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Aug 20, 2022 02:11:41.941 [7320] DEBUG - [FFMPEG] - ISO: File Type Major Brand: isom
+Aug 20, 2022 02:11:41.941 [7320] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Aug 20, 2022 02:11:42.164 [7320] DEBUG - [FFMPEG] - Processing st: 0, edit list 0 - media time: 0, duration: 2199027713
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - Processing st: 1, edit list 0 - media time: 0, duration: 48567275
+Aug 20, 2022 02:11:42.223 [7320] WARN - [FFMPEG] - stream 0, timescale not set
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 8644592 bytes read:8659976 seeks:0 nb_streams:3
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - marker=d8 avail_size_in_buf=41594
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - marker=e0 avail_size_in_buf=41592
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - marker parser used 16 bytes (128 bits)
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - marker=db avail_size_in_buf=41574
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - index=0
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - qscale[0]: 3
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - marker parser used 67 bytes (536 bits)
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - marker=db avail_size_in_buf=41505
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - index=1
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - qscale[1]: 6
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - marker parser used 67 bytes (536 bits)
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - marker=c0 avail_size_in_buf=41436
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - Changing bps from 0 to 8
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - sof0: picture: 500x500
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - component 0 2:2 id: 0 quant:0
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - component 1 1:1 id: 1 quant:1
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - component 2 1:1 id: 2 quant:1
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - pix fmt id 22111100
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - Format yuvj420p chosen by get_format().
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - marker parser used 17 bytes (136 bits)
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=41417
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=41384
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=41201
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=41168
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - escaping removed 291 bytes
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - marker=da avail_size_in_buf=40985
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - marker parser used 40694 bytes (325552 bits)
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - marker=d9 avail_size_in_buf=0
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - decode frame unused 0 bytes
+Aug 20, 2022 02:11:42.223 [7320] DEBUG - [FFMPEG] - All info found
+Aug 20, 2022 02:11:42.224 [7320] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 8646335 bytes read:8659976 seeks:0 frames:2
+Aug 20, 2022 02:11:42.224 [7320] DEBUG - [MI] Opening "D:\Audiobooks\Star Wars\Alphabet Squadron.m4b" for MP4 atom parsing
+Aug 20, 2022 02:11:42.224 [7320] DEBUG - Mp4AtomParser: Skipping ftyp atom of size 28 at offset 0
+Aug 20, 2022 02:11:42.224 [7320] DEBUG - Mp4AtomParser: Skipping free atom of size 8 at offset 28
+Aug 20, 2022 02:11:42.224 [7320] DEBUG - Mp4AtomParser: Found moov atom of size 8644548 at offset 36
+Aug 20, 2022 02:11:42.226 [7320] DEBUG - Mp4AtomParser: Found trak atom of size 8597292 at offset 152
+Aug 20, 2022 02:11:42.226 [7320] DEBUG - Mp4AtomParser: Found trak atom of size 1159 at offset 8597444
+Aug 20, 2022 02:11:42.226 [7320] DEBUG - Mp4AtomParser: Found mdia atom of size 8597136 at offset 308
+Aug 20, 2022 02:11:42.226 [7320] DEBUG - Mp4AtomParser: Found minf atom of size 8597039 at offset 405
+Aug 20, 2022 02:11:42.226 [7320] DEBUG - Mp4AtomParser: Found stbl atom of size 8596979 at offset 465
+Aug 20, 2022 02:11:42.226 [7320] DEBUG - Mp4AtomParser: Found tref atom of size 20 at offset 288
+Aug 20, 2022 02:11:42.226 [7320] DEBUG - Mp4AtomParser: Found chap atom of size 12 at offset 296
+Aug 20, 2022 02:11:42.226 [7320] DEBUG - [MI] Determined stream id 2 has chapters, not subtitles
+Aug 20, 2022 02:11:42.226 [7320] DEBUG - Mp4AtomParser: Found mdia atom of size 1023 at offset 8597580
+Aug 20, 2022 02:11:42.226 [7320] DEBUG - Mp4AtomParser: Found minf atom of size 935 at offset 8597668
+Aug 20, 2022 02:11:42.226 [7320] DEBUG - Mp4AtomParser: Found stbl atom of size 815 at offset 8597788
+Aug 20, 2022 02:11:42.227 [7320] DEBUG - [MI]  * d250cc6c8c5cb0641c6bda7cea03b66125bfaf17 [mp4 /aac] Duration: 49864574ms, 0x0 (0.000000) 0.000fps, bitrate=125kbps, audio channels=2, optimizedForStreaming=1 ("D:\Audiobooks\Star Wars\Alphabet Squadron.m4b")
+Aug 20, 2022 02:11:42.227 [7320] DEBUG - [MI] Importing 81 media chapters.
+Aug 20, 2022 02:11:42.227 [7320] DEBUG - [MI] Chapters had generic titles, clearing.
+Aug 20, 2022 02:11:42.227 [7320] DEBUG - [MI] Closing input file: "D:\Audiobooks\Star Wars\Alphabet Squadron.m4b"
+Aug 20, 2022 02:11:42.233 [7320] DEBUG - Committing media stream changes for part 35518
+Aug 20, 2022 02:11:42.233 [7320] DEBUG - Updating media item 35517, size=791449005, metadata_item_id=18236
+Aug 20, 2022 02:11:42.233 [7320] DEBUG - Updating part with ID=35518 [D:\Audiobooks\Star Wars\Alphabet Squadron.m4b]
+Aug 20, 2022 02:11:42.233 [0740] DEBUG - [HCl#c] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=3&metadataItemID=18236&metadataType=10&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Aug 20, 2022 02:11:42.234 [4784] DEBUG - [HttpClient/HCl#c] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=3&metadataItemID=18236&metadataType=10&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+Aug 20, 2022 02:11:42.234 [0740] DEBUG - [HCl#d] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=3&metadataItemID=18236&metadataType=10&state=-1&parentID=-1&rootID=-1&mediaState=idle
+Aug 20, 2022 02:11:42.234 [4784] DEBUG - [HttpClient/HCl#d] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=3&metadataItemID=18236&metadataType=10&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+Aug 20, 2022 02:11:42.242 [7320] DEBUG - Analyzing media parts for item 15033 (Krusty Krab Training Video): 32452
+Aug 20, 2022 02:11:42.242 [7320] DEBUG - [ID 32452] Media part analysis: D:\TV\Spongebob\Season 3\SpongeBob SquarePants - S03E17-E18 - Wet Painters & Krusty Krab Training Video.mkv
+Aug 20, 2022 02:11:42.242 [7320] DEBUG - [MI] Opening input file: "D:\TV\Spongebob\Season 3\SpongeBob SquarePants - S03E17-E18 - Wet Painters && Krusty Krab Training Video.mkv"
+Aug 20, 2022 02:11:42.242 [7320] DEBUG - [FFMPEG] - Opening 'D:\TV\Spongebob\Season 3\SpongeBob SquarePants - S03E17-E18 - Wet Painters & Krusty Krab Training Video.mkv' for reading
+Aug 20, 2022 02:11:42.242 [7320] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Aug 20, 2022 02:11:42.242 [7320] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Aug 20, 2022 02:11:42.242 [7320] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 8662 bytes read:263438 seeks:4 nb_streams:5
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - nal_unit_type: 32(VPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - Decoding VPS
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - Main 10 profile bitstream
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - nal_unit_type: 33(SPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - Decoding SPS
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - Main 10 profile bitstream
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - Decoding VUI
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - nal_unit_type: 34(PPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - Decoding PPS
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - nal_unit_type: 39(SEI_PREFIX), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - Decoding SEI
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - marker=d8 avail_size_in_buf=229077
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - marker=e0 avail_size_in_buf=229075
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - marker parser used 16 bytes (128 bits)
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - marker=db avail_size_in_buf=229057
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - index=0
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - qscale[0]: 0
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - marker parser used 67 bytes (536 bits)
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - marker=db avail_size_in_buf=228988
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - index=1
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - qscale[1]: 1
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - marker parser used 67 bytes (536 bits)
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - marker=c0 avail_size_in_buf=228919
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - Changing bps from 0 to 8
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - sof0: picture: 600x800
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - component 0 2:2 id: 0 quant:0
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - component 1 1:1 id: 1 quant:1
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - component 2 1:1 id: 2 quant:1
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - pix fmt id 22111100
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - Format yuvj420p chosen by get_format().
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - marker parser used 17 bytes (136 bits)
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=228900
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=228867
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=228684
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=228651
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - escaping removed 2145 bytes
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - marker=da avail_size_in_buf=228468
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - marker parser used 226323 bytes (1810584 bits)
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - marker=d9 avail_size_in_buf=0
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - decode frame unused 0 bytes
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - All info found
+Aug 20, 2022 02:11:42.243 [7320] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 25850 bytes read:296206 seeks:4 frames:19
+Aug 20, 2022 02:11:42.244 [7320] DEBUG - [MI]  * 6eadebfe675424085d53855a0f7156c6b6cc82fc [mkv hevc/eac3] Duration: 1435392ms, 1424x1080 (1.318519) 23.976fps, bitrate=2025kbps, audio channels=2, optimizedForStreaming=0 ("D:\TV\Spongebob\Season 3\SpongeBob SquarePants - S03E17-E18 - Wet Painters && Krusty Krab Training Video.mkv")
+Aug 20, 2022 02:11:42.244 [7320] DEBUG - [MI] Importing 13 media chapters.
+Aug 20, 2022 02:11:42.244 [7320] DEBUG - [MI] Closing input file: "D:\TV\Spongebob\Season 3\SpongeBob SquarePants - S03E17-E18 - Wet Painters && Krusty Krab Training Video.mkv"
+Aug 20, 2022 02:11:42.244 [7320] DEBUG - Committing media stream changes for part 32452
+Aug 20, 2022 02:11:42.245 [7320] DEBUG - Updating media item 32452, size=363459317, metadata_item_id=15033
+Aug 20, 2022 02:11:42.245 [7320] DEBUG - Updating part with ID=32452 [D:\TV\Spongebob\Season 3\SpongeBob SquarePants - S03E17-E18 - Wet Painters & Krusty Krab Training Video.mkv]
+Aug 20, 2022 02:11:42.245 [0740] DEBUG - [HCl#e] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=15033&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Aug 20, 2022 02:11:42.246 [4784] DEBUG - [HttpClient/HCl#e] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=15033&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+Aug 20, 2022 02:11:42.246 [0740] DEBUG - [HCl#f] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=15033&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing
+Aug 20, 2022 02:11:42.246 [4784] DEBUG - [HttpClient/HCl#f] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=15033&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing (reused)
+Aug 20, 2022 02:11:42.246 [0740] DEBUG - [HCl#10] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=15033&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+Aug 20, 2022 02:11:42.246 [4784] DEBUG - [HttpClient/HCl#10] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=15033&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+Aug 20, 2022 02:11:42.251 [7320] DEBUG - Analyzing media parts for item 16395 (Michael Scott Paper Company): 33714
+Aug 20, 2022 02:11:42.289 [7320] DEBUG - [ID 33715] Media part analysis: D:\TV\The Office\Season 5\The Office (US) - S05E21 - The Michael Scott Paper Company.mkv
+Aug 20, 2022 02:11:42.289 [7320] DEBUG - [MI] Opening input file: "D:\TV\The Office\Season 5\The Office (US) - S05E21 - The Michael Scott Paper Company.mkv"
+Aug 20, 2022 02:11:42.289 [7320] DEBUG - [FFMPEG] - Opening 'D:\TV\The Office\Season 5\The Office (US) - S05E21 - The Michael Scott Paper Company.mkv' for reading
+Aug 20, 2022 02:11:42.289 [7320] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Aug 20, 2022 02:11:42.290 [7320] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Aug 20, 2022 02:11:42.290 [7320] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:42.290 [7320] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:42.290 [7320] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:42.290 [7320] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 8013 bytes read:34098 seeks:2 nb_streams:3
+Aug 20, 2022 02:11:42.290 [7320] DEBUG - [FFMPEG] - nal_unit_type: 32(VPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:42.290 [7320] DEBUG - [FFMPEG] - Decoding VPS
+Aug 20, 2022 02:11:42.290 [7320] DEBUG - [FFMPEG] - Main 10 profile bitstream
+Aug 20, 2022 02:11:42.290 [7320] DEBUG - [FFMPEG] - nal_unit_type: 33(SPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:42.290 [7320] DEBUG - [FFMPEG] - Decoding SPS
+Aug 20, 2022 02:11:42.290 [7320] DEBUG - [FFMPEG] - Main 10 profile bitstream
+Aug 20, 2022 02:11:42.290 [7320] DEBUG - [FFMPEG] - Decoding VUI
+Aug 20, 2022 02:11:42.290 [7320] DEBUG - [FFMPEG] - nal_unit_type: 34(PPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:42.290 [7320] DEBUG - [FFMPEG] - Decoding PPS
+Aug 20, 2022 02:11:42.290 [7320] DEBUG - [FFMPEG] - nal_unit_type: 39(SEI_PREFIX), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:42.290 [7320] DEBUG - [FFMPEG] - Decoding SEI
+Aug 20, 2022 02:11:42.291 [7320] DEBUG - [FFMPEG] - All info found
+Aug 20, 2022 02:11:42.291 [7320] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 12482 bytes read:66866 seeks:2 frames:19
+Aug 20, 2022 02:11:42.291 [7320] DEBUG - [MI]  * 64bf6372d222c59cc5e45f6edd6b078251a33796 [mkv hevc/aac] Duration: 1298560ms, 1920x1080 (1.777778) 23.976fps, bitrate=2247kbps, audio channels=6, optimizedForStreaming=0 ("D:\TV\The Office\Season 5\The Office (US) - S05E21 - The Michael Scott Paper Company.mkv")
+Aug 20, 2022 02:11:42.291 [7320] DEBUG - [MI] Importing 4 media chapters.
+Aug 20, 2022 02:11:42.292 [7320] DEBUG - [MI] Closing input file: "D:\TV\The Office\Season 5\The Office (US) - S05E21 - The Michael Scott Paper Company.mkv"
+Aug 20, 2022 02:11:42.292 [7320] DEBUG - Committing media stream changes for part 33715
+Aug 20, 2022 02:11:42.293 [7320] DEBUG - Updating media item 33714, size=364824326, metadata_item_id=16395
+Aug 20, 2022 02:11:42.293 [7320] DEBUG - Updating part with ID=33715 [D:\TV\The Office\Season 5\The Office (US) - S05E21 - The Michael Scott Paper Company.mkv]
+Aug 20, 2022 02:11:42.293 [0740] DEBUG - [HCl#11] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=16395&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Aug 20, 2022 02:11:42.293 [4784] DEBUG - [HttpClient/HCl#11] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=16395&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+Aug 20, 2022 02:11:42.293 [0740] DEBUG - [HCl#12] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=16395&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing
+Aug 20, 2022 02:11:42.294 [4784] DEBUG - [HttpClient/HCl#12] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=16395&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing (reused)
+Aug 20, 2022 02:11:42.294 [0740] DEBUG - [HCl#13] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=16395&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+Aug 20, 2022 02:11:42.294 [4784] DEBUG - [HttpClient/HCl#13] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=16395&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+Aug 20, 2022 02:11:42.298 [7320] DEBUG - Analyzing media parts for item 11734 (Episode 9): 29429
+Aug 20, 2022 02:11:42.352 [7320] DEBUG - [ID 29429] Media part analysis: D:\TV\Breaking Bad\Season 5\Breaking Bad - S05E09 - Blood Money.mkv
+Aug 20, 2022 02:11:42.353 [7320] DEBUG - [MI] Opening input file: "D:\TV\Breaking Bad\Season 5\Breaking Bad - S05E09 - Blood Money.mkv"
+Aug 20, 2022 02:11:42.353 [7320] DEBUG - [FFMPEG] - Opening 'D:\TV\Breaking Bad\Season 5\Breaking Bad - S05E09 - Blood Money.mkv' for reading
+Aug 20, 2022 02:11:42.353 [7320] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Aug 20, 2022 02:11:42.353 [7320] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Aug 20, 2022 02:11:42.353 [7320] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:42.353 [7320] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:42.353 [7320] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:42.353 [7320] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:42.353 [7320] DEBUG - [FFMPEG] - st:4 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:42.353 [7320] DEBUG - [FFMPEG] - st:5 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:42.353 [7320] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 6526 bytes read:32768 seeks:0 nb_streams:6
+Aug 20, 2022 02:11:42.354 [7320] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Aug 20, 2022 02:11:42.354 [7320] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Aug 20, 2022 02:11:42.354 [7320] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Aug 20, 2022 02:11:42.354 [7320] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Aug 20, 2022 02:11:42.354 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.354 [7320] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.354 [7320] DEBUG - [FFMPEG] - nal_unit_type: 9(AUD), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.354 [7320] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.354 [7320] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.354 [7320] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Aug 20, 2022 02:11:42.354 [7320] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Aug 20, 2022 02:11:42.354 [7320] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Aug 20, 2022 02:11:42.354 [7320] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Aug 20, 2022 02:11:42.354 [7320] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Aug 20, 2022 02:11:42.356 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.356 [7320] DEBUG - [FFMPEG] - no picture 
+Aug 20, 2022 02:11:42.357 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.357 [7320] DEBUG - [FFMPEG] - nal_unit_type: 9(AUD), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.357 [7320] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.357 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Aug 20, 2022 02:11:42.357 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Aug 20, 2022 02:11:42.357 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Aug 20, 2022 02:11:42.357 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Aug 20, 2022 02:11:42.358 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.358 [7320] DEBUG - [FFMPEG] - no picture 
+Aug 20, 2022 02:11:42.359 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.359 [7320] DEBUG - [FFMPEG] - nal_unit_type: 9(AUD), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.359 [7320] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.359 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 1
+Aug 20, 2022 02:11:42.359 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 1
+Aug 20, 2022 02:11:42.359 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 1
+Aug 20, 2022 02:11:42.359 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 1
+Aug 20, 2022 02:11:42.360 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.362 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.362 [7320] DEBUG - [FFMPEG] - nal_unit_type: 9(AUD), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.362 [7320] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.362 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.362 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.362 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.362 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.363 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.365 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.365 [7320] DEBUG - [FFMPEG] - nal_unit_type: 9(AUD), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.365 [7320] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.365 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.365 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.365 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.365 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.366 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.368 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.368 [7320] DEBUG - [FFMPEG] - nal_unit_type: 9(AUD), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.368 [7320] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.368 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Aug 20, 2022 02:11:42.368 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Aug 20, 2022 02:11:42.368 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Aug 20, 2022 02:11:42.368 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Aug 20, 2022 02:11:42.368 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.369 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.369 [7320] DEBUG - [FFMPEG] - nal_unit_type: 9(AUD), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.369 [7320] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.369 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 1
+Aug 20, 2022 02:11:42.369 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 1
+Aug 20, 2022 02:11:42.369 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 1
+Aug 20, 2022 02:11:42.369 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 1
+Aug 20, 2022 02:11:42.369 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.371 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.371 [7320] DEBUG - [FFMPEG] - nal_unit_type: 9(AUD), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.371 [7320] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.371 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.371 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.371 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.371 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.371 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.372 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.372 [7320] DEBUG - [FFMPEG] - nal_unit_type: 9(AUD), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.372 [7320] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.372 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.373 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.373 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.373 [7320] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 02:11:42.373 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.374 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.375 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.375 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.375 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.375 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.375 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.375 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.375 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.375 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.375 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.376 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.376 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.376 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.376 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.376 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.376 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.376 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.376 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.376 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.376 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.376 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.376 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.376 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.376 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.376 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.376 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.376 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.376 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.376 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.376 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.376 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.376 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.376 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.376 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.376 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.377 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.378 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.378 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.378 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.378 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.378 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.378 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.379 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.379 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.379 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.379 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.379 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.379 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.380 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.380 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.380 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.380 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.380 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.380 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.384 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.384 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.384 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.384 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.386 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.386 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.386 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.387 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.387 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.387 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.388 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.388 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.389 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.389 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.390 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.390 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.390 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.391 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.391 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.391 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.393 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.393 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.393 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.393 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.394 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.396 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.396 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.396 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.396 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.399 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.399 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.399 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.399 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.401 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.401 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.401 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.401 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.401 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.401 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.401 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.401 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.402 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.402 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.402 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.402 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.403 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.403 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.404 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.404 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.404 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.404 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.405 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.405 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.406 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.406 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.407 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.408 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.408 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.410 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.410 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.411 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.411 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.412 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.413 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.414 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.415 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.415 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.415 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.415 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.417 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.417 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.417 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.417 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.419 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.419 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.419 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.498 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.498 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.498 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.499 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.501 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.501 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.501 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.501 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.502 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.502 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.503 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.503 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.503 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.503 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.503 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.503 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.504 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.504 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.504 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.505 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.505 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.505 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.506 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.506 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.507 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.507 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.508 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.508 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.509 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.509 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.509 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.512 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.512 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.512 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.512 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.512 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.513 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.514 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.514 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.514 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.514 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.514 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.515 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.515 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.515 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.516 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.516 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.516 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.516 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.517 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.517 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.517 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.518 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.519 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.519 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.520 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.520 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.521 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.521 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.523 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.523 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.524 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.524 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.524 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.524 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.525 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.525 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.526 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.526 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.527 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.527 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.528 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.528 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.528 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.529 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.530 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.530 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.532 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.532 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.532 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.532 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.533 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.533 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.534 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.534 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.536 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.536 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.536 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.536 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.536 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.536 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.537 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.538 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.539 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.539 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.541 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.541 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.541 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.541 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.543 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.543 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.543 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.543 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.543 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.544 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.544 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.544 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.545 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.545 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.545 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.548 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.548 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.548 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.548 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.548 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.549 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.549 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.550 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.550 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.551 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.551 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.552 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.552 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.553 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.553 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.553 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.554 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.554 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.554 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.555 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.555 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.556 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.556 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.557 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.557 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.557 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.559 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.559 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.559 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.560 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.560 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.561 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.561 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.561 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.561 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.563 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.563 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.563 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.563 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.563 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.563 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.563 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.564 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.564 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.564 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.564 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.564 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.564 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.564 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.564 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.565 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.565 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.565 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.565 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.565 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.565 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.566 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.566 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.566 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.567 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.567 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.567 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.568 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.568 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.569 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.571 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.571 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.572 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.572 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.573 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.574 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.574 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.575 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.575 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.575 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.575 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.576 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.576 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.576 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.576 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.576 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.577 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.577 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.577 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.578 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.578 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.579 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.579 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.579 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.580 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.580 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.581 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.581 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.581 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.583 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.583 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.583 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.583 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.584 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.584 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.584 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.585 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.585 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.585 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.586 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.586 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.586 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.587 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.587 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.588 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.589 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.589 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.589 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.590 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.590 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.591 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.591 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.592 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.592 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.592 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.593 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.594 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.594 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.595 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.596 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.596 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.596 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.597 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.597 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.597 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.598 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.598 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.598 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.599 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.599 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.600 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.601 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.601 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.601 [7320] DEBUG - [FFMPEG] - unknown SEI type 7
+Aug 20, 2022 02:11:42.601 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.602 [7320] DEBUG - [FFMPEG] - ct_type:0 pic_struct:0
+Aug 20, 2022 02:11:42.602 [7320] DEBUG - [FFMPEG] - Probe buffer size limit of 20000000 bytes reached
+Aug 20, 2022 02:11:42.602 [7320] DEBUG - [FFMPEG] - rfps: 24.000000 0.010426
+Aug 20, 2022 02:11:42.602 [7320] DEBUG - [FFMPEG] - rfps: 24.000000 0.010426
+Aug 20, 2022 02:11:42.602 [7320] DEBUG - [FFMPEG] - rfps: 23.976024 0.000048
+Aug 20, 2022 02:11:42.602 [7320] DEBUG - [FFMPEG] - rfps: 47.952048 0.000191
+Aug 20, 2022 02:11:42.602 [7320] DEBUG - [FFMPEG] - Setting avg frame rate based on r frame rate
+Aug 20, 2022 02:11:42.602 [7320] WARN - [FFMPEG] - Could not find codec parameters for stream 2 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (20000000) and 'probesize' (20000000) options
+Aug 20, 2022 02:11:42.602 [7320] WARN - [FFMPEG] - Could not find codec parameters for stream 3 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (20000000) and 'probesize' (20000000) options
+Aug 20, 2022 02:11:42.602 [7320] WARN - [FFMPEG] - Could not find codec parameters for stream 4 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (20000000) and 'probesize' (20000000) options
+Aug 20, 2022 02:11:42.604 [7320] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 20020481 bytes read:20020481 seeks:0 frames:1786
+Aug 20, 2022 02:11:42.604 [7320] DEBUG - [MI]  * 4694cfb3a59bc3a249e4427a3f1384b5195d5674 [mkv h264/dca] Duration: 2842891ms, 1920x1080 (1.777778) 23.976fps, bitrate=8569kbps, audio channels=6, optimizedForStreaming=0 ("D:\TV\Breaking Bad\Season 5\Breaking Bad - S05E09 - Blood Money.mkv")
+Aug 20, 2022 02:11:42.604 [7320] DEBUG - [MI] Importing 7 media chapters.
+Aug 20, 2022 02:11:42.604 [7320] DEBUG - [MI] Chapters had generic titles, clearing.
+Aug 20, 2022 02:11:42.604 [7320] DEBUG - [MI] Closing input file: "D:\TV\Breaking Bad\Season 5\Breaking Bad - S05E09 - Blood Money.mkv"
+Aug 20, 2022 02:11:42.607 [7320] DEBUG - Committing media stream changes for part 29429
+Aug 20, 2022 02:11:42.608 [7320] DEBUG - Updating media item 29429, size=3045324890, metadata_item_id=11734
+Aug 20, 2022 02:11:42.608 [7320] DEBUG - Updating part with ID=29429 [D:\TV\Breaking Bad\Season 5\Breaking Bad - S05E09 - Blood Money.mkv]
+Aug 20, 2022 02:11:42.608 [0740] DEBUG - [HCl#14] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=11734&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Aug 20, 2022 02:11:42.608 [4784] DEBUG - [HttpClient/HCl#14] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=11734&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+Aug 20, 2022 02:11:42.608 [0740] DEBUG - [HCl#15] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=11734&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing
+Aug 20, 2022 02:11:42.609 [4784] DEBUG - [HttpClient/HCl#15] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=11734&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing (reused)
+Aug 20, 2022 02:11:42.609 [0740] DEBUG - [HCl#16] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=11734&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+Aug 20, 2022 02:11:42.609 [4784] DEBUG - [HttpClient/HCl#16] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=11734&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+Aug 20, 2022 02:11:42.613 [7320] DEBUG - Analyzing media parts for item 16961 (Try): 34244
+Aug 20, 2022 02:11:42.673 [7320] DEBUG - [ID 34245] Media part analysis: D:\TV\The Walking Dead\Season 5\The Walking Dead - S05E15.mkv
+Aug 20, 2022 02:11:42.674 [7320] DEBUG - [MI] Opening input file: "D:\TV\The Walking Dead\Season 5\The Walking Dead - S05E15.mkv"
+Aug 20, 2022 02:11:42.674 [7320] DEBUG - [FFMPEG] - Opening 'D:\TV\The Walking Dead\Season 5\The Walking Dead - S05E15.mkv' for reading
+Aug 20, 2022 02:11:42.674 [7320] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Aug 20, 2022 02:11:42.674 [7320] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Aug 20, 2022 02:11:42.674 [7320] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:42.674 [7320] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:42.674 [7320] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:42.674 [7320] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:42.674 [7320] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 6371 bytes read:34430 seeks:2 nb_streams:4
+Aug 20, 2022 02:11:42.674 [7320] DEBUG - [FFMPEG] - nal_unit_type: 32(VPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:42.674 [7320] DEBUG - [FFMPEG] - Decoding VPS
+Aug 20, 2022 02:11:42.674 [7320] DEBUG - [FFMPEG] - Main 10 profile bitstream
+Aug 20, 2022 02:11:42.674 [7320] DEBUG - [FFMPEG] - nal_unit_type: 33(SPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:42.674 [7320] DEBUG - [FFMPEG] - Decoding SPS
+Aug 20, 2022 02:11:42.674 [7320] DEBUG - [FFMPEG] - Main 10 profile bitstream
+Aug 20, 2022 02:11:42.674 [7320] DEBUG - [FFMPEG] - Decoding VUI
+Aug 20, 2022 02:11:42.674 [7320] DEBUG - [FFMPEG] - nal_unit_type: 34(PPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:42.674 [7320] DEBUG - [FFMPEG] - Decoding PPS
+Aug 20, 2022 02:11:42.675 [7320] DEBUG - [FFMPEG] - first_dts 0 not matching first dts NOPTS (pts 0, duration 41) in the queue
+Aug 20, 2022 02:11:42.677 [7320] DEBUG - [FFMPEG] - All info found
+Aug 20, 2022 02:11:42.677 [7320] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 127923 bytes read:165502 seeks:2 frames:177
+Aug 20, 2022 02:11:42.677 [7320] DEBUG - [MI]  * 23ddcaca3cfc8e4a2c7468e4b1cb679a055f0d41 [mkv hevc/aac] Duration: 2578643ms, 1920x1080 (1.777778) 23.976fps, bitrate=2202kbps, audio channels=6, optimizedForStreaming=0 ("D:\TV\The Walking Dead\Season 5\The Walking Dead - S05E15.mkv")
+Aug 20, 2022 02:11:42.677 [7320] DEBUG - [MI] Importing 6 media chapters.
+Aug 20, 2022 02:11:42.677 [7320] DEBUG - [MI] Chapters had generic titles, clearing.
+Aug 20, 2022 02:11:42.677 [7320] DEBUG - [MI] Closing input file: "D:\TV\The Walking Dead\Season 5\The Walking Dead - S05E15.mkv"
+Aug 20, 2022 02:11:42.678 [7320] DEBUG - Committing media stream changes for part 34245
+Aug 20, 2022 02:11:42.678 [7320] DEBUG - Updating media item 34244, size=709994571, metadata_item_id=16961
+Aug 20, 2022 02:11:42.679 [7320] DEBUG - Updating part with ID=34245 [D:\TV\The Walking Dead\Season 5\The Walking Dead - S05E15.mkv]
+Aug 20, 2022 02:11:42.679 [0740] DEBUG - [HCl#17] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=16961&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Aug 20, 2022 02:11:42.679 [4784] DEBUG - [HttpClient/HCl#17] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=16961&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+Aug 20, 2022 02:11:42.679 [0740] DEBUG - [HCl#18] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=16961&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing
+Aug 20, 2022 02:11:42.680 [4784] DEBUG - [HttpClient/HCl#18] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=16961&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing (reused)
+Aug 20, 2022 02:11:42.680 [0740] DEBUG - [HCl#19] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=16961&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+Aug 20, 2022 02:11:42.680 [4784] DEBUG - [HttpClient/HCl#19] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=16961&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+Aug 20, 2022 02:11:42.684 [7320] DEBUG - Analyzing media parts for item 12581 (Episode 1): 30185
+Aug 20, 2022 02:11:42.716 [7320] DEBUG - [ID 30185] Media part analysis: D:\TV\How I Met Your Mother\Season 4 (Bluray)\How I Met Your Mother (2005) - S04E01 - Do I Know You (1080p BluRay x265 Silence).mkv
+Aug 20, 2022 02:11:42.716 [7320] DEBUG - [MI] Opening input file: "D:\TV\How I Met Your Mother\Season 4 (Bluray)\How I Met Your Mother (2005) - S04E01 - Do I Know You (1080p BluRay x265 Silence).mkv"
+Aug 20, 2022 02:11:42.716 [7320] DEBUG - [FFMPEG] - Opening 'D:\TV\How I Met Your Mother\Season 4 (Bluray)\How I Met Your Mother (2005) - S04E01 - Do I Know You (1080p BluRay x265 Silence).mkv' for reading
+Aug 20, 2022 02:11:42.716 [7320] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Aug 20, 2022 02:11:42.716 [7320] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Aug 20, 2022 02:11:42.716 [7320] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:42.716 [7320] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:42.716 [7320] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:42.717 [7320] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 8053 bytes read:34063 seeks:2 nb_streams:3
+Aug 20, 2022 02:11:42.717 [7320] DEBUG - [FFMPEG] - nal_unit_type: 32(VPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:42.717 [7320] DEBUG - [FFMPEG] - Decoding VPS
+Aug 20, 2022 02:11:42.717 [7320] DEBUG - [FFMPEG] - Main 10 profile bitstream
+Aug 20, 2022 02:11:42.717 [7320] DEBUG - [FFMPEG] - nal_unit_type: 33(SPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:42.717 [7320] DEBUG - [FFMPEG] - Decoding SPS
+Aug 20, 2022 02:11:42.717 [7320] DEBUG - [FFMPEG] - Main 10 profile bitstream
+Aug 20, 2022 02:11:42.717 [7320] DEBUG - [FFMPEG] - Decoding VUI
+Aug 20, 2022 02:11:42.717 [7320] DEBUG - [FFMPEG] - nal_unit_type: 34(PPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:42.717 [7320] DEBUG - [FFMPEG] - Decoding PPS
+Aug 20, 2022 02:11:42.717 [7320] DEBUG - [FFMPEG] - nal_unit_type: 39(SEI_PREFIX), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:42.717 [7320] DEBUG - [FFMPEG] - Decoding SEI
+Aug 20, 2022 02:11:42.718 [7320] DEBUG - [FFMPEG] - first_dts 0 not matching first dts NOPTS (pts 0, duration 41) in the queue
+Aug 20, 2022 02:11:42.720 [7320] DEBUG - [FFMPEG] - All info found
+Aug 20, 2022 02:11:42.720 [7320] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 199899 bytes read:238508 seeks:2 frames:188
+Aug 20, 2022 02:11:42.720 [7320] DEBUG - [MI]  * 0c93839f49fe1e6158120aade4de56441e9f377d [mkv hevc/aac] Duration: 1314324ms, 1920x1080 (1.777778) 23.976fps, bitrate=3123kbps, audio channels=6, optimizedForStreaming=0 ("D:\TV\How I Met Your Mother\Season 4 (Bluray)\How I Met Your Mother (2005) - S04E01 - Do I Know You (1080p BluRay x265 Silence).mkv")
+Aug 20, 2022 02:11:42.720 [7320] DEBUG - [MI] Importing 5 media chapters.
+Aug 20, 2022 02:11:42.720 [7320] DEBUG - [MI] Chapters had generic titles, clearing.
+Aug 20, 2022 02:11:42.721 [7320] DEBUG - [MI] Closing input file: "D:\TV\How I Met Your Mother\Season 4 (Bluray)\How I Met Your Mother (2005) - S04E01 - Do I Know You (1080p BluRay x265 Silence).mkv"
+Aug 20, 2022 02:11:42.721 [7320] DEBUG - Committing media stream changes for part 30185
+Aug 20, 2022 02:11:42.722 [7320] DEBUG - Updating media item 30185, size=513242802, metadata_item_id=12581
+Aug 20, 2022 02:11:42.722 [7320] DEBUG - Updating part with ID=30185 [D:\TV\How I Met Your Mother\Season 4 (Bluray)\How I Met Your Mother (2005) - S04E01 - Do I Know You (1080p BluRay x265 Silence).mkv]
+Aug 20, 2022 02:11:42.722 [0740] DEBUG - [HCl#1a] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=12581&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Aug 20, 2022 02:11:42.722 [4784] DEBUG - [HttpClient/HCl#1a] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=12581&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+Aug 20, 2022 02:11:42.722 [0740] DEBUG - [HCl#1b] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=12581&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing
+Aug 20, 2022 02:11:42.723 [4784] DEBUG - [HttpClient/HCl#1b] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=12581&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing (reused)
+Aug 20, 2022 02:11:42.723 [0740] DEBUG - [HCl#1c] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=12581&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+Aug 20, 2022 02:11:42.723 [4784] DEBUG - [HttpClient/HCl#1c] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=12581&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)

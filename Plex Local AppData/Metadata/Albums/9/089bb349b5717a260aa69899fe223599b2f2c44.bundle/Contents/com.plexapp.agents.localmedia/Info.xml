@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Album id="19251">
+  <rating/>
+  <album_type/>
+  <title_sort></title_sort>
+  <art/>
+  <duration/>
+  <genres/>
+  <title>Harry Potter: Quidditch Through the Ages</title>
+  <rating_count/>
+  <collections/>
+  <available_at/>
+  <styles/>
+  <tags/>
+  <audience_rating_image/>
+  <rating_image/>
+  <producers/>
+  <audience_rating/>
+  <tracks>
+    <item key="19252">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index/>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Harry Potter: Quidditch Through the Ages</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>J.K. Rowling</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+  </tracks>
+  <studio/>
+  <moods/>
+  <posters>
+    <item external="True" url="6095590872f8aba7d4299fa79cc787ff" media="4e7418d66ef7c2fba967a8926aec3dfa689f1237" sort_order="1"/>
+  </posters>
+  <originally_available_at>2018-01-01</originally_available_at>
+  <artist/>
+  <countries/>
+  <original_title/>
+  <summary></summary>
+  <reviews/>
+  <album_format/>
+</Album>

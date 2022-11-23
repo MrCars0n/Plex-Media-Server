@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2021-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="b45e8958ede97c20201714355f79431e" media="com.plexapp.agents.localmedia_d148747fff2a6e9a436912c45d26d0b9f82a3c1f" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="2cd6f1939ba29a45166578e70082dab6" media="com.plexapp.agents.localmedia_b9b5af6ac0262f28af903ea7848cdaa99b96cc05" sort_order="2" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="37858617377917bbffe2397381a8adbe" media="com.plexapp.agents.localmedia_19267e6edf62b342a060d76beee3a9428cc25ea2" sort_order="3" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="2583257b603a656e80ba3e1ceebc2519" media="com.plexapp.agents.localmedia_9edaf16230fd9f346be09408492136301f2563cb" sort_order="4" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="5eff2754697970acd1881ea735087e83" media="com.plexapp.agents.localmedia_bcab489abc93e537f85cbe9e62ec336b3f190893" sort_order="5" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="0896229c39904126cea365ec9d114163" media="com.plexapp.agents.localmedia_b49baf47d982203e93c70e8d0647284aea4193a7" sort_order="6" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="131bf238b9b4ab26ebe5ea33e4200694" media="com.plexapp.agents.localmedia_3747c8d39b8905fea5d04c4467361d647dc4b8b3" sort_order="7" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <summary>Narrated by Jennifer Jason Leigh Quentin Tarantino’s long-awaited first work of fiction — at once hilarious, delicious, and brutal — is the always surprising, sometimes shocking new novel based on his Academy Award- winning film. RICK DALTON – Once he had his own TV series, but now Rick’s a washed-up villain-of-the week drowning his sorrows in whiskey sours. Will a phone call from Rome save his fate or seal it? CLIFF BOOTH – Rick’s stunt double, and the most infamous man on any movie set because he’s the only one there who might have gotten away with murder. . . . SHARON TATE – She left Texas to chase a movie-star dream, and found it. Sharon’s salad days are now spent on Cielo Drive, high in the Hollywood Hills. CHARLES MANSON – The ex-con’s got a bunch of zonked-out hippies thinking he’s their spiritual leader, but he’d trade it all to be a rock ‘n’ roll star. HOLLYWOOD 1969 – YOU SHOULDA BEEN THERE</summary>
+  <tags/>
+  <title>Once Upon a Time in Hollywood</title>
+  <title_sort>Tarantino, Quentin 2021</title_sort>
+  <tracks>
+    <item key="17610" path="tracks\7753c440acd81df2c94775f4e066cd8c2cc10040">
+      <lyrics/>
+      <moods/>
+      <original_title>Quentin Tarantino</original_title>
+      <tags/>
+      <title>Once Upon a Time in Hollywood</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

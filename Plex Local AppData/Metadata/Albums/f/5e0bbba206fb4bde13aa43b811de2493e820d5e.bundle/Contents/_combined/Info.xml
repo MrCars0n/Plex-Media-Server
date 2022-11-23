@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2000-01-01</originally_available_at>
+  <posters/>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>04-Prince Caspian</title>
+  <tracks>
+    <item key="19102" path="tracks\a333faa8ea322e49317c09071746554caa4f3525">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>04-Prince Caspian-02</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="19103" path="tracks\aba49fd4c6d5ec7237878d9703ddbc13f816585f">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>04-Prince Caspian-03</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="19101" path="tracks\6cb2d9d059a8de25fb63b009c16989a366591805">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>04-Prince Caspian-01</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="19104" path="tracks\7fed34fd80dacf0a0cd732e5bb95a0b9f180a02e">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>04-Prince Caspian-04</title>
+      <track_index>4</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

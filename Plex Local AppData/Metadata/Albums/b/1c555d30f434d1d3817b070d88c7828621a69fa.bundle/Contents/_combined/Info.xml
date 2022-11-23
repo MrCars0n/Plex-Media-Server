@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2021-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="c543a784589866f62a7ce70cd4ab3c72" media="com.plexapp.agents.localmedia_f8cc75cb2df7c567b0829ee3739cc6202bf20627" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>We Were Never Here</title>
+  <tracks>
+    <item key="17874" path="tracks\b47c8d9c7a534099714f1abb6d7a229cc02fa0ed">
+      <lyrics/>
+      <moods/>
+      <original_title>Andrea Bartz</original_title>
+      <tags/>
+      <title>We Were Never Here - Part 3</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="17875" path="tracks\f6f0ae9cf7888614d1c4b0d3a6efafc379d57361">
+      <lyrics/>
+      <moods/>
+      <original_title>Andrea Bartz</original_title>
+      <tags/>
+      <title>We Were Never Here - Part 4</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="17876" path="tracks\6ac86c452f83523d70bda87786da4540b2196d42">
+      <lyrics/>
+      <moods/>
+      <original_title>Andrea Bartz</original_title>
+      <tags/>
+      <title>We Were Never Here - Part 5</title>
+      <track_index>5</track_index>
+    </item>
+    <item key="17877" path="tracks\97c1270962b1a6744bf0992507ee475a6624bc72">
+      <lyrics/>
+      <moods/>
+      <original_title>Andrea Bartz</original_title>
+      <tags/>
+      <title>We Were Never Here - Part 6</title>
+      <track_index>6</track_index>
+    </item>
+    <item key="17872" path="tracks\3229658a89610eda558834373c40ecdeb0bfdfb9">
+      <lyrics/>
+      <moods/>
+      <original_title>Andrea Bartz</original_title>
+      <tags/>
+      <title>We Were Never Here - Part 1</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="17873" path="tracks\af6cb2f68ca829d3701b51f9fa4d4d6e4b012a45">
+      <lyrics/>
+      <moods/>
+      <original_title>Andrea Bartz</original_title>
+      <tags/>
+      <title>We Were Never Here - Part 2</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="17880" path="tracks\51d5ac5c1de7787311598d08b62afd82ce556e23">
+      <lyrics/>
+      <moods/>
+      <original_title>Andrea Bartz</original_title>
+      <tags/>
+      <title>We Were Never Here - Part 9</title>
+      <track_index>9</track_index>
+    </item>
+    <item key="17878" path="tracks\de518d4133796d2ef23c9dedc1eb4180ff03e005">
+      <lyrics/>
+      <moods/>
+      <original_title>Andrea Bartz</original_title>
+      <tags/>
+      <title>We Were Never Here - Part 7</title>
+      <track_index>7</track_index>
+    </item>
+    <item key="17879" path="tracks\fe06a86bc86a138bf43f17ef83cfd0e453d05f7d">
+      <lyrics/>
+      <moods/>
+      <original_title>Andrea Bartz</original_title>
+      <tags/>
+      <title>We Were Never Here - Part 8</title>
+      <track_index>8</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

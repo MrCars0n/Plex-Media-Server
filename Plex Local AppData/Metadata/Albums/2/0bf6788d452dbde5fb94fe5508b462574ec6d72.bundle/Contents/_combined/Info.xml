@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2000-01-01</originally_available_at>
+  <posters/>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>02-The Lion, The Witch And The Wardrobe</title>
+  <tracks>
+    <item key="19108" path="tracks\37ece7fb85d06677ac69bb221e598d8fb170061c">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>02-The Lion, The Witch And The Wardrobe-03</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="19109" path="tracks\964fb387508d317cccb436dcff8ec45d07222e88">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>02-The Lion, The Witch And The Wardrobe-04</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="19106" path="tracks\1d701d7c4cc1ab9572396adb10e32d1e8a12cf73">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>02-The Lion, The Witch And The Wardrobe-01</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="19107" path="tracks\45699553f59835fec7a6a8e5484c30651548a805">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>02-The Lion, The Witch And The Wardrobe-02</title>
+      <track_index>2</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

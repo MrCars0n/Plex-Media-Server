@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2008-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="6727eea5a7b41feb9a52a87cce8d0a63" media="com.plexapp.agents.localmedia_b51cd2a15e2f81963a3112c50c19936169639cce" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Harry Potter: Tales of Beedle the Bard</title>
+  <tracks>
+    <item key="19255" path="tracks\a3607b9af2cefc7244e918fe24b49176741de140">
+      <lyrics/>
+      <moods/>
+      <original_title>J.K. Rowling</original_title>
+      <tags/>
+      <title>Harry Potter: Tales of Beedle the Bard</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

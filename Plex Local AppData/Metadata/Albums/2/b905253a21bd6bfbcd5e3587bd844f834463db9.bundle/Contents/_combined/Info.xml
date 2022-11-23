@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2015-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="4c566a22a0c0951e4ffd193ac7e2326c" media="com.plexapp.agents.localmedia_959282b5937b29e90c194068c7039b7663c4fac4" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Harry Potter 7: The Deathly Hallows</title>
+  <tracks>
+    <item key="19247" path="tracks\45880238883c5e6acfd1508c0c24b412cdd1b8c8">
+      <lyrics/>
+      <moods/>
+      <original_title>J.K. Rowling</original_title>
+      <tags/>
+      <title>Harry Potter: The Deathly Hallows</title>
+      <track_index>7</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

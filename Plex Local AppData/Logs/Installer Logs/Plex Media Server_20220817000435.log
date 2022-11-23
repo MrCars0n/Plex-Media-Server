@@ -1,0 +1,187 @@
+[0564:05A8][2022-08-17T00:04:35]i001: Burn v3.11.0.1701, Windows v10.0 (Build 19044: Service Pack 0), path: C:\Users\carso\AppData\Local\Temp\{00AA962D-8328-4DD2-8035-8046810B64BA}\.cr\PlexMediaServer-1.28.1.6092-87136b92b-x86.exe
+[0564:05A8][2022-08-17T00:04:35]i000: Initializing string variable 'OEM' to value ''
+[0564:05A8][2022-08-17T00:04:35]i000: Initializing string variable 'NOLAUNCH' to value ''
+[0564:05A8][2022-08-17T00:04:35]i000: Initializing string variable 'InstallFolder' to value '[ProgramFilesFolder]Plex\Plex Media Server'
+[0564:05A8][2022-08-17T00:04:35]i000: Initializing string variable 'DefaultInstallFolder64' to value '[ProgramFiles64Folder]Plex\Plex Media Server\'
+[0564:05A8][2022-08-17T00:04:35]i000: Initializing string variable 'LaunchTarget' to value '[InstallFolder]\Plex Media Server.exe'
+[0564:05A8][2022-08-17T00:04:35]i009: Command Line: '-burn.clean.room=C:\Users\carso\Downloads\PlexMediaServer-1.28.1.6092-87136b92b-x86.exe -burn.filehandle.attached=576 -burn.filehandle.self=688'
+[0564:05A8][2022-08-17T00:04:35]i000: Setting string variable 'WixBundleOriginalSource' to value 'C:\Users\carso\Downloads\PlexMediaServer-1.28.1.6092-87136b92b-x86.exe'
+[0564:05A8][2022-08-17T00:04:35]i000: Setting string variable 'WixBundleOriginalSourceFolder' to value 'C:\Users\carso\Downloads\'
+[0564:05A8][2022-08-17T00:04:35]i000: Setting string variable 'WixBundleLog' to value 'C:\Users\carso\AppData\Local\Temp\Plex Media Server_20220817000435.log'
+[0564:05A8][2022-08-17T00:04:35]i000: Setting string variable 'WixBundleName' to value 'Plex Media Server'
+[0564:05A8][2022-08-17T00:04:35]i000: Setting string variable 'WixBundleManufacturer' to value 'Plex, Inc.'
+[0564:0F88][2022-08-17T00:04:35]i000: Setting numeric variable 'WixStdBALanguageId' to value 1033
+[0564:0F88][2022-08-17T00:04:35]i000: Setting version variable 'WixBundleFileVersion' to value '1.28.1.6092'
+[0564:05A8][2022-08-17T00:04:35]i100: Detect begin, 16 packages
+[0564:05A8][2022-08-17T00:04:35]i000: Registry key not found. Key = 'Software\Plex, Inc.\Plex Media Server'
+[0564:05A8][2022-08-17T00:04:35]i052: Condition 'NOT PreviousInstallFolder' evaluates to true.
+[0564:05A8][2022-08-17T00:04:35]i000: Registry key not found. Key = 'Software\Plex, Inc.\Plex Media Server'
+[0564:05A8][2022-08-17T00:04:35]i052: Condition 'PreviousInstallFolder' evaluates to false.
+[0564:05A8][2022-08-17T00:04:35]i052: Condition 'PreviousInstallFolder AND (NOT PreviousInstallFolder ~= DefaultInstallFolder64)' evaluates to false.
+[0564:05A8][2022-08-17T00:04:35]i000: Setting numeric variable 'FoundMfPlatDll' to value 1
+[0564:05A8][2022-08-17T00:04:35]i000: Setting numeric variable 'Found_ucrtbase_dll' to value 1
+[0564:05A8][2022-08-17T00:04:35]i052: Condition 'NOT Found_ucrtbase_dll' evaluates to false.
+[0564:05A8][2022-08-17T00:04:35]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\Windows\CurrentVersion\Component Based Servicing\Packages\Package_for_KB2919355~31bf3856ad364e35~amd64~~6.3.1.14'
+[0564:05A8][2022-08-17T00:04:35]i000: Setting string variable 'WinRegReleaseID' to value '2009'
+[0564:05A8][2022-08-17T00:04:35]i000: Setting string variable 'WinRegCurrentBuildNumber' to value '19044'
+[0564:05A8][2022-08-17T00:04:35]i000: Setting string variable 'WinRegInstallationType' to value 'Client'
+[0564:05A8][2022-08-17T00:04:35]i000: Setting string variable 'WinRegEditionID' to value 'Enterprise'
+[0564:05A8][2022-08-17T00:04:35]i000: Setting string variable 'WinRegProductName' to value 'Windows 10 Enterprise'
+[0564:05A8][2022-08-17T00:04:35]i000: Setting string variable 'WinRegMediaPlayer' to value '%ProgramFiles%\Windows Media Player'
+[0564:05A8][2022-08-17T00:04:35]i000: Registry key not found. Key = 'SOFTWARE\Microsoft\Windows\CurrentVersion\Component Based Servicing\Packages\Package_for_KB2919355~31bf3856ad364e35~x86~~6.3.1.14'
+[0564:05A8][2022-08-17T00:04:35]i000: Setting string variable 'WinRegCurrentBuild' to value '19044'
+[0564:05A8][2022-08-17T00:04:35]i052: Condition 'FoundMfPlatDll' evaluates to true.
+[0564:05A8][2022-08-17T00:04:35]i052: Condition 'FoundMfPlatDll' evaluates to true.
+[0564:05A8][2022-08-17T00:04:35]i052: Condition 'FoundMfPlatDll AND WinRegMediaPlayer' evaluates to true.
+[0564:05A8][2022-08-17T00:04:35]i052: Condition 'FoundMfPlatDll AND WinRegMediaPlayer' evaluates to true.
+[0564:05A8][2022-08-17T00:04:35]i052: Condition 'FoundMfPlatDll' evaluates to true.
+[0564:05A8][2022-08-17T00:04:35]i052: Condition 'FoundMfPlatDll' evaluates to true.
+[0564:05A8][2022-08-17T00:04:35]i052: Condition 'FoundMfPlatDll' evaluates to true.
+[0564:05A8][2022-08-17T00:04:35]i052: Condition 'FoundMfPlatDll' evaluates to true.
+[0564:05A8][2022-08-17T00:04:35]i052: Condition 'FoundMfPlatDll' evaluates to true.
+[0564:05A8][2022-08-17T00:04:35]i052: Condition 'FoundMfPlatDll' evaluates to true.
+[0564:05A8][2022-08-17T00:04:35]i052: Condition 'FoundMfPlatDll' evaluates to true.
+[0564:05A8][2022-08-17T00:04:35]i052: Condition 'FoundMfPlatDll' evaluates to true.
+[0564:05A8][2022-08-17T00:04:35]i101: Detected package: MediaPackWin7x86, state: Present, cached: None
+[0564:05A8][2022-08-17T00:04:35]i101: Detected package: MediaPackWin7x64, state: Present, cached: None
+[0564:05A8][2022-08-17T00:04:35]i101: Detected package: MediaPackWin8x86, state: Present, cached: None
+[0564:05A8][2022-08-17T00:04:35]i101: Detected package: MediaPackWin8x64, state: Present, cached: None
+[0564:05A8][2022-08-17T00:04:35]i101: Detected package: MediaPackWin81x86, state: Present, cached: None
+[0564:05A8][2022-08-17T00:04:35]i101: Detected package: MediaPackWin81x64, state: Present, cached: None
+[0564:05A8][2022-08-17T00:04:35]i101: Detected package: MediaPackWin10x86, state: Present, cached: None
+[0564:05A8][2022-08-17T00:04:35]i101: Detected package: MediaPackWin10x64, state: Present, cached: None
+[0564:05A8][2022-08-17T00:04:35]i101: Detected package: MediaPackWin10x861511, state: Present, cached: None
+[0564:05A8][2022-08-17T00:04:35]i101: Detected package: MediaPackWin10x641511, state: Present, cached: None
+[0564:05A8][2022-08-17T00:04:35]i101: Detected package: MediaPackWin10x861607, state: Present, cached: None
+[0564:05A8][2022-08-17T00:04:35]i101: Detected package: MediaPackWin10x641607, state: Present, cached: None
+[0564:05A8][2022-08-17T00:04:35]i101: Detected package: pmsshutdown, state: Absent, cached: None
+[0564:05A8][2022-08-17T00:04:35]i101: Detected package: vcredist_repair, state: Absent, cached: None
+[0564:05A8][2022-08-17T00:04:35]i101: Detected package: vcredist, state: Absent, cached: None
+[0564:05A8][2022-08-17T00:04:35]i101: Detected package: pms, state: Absent, cached: None
+[0564:05A8][2022-08-17T00:04:35]i052: Condition 'VersionNT >= v6.1' evaluates to true.
+[0564:05A8][2022-08-17T00:04:35]i052: Condition 'NOT ((VersionNT = v6.1) AND ((NOT ServicePackLevel) OR (ServicePackLevel < 1)))' evaluates to true.
+[0564:05A8][2022-08-17T00:04:35]i052: Condition 'NOT ((VersionNT = v6.3) AND (KB2919355_x86 <> 112 AND KB2919355_amd64 <> 112))' evaluates to true.
+[0564:05A8][2022-08-17T00:04:35]i199: Detect complete, result: 0x0
+[0564:0F88][2022-08-17T00:04:37]i000: Setting numeric variable 'EulaAcceptCheckbox' to value 0
+[0564:05A8][2022-08-17T00:04:37]i200: Plan begin, 16 packages, action: Install
+[0564:05A8][2022-08-17T00:04:37]i052: Condition 'VersionNT=v6.1 AND NOT VersionNT64 AND WinRegInstallationType~="Client"' evaluates to false.
+[0564:05A8][2022-08-17T00:04:37]w321: Skipping dependency registration on package with no dependency providers: MediaPackWin7x86
+[0564:05A8][2022-08-17T00:04:37]i052: Condition 'VersionNT=v6.1 AND VersionNT64 AND WinRegInstallationType~="Client"' evaluates to false.
+[0564:05A8][2022-08-17T00:04:37]w321: Skipping dependency registration on package with no dependency providers: MediaPackWin7x64
+[0564:05A8][2022-08-17T00:04:37]i052: Condition 'VersionNT=v6.2 AND NOT VersionNT64 AND WinRegInstallationType~="Client"' evaluates to false.
+[0564:05A8][2022-08-17T00:04:37]w321: Skipping dependency registration on package with no dependency providers: MediaPackWin8x86
+[0564:05A8][2022-08-17T00:04:37]i052: Condition 'VersionNT=v6.2 AND VersionNT64 AND WinRegInstallationType~="Client"' evaluates to false.
+[0564:05A8][2022-08-17T00:04:37]w321: Skipping dependency registration on package with no dependency providers: MediaPackWin8x64
+[0564:05A8][2022-08-17T00:04:37]i052: Condition 'VersionNT=v6.3 AND NOT VersionNT64 AND WinRegInstallationType~="Client"' evaluates to false.
+[0564:05A8][2022-08-17T00:04:37]w321: Skipping dependency registration on package with no dependency providers: MediaPackWin81x86
+[0564:05A8][2022-08-17T00:04:37]i052: Condition 'VersionNT=v6.3 AND VersionNT64 AND WinRegInstallationType~="Client"' evaluates to false.
+[0564:05A8][2022-08-17T00:04:37]w321: Skipping dependency registration on package with no dependency providers: MediaPackWin81x64
+[0564:05A8][2022-08-17T00:04:37]i052: Condition 'VersionNT>=v10.0 AND NOT VersionNT64 AND WinRegCurrentBuildNumber=10240 AND WinRegInstallationType~="Client"' evaluates to false.
+[0564:05A8][2022-08-17T00:04:37]w321: Skipping dependency registration on package with no dependency providers: MediaPackWin10x86
+[0564:05A8][2022-08-17T00:04:37]i052: Condition 'VersionNT>=v10.0 AND VersionNT64 AND WinRegCurrentBuildNumber=10240 AND WinRegInstallationType~="Client"' evaluates to false.
+[0564:05A8][2022-08-17T00:04:37]w321: Skipping dependency registration on package with no dependency providers: MediaPackWin10x64
+[0564:05A8][2022-08-17T00:04:37]i052: Condition 'VersionNT>=v10.0 AND NOT VersionNT64 AND WinRegReleaseID=1511 AND WinRegInstallationType~="Client"' evaluates to false.
+[0564:05A8][2022-08-17T00:04:37]w321: Skipping dependency registration on package with no dependency providers: MediaPackWin10x861511
+[0564:05A8][2022-08-17T00:04:37]i052: Condition 'VersionNT>=v10.0 AND VersionNT64 AND WinRegReleaseID=1511 AND WinRegInstallationType~="Client"' evaluates to false.
+[0564:05A8][2022-08-17T00:04:37]w321: Skipping dependency registration on package with no dependency providers: MediaPackWin10x641511
+[0564:05A8][2022-08-17T00:04:37]i052: Condition 'VersionNT>=v10.0 AND NOT VersionNT64 AND WinRegReleaseID=1607 AND WinRegInstallationType~="Client"' evaluates to false.
+[0564:05A8][2022-08-17T00:04:37]w321: Skipping dependency registration on package with no dependency providers: MediaPackWin10x861607
+[0564:05A8][2022-08-17T00:04:37]i052: Condition 'VersionNT>=v10.0 AND VersionNT64 AND WinRegReleaseID=1607 AND WinRegInstallationType~="Client"' evaluates to false.
+[0564:05A8][2022-08-17T00:04:37]w321: Skipping dependency registration on package with no dependency providers: MediaPackWin10x641607
+[0564:05A8][2022-08-17T00:04:37]i000: Setting string variable 'WixBundleRollbackLog_pmsshutdown' to value 'C:\Users\carso\AppData\Local\Temp\Plex Media Server_20220817000435_000_pmsshutdown_rollback.log'
+[0564:05A8][2022-08-17T00:04:37]i000: Setting string variable 'WixBundleLog_pmsshutdown' to value 'C:\Users\carso\AppData\Local\Temp\Plex Media Server_20220817000435_000_pmsshutdown.log'
+[0564:05A8][2022-08-17T00:04:37]i052: Condition 'Bad_VCRedist' evaluates to false.
+[0564:05A8][2022-08-17T00:04:37]w321: Skipping dependency registration on package with no dependency providers: vcredist_repair
+[0564:05A8][2022-08-17T00:04:37]i052: Condition 'NOT Bad_VCRedist' evaluates to true.
+[0564:05A8][2022-08-17T00:04:37]w321: Skipping dependency registration on package with no dependency providers: vcredist
+[0564:05A8][2022-08-17T00:04:37]i000: Setting string variable 'WixBundleLog_vcredist' to value 'C:\Users\carso\AppData\Local\Temp\Plex Media Server_20220817000435_001_vcredist.log'
+[0564:05A8][2022-08-17T00:04:37]i000: Setting string variable 'WixBundleRollbackLog_pms' to value 'C:\Users\carso\AppData\Local\Temp\Plex Media Server_20220817000435_002_pms_rollback.log'
+[0564:05A8][2022-08-17T00:04:37]i000: Setting string variable 'WixBundleLog_pms' to value 'C:\Users\carso\AppData\Local\Temp\Plex Media Server_20220817000435_002_pms.log'
+[0564:05A8][2022-08-17T00:04:37]i201: Planned package: MediaPackWin7x86, state: Present, default requested: Absent, ba requested: Absent, execute: None, rollback: None, cache: No, uncache: No, dependency: None
+[0564:05A8][2022-08-17T00:04:37]i201: Planned package: MediaPackWin7x64, state: Present, default requested: Absent, ba requested: Absent, execute: None, rollback: None, cache: No, uncache: No, dependency: None
+[0564:05A8][2022-08-17T00:04:37]i201: Planned package: MediaPackWin8x86, state: Present, default requested: Absent, ba requested: Absent, execute: None, rollback: None, cache: No, uncache: No, dependency: None
+[0564:05A8][2022-08-17T00:04:37]i201: Planned package: MediaPackWin8x64, state: Present, default requested: Absent, ba requested: Absent, execute: None, rollback: None, cache: No, uncache: No, dependency: None
+[0564:05A8][2022-08-17T00:04:37]i201: Planned package: MediaPackWin81x86, state: Present, default requested: Absent, ba requested: Absent, execute: None, rollback: None, cache: No, uncache: No, dependency: None
+[0564:05A8][2022-08-17T00:04:37]i201: Planned package: MediaPackWin81x64, state: Present, default requested: Absent, ba requested: Absent, execute: None, rollback: None, cache: No, uncache: No, dependency: None
+[0564:05A8][2022-08-17T00:04:37]i201: Planned package: MediaPackWin10x86, state: Present, default requested: Absent, ba requested: Absent, execute: None, rollback: None, cache: No, uncache: No, dependency: None
+[0564:05A8][2022-08-17T00:04:37]i201: Planned package: MediaPackWin10x64, state: Present, default requested: Absent, ba requested: Absent, execute: None, rollback: None, cache: No, uncache: No, dependency: None
+[0564:05A8][2022-08-17T00:04:37]i201: Planned package: MediaPackWin10x861511, state: Present, default requested: Absent, ba requested: Absent, execute: None, rollback: None, cache: No, uncache: No, dependency: None
+[0564:05A8][2022-08-17T00:04:37]i201: Planned package: MediaPackWin10x641511, state: Present, default requested: Absent, ba requested: Absent, execute: None, rollback: None, cache: No, uncache: No, dependency: None
+[0564:05A8][2022-08-17T00:04:37]i201: Planned package: MediaPackWin10x861607, state: Present, default requested: Absent, ba requested: Absent, execute: None, rollback: None, cache: No, uncache: No, dependency: None
+[0564:05A8][2022-08-17T00:04:37]i201: Planned package: MediaPackWin10x641607, state: Present, default requested: Absent, ba requested: Absent, execute: None, rollback: None, cache: No, uncache: No, dependency: None
+[0564:05A8][2022-08-17T00:04:37]i201: Planned package: pmsshutdown, state: Absent, default requested: Present, ba requested: Present, execute: Install, rollback: Uninstall, cache: Yes, uncache: No, dependency: Register
+[0564:05A8][2022-08-17T00:04:37]i201: Planned package: vcredist_repair, state: Absent, default requested: Absent, ba requested: Absent, execute: None, rollback: None, cache: No, uncache: No, dependency: None
+[0564:05A8][2022-08-17T00:04:37]i201: Planned package: vcredist, state: Absent, default requested: Present, ba requested: Present, execute: Install, rollback: None, cache: Yes, uncache: No, dependency: None
+[0564:05A8][2022-08-17T00:04:37]i201: Planned package: pms, state: Absent, default requested: Present, ba requested: Present, execute: Install, rollback: Uninstall, cache: Yes, uncache: No, dependency: Register
+[0564:05A8][2022-08-17T00:04:37]i299: Plan complete, result: 0x0
+[0564:05A8][2022-08-17T00:04:37]i300: Apply begin
+[0564:05A8][2022-08-17T00:04:37]i010: Launching elevated engine process.
+[0564:05A8][2022-08-17T00:04:38]i011: Launched elevated engine process.
+[0564:05A8][2022-08-17T00:04:38]i012: Connected to elevated engine.
+[2460:2F94][2022-08-17T00:04:38]i358: Pausing automatic updates.
+[2460:2F94][2022-08-17T00:04:38]i359: Paused automatic updates.
+[2460:2F94][2022-08-17T00:04:38]i360: Creating a system restore point.
+[2460:2F94][2022-08-17T00:04:44]i361: Created a system restore point.
+[2460:2F94][2022-08-17T00:04:44]i370: Session begin, registration key: SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{4fe60b96-c9d9-429e-b9e1-11e5d1fc66a5}, options: 0x7, disable resume: No
+[2460:2F94][2022-08-17T00:04:44]i000: Caching bundle from: 'C:\Users\carso\AppData\Local\Temp\{3B58F6D0-86AE-4A07-B7B9-B4084CB76316}\.be\PlexMediaServer-1.28.1.6092-87136b92b-x86.exe' to: 'C:\ProgramData\Package Cache\{4fe60b96-c9d9-429e-b9e1-11e5d1fc66a5}\PlexMediaServer-1.28.1.6092-87136b92b-x86.exe'
+[2460:2F94][2022-08-17T00:04:44]i320: Registering bundle dependency provider: {4fe60b96-c9d9-429e-b9e1-11e5d1fc66a5}, version: 1.28.1.6092
+[2460:2F94][2022-08-17T00:04:44]i371: Updating session, registration key: SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{4fe60b96-c9d9-429e-b9e1-11e5d1fc66a5}, resume: Active, restart initiated: No, disable resume: No
+[2460:1968][2022-08-17T00:04:44]i305: Verified acquired payload: pmsshutdown at path: C:\ProgramData\Package Cache\.unverified\pmsshutdown, moving to: C:\ProgramData\Package Cache\{97FCD1A0-F20A-48FD-B255-3AF6C39A5626}v1.28.1092\pms-shutdown.msi.
+[2460:1968][2022-08-17T00:04:44]i305: Verified acquired payload: vcredist at path: C:\ProgramData\Package Cache\.unverified\vcredist, moving to: C:\ProgramData\Package Cache\7391663F07CBA7C99F3503929FCD3561F1F6A552\vc_redist.x86.exe.
+[2460:1968][2022-08-17T00:04:44]i305: Verified acquired payload: pms at path: C:\ProgramData\Package Cache\.unverified\pms, moving to: C:\ProgramData\Package Cache\{E4ABE69A-84DC-4397-8CB2-C4923C17B095}v1.28.1092\pms.msi.
+[2460:2F94][2022-08-17T00:04:44]i323: Registering package dependency provider: {97FCD1A0-F20A-48FD-B255-3AF6C39A5626}, version: 1.28.1092, package: pmsshutdown
+[2460:2F94][2022-08-17T00:04:44]i301: Applying execute package: pmsshutdown, action: Install, path: C:\ProgramData\Package Cache\{97FCD1A0-F20A-48FD-B255-3AF6C39A5626}v1.28.1092\pms-shutdown.msi, arguments: ' ARPSYSTEMCOMPONENT="1" MSIFASTINSTALL="7" INSTALLLOCATION="C:\Program Files (x86)\Plex\Plex Media Server"'
+[0564:05A8][2022-08-17T00:04:45]i319: Applied execute package: pmsshutdown, result: 0x0, restart: None
+[2460:2F94][2022-08-17T00:04:45]i325: Registering dependency: {4fe60b96-c9d9-429e-b9e1-11e5d1fc66a5} on package provider: {97FCD1A0-F20A-48FD-B255-3AF6C39A5626}, package: pmsshutdown
+[2460:2F94][2022-08-17T00:04:45]i301: Applying execute package: vcredist, action: Install, path: C:\ProgramData\Package Cache\7391663F07CBA7C99F3503929FCD3561F1F6A552\vc_redist.x86.exe, arguments: '"C:\ProgramData\Package Cache\7391663F07CBA7C99F3503929FCD3561F1F6A552\vc_redist.x86.exe" /install /quiet /norestart'
+[0564:05A8][2022-08-17T00:04:46]i319: Applied execute package: vcredist, result: 0x0, restart: None
+[2460:2F94][2022-08-17T00:04:46]i323: Registering package dependency provider: {E4ABE69A-84DC-4397-8CB2-C4923C17B095}, version: 1.28.1092, package: pms
+[2460:2F94][2022-08-17T00:04:46]i301: Applying execute package: pms, action: Install, path: C:\ProgramData\Package Cache\{E4ABE69A-84DC-4397-8CB2-C4923C17B095}v1.28.1092\pms.msi, arguments: ' ARPSYSTEMCOMPONENT="1" MSIFASTINSTALL="7" OEM="" NOLAUNCH="" INSTALLLOCATION="C:\Program Files (x86)\Plex\Plex Media Server" WINDOWSTYPE="Client"'
+[0564:05A8][2022-08-17T00:04:53]i319: Applied execute package: pms, result: 0x0, restart: None
+[2460:2F94][2022-08-17T00:04:53]i325: Registering dependency: {4fe60b96-c9d9-429e-b9e1-11e5d1fc66a5} on package provider: {E4ABE69A-84DC-4397-8CB2-C4923C17B095}, package: pms
+[2460:2F94][2022-08-17T00:04:53]i372: Session end, registration key: SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{4fe60b96-c9d9-429e-b9e1-11e5d1fc66a5}, resume: ARP, restart: None, disable resume: No
+[2460:2F94][2022-08-17T00:04:53]i371: Updating session, registration key: SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{4fe60b96-c9d9-429e-b9e1-11e5d1fc66a5}, resume: ARP, restart initiated: No, disable resume: No
+[0564:05A8][2022-08-17T00:04:54]i399: Apply complete, result: 0x0, restart: None, ba requested restart:  No
+[0564:05A8][2022-08-17T00:07:06]i500: Shutting down, exit code: 0x0
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: DefaultInstallFolder64 = C:\Program Files\Plex\Plex Media Server\
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: EulaAcceptCheckbox = 0
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: Found_ucrtbase_dll = 1
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: FoundMfPlatDll = 1
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: InstallFolder = C:\Program Files (x86)\Plex\Plex Media Server
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: LaunchTarget = C:\Program Files (x86)\Plex\Plex Media Server\Plex Media Server.exe
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: NOLAUNCH = 
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: OEM = 
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: ProgramFiles64Folder = C:\Program Files\
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: ProgramFilesFolder = C:\Program Files (x86)\
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: SystemFolder = C:\Windows\SysWOW64\
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: VersionNT = 10.0.0.0
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: VersionNT64 = 10.0.0.0
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: WinRegCurrentBuild = 19044
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: WinRegCurrentBuildNumber = 19044
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: WinRegEditionID = Enterprise
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: WinRegInstallationType = Client
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: WinRegMediaPlayer = %ProgramFiles%\Windows Media Player
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: WinRegProductName = Windows 10 Enterprise
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: WinRegReleaseID = 2009
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: WixBundleAction = 5
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: WixBundleElevated = 1
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: WixBundleFileVersion = 1.28.1.6092
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: WixBundleInstalled = 0
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: WixBundleLog = C:\Users\carso\AppData\Local\Temp\Plex Media Server_20220817000435.log
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: WixBundleLog_pms = C:\Users\carso\AppData\Local\Temp\Plex Media Server_20220817000435_002_pms.log
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: WixBundleLog_pmsshutdown = C:\Users\carso\AppData\Local\Temp\Plex Media Server_20220817000435_000_pmsshutdown.log
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: WixBundleLog_vcredist = C:\Users\carso\AppData\Local\Temp\Plex Media Server_20220817000435_001_vcredist.log
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: WixBundleManufacturer = Plex, Inc.
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: WixBundleName = Plex Media Server
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: WixBundleOriginalSource = C:\Users\carso\Downloads\PlexMediaServer-1.28.1.6092-87136b92b-x86.exe
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: WixBundleOriginalSourceFolder = C:\Users\carso\Downloads\
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: WixBundleProviderKey = {4fe60b96-c9d9-429e-b9e1-11e5d1fc66a5}
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: WixBundleRollbackLog_pms = C:\Users\carso\AppData\Local\Temp\Plex Media Server_20220817000435_002_pms_rollback.log
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: WixBundleRollbackLog_pmsshutdown = C:\Users\carso\AppData\Local\Temp\Plex Media Server_20220817000435_000_pmsshutdown_rollback.log
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: WixBundleSourceProcessFolder = C:\Users\carso\Downloads\
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: WixBundleSourceProcessPath = C:\Users\carso\Downloads\PlexMediaServer-1.28.1.6092-87136b92b-x86.exe
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: WixBundleTag = 
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: WixBundleUILevel = 4
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: WixBundleVersion = 1.28.1.6092
+[0564:05A8][2022-08-17T00:07:06]i410: Variable: WixStdBALanguageId = 1033
+[0564:05A8][2022-08-17T00:07:06]i007: Exit code: 0x0, restarting: No

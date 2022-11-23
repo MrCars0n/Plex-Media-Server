@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2018-01-01</originally_available_at>
+  <posters/>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>So You Want to Talk About Race</title>
+  <tracks>
+    <item key="17673" path="tracks\63dd29ef9e78f81d78ff736321e0ee5b1b7ebe2e">
+      <lyrics/>
+      <moods/>
+      <original_title>Ijeoma Oluo</original_title>
+      <tags/>
+      <title>So You Want to Talk About Race</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

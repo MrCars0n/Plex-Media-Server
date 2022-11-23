@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2020-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="f13d45448f8b8504e6b92cc5c3d2bb2f" media="com.plexapp.agents.localmedia_5cd9d1bbab5b6427c3bb40b9e589a03d4320c23e" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>The Girl with the Louding Voice: A Novel</title>
+  <tracks>
+    <item key="17678" path="tracks\0d6954f9eaf1f0581afc3e17e2b5e11e97478baf">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Girl with the Louding Voice: A Novel</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

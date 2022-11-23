@@ -1,0 +1,32 @@
+Aug 20, 2022 04:11:50.329 [7880] INFO - Plex Media Scanner v1.28.1.6092-87136b92b - Microsoft PC x64 - build: windows-x86 - GMT -04:00
+Aug 20, 2022 04:11:50.329 [7880] INFO - Windows version: 6.2 (Build 9200), language en-US
+Aug 20, 2022 04:11:50.329 [7880] INFO - 4 3504 MHz processor(s): Architecture=0, Level=6, Revision=24067 Processor Identifier=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+Aug 20, 2022 04:11:50.329 [7880] DEBUG - "C:\Program Files (x86)\Plex\Plex Media Server\Plex Media Scanner.exe" --match --type 2 --log-file-suffix " Matcher" --item 17280
+Aug 20, 2022 04:11:50.326 [7384] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.35.5, threadsafe=1
+Aug 20, 2022 04:11:50.436 [7384] DEBUG - Matcher: found 0 auxiliary files for Season 2
+Aug 20, 2022 04:11:50.443 [7384] DEBUG - Matcher: no sidecar subtitle files found for D:\TV\Winx Club\Season 2\Winx Club - S02E01 - back to school.avi
+Aug 20, 2022 04:11:50.444 [7384] DEBUG - Matcher: no sidecar subtitle files found for D:\TV\Winx Club\Season 2\Winx Club - S02E02 - princess of tides.avi
+Aug 20, 2022 04:11:50.444 [7384] DEBUG - Matcher: no sidecar subtitle files found for D:\TV\Winx Club\Season 2\Winx Club - S02E03 - into the underrealm.avi
+Aug 20, 2022 04:11:50.444 [7384] DEBUG - Matcher: no sidecar subtitle files found for D:\TV\Winx Club\Season 2\Winx Club - S02E04 - queen of perfection.avi
+Aug 20, 2022 04:11:50.444 [7384] DEBUG - Matcher: no sidecar subtitle files found for D:\TV\Winx Club\Season 2\Winx Club - S02E05 - rescuing the pixies.avi
+Aug 20, 2022 04:11:50.444 [7384] DEBUG - Matcher: no sidecar subtitle files found for D:\TV\Winx Club\Season 2\Winx Club - S02E06 - my boyfriend's wedding.avi
+Aug 20, 2022 04:11:50.444 [7384] DEBUG - Matcher: no sidecar subtitle files found for D:\TV\Winx Club\Season 2\Winx Club - S02E07 - the dark tower.avi
+Aug 20, 2022 04:11:50.444 [7384] DEBUG - Matcher: no sidecar subtitle files found for D:\TV\Winx Club\Season 2\Winx Club - S02E08 - party monster.avi
+Aug 20, 2022 04:11:50.444 [7384] DEBUG - Matcher: no sidecar subtitle files found for D:\TV\Winx Club\Season 2\Winx Club - S02E09 - the ange of doom.avi
+Aug 20, 2022 04:11:50.444 [7384] DEBUG - Matcher: no sidecar subtitle files found for D:\TV\Winx Club\Season 2\Winx Club - S02E10 - reaching for the sky.avi
+Aug 20, 2022 04:11:50.444 [7384] DEBUG - Matcher: no sidecar subtitle files found for D:\TV\Winx Club\Season 2\Winx Club - S02E11 - homesick (cropped shout outs bar).avi
+Aug 20, 2022 04:11:50.444 [7384] DEBUG - Matcher: no sidecar subtitle files found for D:\TV\Winx Club\Season 2\Winx Club - S02E12 - truth or dare.avi
+Aug 20, 2022 04:11:50.444 [7384] DEBUG - Matcher: no sidecar subtitle files found for D:\TV\Winx Club\Season 2\Winx Club - S02E13 - gangs of gardenia.avi
+Aug 20, 2022 04:11:50.444 [7384] DEBUG - Matcher: no sidecar subtitle files found for D:\TV\Winx Club\Season 2\Winx Club - S02E14 - the wrong righters.avi
+Aug 20, 2022 04:11:50.444 [7384] DEBUG - Matcher: no sidecar subtitle files found for D:\TV\Winx Club\Season 2\Winx Club - S02E15 - magic in my heart.avi
+Aug 20, 2022 04:11:50.444 [7384] DEBUG - Matcher: no sidecar subtitle files found for D:\TV\Winx Club\Season 2\Winx Club - S02E16 - exchange students.avi
+Aug 20, 2022 04:11:50.444 [7384] DEBUG - Matcher: no sidecar subtitle files found for D:\TV\Winx Club\Season 2\Winx Club - S02E17 - the heart of cloud tower.avi
+Aug 20, 2022 04:11:50.444 [7384] DEBUG - Matcher: no sidecar subtitle files found for D:\TV\Winx Club\Season 2\Winx Club - S02E18 - the fourth witch.avi
+Aug 20, 2022 04:11:50.444 [7384] DEBUG - Matcher: no sidecar subtitle files found for D:\TV\Winx Club\Season 2\Winx Club - S02E19 - shadows in bloom.avi
+Aug 20, 2022 04:11:50.444 [7384] DEBUG - Matcher: no sidecar subtitle files found for D:\TV\Winx Club\Season 2\Winx Club - S02E20 - the first charmix.avi
+Aug 20, 2022 04:11:50.444 [7384] DEBUG - Matcher: no sidecar subtitle files found for D:\TV\Winx Club\Season 2\Winx Club - S02E21 - trouble in paradise (shout outs bar).avi
+Aug 20, 2022 04:11:50.444 [7384] DEBUG - Matcher: no sidecar subtitle files found for D:\TV\Winx Club\Season 2\Winx Club - S02E22 - last resorts (shout outs bar).avi
+Aug 20, 2022 04:11:50.444 [7384] DEBUG - Matcher: no sidecar subtitle files found for D:\TV\Winx Club\Season 2\Winx Club - S02E23 - darkness and light.avi
+Aug 20, 2022 04:11:50.444 [7384] DEBUG - Matcher: no sidecar subtitle files found for D:\TV\Winx Club\Season 2\Winx Club - S02E24 - desperately seeking bloom.avi
+Aug 20, 2022 04:11:50.444 [7384] DEBUG - Matcher: no sidecar subtitle files found for D:\TV\Winx Club\Season 2\Winx Club - S02E25 - storming shadowhaunt.avi
+Aug 20, 2022 04:11:50.444 [7384] DEBUG - Matcher: no sidecar subtitle files found for D:\TV\Winx Club\Season 2\Winx Club - S02E26 - the ultimate power couple.avi

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters>
+    <item external="True" url="03fc42c5f383b372f82a87b052495e38" media="com.plexapp.agents.localmedia_3416de77f38f6022648ba421d8963f2d98c4ec60" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Radio Drama - Star Wars Episode V</title>
+  <tracks>
+    <item key="18602" path="tracks\6fc827893938503037c40b072a5b6bf6eae1b7af">
+      <lyrics/>
+      <moods/>
+      <original_title>Brian Daley</original_title>
+      <tags/>
+      <title>Dark Lord's Fury</title>
+      <track_index>8</track_index>
+    </item>
+    <item key="18603" path="tracks\cae8ffc445bdc638598890374e8a304a5b5dc13f">
+      <lyrics/>
+      <moods/>
+      <original_title>Brian Daley</original_title>
+      <tags/>
+      <title>Gambler's Choice</title>
+      <track_index>9</track_index>
+    </item>
+    <item key="18600" path="tracks\fed86d1a4e922769406e24c228435f85b3cae9b3">
+      <lyrics/>
+      <moods/>
+      <original_title>Brian Daley</original_title>
+      <tags/>
+      <title>Way of the Jedi</title>
+      <track_index>6</track_index>
+    </item>
+    <item key="18601" path="tracks\5cf5c880663053f957812bc6bf516c7d51aaa69f">
+      <lyrics/>
+      <moods/>
+      <original_title>Brian Daley</original_title>
+      <tags/>
+      <title>New Allies, New Enemies</title>
+      <track_index>7</track_index>
+    </item>
+    <item key="18604" path="tracks\3d564eac0d320fab95a39739db7a69c6c54a9c75">
+      <lyrics/>
+      <moods/>
+      <original_title>Brian Daley</original_title>
+      <tags/>
+      <title>The Clash of Lightsabres</title>
+      <track_index>10</track_index>
+    </item>
+    <item key="18598" path="tracks\f95b0c6844a3c63ad382018de985c9c5c6460fa9">
+      <lyrics/>
+      <moods/>
+      <original_title>Brian Daley</original_title>
+      <tags/>
+      <title>Fire and Ice</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="18599" path="tracks\3fb1efff04bebc850461b41e4f597a770db9f926">
+      <lyrics/>
+      <moods/>
+      <original_title>Brian Daley</original_title>
+      <tags/>
+      <title>The Millennium Falcon Pursuit</title>
+      <track_index>5</track_index>
+    </item>
+    <item key="18596" path="tracks\cd76918e781f6f813dbf1d5174ccf2133ac5d73a">
+      <lyrics/>
+      <moods/>
+      <original_title>Brian Daley</original_title>
+      <tags/>
+      <title>The Coming Storm</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="18597" path="tracks\1e42def227a4e9a66aec3f31c4f4ffb2c78dba86">
+      <lyrics/>
+      <moods/>
+      <original_title>Brian Daley</original_title>
+      <tags/>
+      <title>A Question of Survival</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="18595" path="tracks\f6f0d7e0cb654b0ace0ecbd42477182328c932aa">
+      <lyrics/>
+      <moods/>
+      <original_title>Brian Daley</original_title>
+      <tags/>
+      <title>Freedom's Winter</title>
+      <track_index>1</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

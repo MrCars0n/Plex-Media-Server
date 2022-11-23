@@ -1,0 +1,813 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Album id="19304">
+  <rating/>
+  <album_type/>
+  <title_sort></title_sort>
+  <art/>
+  <duration/>
+  <genres/>
+  <title>James Potter and the Morrigan Web</title>
+  <rating_count/>
+  <collections/>
+  <available_at/>
+  <styles/>
+  <tags/>
+  <audience_rating_image/>
+  <rating_image/>
+  <producers/>
+  <audience_rating/>
+  <tracks>
+    <item key="19328">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>13</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Chapter 8: Thwarting Grudje</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="19329">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>14</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Chapter 9: The Midnight Assembly</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="19322">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>30</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Chapter 25, Through a Glass Darkly</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="19323">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>8</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Chapter 3: A Familiar Face</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="19320">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>28</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Chapter 23, Collective Constant</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="19321">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>29</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Chapter 24, The Most Vexing Question</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="19326">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>11</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Chapter 6: The Night League</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="19327">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>12</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Chapter 7: Echos of Umbridge</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="19324">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>9</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Chapter 4: The Collector</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="19325">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>10</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Chapter 5: Suspicions and Secrets</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="19317">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>25</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Chapter 20, Tyranny of Final Days</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="19316">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>7</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Chapter 2: Brotherhood and tolerance</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="19315">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>24</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Chapter 19, Hagrid's Detention</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="19314">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>23</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Chapter 18, The Morrigan Web</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="19313">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>22</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Chapter 17, Lair of the Gowrow</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="19312">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>21</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Chapter 16, The Woes of Filch</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="19311">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>20</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Chapter 15, Origins Unveiled</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="19310">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>19</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Chapter 14, Durmstrang's Depths</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="19319">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>27</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Chapter 22, An Impossible Bargain</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="19318">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>26</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Chapter 21, The Third Marker</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="19331">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>2</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Prologue 2</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="19330">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>1</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Prologue 1</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="19333">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>4</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Prologue 4</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="19332">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>3</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Prologue 3</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="19334">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>5</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Prologue 5</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="19305">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>6</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Chapter 1: The Four Chapter 1: The Four Cabinets</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="19306">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>15</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Chapter 10: A Clandestine Christmas</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="19307">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>16</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Chapter 11: Quinn's Story</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="19308">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>17</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Chapter 12: Mystery at the White Tomb</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+    <item key="19309">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>18</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Chapter 13: Dead Warlock's Clue</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>G. Norman Lippert</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+  </tracks>
+  <studio/>
+  <moods/>
+  <posters>
+    <item external="True" url="00f00139bc9fedd97f9d068da6f34e0f" media="0f5558267aa8bb343e60324d2b49e1151a22978a" sort_order="1"/>
+  </posters>
+  <originally_available_at>2017-01-01</originally_available_at>
+  <artist/>
+  <countries/>
+  <original_title/>
+  <summary/>
+  <reviews/>
+  <album_format/>
+</Album>

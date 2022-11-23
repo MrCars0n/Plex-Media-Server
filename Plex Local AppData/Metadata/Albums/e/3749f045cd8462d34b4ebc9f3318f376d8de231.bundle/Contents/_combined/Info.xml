@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2015-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="8ae47ca62b6df6a03e8d150c5ef4704f" media="com.plexapp.agents.localmedia_8d0cb05d475f1b04ec9f08bdd39f27e8de3eb2e7" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Harry Potter 3: The Prisoner of Azkaban</title>
+  <tracks>
+    <item key="19239" path="tracks\14f6dfc74ba55625195cf65ae9c28831621f9ef4">
+      <lyrics/>
+      <moods/>
+      <original_title>J.K. Rowling</original_title>
+      <tags/>
+      <title>Harry Potter: The Prisoner of Azkaban</title>
+      <track_index>3</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

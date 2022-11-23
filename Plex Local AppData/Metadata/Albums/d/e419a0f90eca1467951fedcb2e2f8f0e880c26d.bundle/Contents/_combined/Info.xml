@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2015-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="09b589747716943913beb3e4a90387a6" media="com.plexapp.agents.localmedia_e0f97ac7d72584a6713abe565cf6e4c6a1af0fa9" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Harry Potter 4: The Goblet of Fire</title>
+  <tracks>
+    <item key="19241" path="tracks\70fc323522371ce3deef8f47d6fbf592558cb5d2">
+      <lyrics/>
+      <moods/>
+      <original_title>J.K. Rowling</original_title>
+      <tags/>
+      <title>Harry Potter: The Goblet of Fire</title>
+      <track_index>4</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2016-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="5966eb6e90383ee862ed18659b44cc5e" media="com.plexapp.agents.localmedia_63ce2612dc60464479bd8a9fef445f71929a5058" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Ruins of Camelot</title>
+  <tracks>
+    <item key="19303" path="tracks\53f691e90716a07addf914501a192eaa68344135">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Ruins of Camelot</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

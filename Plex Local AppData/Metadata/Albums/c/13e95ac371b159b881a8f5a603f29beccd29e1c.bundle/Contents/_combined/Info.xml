@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2011-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="11467f83c37d23301e0568ed67fa8654" media="com.plexapp.agents.localmedia_d7a459e84f1a5ea495c39b0b0a017a6e5338c125" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <summary>Here is a special edition 20th anniversary release of the number-one New York Times best-selling novel that reignited the entire Star Wars publishing phenomenon - unabridged for the first time. The biggest event in the history of Star Wars books, Heir to</summary>
+  <tags/>
+  <title>Star Wars: Heir to the Empire (20th Anniversary Edition) (Unabridged)</title>
+  <tracks>
+    <item key="18493" path="tracks\962a427b5d5adf1a22dab06b6f9566a6f3c7ceb2">
+      <lyrics/>
+      <moods/>
+      <original_title>Timothy Zahn</original_title>
+      <tags/>
+      <title>Star Wars: Heir to the Empire (20th Anniversary Edition), The Thrawn Trilogy, Book 1 (Unabridged)</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

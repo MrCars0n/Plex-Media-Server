@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2016-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="28e5f6143b931ff630a95584447f573e" media="com.plexapp.agents.localmedia_b667f09575d4766e908f6b8ab5735f09bd94db1f" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Crooked Kingdom (Unabridged)</title>
+  <tracks>
+    <item key="17670" path="tracks\4b38cc18e50cdf3a13703d6d0839b2a4cbdaa7ce">
+      <lyrics/>
+      <moods/>
+      <original_title>Leigh Bardugo</original_title>
+      <tags/>
+      <title>Crooked Kingdom</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

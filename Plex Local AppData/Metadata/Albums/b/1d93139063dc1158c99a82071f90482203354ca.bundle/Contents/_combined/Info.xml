@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2009-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="f6903e61fc9fd9b502e4ce3a8f15677c" media="com.plexapp.agents.localmedia_99b8a73500c623c0e49b9114be011ec377fa8f0b" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <summary>The desert planet Arrakis, called Dune, has been destroyed. Now, the Bene Gesserit, heirs to Dune's power, have colonized a green world - and are tuning it into a desert, mile by scorched mile. Chapterhouse Dune is the last book Frank Herbert wrote before his death and stunning climax to the epic Dune legend that will live on forever.</summary>
+  <tags/>
+  <title>Dune 06 - Chapterhouse Dune</title>
+  <tracks>
+    <item key="19147" path="tracks\740398526d4bf23c662ea3459950776f3e9c6859">
+      <lyrics/>
+      <moods/>
+      <original_title>Frank Herbert</original_title>
+      <tags/>
+      <title>Dune 06 - Chapterhouse Dune</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

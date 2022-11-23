@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2015-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="8844ecfcf674f658a2f6d68540b4fb06" media="com.plexapp.agents.localmedia_4a069728ae2b2a9aba51d2c2482ce051a92b8338" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Harry Potter 2: The Chamber of Secrets</title>
+  <tracks>
+    <item key="19237" path="tracks\12189267d0afd9a152de039a8ef2bd57b4f9511a">
+      <lyrics/>
+      <moods/>
+      <original_title>J.K. Rowling</original_title>
+      <tags/>
+      <title>Harry Potter: The Chamber of Secrets</title>
+      <track_index>2</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

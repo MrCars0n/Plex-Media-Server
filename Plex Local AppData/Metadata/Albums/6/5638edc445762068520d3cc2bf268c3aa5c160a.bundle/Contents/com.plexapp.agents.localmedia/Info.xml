@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Album id="17606">
+  <rating/>
+  <album_type/>
+  <title_sort></title_sort>
+  <art/>
+  <duration/>
+  <genres/>
+  <title>How to Win Friends &amp; Influence People</title>
+  <rating_count/>
+  <collections/>
+  <available_at/>
+  <styles/>
+  <tags/>
+  <audience_rating_image/>
+  <rating_image/>
+  <producers/>
+  <audience_rating/>
+  <tracks>
+    <item key="17607">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index>1</track_index>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>How to Win Friends &amp; Influence People</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>Dale Carnegie</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+  </tracks>
+  <studio/>
+  <moods/>
+  <posters>
+    <item external="True" url="2cd6f1939ba29a45166578e70082dab6" media="b9b5af6ac0262f28af903ea7848cdaa99b96cc05" sort_order="1"/>
+    <item external="True" url="37858617377917bbffe2397381a8adbe" media="19267e6edf62b342a060d76beee3a9428cc25ea2" sort_order="2"/>
+    <item external="True" url="2583257b603a656e80ba3e1ceebc2519" media="9edaf16230fd9f346be09408492136301f2563cb" sort_order="3"/>
+    <item external="True" url="5eff2754697970acd1881ea735087e83" media="bcab489abc93e537f85cbe9e62ec336b3f190893" sort_order="4"/>
+    <item external="True" url="0896229c39904126cea365ec9d114163" media="b49baf47d982203e93c70e8d0647284aea4193a7" sort_order="5"/>
+    <item external="True" url="131bf238b9b4ab26ebe5ea33e4200694" media="3747c8d39b8905fea5d04c4467361d647dc4b8b3" sort_order="6"/>
+    <item external="True" url="ab4b729fbe2fa4268dbccdd72ed90b46" media="ed59a30850f3b86f82bf3afd401da307e8331b7f" sort_order="7"/>
+  </posters>
+  <originally_available_at>2004-01-01</originally_available_at>
+  <artist/>
+  <countries/>
+  <original_title/>
+  <summary>You can go after the job you want...and get it! You can take the job you have...and improve it! You can take any situation you're in...and make it work for you!</summary>
+  <reviews/>
+  <album_format/>
+</Album>

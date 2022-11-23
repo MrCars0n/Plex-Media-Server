@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2008-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="4bdd27e3051be0626086cab7336b1aab" media="com.plexapp.agents.localmedia_22e66df0da3f6a8e14fb15e2064a9fd6ef3358d7" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <summary>On Arrakis, now called Rakis, known to legend as Dune, 10 times 10 centuries have passed. The planet is becoming desert again. The Lost Ones are returning home from the far reaches of space. The great sandworms are dying, and the Bene Gesserit and the Bene Tleilax struggle to direct the future of Dune. The children of Dune's children awaken as from a dream, wielding the new power of a heresy called love.</summary>
+  <tags/>
+  <title>Dune 05 - Heretics of Dune</title>
+  <tracks>
+    <item key="19145" path="tracks\15cc40495673f9f02df62bb9e3f5a3fb7b9739cd">
+      <lyrics/>
+      <moods/>
+      <original_title>Frank Herbert</original_title>
+      <tags/>
+      <title>Dune 05 - Heretics of Dune</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

@@ -1,0 +1,1006 @@
+Aug 20, 2022 02:11:48.924 [9180] INFO - Plex Media Scanner v1.28.1.6092-87136b92b - Microsoft PC x64 - build: windows-x86 - GMT -04:00
+Aug 20, 2022 02:11:48.925 [9180] INFO - Windows version: 6.2 (Build 9200), language en-US
+Aug 20, 2022 02:11:48.925 [9180] INFO - 4 3504 MHz processor(s): Architecture=0, Level=6, Revision=24067 Processor Identifier=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+Aug 20, 2022 02:11:48.925 [9180] DEBUG - "C:\Program Files (x86)\Plex\Plex Media Server\Plex Media Scanner.exe" --analyze --item 11598,4119,15428,18514,14605,15427,11566,11963,12926,14561 --log-file-suffix " Analysis"
+Aug 20, 2022 02:11:48.924 [9940] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.35.5, threadsafe=1
+Aug 20, 2022 02:11:49.020 [9940] DEBUG - Analyzing media parts for item 11598 (Episode 4): 29306
+Aug 20, 2022 02:11:49.112 [9940] DEBUG - [ID 29306] Media part analysis: D:\TV\Better Call Saul\Season 4\Better Call Saul - s04e04.mkv
+Aug 20, 2022 02:11:49.112 [9940] DEBUG - [MI] Opening input file: "D:\TV\Better Call Saul\Season 4\Better Call Saul - s04e04.mkv"
+Aug 20, 2022 02:11:49.112 [9940] DEBUG - [FFMPEG] - Opening 'D:\TV\Better Call Saul\Season 4\Better Call Saul - s04e04.mkv' for reading
+Aug 20, 2022 02:11:49.112 [9940] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Aug 20, 2022 02:11:49.113 [9940] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Aug 20, 2022 02:11:49.113 [9940] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.113 [9940] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.113 [9940] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.113 [9940] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 6069 bytes read:34005 seeks:2 nb_streams:3
+Aug 20, 2022 02:11:49.113 [9940] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Aug 20, 2022 02:11:49.113 [9940] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Aug 20, 2022 02:11:49.113 [9940] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Aug 20, 2022 02:11:49.114 [9940] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Aug 20, 2022 02:11:49.114 [9940] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 02:11:49.114 [9940] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Aug 20, 2022 02:11:49.114 [9940] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Aug 20, 2022 02:11:49.115 [9940] DEBUG - [FFMPEG] - no picture 
+Aug 20, 2022 02:11:49.121 [9940] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Aug 20, 2022 02:11:49.122 [9940] DEBUG - [FFMPEG] - no picture 
+Aug 20, 2022 02:11:49.124 [9940] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Aug 20, 2022 02:11:49.127 [9940] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 02:11:49.130 [9940] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Aug 20, 2022 02:11:49.133 [9940] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 02:11:49.135 [9940] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Aug 20, 2022 02:11:49.136 [9940] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 02:11:49.138 [9940] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Aug 20, 2022 02:11:49.139 [9940] DEBUG - [FFMPEG] - All info found
+Aug 20, 2022 02:11:49.141 [9940] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 144113 bytes read:197845 seeks:2 frames:50
+Aug 20, 2022 02:11:49.147 [9940] DEBUG - [MI]  * a2f0422fc99d19807322d03037140e512f00ade3 [mkv h264/dca] Duration: 2773782ms, 1920x1080 (1.777778) 23.976fps, bitrate=10149kbps, audio channels=6, optimizedForStreaming=0 ("D:\TV\Better Call Saul\Season 4\Better Call Saul - s04e04.mkv")
+Aug 20, 2022 02:11:49.147 [9940] DEBUG - [MI] Importing 6 media chapters.
+Aug 20, 2022 02:11:49.147 [9940] DEBUG - [MI] Chapters had generic titles, clearing.
+Aug 20, 2022 02:11:49.148 [9940] DEBUG - [MI] Closing input file: "D:\TV\Better Call Saul\Season 4\Better Call Saul - s04e04.mkv"
+Aug 20, 2022 02:11:49.148 [9940] DEBUG - Streams didn't change in analysis, not saving.
+Aug 20, 2022 02:11:49.148 [9940] DEBUG - Updating media item 29306, size=3519082551, metadata_item_id=11598
+Aug 20, 2022 02:11:49.148 [9940] DEBUG - Updating part with ID=29306 [D:\TV\Better Call Saul\Season 4\Better Call Saul - s04e04.mkv]
+Aug 20, 2022 02:11:49.149 [13084] DEBUG - [HCl#1] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=11598&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Aug 20, 2022 02:11:49.150 [12968] DEBUG - [HttpClient/HCl#1] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=11598&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Aug 20, 2022 02:11:49.151 [13084] DEBUG - [HCl#2] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=11598&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing
+Aug 20, 2022 02:11:49.151 [12968] DEBUG - [HttpClient/HCl#2] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=11598&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing (reused)
+Aug 20, 2022 02:11:49.151 [13084] DEBUG - [HCl#3] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=11598&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+Aug 20, 2022 02:11:49.151 [12968] DEBUG - [HttpClient/HCl#3] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=11598&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+Aug 20, 2022 02:11:49.195 [9940] DEBUG - Analyzing media parts for item 4119 (How the Grinch Stole Christmas!): 10844
+Aug 20, 2022 02:11:49.227 [9940] DEBUG - [ID 10844] Media part analysis: D:\Movies\How the Grinch Stole Christmas (1966)\How the Grinch Stole Christmas (1966).mkv
+Aug 20, 2022 02:11:49.228 [9940] DEBUG - [MI] Opening input file: "D:\Movies\How the Grinch Stole Christmas (1966)\How the Grinch Stole Christmas (1966).mkv"
+Aug 20, 2022 02:11:49.228 [9940] DEBUG - [FFMPEG] - Opening 'D:\Movies\How the Grinch Stole Christmas (1966)\How the Grinch Stole Christmas (1966).mkv' for reading
+Aug 20, 2022 02:11:49.228 [9940] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Aug 20, 2022 02:11:49.228 [9940] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Aug 20, 2022 02:11:49.228 [9940] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.228 [9940] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.228 [9940] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.228 [9940] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.228 [9940] DEBUG - [FFMPEG] - st:4 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.228 [9940] DEBUG - [FFMPEG] - st:5 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.228 [9940] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 9309 bytes read:35268 seeks:2 nb_streams:6
+Aug 20, 2022 02:11:49.229 [9940] DEBUG - [FFMPEG] - nal_unit_type: 32(VPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.229 [9940] DEBUG - [FFMPEG] - Decoding VPS
+Aug 20, 2022 02:11:49.229 [9940] DEBUG - [FFMPEG] - Main profile bitstream
+Aug 20, 2022 02:11:49.229 [9940] DEBUG - [FFMPEG] - nal_unit_type: 33(SPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.229 [9940] DEBUG - [FFMPEG] - Decoding SPS
+Aug 20, 2022 02:11:49.229 [9940] DEBUG - [FFMPEG] - Main profile bitstream
+Aug 20, 2022 02:11:49.229 [9940] DEBUG - [FFMPEG] - Decoding VUI
+Aug 20, 2022 02:11:49.229 [9940] DEBUG - [FFMPEG] - nal_unit_type: 34(PPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.229 [9940] DEBUG - [FFMPEG] - Decoding PPS
+Aug 20, 2022 02:11:49.229 [9940] DEBUG - [FFMPEG] - nal_unit_type: 39(SEI_PREFIX), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.229 [9940] DEBUG - [FFMPEG] - Decoding SEI
+Aug 20, 2022 02:11:49.231 [9940] DEBUG - [FFMPEG] - All info found
+Aug 20, 2022 02:11:49.231 [9940] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 13274 bytes read:68036 seeks:2 frames:51
+Aug 20, 2022 02:11:49.231 [9940] DEBUG - [MI]  * 8188044d242c226a0a8538ab85cd17e33d4c3f81 [mkv hevc/aac] Duration: 1545045ms, 1480x1080 (1.370370) 23.976fps, bitrate=3897kbps, audio channels=2, optimizedForStreaming=0 ("D:\Movies\How the Grinch Stole Christmas (1966)\How the Grinch Stole Christmas (1966).mkv")
+Aug 20, 2022 02:11:49.231 [9940] DEBUG - [MI] Importing 17 media chapters.
+Aug 20, 2022 02:11:49.231 [9940] DEBUG - [MI] Chapters had generic titles, clearing.
+Aug 20, 2022 02:11:49.232 [9940] DEBUG - [MI] Closing input file: "D:\Movies\How the Grinch Stole Christmas (1966)\How the Grinch Stole Christmas (1966).mkv"
+Aug 20, 2022 02:11:49.233 [9940] DEBUG - Committing media stream changes for part 10844
+Aug 20, 2022 02:11:49.234 [9940] DEBUG - Updating media item 10844, size=752814409, metadata_item_id=4119
+Aug 20, 2022 02:11:49.234 [9940] DEBUG - Updating part with ID=10844 [D:\Movies\How the Grinch Stole Christmas (1966)\How the Grinch Stole Christmas (1966).mkv]
+Aug 20, 2022 02:11:49.234 [13084] DEBUG - [HCl#4] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4119&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Aug 20, 2022 02:11:49.234 [12968] DEBUG - [HttpClient/HCl#4] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4119&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+Aug 20, 2022 02:11:49.234 [13084] DEBUG - [HCl#5] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4119&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing
+Aug 20, 2022 02:11:49.235 [12968] DEBUG - [HttpClient/HCl#5] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4119&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing (reused)
+Aug 20, 2022 02:11:49.235 [9940] DEBUG - [MI] Opening input file: "D:\Movies\How the Grinch Stole Christmas (1966)\How the Grinch Stole Christmas (1966).mkv"
+Aug 20, 2022 02:11:49.235 [9940] DEBUG - [FFMPEG] - Opening 'D:\Movies\How the Grinch Stole Christmas (1966)\How the Grinch Stole Christmas (1966).mkv' for reading
+Aug 20, 2022 02:11:49.235 [9940] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Aug 20, 2022 02:11:49.235 [9940] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Aug 20, 2022 02:11:49.235 [9940] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.235 [9940] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.235 [9940] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.235 [9940] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.235 [9940] DEBUG - [FFMPEG] - st:4 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.235 [9940] DEBUG - [FFMPEG] - st:5 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.235 [9940] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 9309 bytes read:35268 seeks:2 nb_streams:6
+Aug 20, 2022 02:11:49.236 [9940] DEBUG - [FFMPEG] - nal_unit_type: 32(VPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.236 [9940] DEBUG - [FFMPEG] - Decoding VPS
+Aug 20, 2022 02:11:49.236 [9940] DEBUG - [FFMPEG] - Main profile bitstream
+Aug 20, 2022 02:11:49.236 [9940] DEBUG - [FFMPEG] - nal_unit_type: 33(SPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.236 [9940] DEBUG - [FFMPEG] - Decoding SPS
+Aug 20, 2022 02:11:49.236 [9940] DEBUG - [FFMPEG] - Main profile bitstream
+Aug 20, 2022 02:11:49.236 [9940] DEBUG - [FFMPEG] - Decoding VUI
+Aug 20, 2022 02:11:49.236 [9940] DEBUG - [FFMPEG] - nal_unit_type: 34(PPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.236 [9940] DEBUG - [FFMPEG] - Decoding PPS
+Aug 20, 2022 02:11:49.236 [9940] DEBUG - [FFMPEG] - nal_unit_type: 39(SEI_PREFIX), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.236 [9940] DEBUG - [FFMPEG] - Decoding SEI
+Aug 20, 2022 02:11:49.237 [9940] DEBUG - [FFMPEG] - All info found
+Aug 20, 2022 02:11:49.237 [9940] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 13274 bytes read:68036 seeks:2 frames:51
+Aug 20, 2022 02:11:49.237 [9940] DEBUG - Creating C:\Users\carso\AppData\Local\Plex Media Server\Media\localhost\8\188044d242c226a0a8538ab85cd17e33d4c3f81.bundle\Contents\Thumbnails\thumb1.jpg (50.0%, 720x512).
+Aug 20, 2022 02:11:49.237 [9940] DEBUG - [FFMPEG] - nal_unit_type: 32(VPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.237 [9940] DEBUG - [FFMPEG] - Decoding VPS
+Aug 20, 2022 02:11:49.237 [9940] DEBUG - [FFMPEG] - Main profile bitstream
+Aug 20, 2022 02:11:49.237 [9940] DEBUG - [FFMPEG] - nal_unit_type: 33(SPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.237 [9940] DEBUG - [FFMPEG] - Decoding SPS
+Aug 20, 2022 02:11:49.237 [9940] DEBUG - [FFMPEG] - Main profile bitstream
+Aug 20, 2022 02:11:49.237 [9940] DEBUG - [FFMPEG] - Decoding VUI
+Aug 20, 2022 02:11:49.237 [9940] DEBUG - [FFMPEG] - nal_unit_type: 34(PPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.237 [9940] DEBUG - [FFMPEG] - Decoding PPS
+Aug 20, 2022 02:11:49.237 [9940] DEBUG - [FFMPEG] - nal_unit_type: 39(SEI_PREFIX), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.237 [9940] DEBUG - [FFMPEG] - Decoding SEI
+Aug 20, 2022 02:11:49.247 [9940] DEBUG - [FFMPEG] - nal_unit_type: 21(CRA_NUT), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.247 [9940] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Aug 20, 2022 02:11:49.281 [9940] DEBUG - [FFMPEG] - Decoded frame with POC -27.
+Aug 20, 2022 02:11:49.283 [9940] DEBUG - [FFMPEG] - nal_unit_type: 1(TRAIL_R), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.310 [9940] DEBUG - [FFMPEG] - Decoded frame with POC -22.
+Aug 20, 2022 02:11:49.310 [9940] DEBUG - [FFMPEG] - nal_unit_type: 1(TRAIL_R), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.310 [9940] DEBUG - [FFMPEG] - Output frame with POC -27.
+Aug 20, 2022 02:11:49.333 [9940] DEBUG - [FFMPEG] - Decoded frame with POC -24.
+Aug 20, 2022 02:11:49.371 [9940] DEBUG - Loaded memory image of size 1480x1080.
+Aug 20, 2022 02:11:49.402 [9940] DEBUG - [MI] Closing input file: "D:\Movies\How the Grinch Stole Christmas (1966)\How the Grinch Stole Christmas (1966).mkv"
+Aug 20, 2022 02:11:49.403 [9940] DEBUG - [MI] Opening input file: "D:\Movies\How the Grinch Stole Christmas (1966)\How the Grinch Stole Christmas (1966).mkv"
+Aug 20, 2022 02:11:49.403 [9940] DEBUG - [FFMPEG] - Opening 'D:\Movies\How the Grinch Stole Christmas (1966)\How the Grinch Stole Christmas (1966).mkv' for reading
+Aug 20, 2022 02:11:49.403 [9940] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Aug 20, 2022 02:11:49.403 [9940] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Aug 20, 2022 02:11:49.403 [9940] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.403 [9940] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.403 [9940] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.403 [9940] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.403 [9940] DEBUG - [FFMPEG] - st:4 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.403 [9940] DEBUG - [FFMPEG] - st:5 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.403 [9940] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 9309 bytes read:35268 seeks:2 nb_streams:6
+Aug 20, 2022 02:11:49.403 [9940] DEBUG - [FFMPEG] - nal_unit_type: 32(VPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.403 [9940] DEBUG - [FFMPEG] - Decoding VPS
+Aug 20, 2022 02:11:49.403 [9940] DEBUG - [FFMPEG] - Main profile bitstream
+Aug 20, 2022 02:11:49.403 [9940] DEBUG - [FFMPEG] - nal_unit_type: 33(SPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.403 [9940] DEBUG - [FFMPEG] - Decoding SPS
+Aug 20, 2022 02:11:49.403 [9940] DEBUG - [FFMPEG] - Main profile bitstream
+Aug 20, 2022 02:11:49.403 [9940] DEBUG - [FFMPEG] - Decoding VUI
+Aug 20, 2022 02:11:49.403 [9940] DEBUG - [FFMPEG] - nal_unit_type: 34(PPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.403 [9940] DEBUG - [FFMPEG] - Decoding PPS
+Aug 20, 2022 02:11:49.403 [9940] DEBUG - [FFMPEG] - nal_unit_type: 39(SEI_PREFIX), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.403 [9940] DEBUG - [FFMPEG] - Decoding SEI
+Aug 20, 2022 02:11:49.405 [9940] DEBUG - [FFMPEG] - All info found
+Aug 20, 2022 02:11:49.405 [9940] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 13274 bytes read:68036 seeks:2 frames:51
+Aug 20, 2022 02:11:49.405 [9940] DEBUG - Creating C:\Users\carso\AppData\Local\Plex Media Server\Media\localhost\8\188044d242c226a0a8538ab85cd17e33d4c3f81.bundle\Contents\Art\art1.jpg (50.0%, 1280x720).
+Aug 20, 2022 02:11:49.405 [9940] DEBUG - [FFMPEG] - nal_unit_type: 32(VPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.405 [9940] DEBUG - [FFMPEG] - Decoding VPS
+Aug 20, 2022 02:11:49.405 [9940] DEBUG - [FFMPEG] - Main profile bitstream
+Aug 20, 2022 02:11:49.405 [9940] DEBUG - [FFMPEG] - nal_unit_type: 33(SPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.405 [9940] DEBUG - [FFMPEG] - Decoding SPS
+Aug 20, 2022 02:11:49.405 [9940] DEBUG - [FFMPEG] - Main profile bitstream
+Aug 20, 2022 02:11:49.405 [9940] DEBUG - [FFMPEG] - Decoding VUI
+Aug 20, 2022 02:11:49.405 [9940] DEBUG - [FFMPEG] - nal_unit_type: 34(PPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.405 [9940] DEBUG - [FFMPEG] - Decoding PPS
+Aug 20, 2022 02:11:49.405 [9940] DEBUG - [FFMPEG] - nal_unit_type: 39(SEI_PREFIX), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.405 [9940] DEBUG - [FFMPEG] - Decoding SEI
+Aug 20, 2022 02:11:49.406 [9940] DEBUG - [FFMPEG] - nal_unit_type: 21(CRA_NUT), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.406 [9940] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Aug 20, 2022 02:11:49.441 [9940] DEBUG - [FFMPEG] - Decoded frame with POC -27.
+Aug 20, 2022 02:11:49.441 [9940] DEBUG - [FFMPEG] - nal_unit_type: 1(TRAIL_R), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.468 [9940] DEBUG - [FFMPEG] - Decoded frame with POC -22.
+Aug 20, 2022 02:11:49.468 [9940] DEBUG - [FFMPEG] - nal_unit_type: 1(TRAIL_R), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.468 [9940] DEBUG - [FFMPEG] - Output frame with POC -27.
+Aug 20, 2022 02:11:49.491 [9940] DEBUG - [FFMPEG] - Decoded frame with POC -24.
+Aug 20, 2022 02:11:49.530 [9940] DEBUG - Loaded memory image of size 1480x1080.
+Aug 20, 2022 02:11:49.587 [9940] DEBUG - [MI] Closing input file: "D:\Movies\How the Grinch Stole Christmas (1966)\How the Grinch Stole Christmas (1966).mkv"
+Aug 20, 2022 02:11:49.588 [9940] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Aug 20, 2022 02:11:49.588 [9940] DEBUG - [HCl#6] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Aug 20, 2022 02:11:49.589 [12968] DEBUG - [HttpClient/HCl#6] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+Aug 20, 2022 02:11:49.589 [9940] DEBUG - Updating metadata item (save) (How the Grinch Stole Christmas!) with ID 4119
+Aug 20, 2022 02:11:49.591 [13084] DEBUG - [HCl#7] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4119&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=idle
+Aug 20, 2022 02:11:49.591 [12968] DEBUG - [HttpClient/HCl#7] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4119&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+Aug 20, 2022 02:11:49.636 [9940] DEBUG - Analyzing media parts for item 15428 (Lair of Grievous): 32815
+Aug 20, 2022 02:11:49.675 [9940] DEBUG - [ID 32816] Media part analysis: D:\TV\Star Wars The Clone Wars (2008)\Season 1\Star Wars The Clone Wars - S01E10 - Lair of Grievous.mkv
+Aug 20, 2022 02:11:49.675 [9940] DEBUG - [MI] Opening input file: "D:\TV\Star Wars The Clone Wars (2008)\Season 1\Star Wars The Clone Wars - S01E10 - Lair of Grievous.mkv"
+Aug 20, 2022 02:11:49.675 [9940] DEBUG - [FFMPEG] - Opening 'D:\TV\Star Wars The Clone Wars (2008)\Season 1\Star Wars The Clone Wars - S01E10 - Lair of Grievous.mkv' for reading
+Aug 20, 2022 02:11:49.675 [9940] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Aug 20, 2022 02:11:49.675 [9940] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Aug 20, 2022 02:11:49.677 [9940] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.678 [9940] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.678 [9940] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.678 [9940] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.678 [9940] DEBUG - [FFMPEG] - st:4 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.678 [9940] DEBUG - [FFMPEG] - st:5 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.678 [9940] DEBUG - [FFMPEG] - st:6 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.678 [9940] DEBUG - [FFMPEG] - st:7 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.678 [9940] DEBUG - [FFMPEG] - st:8 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.678 [9940] DEBUG - [FFMPEG] - st:9 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.678 [9940] DEBUG - [FFMPEG] - st:10 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.678 [9940] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 10237 bytes read:235785 seeks:4 nb_streams:12
+Aug 20, 2022 02:11:49.678 [9940] DEBUG - [FFMPEG] - nal_unit_type: 32(VPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.678 [9940] DEBUG - [FFMPEG] - Decoding VPS
+Aug 20, 2022 02:11:49.678 [9940] DEBUG - [FFMPEG] - Main 10 profile bitstream
+Aug 20, 2022 02:11:49.678 [9940] DEBUG - [FFMPEG] - nal_unit_type: 33(SPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.678 [9940] DEBUG - [FFMPEG] - Decoding SPS
+Aug 20, 2022 02:11:49.678 [9940] DEBUG - [FFMPEG] - Main 10 profile bitstream
+Aug 20, 2022 02:11:49.678 [9940] DEBUG - [FFMPEG] - Decoding VUI
+Aug 20, 2022 02:11:49.678 [9940] DEBUG - [FFMPEG] - nal_unit_type: 34(PPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.678 [9940] DEBUG - [FFMPEG] - Decoding PPS
+Aug 20, 2022 02:11:49.678 [9940] DEBUG - [FFMPEG] - nal_unit_type: 39(SEI_PREFIX), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.678 [9940] DEBUG - [FFMPEG] - Decoding SEI
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - palette:
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x000000
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xf0f0f0
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xcccccc
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x999999
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x3333fa
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x1111bb
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xfa3333
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xbb1111
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x33fa33
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x11bb11
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xfafa33
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xbbbb11
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xfa33fa
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xbb11bb
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x33fafa
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x11bbbb
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - 
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - palette:
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x000000
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xf0f0f0
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xcccccc
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x999999
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x3333fa
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x1111bb
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xfa3333
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xbb1111
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x33fa33
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x11bb11
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xfafa33
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xbbbb11
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xfa33fa
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xbb11bb
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x33fafa
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x11bbbb
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - 
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - palette:
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x000000
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xf0f0f0
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xcccccc
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x999999
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x3333fa
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x1111bb
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xfa3333
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xbb1111
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x33fa33
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x11bb11
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xfafa33
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xbbbb11
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xfa33fa
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xbb11bb
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x33fafa
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x11bbbb
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - 
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - palette:
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x000000
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xf0f0f0
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xcccccc
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x999999
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x3333fa
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x1111bb
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xfa3333
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xbb1111
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x33fa33
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x11bb11
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xfafa33
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xbbbb11
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xfa33fa
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xbb11bb
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x33fafa
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x11bbbb
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - 
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - palette:
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x000000
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xf0f0f0
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xcccccc
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x999999
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x3333fa
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x1111bb
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xfa3333
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xbb1111
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x33fa33
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x11bb11
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xfafa33
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xbbbb11
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xfa33fa
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0xbb11bb
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x33fafa
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] -  0x11bbbb
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - 
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - marker=d8 avail_size_in_buf=170194
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - marker=e0 avail_size_in_buf=170192
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - marker parser used 16 bytes (128 bits)
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - marker=db avail_size_in_buf=170174
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - index=0
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - qscale[0]: 1
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - marker parser used 67 bytes (536 bits)
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - marker=db avail_size_in_buf=170105
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - index=1
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - qscale[1]: 2
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - marker parser used 67 bytes (536 bits)
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - marker=c0 avail_size_in_buf=170036
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - Changing bps from 0 to 8
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - sof0: picture: 600x800
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - component 0 2:2 id: 0 quant:0
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - component 1 1:1 id: 1 quant:1
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - component 2 1:1 id: 2 quant:1
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - pix fmt id 22111100
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - Format yuvj420p chosen by get_format().
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - marker parser used 17 bytes (136 bits)
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=170017
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=169984
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=169801
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=169768
+Aug 20, 2022 02:11:49.682 [9940] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:49.683 [9940] DEBUG - [FFMPEG] - escaping removed 1067 bytes
+Aug 20, 2022 02:11:49.683 [9940] DEBUG - [FFMPEG] - marker=da avail_size_in_buf=169585
+Aug 20, 2022 02:11:49.683 [9940] DEBUG - [FFMPEG] - marker parser used 168518 bytes (1348144 bits)
+Aug 20, 2022 02:11:49.683 [9940] DEBUG - [FFMPEG] - marker=d9 avail_size_in_buf=0
+Aug 20, 2022 02:11:49.683 [9940] DEBUG - [FFMPEG] - decode frame unused 0 bytes
+Aug 20, 2022 02:11:49.683 [9940] DEBUG - [FFMPEG] - All info found
+Aug 20, 2022 02:11:49.684 [9940] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 46621 bytes read:301321 seeks:4 frames:60
+Aug 20, 2022 02:11:49.685 [9940] DEBUG - [MI]  * 06fb58dabb765d79532a081f5fdb518fc357d9b6 [mkv hevc/aac] Duration: 1408467ms, 1920x808 (2.376238) 23.976fps, bitrate=3116kbps, audio channels=6, optimizedForStreaming=0 ("D:\TV\Star Wars The Clone Wars (2008)\Season 1\Star Wars The Clone Wars - S01E10 - Lair of Grievous.mkv")
+Aug 20, 2022 02:11:49.685 [9940] DEBUG - [MI] Importing 4 media chapters.
+Aug 20, 2022 02:11:49.685 [9940] DEBUG - [MI] Chapters had generic titles, clearing.
+Aug 20, 2022 02:11:49.685 [9940] DEBUG - [MI] Closing input file: "D:\TV\Star Wars The Clone Wars (2008)\Season 1\Star Wars The Clone Wars - S01E10 - Lair of Grievous.mkv"
+Aug 20, 2022 02:11:49.686 [9940] DEBUG - Updating media item 32815, size=548666432, metadata_item_id=15428
+Aug 20, 2022 02:11:49.686 [9940] DEBUG - Updating part with ID=32816 [D:\TV\Star Wars The Clone Wars (2008)\Season 1\Star Wars The Clone Wars - S01E10 - Lair of Grievous.mkv]
+Aug 20, 2022 02:11:49.687 [13084] DEBUG - [HCl#8] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=15428&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Aug 20, 2022 02:11:49.687 [12968] DEBUG - [HttpClient/HCl#8] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=15428&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+Aug 20, 2022 02:11:49.687 [13084] DEBUG - [HCl#9] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=15428&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing
+Aug 20, 2022 02:11:49.687 [12968] DEBUG - [HttpClient/HCl#9] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=15428&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing (reused)
+Aug 20, 2022 02:11:49.687 [13084] DEBUG - [HCl#a] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=15428&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+Aug 20, 2022 02:11:49.688 [12968] DEBUG - [HttpClient/HCl#a] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=15428&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+Aug 20, 2022 02:11:49.691 [9940] DEBUG - Analyzing media parts for item 18514 (Star Wars: Thrawn Ascendancy: Chaos Rising, Book 1): 35734
+Aug 20, 2022 02:11:49.718 [9940] DEBUG - [ID 35735] Media part analysis: D:\Audiobooks\Star Wars\Timothy Zahn - Star Wars Thrawn Ascendancy Chaos Rising, Book 1\Star Wars Thrawn Ascendancy Chaos Rising, Book 1 - 018.mp3
+Aug 20, 2022 02:11:49.718 [9940] DEBUG - [MI] Opening input file: "D:\Audiobooks\Star Wars\Timothy Zahn - Star Wars Thrawn Ascendancy Chaos Rising, Book 1\Star Wars Thrawn Ascendancy Chaos Rising, Book 1 - 018.mp3"
+Aug 20, 2022 02:11:49.718 [9940] DEBUG - [FFMPEG] - Opening 'D:\Audiobooks\Star Wars\Timothy Zahn - Star Wars Thrawn Ascendancy Chaos Rising, Book 1\Star Wars Thrawn Ascendancy Chaos Rising, Book 1 - 018.mp3' for reading
+Aug 20, 2022 02:11:49.718 [9940] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Aug 20, 2022 02:11:49.737 [9940] DEBUG - [FFMPEG] - Format mp3 probed with size=262144 and score=51
+Aug 20, 2022 02:11:49.737 [9940] DEBUG - [FFMPEG] - id3v2 ver:3 flags:00 len:134249
+Aug 20, 2022 02:11:49.737 [9940] DEBUG - [FFMPEG] - pad 0 0
+Aug 20, 2022 02:11:49.737 [9940] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 134781 bytes read:163840 seeks:0 nb_streams:2
+Aug 20, 2022 02:11:49.740 [9940] DEBUG - [FFMPEG] - demuxer injecting skip 529 / discard 0
+Aug 20, 2022 02:11:49.740 [9940] DEBUG - [FFMPEG] - skip 529 / discard 0 samples due to side data
+Aug 20, 2022 02:11:49.740 [9940] DEBUG - [FFMPEG] - skip 529/1152 samples
+Aug 20, 2022 02:11:49.740 [9940] DEBUG - [FFMPEG] - All info found
+Aug 20, 2022 02:11:49.740 [9940] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 158333 bytes read:163840 seeks:0 frames:51
+Aug 20, 2022 02:11:49.740 [9940] DEBUG - [MI]  * e6ae34c9e1bf8fce326f456324744944034b5917 [mp3 /mp3] Duration: 1463171ms, 0x0 (0.000000) 0.000fps, bitrate=144kbps, audio channels=2, optimizedForStreaming=0 ("D:\Audiobooks\Star Wars\Timothy Zahn - Star Wars Thrawn Ascendancy Chaos Rising, Book 1\Star Wars Thrawn Ascendancy Chaos Rising, Book 1 - 018.mp3")
+Aug 20, 2022 02:11:49.740 [9940] DEBUG - [MI] Importing 2 media chapters.
+Aug 20, 2022 02:11:49.740 [9940] DEBUG - [MI] Closing input file: "D:\Audiobooks\Star Wars\Timothy Zahn - Star Wars Thrawn Ascendancy Chaos Rising, Book 1\Star Wars Thrawn Ascendancy Chaos Rising, Book 1 - 018.mp3"
+Aug 20, 2022 02:11:49.741 [9940] DEBUG - Committing media stream changes for part 35735
+Aug 20, 2022 02:11:49.741 [9940] DEBUG - Updating media item 35734, size=26645355, metadata_item_id=18514
+Aug 20, 2022 02:11:49.742 [9940] DEBUG - Updating part with ID=35735 [D:\Audiobooks\Star Wars\Timothy Zahn - Star Wars Thrawn Ascendancy Chaos Rising, Book 1\Star Wars Thrawn Ascendancy Chaos Rising, Book 1 - 018.mp3]
+Aug 20, 2022 02:11:49.742 [13084] DEBUG - [HCl#b] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=3&metadataItemID=18514&metadataType=10&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Aug 20, 2022 02:11:49.742 [12968] DEBUG - [HttpClient/HCl#b] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=3&metadataItemID=18514&metadataType=10&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+Aug 20, 2022 02:11:49.742 [13084] DEBUG - [HCl#c] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=3&metadataItemID=18514&metadataType=10&state=-1&parentID=-1&rootID=-1&mediaState=idle
+Aug 20, 2022 02:11:49.742 [12968] DEBUG - [HttpClient/HCl#c] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=3&metadataItemID=18514&metadataType=10&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+Aug 20, 2022 02:11:49.745 [9940] DEBUG - Analyzing media parts for item 14605 (The Wizard): 32050
+Aug 20, 2022 02:11:49.786 [9940] DEBUG - [ID 32050] Media part analysis: D:\TV\Seinfeld\Season 9\Seinfeld (1989) - S09E15 - The Wizard.mkv
+Aug 20, 2022 02:11:49.787 [9940] DEBUG - [MI] Opening input file: "D:\TV\Seinfeld\Season 9\Seinfeld (1989) - S09E15 - The Wizard.mkv"
+Aug 20, 2022 02:11:49.787 [9940] DEBUG - [FFMPEG] - Opening 'D:\TV\Seinfeld\Season 9\Seinfeld (1989) - S09E15 - The Wizard.mkv' for reading
+Aug 20, 2022 02:11:49.787 [9940] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Aug 20, 2022 02:11:49.787 [9940] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Aug 20, 2022 02:11:49.787 [9940] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.787 [9940] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.787 [9940] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.787 [9940] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.787 [9940] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 9098 bytes read:34332 seeks:2 nb_streams:4
+Aug 20, 2022 02:11:49.787 [9940] DEBUG - [FFMPEG] - nal_unit_type: 32(VPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.787 [9940] DEBUG - [FFMPEG] - Decoding VPS
+Aug 20, 2022 02:11:49.787 [9940] DEBUG - [FFMPEG] - Main 10 profile bitstream
+Aug 20, 2022 02:11:49.787 [9940] DEBUG - [FFMPEG] - nal_unit_type: 33(SPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.787 [9940] DEBUG - [FFMPEG] - Decoding SPS
+Aug 20, 2022 02:11:49.787 [9940] DEBUG - [FFMPEG] - Main 10 profile bitstream
+Aug 20, 2022 02:11:49.787 [9940] DEBUG - [FFMPEG] - Decoding VUI
+Aug 20, 2022 02:11:49.787 [9940] DEBUG - [FFMPEG] - nal_unit_type: 34(PPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.787 [9940] DEBUG - [FFMPEG] - Decoding PPS
+Aug 20, 2022 02:11:49.787 [9940] DEBUG - [FFMPEG] - nal_unit_type: 39(SEI_PREFIX), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.787 [9940] DEBUG - [FFMPEG] - Decoding SEI
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] - palette:
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0xbebebe
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0x171717
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0x4c5c07
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0xb9dd14
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0xbebebe
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0x0b0b0b
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0x565656
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0xdcdcdc
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] - 
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] - palette:
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0xbebebe
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0x171717
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0x4c5c07
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0xb9dd14
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0xbebebe
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0x0b0b0b
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0x565656
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] -  0xdcdcdc
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] - 
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] - All info found
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 12030 bytes read:67100 seeks:2 frames:27
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [MI]  * 613339424764348fbc77e310a41331f695c1a871 [mkv hevc/aac] Duration: 1384133ms, 720x480 (1.363636) 23.976fps, bitrate=1696kbps, audio channels=2, optimizedForStreaming=0 ("D:\TV\Seinfeld\Season 9\Seinfeld (1989) - S09E15 - The Wizard.mkv")
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [MI] Importing 5 media chapters.
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [MI] Chapters had generic titles, clearing.
+Aug 20, 2022 02:11:49.788 [9940] DEBUG - [MI] Closing input file: "D:\TV\Seinfeld\Season 9\Seinfeld (1989) - S09E15 - The Wizard.mkv"
+Aug 20, 2022 02:11:49.789 [9940] DEBUG - Committing media stream changes for part 32050
+Aug 20, 2022 02:11:49.790 [9940] DEBUG - Updating media item 32050, size=293514153, metadata_item_id=14605
+Aug 20, 2022 02:11:49.790 [9940] DEBUG - Updating part with ID=32050 [D:\TV\Seinfeld\Season 9\Seinfeld (1989) - S09E15 - The Wizard.mkv]
+Aug 20, 2022 02:11:49.790 [13084] DEBUG - [HCl#d] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=14605&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Aug 20, 2022 02:11:49.790 [12968] DEBUG - [HttpClient/HCl#d] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=14605&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+Aug 20, 2022 02:11:49.790 [13084] DEBUG - [HCl#e] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=14605&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing
+Aug 20, 2022 02:11:49.791 [12968] DEBUG - [HttpClient/HCl#e] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=14605&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing (reused)
+Aug 20, 2022 02:11:49.791 [13084] DEBUG - [HCl#f] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=14605&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+Aug 20, 2022 02:11:49.791 [12968] DEBUG - [HttpClient/HCl#f] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=14605&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+Aug 20, 2022 02:11:49.795 [9940] DEBUG - Analyzing media parts for item 15427 (Cloak of Darkness): 32814
+Aug 20, 2022 02:11:49.833 [9940] DEBUG - [ID 32815] Media part analysis: D:\TV\Star Wars The Clone Wars (2008)\Season 1\Star Wars The Clone Wars - S01E09 - Cloak of Darkness.mkv
+Aug 20, 2022 02:11:49.834 [9940] DEBUG - [MI] Opening input file: "D:\TV\Star Wars The Clone Wars (2008)\Season 1\Star Wars The Clone Wars - S01E09 - Cloak of Darkness.mkv"
+Aug 20, 2022 02:11:49.834 [9940] DEBUG - [FFMPEG] - Opening 'D:\TV\Star Wars The Clone Wars (2008)\Season 1\Star Wars The Clone Wars - S01E09 - Cloak of Darkness.mkv' for reading
+Aug 20, 2022 02:11:49.834 [9940] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Aug 20, 2022 02:11:49.834 [9940] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Aug 20, 2022 02:11:49.845 [9940] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.845 [9940] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.845 [9940] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.845 [9940] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.845 [9940] DEBUG - [FFMPEG] - st:4 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.845 [9940] DEBUG - [FFMPEG] - st:5 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.845 [9940] DEBUG - [FFMPEG] - st:6 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.845 [9940] DEBUG - [FFMPEG] - st:7 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.845 [9940] DEBUG - [FFMPEG] - st:8 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.845 [9940] DEBUG - [FFMPEG] - st:9 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.845 [9940] DEBUG - [FFMPEG] - st:10 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.845 [9940] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 10238 bytes read:235785 seeks:4 nb_streams:12
+Aug 20, 2022 02:11:49.845 [9940] DEBUG - [FFMPEG] - nal_unit_type: 32(VPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.845 [9940] DEBUG - [FFMPEG] - Decoding VPS
+Aug 20, 2022 02:11:49.845 [9940] DEBUG - [FFMPEG] - Main 10 profile bitstream
+Aug 20, 2022 02:11:49.845 [9940] DEBUG - [FFMPEG] - nal_unit_type: 33(SPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.845 [9940] DEBUG - [FFMPEG] - Decoding SPS
+Aug 20, 2022 02:11:49.845 [9940] DEBUG - [FFMPEG] - Main 10 profile bitstream
+Aug 20, 2022 02:11:49.845 [9940] DEBUG - [FFMPEG] - Decoding VUI
+Aug 20, 2022 02:11:49.845 [9940] DEBUG - [FFMPEG] - nal_unit_type: 34(PPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.845 [9940] DEBUG - [FFMPEG] - Decoding PPS
+Aug 20, 2022 02:11:49.845 [9940] DEBUG - [FFMPEG] - nal_unit_type: 39(SEI_PREFIX), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.845 [9940] DEBUG - [FFMPEG] - Decoding SEI
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - palette:
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x000000
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xf0f0f0
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xcccccc
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x999999
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x3333fa
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x1111bb
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xfa3333
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xbb1111
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x33fa33
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x11bb11
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xfafa33
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xbbbb11
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xfa33fa
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xbb11bb
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x33fafa
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x11bbbb
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - 
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - palette:
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x000000
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xf0f0f0
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xcccccc
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x999999
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x3333fa
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x1111bb
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xfa3333
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xbb1111
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x33fa33
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x11bb11
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xfafa33
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xbbbb11
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xfa33fa
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xbb11bb
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x33fafa
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x11bbbb
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - 
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - palette:
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x000000
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xf0f0f0
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xcccccc
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x999999
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x3333fa
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x1111bb
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xfa3333
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xbb1111
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x33fa33
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x11bb11
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xfafa33
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xbbbb11
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xfa33fa
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xbb11bb
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x33fafa
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x11bbbb
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - 
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - palette:
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x000000
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xf0f0f0
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xcccccc
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x999999
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x3333fa
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x1111bb
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xfa3333
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xbb1111
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x33fa33
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x11bb11
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xfafa33
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xbbbb11
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xfa33fa
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xbb11bb
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x33fafa
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x11bbbb
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - 
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - palette:
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x000000
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xf0f0f0
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xcccccc
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x999999
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x3333fa
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x1111bb
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xfa3333
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xbb1111
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x33fa33
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x11bb11
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xfafa33
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xbbbb11
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xfa33fa
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0xbb11bb
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x33fafa
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] -  0x11bbbb
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - 
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - marker=d8 avail_size_in_buf=170194
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - marker=e0 avail_size_in_buf=170192
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - marker parser used 16 bytes (128 bits)
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - marker=db avail_size_in_buf=170174
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - index=0
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - qscale[0]: 1
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - marker parser used 67 bytes (536 bits)
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - marker=db avail_size_in_buf=170105
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - index=1
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - qscale[1]: 2
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - marker parser used 67 bytes (536 bits)
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - marker=c0 avail_size_in_buf=170036
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - Changing bps from 0 to 8
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - sof0: picture: 600x800
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - component 0 2:2 id: 0 quant:0
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - component 1 1:1 id: 1 quant:1
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - component 2 1:1 id: 2 quant:1
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - pix fmt id 22111100
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - Format yuvj420p chosen by get_format().
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - marker parser used 17 bytes (136 bits)
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=170017
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=169984
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=169801
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=169768
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - escaping removed 1067 bytes
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - marker=da avail_size_in_buf=169585
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - marker parser used 168518 bytes (1348144 bits)
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - marker=d9 avail_size_in_buf=0
+Aug 20, 2022 02:11:49.849 [9940] DEBUG - [FFMPEG] - decode frame unused 0 bytes
+Aug 20, 2022 02:11:49.850 [9940] DEBUG - [FFMPEG] - All info found
+Aug 20, 2022 02:11:49.851 [9940] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 47140 bytes read:301321 seeks:4 frames:60
+Aug 20, 2022 02:11:49.851 [9940] DEBUG - [MI]  * d36255bb20b7756feebf9c91b1fa6608cdd5d162 [mkv hevc/aac] Duration: 1355774ms, 1920x808 (2.376238) 23.976fps, bitrate=3274kbps, audio channels=6, optimizedForStreaming=0 ("D:\TV\Star Wars The Clone Wars (2008)\Season 1\Star Wars The Clone Wars - S01E09 - Cloak of Darkness.mkv")
+Aug 20, 2022 02:11:49.851 [9940] DEBUG - [MI] Importing 4 media chapters.
+Aug 20, 2022 02:11:49.851 [9940] DEBUG - [MI] Chapters had generic titles, clearing.
+Aug 20, 2022 02:11:49.851 [9940] DEBUG - [MI] Closing input file: "D:\TV\Star Wars The Clone Wars (2008)\Season 1\Star Wars The Clone Wars - S01E09 - Cloak of Darkness.mkv"
+Aug 20, 2022 02:11:49.852 [9940] DEBUG - Committing media stream changes for part 32815
+Aug 20, 2022 02:11:49.853 [9940] DEBUG - Updating media item 32814, size=554953037, metadata_item_id=15427
+Aug 20, 2022 02:11:49.854 [9940] DEBUG - Updating part with ID=32815 [D:\TV\Star Wars The Clone Wars (2008)\Season 1\Star Wars The Clone Wars - S01E09 - Cloak of Darkness.mkv]
+Aug 20, 2022 02:11:49.854 [13084] DEBUG - [HCl#10] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=15427&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Aug 20, 2022 02:11:49.854 [12968] DEBUG - [HttpClient/HCl#10] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=15427&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+Aug 20, 2022 02:11:49.854 [13084] DEBUG - [HCl#11] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=15427&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing
+Aug 20, 2022 02:11:49.855 [12968] DEBUG - [HttpClient/HCl#11] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=15427&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing (reused)
+Aug 20, 2022 02:11:49.855 [13084] DEBUG - [HCl#12] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=15427&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+Aug 20, 2022 02:11:49.855 [12968] DEBUG - [HttpClient/HCl#12] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=15427&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+Aug 20, 2022 02:11:49.859 [9940] DEBUG - Analyzing media parts for item 11566 (Episode 7): 29275
+Aug 20, 2022 02:11:49.945 [9940] DEBUG - [ID 29275] Media part analysis: D:\TV\Better Call Saul\Season 3\Better Call Saul - S03E07 - Expenses.mkv
+Aug 20, 2022 02:11:49.945 [9940] DEBUG - [MI] Opening input file: "D:\TV\Better Call Saul\Season 3\Better Call Saul - S03E07 - Expenses.mkv"
+Aug 20, 2022 02:11:49.945 [9940] DEBUG - [FFMPEG] - Opening 'D:\TV\Better Call Saul\Season 3\Better Call Saul - S03E07 - Expenses.mkv' for reading
+Aug 20, 2022 02:11:49.945 [9940] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - st:4 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - st:5 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - st:6 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - st:7 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - st:8 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - st:9 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - st:10 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - st:11 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - st:12 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - st:13 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - st:14 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - st:15 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - st:16 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - st:17 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - st:18 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - st:19 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 9556 bytes read:40430 seeks:2 nb_streams:20
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - nal_unit_type: 32(VPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - Decoding VPS
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - Main 10 profile bitstream
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - nal_unit_type: 33(SPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - Decoding SPS
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - Main 10 profile bitstream
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - Decoding VUI
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - nal_unit_type: 34(PPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - Decoding PPS
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - nal_unit_type: 39(SEI_PREFIX), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:49.946 [9940] DEBUG - [FFMPEG] - Decoding SEI
+Aug 20, 2022 02:11:49.951 [9940] DEBUG - [FFMPEG] - first_dts 0 not matching first dts NOPTS (pts 0, duration 41) in the queue
+Aug 20, 2022 02:11:50.051 [9940] WARN - [FFMPEG] - Could not find codec parameters for stream 6 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (20000000) and 'probesize' (20000000) options
+Aug 20, 2022 02:11:50.051 [9940] WARN - [FFMPEG] - Could not find codec parameters for stream 7 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (20000000) and 'probesize' (20000000) options
+Aug 20, 2022 02:11:50.051 [9940] WARN - [FFMPEG] - Could not find codec parameters for stream 8 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (20000000) and 'probesize' (20000000) options
+Aug 20, 2022 02:11:50.051 [9940] WARN - [FFMPEG] - Could not find codec parameters for stream 9 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (20000000) and 'probesize' (20000000) options
+Aug 20, 2022 02:11:50.051 [9940] WARN - [FFMPEG] - Could not find codec parameters for stream 10 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (20000000) and 'probesize' (20000000) options
+Aug 20, 2022 02:11:50.051 [9940] WARN - [FFMPEG] - Could not find codec parameters for stream 11 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (20000000) and 'probesize' (20000000) options
+Aug 20, 2022 02:11:50.051 [9940] WARN - [FFMPEG] - Could not find codec parameters for stream 12 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (20000000) and 'probesize' (20000000) options
+Aug 20, 2022 02:11:50.051 [9940] WARN - [FFMPEG] - Could not find codec parameters for stream 13 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (20000000) and 'probesize' (20000000) options
+Aug 20, 2022 02:11:50.051 [9940] WARN - [FFMPEG] - Could not find codec parameters for stream 14 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (20000000) and 'probesize' (20000000) options
+Aug 20, 2022 02:11:50.051 [9940] WARN - [FFMPEG] - Could not find codec parameters for stream 15 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (20000000) and 'probesize' (20000000) options
+Aug 20, 2022 02:11:50.051 [9940] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 14163620 bytes read:14205239 seeks:2 frames:3329
+Aug 20, 2022 02:11:50.052 [9940] DEBUG - [MI]  * 1c2326bb18942b22f2dd1604f024d73dcbd793b2 [mkv hevc/aac] Duration: 3155070ms, 1920x1080 (1.777778) 23.976fps, bitrate=5466kbps, audio channels=6, optimizedForStreaming=0 ("D:\TV\Better Call Saul\Season 3\Better Call Saul - S03E07 - Expenses.mkv")
+Aug 20, 2022 02:11:50.052 [9940] DEBUG - [MI] Importing 7 media chapters.
+Aug 20, 2022 02:11:50.052 [9940] DEBUG - [MI] Chapters had generic titles, clearing.
+Aug 20, 2022 02:11:50.052 [9940] DEBUG - [MI] Closing input file: "D:\TV\Better Call Saul\Season 3\Better Call Saul - S03E07 - Expenses.mkv"
+Aug 20, 2022 02:11:50.056 [9940] DEBUG - Committing media stream changes for part 29275
+Aug 20, 2022 02:11:50.058 [9940] DEBUG - Updating media item 29275, size=2155861032, metadata_item_id=11566
+Aug 20, 2022 02:11:50.058 [9940] DEBUG - Updating part with ID=29275 [D:\TV\Better Call Saul\Season 3\Better Call Saul - S03E07 - Expenses.mkv]
+Aug 20, 2022 02:11:50.058 [13084] DEBUG - [HCl#13] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=11566&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Aug 20, 2022 02:11:50.058 [12968] DEBUG - [HttpClient/HCl#13] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=11566&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+Aug 20, 2022 02:11:50.058 [13084] DEBUG - [HCl#14] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=11566&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing
+Aug 20, 2022 02:11:50.059 [12968] DEBUG - [HttpClient/HCl#14] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=11566&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing (reused)
+Aug 20, 2022 02:11:50.059 [13084] DEBUG - [HCl#15] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=11566&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+Aug 20, 2022 02:11:50.059 [12968] DEBUG - [HttpClient/HCl#15] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=11566&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+Aug 20, 2022 02:11:50.064 [9940] DEBUG - Analyzing media parts for item 11963 (Episode 2): 29633
+Aug 20, 2022 02:11:50.102 [9940] DEBUG - [ID 29633] Media part analysis: D:\TV\Disney Gallery Star Wars The Mandalorian\Disney Gallery Star Wars The Mandalorian - S02E02 - Making of Season Two Finale.mkv
+Aug 20, 2022 02:11:50.102 [9940] DEBUG - [MI] Opening input file: "D:\TV\Disney Gallery Star Wars The Mandalorian\Disney Gallery Star Wars The Mandalorian - S02E02 - Making of Season Two Finale.mkv"
+Aug 20, 2022 02:11:50.102 [9940] DEBUG - [FFMPEG] - Opening 'D:\TV\Disney Gallery Star Wars The Mandalorian\Disney Gallery Star Wars The Mandalorian - S02E02 - Making of Season Two Finale.mkv' for reading
+Aug 20, 2022 02:11:50.102 [9940] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4384
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - Unknown entry 0x55AE at pos. 4390
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4480
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - Unknown entry 0x55AE at pos. 4486
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4539
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4583
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - Unknown entry 0x55AB at pos. 4595
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - Unknown entry 0x55AE at pos. 4599
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4648
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4699
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4750
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4822
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4876
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4927
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4981
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 5032
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 5083
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 5134
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 5185
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 5236
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 5302
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 5356
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 5407
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 5476
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 7373
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - st:4 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - st:5 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - st:6 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - st:7 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - st:8 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - st:9 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - st:10 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - st:11 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - st:12 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - st:13 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - st:14 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - st:15 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - st:16 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - st:17 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - st:18 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - st:19 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.103 [9940] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 7506 bytes read:38241 seeks:2 nb_streams:20
+Aug 20, 2022 02:11:50.104 [9940] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Aug 20, 2022 02:11:50.104 [9940] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Aug 20, 2022 02:11:50.104 [9940] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Aug 20, 2022 02:11:50.104 [9940] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Aug 20, 2022 02:11:50.104 [9940] DEBUG - [FFMPEG] - ct_type:1 pic_struct:0
+Aug 20, 2022 02:11:50.104 [9940] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 02:11:50.104 [9940] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 02:11:50.104 [9940] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Aug 20, 2022 02:11:50.104 [9940] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Aug 20, 2022 02:11:50.105 [9940] DEBUG - [FFMPEG] - ct_type:1 pic_struct:0
+Aug 20, 2022 02:11:50.105 [9940] DEBUG - [FFMPEG] - no picture 
+Aug 20, 2022 02:11:50.107 [9940] DEBUG - [FFMPEG] - ct_type:1 pic_struct:0
+Aug 20, 2022 02:11:50.107 [9940] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 02:11:50.107 [9940] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Aug 20, 2022 02:11:50.108 [9940] DEBUG - [FFMPEG] - ct_type:1 pic_struct:0
+Aug 20, 2022 02:11:50.108 [9940] DEBUG - [FFMPEG] - no picture 
+Aug 20, 2022 02:11:50.109 [9940] DEBUG - [FFMPEG] - ct_type:1 pic_struct:0
+Aug 20, 2022 02:11:50.109 [9940] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 02:11:50.109 [9940] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Aug 20, 2022 02:11:50.110 [9940] DEBUG - [FFMPEG] - ct_type:1 pic_struct:0
+Aug 20, 2022 02:11:50.112 [9940] DEBUG - [FFMPEG] - ct_type:1 pic_struct:0
+Aug 20, 2022 02:11:50.112 [9940] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 02:11:50.112 [9940] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 02:11:50.113 [9940] DEBUG - [FFMPEG] - ct_type:1 pic_struct:0
+Aug 20, 2022 02:11:50.114 [9940] DEBUG - [FFMPEG] - ct_type:1 pic_struct:0
+Aug 20, 2022 02:11:50.114 [9940] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 02:11:50.114 [9940] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 02:11:50.116 [9940] DEBUG - [FFMPEG] - ct_type:1 pic_struct:0
+Aug 20, 2022 02:11:50.117 [9940] DEBUG - [FFMPEG] - ct_type:1 pic_struct:0
+Aug 20, 2022 02:11:50.118 [9940] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 02:11:50.118 [9940] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Aug 20, 2022 02:11:50.118 [9940] DEBUG - [FFMPEG] - ct_type:1 pic_struct:0
+Aug 20, 2022 02:11:50.119 [9940] DEBUG - [FFMPEG] - ct_type:1 pic_struct:0
+Aug 20, 2022 02:11:50.119 [9940] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 02:11:50.119 [9940] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Aug 20, 2022 02:11:50.119 [9940] DEBUG - [FFMPEG] - ct_type:1 pic_struct:0
+Aug 20, 2022 02:11:50.120 [9940] DEBUG - [FFMPEG] - ct_type:1 pic_struct:0
+Aug 20, 2022 02:11:50.120 [9940] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 02:11:50.120 [9940] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 02:11:50.120 [9940] DEBUG - [FFMPEG] - ct_type:1 pic_struct:0
+Aug 20, 2022 02:11:50.122 [9940] DEBUG - [FFMPEG] - ct_type:1 pic_struct:0
+Aug 20, 2022 02:11:50.122 [9940] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 02:11:50.122 [9940] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 02:11:50.122 [9940] DEBUG - [FFMPEG] - ct_type:1 pic_struct:0
+Aug 20, 2022 02:11:50.124 [9940] DEBUG - [FFMPEG] - ct_type:1 pic_struct:0
+Aug 20, 2022 02:11:50.124 [9940] DEBUG - [FFMPEG] - All info found
+Aug 20, 2022 02:11:50.126 [9940] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 57998 bytes read:103777 seeks:2 frames:25
+Aug 20, 2022 02:11:50.126 [9940] DEBUG - [MI]  * 02cb6fee46a30c4ff67465cbb154351b38f2b17b [mkv h264/eac3] Duration: 2418880ms, 1920x1080 (1.777778) 23.976fps, bitrate=7692kbps, audio channels=6, optimizedForStreaming=0 ("D:\TV\Disney Gallery Star Wars The Mandalorian\Disney Gallery Star Wars The Mandalorian - S02E02 - Making of Season Two Finale.mkv")
+Aug 20, 2022 02:11:50.126 [9940] DEBUG - [MI] Importing 1 media chapters.
+Aug 20, 2022 02:11:50.126 [9940] DEBUG - [MI] Closing input file: "D:\TV\Disney Gallery Star Wars The Mandalorian\Disney Gallery Star Wars The Mandalorian - S02E02 - Making of Season Two Finale.mkv"
+Aug 20, 2022 02:11:50.126 [9940] DEBUG - Streams didn't change in analysis, not saving.
+Aug 20, 2022 02:11:50.127 [9940] DEBUG - Updating media item 29633, size=2325933365, metadata_item_id=11963
+Aug 20, 2022 02:11:50.127 [9940] DEBUG - Updating part with ID=29633 [D:\TV\Disney Gallery Star Wars The Mandalorian\Disney Gallery Star Wars The Mandalorian - S02E02 - Making of Season Two Finale.mkv]
+Aug 20, 2022 02:11:50.127 [13084] DEBUG - [HCl#16] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=11963&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Aug 20, 2022 02:11:50.128 [12968] DEBUG - [HttpClient/HCl#16] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=11963&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+Aug 20, 2022 02:11:50.128 [13084] DEBUG - [HCl#17] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=11963&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing
+Aug 20, 2022 02:11:50.128 [12968] DEBUG - [HttpClient/HCl#17] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=11963&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing (reused)
+Aug 20, 2022 02:11:50.128 [13084] DEBUG - [HCl#18] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=11963&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+Aug 20, 2022 02:11:50.128 [12968] DEBUG - [HttpClient/HCl#18] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=11963&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+Aug 20, 2022 02:11:50.134 [9940] DEBUG - Analyzing media parts for item 12926 (Episode 6): 30506
+Aug 20, 2022 02:11:50.248 [9940] DEBUG - [ID 30506] Media part analysis: D:\TV\Invincible\Invincible.2021.S01E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+Aug 20, 2022 02:11:50.248 [9940] DEBUG - [MI] Opening input file: "D:\TV\Invincible\Invincible.2021.S01E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+Aug 20, 2022 02:11:50.248 [9940] DEBUG - [FFMPEG] - Opening 'D:\TV\Invincible\Invincible.2021.S01E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv' for reading
+Aug 20, 2022 02:11:50.248 [9940] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4403
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4469
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4524
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4568
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4625
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4676
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4727
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4778
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4846
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4907
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4958
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 5010
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 5061
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 5112
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 5163
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 5214
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 5265
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 5316
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 5367
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 5418
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 5469
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 5520
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 5571
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 5631
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 5693
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 5744
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 5795
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 5846
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 5897
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 5948
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 5999
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 6059
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 8153
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 8195
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 8231
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 8274
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 8310
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 8346
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 8382
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 8418
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 8454
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 8491
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 8528
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 8565
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 8602
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 8639
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 8676
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 8713
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 8751
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 8789
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 8827
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 8865
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 8903
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 8941
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 8979
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 9017
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 9055
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 9093
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 9131
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 9169
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 9207
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 9245
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 9283
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 9328
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 9366
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 9407
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:4 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:5 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:6 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:7 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:8 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:9 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:10 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:11 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:12 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:13 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:14 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:15 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:16 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:17 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:18 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:19 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:20 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:21 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:22 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:23 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:24 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:25 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:26 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:27 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:28 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:29 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:30 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.249 [9940] DEBUG - [FFMPEG] - st:31 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.250 [9940] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 9969 bytes read:41763 seeks:2 nb_streams:32
+Aug 20, 2022 02:11:50.250 [9940] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Aug 20, 2022 02:11:50.250 [9940] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Aug 20, 2022 02:11:50.251 [9940] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Aug 20, 2022 02:11:50.251 [9940] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Aug 20, 2022 02:11:50.251 [9940] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Aug 20, 2022 02:11:50.251 [9940] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Aug 20, 2022 02:11:50.252 [9940] DEBUG - [FFMPEG] - no picture 
+Aug 20, 2022 02:11:50.262 [9940] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Aug 20, 2022 02:11:50.263 [9940] DEBUG - [FFMPEG] - no picture 
+Aug 20, 2022 02:11:50.268 [9940] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 02:11:50.274 [9940] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Aug 20, 2022 02:11:50.282 [9940] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Aug 20, 2022 02:11:50.288 [9940] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 02:11:50.293 [9940] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Aug 20, 2022 02:11:50.306 [9940] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Aug 20, 2022 02:11:50.313 [9940] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 02:11:50.318 [9940] DEBUG - [FFMPEG] - All info found
+Aug 20, 2022 02:11:50.320 [9940] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 379095 bytes read:416053 seeks:2 frames:25
+Aug 20, 2022 02:11:50.321 [9940] DEBUG - [MI]  * 9392e14e235ff5f01adec38ebc96b9f17f5fe874 [mkv h264/eac3] Duration: 2691744ms, 1920x1080 (1.777778) 24.000fps, bitrate=3771kbps, audio channels=6, optimizedForStreaming=0 ("D:\TV\Invincible\Invincible.2021.S01E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv")
+Aug 20, 2022 02:11:50.321 [9940] DEBUG - [MI] Importing 34 media chapters.
+Aug 20, 2022 02:11:50.321 [9940] DEBUG - [MI] Closing input file: "D:\TV\Invincible\Invincible.2021.S01E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+Aug 20, 2022 02:11:50.321 [9940] DEBUG - Streams didn't change in analysis, not saving.
+Aug 20, 2022 02:11:50.322 [9940] DEBUG - Updating media item 30506, size=1269101680, metadata_item_id=12926
+Aug 20, 2022 02:11:50.322 [9940] DEBUG - Updating part with ID=30506 [D:\TV\Invincible\Invincible.2021.S01E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv]
+Aug 20, 2022 02:11:50.322 [13084] DEBUG - [HCl#19] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=12926&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Aug 20, 2022 02:11:50.322 [12968] DEBUG - [HttpClient/HCl#19] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=12926&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+Aug 20, 2022 02:11:50.322 [13084] DEBUG - [HCl#1a] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=12926&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing
+Aug 20, 2022 02:11:50.323 [12968] DEBUG - [HttpClient/HCl#1a] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=12926&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing (reused)
+Aug 20, 2022 02:11:50.323 [13084] DEBUG - [HCl#1b] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=12926&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+Aug 20, 2022 02:11:50.323 [12968] DEBUG - [HttpClient/HCl#1b] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=12926&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+Aug 20, 2022 02:11:50.329 [9940] DEBUG - Analyzing media parts for item 14561 (The Wig Master): 32008
+Aug 20, 2022 02:11:50.377 [9940] DEBUG - [ID 32008] Media part analysis: D:\TV\Seinfeld\Season 7\Seinfeld (1989) - S07E19 - The Wig Master.mkv
+Aug 20, 2022 02:11:50.377 [9940] DEBUG - [MI] Opening input file: "D:\TV\Seinfeld\Season 7\Seinfeld (1989) - S07E19 - The Wig Master.mkv"
+Aug 20, 2022 02:11:50.377 [9940] DEBUG - [FFMPEG] - Opening 'D:\TV\Seinfeld\Season 7\Seinfeld (1989) - S07E19 - The Wig Master.mkv' for reading
+Aug 20, 2022 02:11:50.377 [9940] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Aug 20, 2022 02:11:50.377 [9940] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 9098 bytes read:34332 seeks:2 nb_streams:4
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] - nal_unit_type: 32(VPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] - Decoding VPS
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] - Main 10 profile bitstream
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] - nal_unit_type: 33(SPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] - Decoding SPS
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] - Main 10 profile bitstream
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] - Decoding VUI
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] - nal_unit_type: 34(PPS), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] - Decoding PPS
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] - nal_unit_type: 39(SEI_PREFIX), nuh_layer_id: 0, temporal_id: 0
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] - Decoding SEI
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] - palette:
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0xbebebe
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0x171717
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0x4c5c07
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0xb9dd14
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0xbebebe
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0x0b0b0b
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0x565656
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0xdcdcdc
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] - 
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] - palette:
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0xbebebe
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0x171717
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0x4c5c07
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0xb9dd14
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0x828282
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0xbebebe
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0x0b0b0b
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0x565656
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] -  0xdcdcdc
+Aug 20, 2022 02:11:50.378 [9940] DEBUG - [FFMPEG] - 
+Aug 20, 2022 02:11:50.379 [9940] DEBUG - [FFMPEG] - All info found
+Aug 20, 2022 02:11:50.379 [9940] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 12031 bytes read:67100 seeks:2 frames:27
+Aug 20, 2022 02:11:50.379 [9940] DEBUG - [MI]  * 9f47a67577e58832f415cf77b35272236332b3e3 [mkv hevc/aac] Duration: 1372371ms, 720x480 (1.363636) 23.976fps, bitrate=1689kbps, audio channels=2, optimizedForStreaming=0 ("D:\TV\Seinfeld\Season 7\Seinfeld (1989) - S07E19 - The Wig Master.mkv")
+Aug 20, 2022 02:11:50.379 [9940] DEBUG - [MI] Importing 5 media chapters.
+Aug 20, 2022 02:11:50.379 [9940] DEBUG - [MI] Chapters had generic titles, clearing.
+Aug 20, 2022 02:11:50.379 [9940] DEBUG - [MI] Closing input file: "D:\TV\Seinfeld\Season 7\Seinfeld (1989) - S07E19 - The Wig Master.mkv"
+Aug 20, 2022 02:11:50.380 [9940] DEBUG - Committing media stream changes for part 32008
+Aug 20, 2022 02:11:50.380 [9940] DEBUG - Updating media item 32008, size=289810774, metadata_item_id=14561
+Aug 20, 2022 02:11:50.380 [9940] DEBUG - Updating part with ID=32008 [D:\TV\Seinfeld\Season 7\Seinfeld (1989) - S07E19 - The Wig Master.mkv]
+Aug 20, 2022 02:11:50.381 [13084] DEBUG - [HCl#1c] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=14561&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Aug 20, 2022 02:11:50.381 [12968] DEBUG - [HttpClient/HCl#1c] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=14561&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+Aug 20, 2022 02:11:50.381 [13084] DEBUG - [HCl#1d] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=14561&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing
+Aug 20, 2022 02:11:50.381 [12968] DEBUG - [HttpClient/HCl#1d] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=14561&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing (reused)
+Aug 20, 2022 02:11:50.381 [13084] DEBUG - [HCl#1e] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=14561&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle
+Aug 20, 2022 02:11:50.382 [12968] DEBUG - [HttpClient/HCl#1e] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=14561&metadataType=4&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)

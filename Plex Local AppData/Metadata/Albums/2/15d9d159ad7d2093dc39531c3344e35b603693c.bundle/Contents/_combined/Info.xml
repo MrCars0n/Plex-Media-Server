@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>1959-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="8b0883661e07bd57da5c868f0c3c6b0b" media="com.plexapp.agents.localmedia_5961f5c04cacf65d1d01e7d0ae2b94d3b1effccc" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="b63dcb814496f43ab680c13b03430795" media="com.plexapp.agents.localmedia_2933fc6d51a0e3337705887a350ede577305067a" sort_order="2" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="785ac6c8721beb7b34e4ce7a7040dbad" media="com.plexapp.agents.localmedia_79b25a1d7d9fbe2d03e05bfe214e83599626ed1b" sort_order="3" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>A Separate Peace</title>
+  <tracks>
+    <item key="19627" path="tracks\8a3a7b5a0c9ec30e93f472abef05e74ce7d7d6f1">
+      <lyrics/>
+      <moods/>
+      <original_title>John Knowles</original_title>
+      <tags/>
+      <title>A Separate Peace (Part 77)</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

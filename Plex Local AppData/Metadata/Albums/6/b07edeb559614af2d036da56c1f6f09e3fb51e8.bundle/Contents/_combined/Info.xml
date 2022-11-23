@@ -1,0 +1,533 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2004-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="a6009df4692c8757d03bd09739c55508" media="com.plexapp.agents.localmedia_eb0581aaad83e4c7ef9a13cadf6e2bc8a0962342" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Survivor's Quest</title>
+  <tracks>
+    <item key="18364" path="tracks\6f5f9e2de54488b8fd0c1eb31f3c6ff11856141d">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track06</title>
+      <track_index>33</track_index>
+    </item>
+    <item key="18367" path="tracks\f575bbfb5942091256f121c9e59585815ba565d2">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track09</title>
+      <track_index>36</track_index>
+    </item>
+    <item key="18345" path="tracks\e819e663a8ff4e63f6c8f121e7c5e45f39de32f8">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track14</title>
+      <track_index>14</track_index>
+    </item>
+    <item key="18344" path="tracks\114101e2a823c43f910073804a028f0e0cb62f3b">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track13</title>
+      <track_index>13</track_index>
+    </item>
+    <item key="18376" path="tracks\f5edece93d1a15f2a234bee747aabae4d3bb5ba5">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track06</title>
+      <track_index>45</track_index>
+    </item>
+    <item key="18354" path="tracks\4650ad2dca8a61605fc984b047f1bc202be05b6f">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track09</title>
+      <track_index>23</track_index>
+    </item>
+    <item key="18338" path="tracks\011116bc5ae68a799071daecf8c9a701af17dd78">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track07</title>
+      <track_index>7</track_index>
+    </item>
+    <item key="18339" path="tracks\9c7e85bc736ce665ccd29a900b8167107961229e">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track08</title>
+      <track_index>8</track_index>
+    </item>
+    <item key="18372" path="tracks\1467beacd04a125d7541a0809dc6720a47b23b7a">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track02</title>
+      <track_index>41</track_index>
+    </item>
+    <item key="18359" path="tracks\4d1ab7c7e94b34704b3364fc67f00a321e54823a">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track01</title>
+      <track_index>28</track_index>
+    </item>
+    <item key="18370" path="tracks\f27c97d31ca922c7005e8520da3229da8b430bd8">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track12</title>
+      <track_index>39</track_index>
+    </item>
+    <item key="18355" path="tracks\93dcfb3d4c700ab7b6bcc0ea3e8c42d87dd96a05">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track10</title>
+      <track_index>24</track_index>
+    </item>
+    <item key="18332" path="tracks\1f970b832b1548ee882bfeb02ac9f3c370334a3f">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track01</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="18333" path="tracks\63ff7d7df5293f0307c6cb87c4cd8131fa755e45">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track02</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="18356" path="tracks\d17c7fe2071da75e5755851427ffe70b1c47e182">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track11</title>
+      <track_index>25</track_index>
+    </item>
+    <item key="18357" path="tracks\9549dadc40ba14dbf268939179ec259d493613e7">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track12</title>
+      <track_index>26</track_index>
+    </item>
+    <item key="18336" path="tracks\4845a82cf99b87d1c132a2fc7db17d49954831ac">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track05</title>
+      <track_index>5</track_index>
+    </item>
+    <item key="18337" path="tracks\5aa4e9f7c78f55e0c03c2817c413e123da2ba205">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track06</title>
+      <track_index>6</track_index>
+    </item>
+    <item key="18352" path="tracks\38587c3a66c040716f5ef3f5c05c4a22c76324c3">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track07</title>
+      <track_index>21</track_index>
+    </item>
+    <item key="18353" path="tracks\43ea0c4733acd6801dcf94612f77fe9109cb5309">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track08</title>
+      <track_index>22</track_index>
+    </item>
+    <item key="18350" path="tracks\066be8d4621021affbf19ea79c220285b5abfa89">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track05</title>
+      <track_index>19</track_index>
+    </item>
+    <item key="18360" path="tracks\92a43eb89f2bfac690459f73bbe65f6476134d24">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track02</title>
+      <track_index>29</track_index>
+    </item>
+    <item key="18351" path="tracks\b2fda1ae57995c093493b7c3819c1021ee52a331">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track06</title>
+      <track_index>20</track_index>
+    </item>
+    <item key="18334" path="tracks\0a3fdd1c3db32dd0a00f28f18e864fabf0f6f5f9">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track03</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="18389" path="tracks\40caa1a9df2a3fad2f0cb5fcc1c909e563b6960f">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track07</title>
+      <track_index>58</track_index>
+    </item>
+    <item key="18388" path="tracks\93e4bcd255501ba0a05203fa41bb1c3bbeded41f">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track06</title>
+      <track_index>57</track_index>
+    </item>
+    <item key="18387" path="tracks\c85bac3300a342a267a424986cacf38c7d78bd9c">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track05</title>
+      <track_index>56</track_index>
+    </item>
+    <item key="18386" path="tracks\87c096d520a1dabb8ae6cb86e8d4598c5fc5c171">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track04</title>
+      <track_index>55</track_index>
+    </item>
+    <item key="18385" path="tracks\c8253cfa02e5e8c307778753c4697effc222f98a">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track03</title>
+      <track_index>54</track_index>
+    </item>
+    <item key="18335" path="tracks\c423bca7132808c14a3d5d004682a7aee7d43319">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track04</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="18383" path="tracks\9d1a9974aff69d104c3fba3518b2409b2100d39a">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track01</title>
+      <track_index>52</track_index>
+    </item>
+    <item key="18382" path="tracks\b0fef0f5076c3d75bb2a6bc6fdae4bfe4a9be6a3">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track12</title>
+      <track_index>51</track_index>
+    </item>
+    <item key="18381" path="tracks\4a86a967fa84e72673d3586c704fbef355c87e10">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track11</title>
+      <track_index>50</track_index>
+    </item>
+    <item key="18380" path="tracks\126d3df3aa1ba71326f8ee910c97db24fe588a76">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track10</title>
+      <track_index>49</track_index>
+    </item>
+    <item key="18361" path="tracks\2cea6fcaa1db11c5d52af67b20529505208b49fc">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track03</title>
+      <track_index>30</track_index>
+    </item>
+    <item key="18371" path="tracks\45502417565dc2df1967b683726b89ed1d32db5c">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track01</title>
+      <track_index>40</track_index>
+    </item>
+    <item key="18378" path="tracks\c5a56c987d3c45958d0abe93bebafab3557bc316">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track08</title>
+      <track_index>47</track_index>
+    </item>
+    <item key="18343" path="tracks\ba97cce4cfc4236f3f957bd14b8baf4f2f7d2500">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track12</title>
+      <track_index>12</track_index>
+    </item>
+    <item key="18342" path="tracks\817aaf20077204ad814821865bd6e1f790e00a6e">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track11</title>
+      <track_index>11</track_index>
+    </item>
+    <item key="18341" path="tracks\6dda23ee54ca8686e2c4c4daca84c5d375771200">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track10</title>
+      <track_index>10</track_index>
+    </item>
+    <item key="18340" path="tracks\6969a3387fe08480d00df28a3a599e8bf849a546">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track09</title>
+      <track_index>9</track_index>
+    </item>
+    <item key="18347" path="tracks\745cc3b4634838f577a35118cc9ef87048d380af">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track02</title>
+      <track_index>16</track_index>
+    </item>
+    <item key="18346" path="tracks\aeb61984088f84217a8f47bf7da1c66047ae7805">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track01</title>
+      <track_index>15</track_index>
+    </item>
+    <item key="18363" path="tracks\a191249bb4c4928c95c96d73ae3fa0172cce62de">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track05</title>
+      <track_index>32</track_index>
+    </item>
+    <item key="18362" path="tracks\472a3ea5f3109a7166707b4562a42b12999999e0">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track04</title>
+      <track_index>31</track_index>
+    </item>
+    <item key="18349" path="tracks\4835b5502f288b233e3e04398cc4c923dd14eb8d">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track04</title>
+      <track_index>18</track_index>
+    </item>
+    <item key="18348" path="tracks\36ab3b3ba399a56e84c46a38d271680d01381fde">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track03</title>
+      <track_index>17</track_index>
+    </item>
+    <item key="18369" path="tracks\706a0ae4b77c5280239c2de88022a7d14bc6e4c5">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track11</title>
+      <track_index>38</track_index>
+    </item>
+    <item key="18368" path="tracks\6b0d08591caeb719580b087707dd4f11bfd50c81">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track10</title>
+      <track_index>37</track_index>
+    </item>
+    <item key="18365" path="tracks\70cd27b21dffdb7d42a61b91e4576903b34e02dd">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track07</title>
+      <track_index>34</track_index>
+    </item>
+    <item key="18384" path="tracks\e859520193e2def4bbc519a3fd4e6771eddf31af">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track02</title>
+      <track_index>53</track_index>
+    </item>
+    <item key="18377" path="tracks\2d7938214791af5aaf4a6413c99896bc76b77f71">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track07</title>
+      <track_index>46</track_index>
+    </item>
+    <item key="18379" path="tracks\c8e02bba094b440b0726ed2bdbce0f0116ca1dc0">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track09</title>
+      <track_index>48</track_index>
+    </item>
+    <item key="18374" path="tracks\3b15ac461ae1ed3ab044e607a06d2130bd43aecb">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track04</title>
+      <track_index>43</track_index>
+    </item>
+    <item key="18366" path="tracks\7688aaf938328ff24aad86c7ca95c86d33d2fa69">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track08</title>
+      <track_index>35</track_index>
+    </item>
+    <item key="18375" path="tracks\629098cca4f75b60822e28bf4dc68b06d3a8c235">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track05</title>
+      <track_index>44</track_index>
+    </item>
+    <item key="18391" path="tracks\1aabe83618d638c3b1fa666747a2ee8633c3889c">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track09</title>
+      <track_index>60</track_index>
+    </item>
+    <item key="18390" path="tracks\b53111450a1414a4107e49341ccc99765351c46c">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track08</title>
+      <track_index>59</track_index>
+    </item>
+    <item key="18358" path="tracks\7baf9fdea9a20dceb651deb59c0575d2780e50ea">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track13</title>
+      <track_index>27</track_index>
+    </item>
+    <item key="18392" path="tracks\1f1f40ff416f05b3caec5d6d5b5be2d5e755f959">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track10</title>
+      <track_index>61</track_index>
+    </item>
+    <item key="18393" path="tracks\fbf0b413af5e37607375ae5abf5b0380cf6b12a0">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track11</title>
+      <track_index>62</track_index>
+    </item>
+    <item key="18394" path="tracks\e0a6980207f8e1c54a87a61c01ec4cd277304572">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track12</title>
+      <track_index>63</track_index>
+    </item>
+    <item key="18395" path="tracks\95ca07a6240e53536601bb53ff5a9fffa923098c">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track13</title>
+      <track_index>64</track_index>
+    </item>
+    <item key="18373" path="tracks\c72cd2a5f477e2c18bea8e5965d8362eed2995ac">
+      <lyrics/>
+      <moods/>
+      <original_title>Star Wars</original_title>
+      <tags/>
+      <title>Track03</title>
+      <track_index>42</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

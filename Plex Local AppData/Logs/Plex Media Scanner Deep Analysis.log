@@ -1,0 +1,42 @@
+Aug 20, 2022 04:59:13.257 [6232] INFO - Plex Media Scanner v1.28.1.6092-87136b92b - Microsoft PC x64 - build: windows-x86 - GMT -04:00
+Aug 20, 2022 04:59:13.257 [6232] INFO - Windows version: 6.2 (Build 9200), language en-US
+Aug 20, 2022 04:59:13.257 [6232] INFO - 4 3504 MHz processor(s): Architecture=0, Level=6, Revision=24067 Processor Identifier=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+Aug 20, 2022 04:59:13.257 [6232] DEBUG - "C:\Program Files (x86)\Plex\Plex Media Server\Plex Media Scanner.exe" --analyze-deeply --item 13516 --log-file-suffix " Deep Analysis"
+Aug 20, 2022 04:59:13.256 [2716] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.35.5, threadsafe=1
+Aug 20, 2022 04:59:13.349 [2716] DEBUG - [MI] Opening input file: "D:\TV\One Tree Hill\Season 1\One Tree Hill - s01e02 -  The Places You Have Come to Fear the Most.avi"
+Aug 20, 2022 04:59:13.349 [2716] DEBUG - [FFMPEG] - Opening 'D:\TV\One Tree Hill\Season 1\One Tree Hill - s01e02 -  The Places You Have Come to Fear the Most.avi' for reading
+Aug 20, 2022 04:59:13.349 [2716] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Aug 20, 2022 04:59:13.378 [2716] DEBUG - [FFMPEG] - Format avi probed with size=2048 and score=100
+Aug 20, 2022 04:59:13.378 [2716] DEBUG - [FFMPEG] - use odml:1
+Aug 20, 2022 04:59:13.378 [2716] DEBUG - [FFMPEG] - st:1 removing common factor 384 from timebase
+Aug 20, 2022 04:59:13.476 [2716] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 10252 bytes read:2917468 seeks:4 nb_streams:2
+Aug 20, 2022 04:59:13.478 [2716] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Aug 20, 2022 04:59:13.478 [2716] DEBUG - [FFMPEG] - All info found
+Aug 20, 2022 04:59:13.478 [2716] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 21233 bytes read:2917468 seeks:4 frames:22
+Aug 20, 2022 04:59:13.604 [2716] DEBUG - Deep Analysis: Read 10000 packets at 152.496000
+Aug 20, 2022 04:59:13.774 [2716] DEBUG - Deep Analysis: Read 20000 packets at 304.848000
+Aug 20, 2022 04:59:13.979 [2716] DEBUG - Deep Analysis: Read 30000 packets at 457.176000
+Aug 20, 2022 04:59:14.076 [2716] DEBUG - Deep Analysis: Read 40000 packets at 609.528000
+Aug 20, 2022 04:59:14.181 [2716] DEBUG - Deep Analysis: Read 50000 packets at 761.856000
+Aug 20, 2022 04:59:14.288 [2716] DEBUG - Deep Analysis: Read 60000 packets at 914.208000
+Aug 20, 2022 04:59:14.401 [2716] DEBUG - Deep Analysis: Read 70000 packets at 1066.536000
+Aug 20, 2022 04:59:14.506 [2716] DEBUG - Deep Analysis: Read 80000 packets at 1218.888000
+Aug 20, 2022 04:59:14.651 [2716] DEBUG - Deep Analysis: Read 90000 packets at 1371.216000
+Aug 20, 2022 04:59:14.798 [2716] DEBUG - Deep Analysis: Read 100000 packets at 1523.568000
+Aug 20, 2022 04:59:14.939 [2716] DEBUG - Deep Analysis: Read 110000 packets at 1675.896000
+Aug 20, 2022 04:59:15.109 [2716] DEBUG - Deep Analysis: Read 120000 packets at 1828.248000
+Aug 20, 2022 04:59:15.244 [2716] DEBUG - Deep Analysis: Read 130000 packets at 1980.576000
+Aug 20, 2022 04:59:15.331 [2716] DEBUG - Deep Analysis: Read 140000 packets at 2132.928000
+Aug 20, 2022 04:59:15.443 [2716] DEBUG - Deep Analysis: Read 150000 packets at 2285.256000
+Aug 20, 2022 04:59:15.534 [2716] DEBUG - Deep Analysis: Read 160000 packets at 2437.103770
+Aug 20, 2022 04:59:15.658 [2716] DEBUG - Deep Analysis: Read 170000 packets at 2589.936000
+Aug 20, 2022 04:59:15.691 [2716] DEBUG - Deep Analysis: Sorting packets
+Aug 20, 2022 04:59:15.699 [2716] DEBUG - Deep Analysis: Performing file bitrate analysis
+Aug 20, 2022 04:59:15.734 [2716] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 0
+Aug 20, 2022 04:59:15.747 [2716] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 1
+Aug 20, 2022 04:59:15.762 [2716] DEBUG - Deep Analysis: Saving GoP analysis for stream 0
+Aug 20, 2022 04:59:15.765 [2716] DEBUG - Deep Analysis: Saving bitrate analysis
+Aug 20, 2022 04:59:15.765 [2716] DEBUG - Updating part with ID=31026 [D:\TV\One Tree Hill\Season 1\One Tree Hill - s01e02 -  The Places You Have Come to Fear the Most.avi]
+Aug 20, 2022 04:59:15.765 [2716] DEBUG - [MI] Closing input file: "D:\TV\One Tree Hill\Season 1\One Tree Hill - s01e02 -  The Places You Have Come to Fear the Most.avi"
+Aug 20, 2022 04:59:15.766 [2716] DEBUG - Updating media item 31026, size=366817244, metadata_item_id=13516
+Aug 20, 2022 04:59:15.766 [2716] DEBUG - Updating part with ID=31026 [D:\TV\One Tree Hill\Season 1\One Tree Hill - s01e02 -  The Places You Have Come to Fear the Most.avi]

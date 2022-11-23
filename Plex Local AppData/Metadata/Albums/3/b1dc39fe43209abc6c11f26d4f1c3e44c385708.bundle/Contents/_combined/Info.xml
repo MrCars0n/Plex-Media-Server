@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2015-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="faf9761d6c83d6e69c44dcb5f5a88eff" media="com.plexapp.agents.localmedia_124d7bd8f2de594cee54e262d6226c373bbfa0a3" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Six of Crows</title>
+  <tracks>
+    <item key="17668" path="tracks\26af5780e38cf1c6b0eccdb4c72929ecc2199dbb">
+      <lyrics/>
+      <moods/>
+      <original_title>Leigh Bardugo</original_title>
+      <tags/>
+      <title>Six of Crows</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

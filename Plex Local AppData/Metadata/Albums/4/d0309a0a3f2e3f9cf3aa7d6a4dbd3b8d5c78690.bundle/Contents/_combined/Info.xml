@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2018-01-01</originally_available_at>
+  <posters/>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>The Great Alone (Unabridged)</title>
+  <tracks>
+    <item key="17681" path="tracks\16035a8cbc66e07c9e2f114f775aa003227ad002">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Great Alone (Unabridged)</title>
+      <track_index>1</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2021-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="b4ca2a2350ec41f0764c9b684d012565" media="com.plexapp.agents.localmedia_b27e2d7506d96f1e68d487d926568e74adf8e8cf" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>56 Days</title>
+  <tracks>
+    <item key="17621" path="tracks\e68ebb53b318df6192e91675f30c1a9a23c8e6c0">
+      <lyrics/>
+      <moods/>
+      <original_title>Catherine Ryan Howard</original_title>
+      <tags/>
+      <title>56 Days</title>
+      <track_index>1</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

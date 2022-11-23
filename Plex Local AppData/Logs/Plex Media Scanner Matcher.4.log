@@ -1,0 +1,14 @@
+Aug 20, 2022 02:48:07.058 [0776] INFO - Plex Media Scanner v1.28.1.6092-87136b92b - Microsoft PC x64 - build: windows-x86 - GMT -04:00
+Aug 20, 2022 02:48:07.058 [0776] INFO - Windows version: 6.2 (Build 9200), language en-US
+Aug 20, 2022 02:48:07.059 [0776] INFO - 4 3504 MHz processor(s): Architecture=0, Level=6, Revision=24067 Processor Identifier=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+Aug 20, 2022 02:48:07.059 [0776] DEBUG - "C:\Program Files (x86)\Plex\Plex Media Server\Plex Media Scanner.exe" --match --type 1 --log-file-suffix " Matcher" --item 10931
+Aug 20, 2022 02:48:07.058 [0816] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.35.5, threadsafe=1
+Aug 20, 2022 02:48:07.151 [0816] DEBUG - [MI] Opening input file: "D:\Movies\Thor\Thor.mp4"
+Aug 20, 2022 02:48:07.151 [0816] DEBUG - [FFMPEG] - Opening 'D:\Movies\Thor\Thor.mp4' for reading
+Aug 20, 2022 02:48:07.151 [0816] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Aug 20, 2022 02:48:07.357 [0816] WARN - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Aug 20, 2022 02:48:07.373 [0816] ERROR - [FFMPEG] - moov atom not found
+Aug 20, 2022 02:48:07.374 [0816] ERROR - Match: Caught exception opening file: Could not parse D:\Movies\Thor\Thor.mp4 (error=-1094995529): Invalid data found when processing input
+Aug 20, 2022 02:48:07.374 [0816] DEBUG - Matcher: found 1 auxiliary files in "D:\Movies\Thor" (single media: no)
+Aug 20, 2022 02:48:07.374 [0816] DEBUG - Matcher: no sidecar subtitle files found for "D:\Movies\Thor\Thor.mp4"
+Aug 20, 2022 02:48:07.396 [0816] DEBUG - Matcher: no valid subtitles found, removing any existing media bundle file

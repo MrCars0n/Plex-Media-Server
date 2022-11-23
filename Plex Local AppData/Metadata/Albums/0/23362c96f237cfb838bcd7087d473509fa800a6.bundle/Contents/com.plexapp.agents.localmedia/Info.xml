@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Album id="19064">
+  <rating/>
+  <album_type/>
+  <title_sort></title_sort>
+  <art/>
+  <duration/>
+  <genres/>
+  <title>Ahsoka</title>
+  <rating_count/>
+  <collections/>
+  <available_at/>
+  <styles/>
+  <tags/>
+  <audience_rating_image/>
+  <rating_image/>
+  <producers/>
+  <audience_rating/>
+  <tracks>
+    <item key="19065">
+      <rating/>
+      <title_sort></title_sort>
+      <lyrics/>
+      <track_index/>
+      <duration/>
+      <disc_index/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title>Ahsoka - Part 2</title>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <name/>
+      <artist/>
+      <originally_available_at/>
+      <original_title>E.K. Johnston</original_title>
+      <summary/>
+      <art_url/>
+    </item>
+  </tracks>
+  <studio/>
+  <moods/>
+  <posters>
+    <item external="True" url="9b2bbab8c98c22d27f5a26ba07d3d3c3" media="3a4fc9c32a1a3492bce211c7d73a537949e87d9f" sort_order="1"/>
+    <item external="True" url="2d4e63cefac951885eaf038519178772" media="7a429d75ef8427326e3781f8b9772e6f4629d07c" sort_order="2"/>
+    <item external="True" url="ba9f6fd2f792d26d8c17f43ef251040e" media="a04a23c1acb5ee7f448456d6a0c45428d13ba127" sort_order="3"/>
+  </posters>
+  <originally_available_at/>
+  <artist/>
+  <countries/>
+  <original_title/>
+  <summary/>
+  <reviews/>
+  <album_format/>
+</Album>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2013-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="8d49bfa03180bfd3be5deaa95d092178" media="com.plexapp.agents.localmedia_a8fef84d06282e267b66ff6a347b8a41741352c7" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="a7af1b3eeb3a3a7b380c6b2bc8e0ccb8" media="com.plexapp.agents.localmedia_805276f369b1c323f27b5e16ac250af9dbb23edd" sort_order="2" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="cce41bc3cd796aaa9488df04bca6f7d0" media="com.plexapp.agents.localmedia_555e86fc92e361f1fc9ac31841684e081d77525c" sort_order="3" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Divergent Trilogy</title>
+  <tracks>
+    <item key="18220" path="tracks\228678f57bb02b0220bc49553625597685ec2c4e">
+      <lyrics/>
+      <moods/>
+      <original_title>Veronica Roth</original_title>
+      <tags/>
+      <title>D1 - Divergent</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="18221" path="tracks\16e9f514270e986d7a11cb8b3eb15e085b9f565f">
+      <lyrics/>
+      <moods/>
+      <original_title>Veronica Roth</original_title>
+      <tags/>
+      <title>D2 - Insurgent</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="18222" path="tracks\b1fe23e8ba75b448682ea3ecf25cfc59828bffc9">
+      <lyrics/>
+      <moods/>
+      <original_title>Veronica Roth</original_title>
+      <tags/>
+      <title>D3 - Allegiant</title>
+      <track_index>3</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

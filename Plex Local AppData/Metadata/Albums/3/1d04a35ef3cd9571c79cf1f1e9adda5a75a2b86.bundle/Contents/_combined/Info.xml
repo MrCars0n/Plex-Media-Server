@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters/>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <tracks>
+    <item key="18572" path="tracks\e099c64e7a3f11204b8873105f20887c50f33f5e">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Force Awakens - Part 03</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

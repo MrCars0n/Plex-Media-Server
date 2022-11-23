@@ -1,0 +1,130 @@
+Aug 20, 2022 04:47:31.131 [12788] INFO - Plex Media Scanner v1.28.1.6092-87136b92b - Microsoft PC x64 - build: windows-x86 - GMT -04:00
+Aug 20, 2022 04:47:31.131 [12788] INFO - Windows version: 6.2 (Build 9200), language en-US
+Aug 20, 2022 04:47:31.131 [12788] INFO - 4 3504 MHz processor(s): Architecture=0, Level=6, Revision=24067 Processor Identifier=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+Aug 20, 2022 04:47:31.131 [12788] DEBUG - "C:\Program Files (x86)\Plex\Plex Media Server\Plex Media Scanner.exe" --analyze-deeply --item 13725 --log-file-suffix " Deep Analysis"
+Aug 20, 2022 04:47:31.130 [8356] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.35.5, threadsafe=1
+Aug 20, 2022 04:47:31.224 [8356] DEBUG - [MI] Opening input file: "D:\TV\Outer Banks\Season 2\Outer Banks - S02E04.mkv"
+Aug 20, 2022 04:47:31.225 [8356] DEBUG - [FFMPEG] - Opening 'D:\TV\Outer Banks\Season 2\Outer Banks - S02E04.mkv' for reading
+Aug 20, 2022 04:47:31.225 [8356] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:4 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:5 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:6 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:7 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:8 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:9 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:10 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:11 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:12 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:13 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:14 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:15 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:16 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:17 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:18 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:19 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:20 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:21 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:22 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:23 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:24 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:25 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:26 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:27 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:28 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:29 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:30 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:31 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:32 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - st:33 removing common factor 1000000 from timebase
+Aug 20, 2022 04:47:31.428 [8356] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 8363 bytes read:32768 seeks:0 nb_streams:34
+Aug 20, 2022 04:47:31.429 [8356] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Aug 20, 2022 04:47:31.429 [8356] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Aug 20, 2022 04:47:31.429 [8356] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Aug 20, 2022 04:47:31.429 [8356] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Aug 20, 2022 04:47:31.429 [8356] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 04:47:31.429 [8356] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 04:47:31.429 [8356] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 04:47:31.429 [8356] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Aug 20, 2022 04:47:31.429 [8356] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Aug 20, 2022 04:47:31.431 [8356] DEBUG - [FFMPEG] - no picture 
+Aug 20, 2022 04:47:31.433 [8356] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 04:47:31.433 [8356] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Aug 20, 2022 04:47:31.435 [8356] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 04:47:31.435 [8356] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 04:47:31.438 [8356] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 04:47:31.438 [8356] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 04:47:31.441 [8356] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 04:47:31.441 [8356] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Aug 20, 2022 04:47:31.442 [8356] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 04:47:31.442 [8356] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 04:47:31.444 [8356] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 04:47:31.444 [8356] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Aug 20, 2022 04:47:31.448 [8356] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Aug 20, 2022 04:47:31.448 [8356] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Aug 20, 2022 04:47:31.449 [8356] DEBUG - [FFMPEG] - All info found
+Aug 20, 2022 04:47:31.451 [8356] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 59497 bytes read:65536 seeks:0 frames:24
+Aug 20, 2022 04:47:32.770 [8356] DEBUG - Deep Analysis: Read 10000 packets at 154.320000
+Aug 20, 2022 04:47:33.609 [8356] DEBUG - Deep Analysis: Read 20000 packets at 316.032000
+Aug 20, 2022 04:47:34.327 [8356] DEBUG - Deep Analysis: Read 30000 packets at 471.744000
+Aug 20, 2022 04:47:35.398 [8356] DEBUG - Deep Analysis: Read 40000 packets at 627.252000
+Aug 20, 2022 04:47:36.785 [8356] DEBUG - Deep Analysis: Read 50000 packets at 789.372000
+Aug 20, 2022 04:47:38.152 [8356] DEBUG - Deep Analysis: Read 60000 packets at 938.062000
+Aug 20, 2022 04:47:39.396 [8356] DEBUG - Deep Analysis: Read 70000 packets at 1095.872000
+Aug 20, 2022 04:47:40.487 [8356] DEBUG - Deep Analysis: Read 80000 packets at 1252.512000
+Aug 20, 2022 04:47:41.483 [8356] DEBUG - Deep Analysis: Read 90000 packets at 1408.608000
+Aug 20, 2022 04:47:42.364 [8356] DEBUG - Deep Analysis: Read 100000 packets at 1563.270000
+Aug 20, 2022 04:47:43.247 [8356] DEBUG - Deep Analysis: Read 110000 packets at 1720.992000
+Aug 20, 2022 04:47:44.153 [8356] DEBUG - Deep Analysis: Read 120000 packets at 1884.132000
+Aug 20, 2022 04:47:44.759 [8356] DEBUG - Deep Analysis: Read 130000 packets at 2042.081000
+Aug 20, 2022 04:47:45.434 [8356] DEBUG - Deep Analysis: Read 140000 packets at 2206.829000
+Aug 20, 2022 04:47:46.070 [8356] DEBUG - Deep Analysis: Read 150000 packets at 2360.483000
+Aug 20, 2022 04:47:46.685 [8356] DEBUG - Deep Analysis: Read 160000 packets at 2520.059000
+Aug 20, 2022 04:47:47.482 [8356] DEBUG - Deep Analysis: Read 170000 packets at 2678.720000
+Aug 20, 2022 04:47:47.605 [8356] DEBUG - Deep Analysis: Read 180000 packets at 2859.148000
+Aug 20, 2022 04:47:47.640 [8356] DEBUG - Deep Analysis: Sorting packets
+Aug 20, 2022 04:47:47.647 [8356] DEBUG - Deep Analysis: Performing file bitrate analysis
+Aug 20, 2022 04:47:47.710 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 0
+Aug 20, 2022 04:47:47.734 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 1
+Aug 20, 2022 04:47:47.744 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 2
+Aug 20, 2022 04:47:47.744 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 3
+Aug 20, 2022 04:47:47.744 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 4
+Aug 20, 2022 04:47:47.745 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 5
+Aug 20, 2022 04:47:47.745 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 6
+Aug 20, 2022 04:47:47.745 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 7
+Aug 20, 2022 04:47:47.745 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 8
+Aug 20, 2022 04:47:47.745 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 9
+Aug 20, 2022 04:47:47.745 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 10
+Aug 20, 2022 04:47:47.745 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 11
+Aug 20, 2022 04:47:47.746 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 12
+Aug 20, 2022 04:47:47.746 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 13
+Aug 20, 2022 04:47:47.746 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 14
+Aug 20, 2022 04:47:47.746 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 15
+Aug 20, 2022 04:47:47.746 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 16
+Aug 20, 2022 04:47:47.746 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 17
+Aug 20, 2022 04:47:47.746 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 18
+Aug 20, 2022 04:47:47.746 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 19
+Aug 20, 2022 04:47:47.747 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 20
+Aug 20, 2022 04:47:47.747 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 21
+Aug 20, 2022 04:47:47.747 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 22
+Aug 20, 2022 04:47:47.747 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 23
+Aug 20, 2022 04:47:47.747 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 24
+Aug 20, 2022 04:47:47.747 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 25
+Aug 20, 2022 04:47:47.747 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 26
+Aug 20, 2022 04:47:47.748 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 27
+Aug 20, 2022 04:47:47.748 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 28
+Aug 20, 2022 04:47:47.748 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 29
+Aug 20, 2022 04:47:47.748 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 30
+Aug 20, 2022 04:47:47.748 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 31
+Aug 20, 2022 04:47:47.748 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 32
+Aug 20, 2022 04:47:47.748 [8356] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 33
+Aug 20, 2022 04:47:47.749 [8356] DEBUG - Deep Analysis: Saving GoP analysis for stream 0
+Aug 20, 2022 04:47:47.754 [8356] DEBUG - Deep Analysis: Saving bitrate analysis
+Aug 20, 2022 04:47:47.755 [8356] DEBUG - Updating part with ID=31224 [D:\TV\Outer Banks\Season 2\Outer Banks - S02E04.mkv]
+Aug 20, 2022 04:47:47.759 [8356] DEBUG - [MI] Closing input file: "D:\TV\Outer Banks\Season 2\Outer Banks - S02E04.mkv"
+Aug 20, 2022 04:47:47.760 [8356] DEBUG - Updating media item 31224, size=1853927181, metadata_item_id=13725
+Aug 20, 2022 04:47:47.760 [8356] DEBUG - Updating part with ID=31224 [D:\TV\Outer Banks\Season 2\Outer Banks - S02E04.mkv]

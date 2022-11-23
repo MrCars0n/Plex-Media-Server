@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2020-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="e587a1374f0282c2baa8847a5d8eb07e" media="com.plexapp.agents.localmedia_e8429fb3663d3988497cdc63d8b4dc696e3cbb63" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="7dc4e27ad50af5e30c6018d396cc9450" media="com.plexapp.agents.localmedia_e2c6d73e28851e575465aa05dce3d16e4f4bd2bf" sort_order="2" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>The Twelve Dates of Christmas</title>
+  <tracks>
+    <item key="18079" path="tracks\e1d59743b8eaab2d8c3ebcadca85c245e308289d">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Twelve Dates of Christmas</title>
+      <track_index>12</track_index>
+    </item>
+    <item key="18078" path="tracks\0ac71ebb4f492ac83610ad93f11869fb37bdc4e3">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Twelve Dates of Christmas</title>
+      <track_index>11</track_index>
+    </item>
+    <item key="18068" path="tracks\caa4301602b2230c619560d0b27ff183ed58d2fb">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Twelve Dates of Christmas</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="18069" path="tracks\96c59535ed1ba27dee3b7939a527b7b8fcc7133f">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Twelve Dates of Christmas</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="18080" path="tracks\f53062e525d9e93ae9906e97ac8bd681559e2599">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Twelve Dates of Christmas</title>
+      <track_index>13</track_index>
+    </item>
+    <item key="18081" path="tracks\babdc606f69ea66d44365717f045c981d0609e44">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Twelve Dates of Christmas</title>
+      <track_index>14</track_index>
+    </item>
+    <item key="18082" path="tracks\8e4e00d8a6e525cf50087d4bb031da30217f267e">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Twelve Dates of Christmas</title>
+      <track_index>15</track_index>
+    </item>
+    <item key="18083" path="tracks\7114cb76918d15b313d6339c3b3f40b3f7131d81">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Twelve Dates of Christmas</title>
+      <track_index>16</track_index>
+    </item>
+    <item key="18071" path="tracks\bae7497a08d74ef87976c8f50b1757c07deaa4d5">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Twelve Dates of Christmas</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="18070" path="tracks\b186da1c5fe66a4d4a1150cc4127d824524560b5">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Twelve Dates of Christmas</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="18073" path="tracks\d241359a5add396f1e2f30982df4b2c17b6b4c13">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Twelve Dates of Christmas</title>
+      <track_index>6</track_index>
+    </item>
+    <item key="18072" path="tracks\1d3994194b7577a461abc850f47a44752b97e20c">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Twelve Dates of Christmas</title>
+      <track_index>5</track_index>
+    </item>
+    <item key="18075" path="tracks\10ee7340f74a04a09f3276f331359849e71d815e">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Twelve Dates of Christmas</title>
+      <track_index>8</track_index>
+    </item>
+    <item key="18074" path="tracks\3375f929c2b34a294ee20e60eacfbca9fdf66d2c">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Twelve Dates of Christmas</title>
+      <track_index>7</track_index>
+    </item>
+    <item key="18077" path="tracks\550981f65bb4cdaa59a778358ba3e71b025fa279">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Twelve Dates of Christmas</title>
+      <track_index>10</track_index>
+    </item>
+    <item key="18076" path="tracks\cfededbf13eff9d872fb59b9b2780d9ab9d3a5f7">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Twelve Dates of Christmas</title>
+      <track_index>9</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

@@ -1,0 +1,415 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2015-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="c8b523557f3ac3b3bcd206616ee97d1e" media="com.plexapp.agents.localmedia_f9b40fe5c08ef179e4a30c68f3e5b53dd9488fc3" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="dedd6789d06d21561345d48aa8104ed6" media="com.plexapp.agents.localmedia_c8e51efb6527e81976615966d14a99dd1dc696ec" sort_order="2" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="45254f57a64ef8aca7e3e761cad608fa" media="com.plexapp.agents.localmedia_3a9bd6f93689bf4b0247d7b23548a2c20cc59cd6" sort_order="3" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Star Wars Battlefront: Twilight Company</title>
+  <tracks>
+    <item key="18703" path="tracks\effca14b644ac986303d9b37b0242ff8f26299e0">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Seventeen</title>
+      <track_index>19</track_index>
+    </item>
+    <item key="18702" path="tracks\3d77f9c1b524c7c2f84377260cbf99ed2e5a5f4a">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Sixteen</title>
+      <track_index>18</track_index>
+    </item>
+    <item key="18701" path="tracks\104b53c0450594c9b7026c8f3889cb2f351489c8">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Fifteen</title>
+      <track_index>17</track_index>
+    </item>
+    <item key="18700" path="tracks\8ee68eadd83052faa2c731dd96189ef86c418f1c">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Fourteen</title>
+      <track_index>16</track_index>
+    </item>
+    <item key="18707" path="tracks\9e91bd01096eb8ec8ab42b9e4b8ee6b4ebddcc75">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Part Three: Assault</title>
+      <track_index>23</track_index>
+    </item>
+    <item key="18706" path="tracks\4443fbb09821e764ba9c76c7d79a97d3391a54fa">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Twenty</title>
+      <track_index>22</track_index>
+    </item>
+    <item key="18705" path="tracks\1a40b62dae8221294a67b915cbf89bca764e1bb1">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Nineteen</title>
+      <track_index>21</track_index>
+    </item>
+    <item key="18704" path="tracks\694f541deb42cbbbebc826160355fe25f7218bb5">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Eighteen</title>
+      <track_index>20</track_index>
+    </item>
+    <item key="18709" path="tracks\528f18f26d6531eb0f8a27a9738ae10560cf61f2">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Twenty-Two</title>
+      <track_index>25</track_index>
+    </item>
+    <item key="18708" path="tracks\f334337fdb41d25cd98871438f9a26e87f990d8c">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Twenty-One</title>
+      <track_index>24</track_index>
+    </item>
+    <item key="18724" path="tracks\e180378d115a5b7296d7cd06ddb53c9c7e2f30e3">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Thirty-Six</title>
+      <track_index>40</track_index>
+    </item>
+    <item key="18727" path="tracks\bd799f644434ca2de6d4c82c4f2e7a84efcb2bdf">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Thirty-Nine</title>
+      <track_index>43</track_index>
+    </item>
+    <item key="18726" path="tracks\7f7737d1255dd1c3e134d84700c5a3c16d0fbc95">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Thirty-Eight</title>
+      <track_index>42</track_index>
+    </item>
+    <item key="18721" path="tracks\598b7e30628c54fc843c98867a93576fc751f896">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Thirty-Three</title>
+      <track_index>37</track_index>
+    </item>
+    <item key="18720" path="tracks\279d44ae85b32360e496b97675d1e4b182d032a1">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Thirty-Two</title>
+      <track_index>36</track_index>
+    </item>
+    <item key="18691" path="tracks\ce58c22f8ab9fea0d543f60632c6f007cbd8a283">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Six</title>
+      <track_index>7</track_index>
+    </item>
+    <item key="18690" path="tracks\cfa221c4cea53230f5f4e9e56293794f18855a5e">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Five</title>
+      <track_index>6</track_index>
+    </item>
+    <item key="18693" path="tracks\94f8081b99418ade2d34ec00469014c6f7144c12">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Eight</title>
+      <track_index>9</track_index>
+    </item>
+    <item key="18692" path="tracks\f47d7074a5f5e2c9e4c2f4011ff1dd239d46fab4">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Seven</title>
+      <track_index>8</track_index>
+    </item>
+    <item key="18695" path="tracks\b957fadde5a7ece3a4bdafc5c94113b5799b7c78">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Nine</title>
+      <track_index>11</track_index>
+    </item>
+    <item key="18694" path="tracks\25f2f2cc43585e6eadf97aa16800428d7d63a44e">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Part Two: Regroupment</title>
+      <track_index>10</track_index>
+    </item>
+    <item key="18697" path="tracks\920d718b8f4183ad9f1e14f1b54298a3b00c880e">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Eleven</title>
+      <track_index>13</track_index>
+    </item>
+    <item key="18696" path="tracks\ea6bc1117545318d8a39fb9dfe71b1cf633cb9f0">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Ten</title>
+      <track_index>12</track_index>
+    </item>
+    <item key="18699" path="tracks\602fb095fd8f753c480f5ede206f1b535dcc5bfd">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Thirteen</title>
+      <track_index>15</track_index>
+    </item>
+    <item key="18698" path="tracks\8a10713ad8f3e66311ac2b27d778fc068f926732">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Twelve</title>
+      <track_index>14</track_index>
+    </item>
+    <item key="18722" path="tracks\76a25d5374b57ea75caa66601b804b8a4f6f7ca2">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Thirty-Four</title>
+      <track_index>38</track_index>
+    </item>
+    <item key="18718" path="tracks\ed6b35b8d2188e63d86bb34dfacf8b6b3867b95d">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Thirty</title>
+      <track_index>34</track_index>
+    </item>
+    <item key="18719" path="tracks\2ab61572b3ac9e36f695762d1874377317903811">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Thirty-One</title>
+      <track_index>35</track_index>
+    </item>
+    <item key="18730" path="tracks\1a8656f16664bb6a945f9946a12faba6ae24f770">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Forty-Two</title>
+      <track_index>46</track_index>
+    </item>
+    <item key="18731" path="tracks\d96c52fa3328a2ff8a68ae356ada988f60362a7a">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Forty-Three</title>
+      <track_index>47</track_index>
+    </item>
+    <item key="18714" path="tracks\2b6d65f17752152da348953d3d4b5b4b98043090">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Twenty-Seven</title>
+      <track_index>30</track_index>
+    </item>
+    <item key="18715" path="tracks\c14290c5ca47353f5fb4dc557d34f9228468de05">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Twenty-Eight</title>
+      <track_index>31</track_index>
+    </item>
+    <item key="18716" path="tracks\842135f7a4b54f19675e39dad628c686049b1e7a">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Twenty-Nine</title>
+      <track_index>32</track_index>
+    </item>
+    <item key="18717" path="tracks\9c4e9591ba2bc0941e86ad83baa4ed5d16e0494a">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Part Four: Siege</title>
+      <track_index>33</track_index>
+    </item>
+    <item key="18710" path="tracks\6a776a7afabdb72018f45d87ad037eaf73cffa2f">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Twenty-Three</title>
+      <track_index>26</track_index>
+    </item>
+    <item key="18711" path="tracks\7026aedf0c31ad5c2e1cf1ddc537950184d68dcf">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Twenty-Four</title>
+      <track_index>27</track_index>
+    </item>
+    <item key="18712" path="tracks\84467d1944f780abd5347d63d027b578916bd1b2">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Twenty-Five</title>
+      <track_index>28</track_index>
+    </item>
+    <item key="18713" path="tracks\086e6f9f884f00ed3559c866331506ba50ed9f72">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Twenty-Six</title>
+      <track_index>29</track_index>
+    </item>
+    <item key="18729" path="tracks\f58bc00626641c222c7c1debb3aa19911e3ed501">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Forty-One</title>
+      <track_index>45</track_index>
+    </item>
+    <item key="18686" path="tracks\8e369a4cc91630685d41e380772e8c2fb404adc4">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter One</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="18687" path="tracks\8eec975022f84a162aa3f36f91c359781eaed7cf">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Two</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="18684" path="tracks\fe9e983a67ca0534233c48e4c1278016ec2e626c">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Intro</title>
+      <track_index>0</track_index>
+    </item>
+    <item key="18685" path="tracks\2203f46b33d1e881a3be85bab2f520e03730487b">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Part One: Withdrawal</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="18723" path="tracks\b302dd553ce209d337a5df37dee276b43cc1dbb9">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Thirty-Five</title>
+      <track_index>39</track_index>
+    </item>
+    <item key="18689" path="tracks\35b3c971c7f00fec9f8f24d8de3d3c5e0f32db2d">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Four</title>
+      <track_index>5</track_index>
+    </item>
+    <item key="18725" path="tracks\c0479e5feb85958b2024e30417cac7de5b283e99">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Thirty-Seven</title>
+      <track_index>41</track_index>
+    </item>
+    <item key="18728" path="tracks\9bf12526af0c956a2c7f479b470643a1a3834acb">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Forty</title>
+      <track_index>44</track_index>
+    </item>
+    <item key="18732" path="tracks\ee0a9d7773512fa5821e6e37e0db0f27774ed973">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Outro</title>
+      <track_index>48</track_index>
+    </item>
+    <item key="18688" path="tracks\437468783d3ecb79b2599c8206a8fee7e2088ee5">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter Three</title>
+      <track_index>4</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

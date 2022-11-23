@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2018-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="d873f8b224a07332088d25ad1c8b11f5" media="com.plexapp.agents.localmedia_844e760ce58a27c334a93de5fd85b424def2ce61" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="01f364d12ca25c55de4ce98d22aa6d82" media="com.plexapp.agents.localmedia_7edff488cf861e1de63a9438d38a41324986e77d" sort_order="2" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="e70c2b45a8a536c2c24376ab222fc179" media="com.plexapp.agents.localmedia_b3585bad5b2f2ed9087faae864c801f4c913a5f4" sort_order="3" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="792a26020ef13d2e76e64d0c577775f7" media="com.plexapp.agents.localmedia_e0089af08ba67d6322da84ebe0c9b1ed16883805" sort_order="4" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="f1a1421df2378fbeb5e9d2b8a94ba0bf" media="com.plexapp.agents.localmedia_4377ad60b594d27984ce5251368a358109ee6da4" sort_order="5" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="f43fd3817ea44913b803e5842d1ba70b" media="com.plexapp.agents.localmedia_3a5a9d0f965c25b03a00f25eff16f73439a1c2ec" sort_order="6" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="d40061f208402e5622b03b3d174c53b7" media="com.plexapp.agents.localmedia_ee4a9c2fda7c3875b13b9f49cda49180eba41468" sort_order="7" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <summary>Written with input from director Rian Johnson, this official adaptation of Star Wars: The Last Jedi expands on the film to include scenes from alternate versions of the script and other additional content.</summary>
+  <tags/>
+  <title>The Last Jedi (Unabridged)</title>
+  <tracks>
+    <item key="18286" path="tracks\fa3d61887fb8bc5310417c0ab42b7226a9f289dd">
+      <lyrics/>
+      <moods/>
+      <original_title>Jason Fry</original_title>
+      <tags/>
+      <title>The Last Jedi: Star Wars (Unabridged)</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

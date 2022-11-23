@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2015-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="1f2e52c376515a6063f1de6ff5c3ee82" media="com.plexapp.agents.localmedia_da7b7423e7bfffacce35fe01c52b226d4fdbb3da" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Harry Potter 1: The Sorcerer's Stone</title>
+  <tracks>
+    <item key="19235" path="tracks\aaac65cf2c95da6405cbcb11b0a702fe1c253c52">
+      <lyrics/>
+      <moods/>
+      <original_title>J.K. Rowling</original_title>
+      <tags/>
+      <title>Harry Potter: The Sorcerer's Stone</title>
+      <track_index>1</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

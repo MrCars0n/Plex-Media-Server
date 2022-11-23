@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2008-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="dcd96884db58df301522b2d780e4e1af" media="com.plexapp.agents.localmedia_be8dfe5295df72decf28cbbb63aad07c626cd346" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <summary>The sand-blasted world of Arrakis has become green, watered, and fertile. Old Paul Atreides, who led the desert Fremen to political and religious domination of the galaxy, is gone. But for the children of Dune, the very blossoming of their land contains the seeds of its own destruction. The altered climate is destroying the giant sandworms, and this in turn is disastrous for the planet's economy.</summary>
+  <tags/>
+  <title>Dune 03 - Children of Dune</title>
+  <tracks>
+    <item key="19141" path="tracks\66c7f46b1baaab25c07d607c57b210c4e0031a41">
+      <lyrics/>
+      <moods/>
+      <original_title>Frank Herbert</original_title>
+      <tags/>
+      <title>Dune 03 - Children of Dune</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

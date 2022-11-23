@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2017-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="9077e3ef0301e2ae08d959a519ef2af7" media="com.plexapp.agents.localmedia_584d69e569497cf0445ad3de9984a965292c553e" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Harry Potter: Fantastic Beasts and Where to Find Them</title>
+  <tracks>
+    <item key="19232" path="tracks\1e01de7d7364724d6b148208afe7764cfec48cfc">
+      <lyrics/>
+      <moods/>
+      <original_title>J.K. Rowling</original_title>
+      <tags/>
+      <title>Harry Potter: Fantastic Beasts and Where to Find Them</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

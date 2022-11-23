@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters/>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <tracks>
+    <item key="17675" path="tracks\46e29255515cf194f8dad524c2621147c422edfb">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Survive the Night by Riley Sager</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

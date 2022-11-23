@@ -1,0 +1,19 @@
+Aug 17, 2022 17:20:52.705 [12344] INFO - Plex Update Service Launcher v1.28.1.6092-87136b92b - Microsoft PC x64 - build: windows-x86
+Aug 17, 2022 17:20:52.705 [12344] INFO - Windows version: 6.2 (Build 9200), language en-US
+Aug 17, 2022 17:20:52.705 [12344] INFO - 4 3504 MHz processor(s): Architecture=0, Level=6, Revision=24067 Processor Identifier=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+Aug 17, 2022 17:20:52.705 [12344] DEBUG - "C:\Program Files (x86)\Plex\Plex Media Server\Plex Update Service Launcher.exe" "C:\Users\carso\AppData\Local\Plex Media Server\Updates\1.28.1.6104-788f82488\packages\PlexMediaServer-1.28.1.6104-788f82488-x86.exe" C:\Users\carso\AppData\Local "C:\Program Files (x86)\Plex\Plex Media Server\Plex Media Server.exe"
+Aug 17, 2022 17:20:52.703 [9084] DEBUG - Bundle path: C:\Users\carso\AppData\Local\Plex Media Server\Updates\1.28.1.6104-788f82488\packages\PlexMediaServer-1.28.1.6104-788f82488-x86.exe
+Aug 17, 2022 17:20:52.704 [9084] DEBUG - Connected to Update Service
+Aug 17, 2022 17:20:52.704 [9084] DEBUG - Set Update Service's log Directory
+Aug 17, 2022 17:20:52.705 [9084] DEBUG - Ask Update Service to check the bundle
+Aug 17, 2022 17:20:53.335 [9084] ERROR - Failed to install, bundle not valid.
+Aug 17, 2022 17:20:53.335 [9084] ERROR - Check Error Code: 30005
+Aug 17, 2022 17:20:53.335 [9084] DEBUG - Completed all calls to Update Service
+Aug 17, 2022 17:20:53.335 [9084] DEBUG - Starting PMS
+Aug 17, 2022 17:20:53.340 [9084] DEBUG - Successfully started PMS Process. Testing if PMS succesfully starts.
+Aug 17, 2022 17:20:53.340 [9084] DEBUG - Wait for 10 seconds to see if it exits and capture any exit code.
+Aug 17, 2022 17:20:53.391 [9084] DEBUG - PMS already running
+Aug 17, 2022 17:20:53.391 [9084] ERROR - Install: Failure, Certificate Identity Failure
+Aug 17, 2022 17:20:53.391 [9084] ERROR - Bundle Exit Code: 0 - The operation completed successfully.
+Aug 17, 2022 17:20:53.391 [9084] DEBUG - PMS Startup: Success
+Aug 17, 2022 17:20:53.399 [9084] DEBUG - Return value: 30005, 

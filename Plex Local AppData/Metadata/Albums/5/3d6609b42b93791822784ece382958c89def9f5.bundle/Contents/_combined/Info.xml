@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2008-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="4784be232ef3a676866c06351000a502" media="com.plexapp.agents.localmedia_dd22db13a67e44288ad678709a91d536513a5c69" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <summary>More than 3,000 years have passed since the first events recorded in Dune. Only one link survives with those tumultuous times: the grotesque figure of Leto Atreides, son of the prophet Paul Muad'Dib, and now the virtually immortal God Emperor of Dune. He alone understands the future, and he knows with a terrible certainty that the evolution of his race is at an end unless he can breed new qualities into his species.</summary>
+  <tags/>
+  <title>Dune 04 - God Emperor of Dune</title>
+  <tracks>
+    <item key="19143" path="tracks\433a39e05775464d3dcbcc64d3ff2e4612203519">
+      <lyrics/>
+      <moods/>
+      <original_title>Frank Herbert</original_title>
+      <tags/>
+      <title>Dune 04 - God Emperor of Dune</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

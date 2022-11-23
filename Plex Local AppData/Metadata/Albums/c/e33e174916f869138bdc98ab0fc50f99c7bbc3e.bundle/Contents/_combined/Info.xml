@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2019-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="805549bcf08657ab3d235376146eec7b" media="com.plexapp.agents.localmedia_eb16b1d7ce426b4f1d57abbe0275f72934dcc876" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>James Potter and the Crimson Thread</title>
+  <tracks>
+    <item key="19298" path="tracks\f63d11326a194b6e930e61af8831d83215b89948">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Epilogue 2 - Crimson Thread</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

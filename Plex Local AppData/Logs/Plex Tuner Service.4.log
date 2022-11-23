@@ -1,0 +1,45 @@
+Aug 17, 2022 01:54:58.864 [9800] INFO - Plex Tuner Service v1.0.0.0 - Microsoft PC x64 - build: 
+Aug 17, 2022 01:54:58.864 [9800] INFO - Windows version: 6.2 (Build 9200), language en-US
+Aug 17, 2022 01:54:58.864 [9800] INFO - 4 3504 MHz processor(s): Architecture=0, Level=6, Revision=24067 Processor Identifier=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+Aug 17, 2022 01:54:58.864 [9800] DEBUG - "C:\Program Files (x86)\Plex\Plex Media Server\Plex Tuner Service.exe" "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Tuner\Private" "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Tuner\Shared" 1.28.1.6092-87136b92b 32600
+Aug 17, 2022 01:54:58.863 [9700] INFO - [I] broker_t::start...
+Aug 17, 2022 01:54:58.949 [9700] INFO - [I] device_manager_t::init.
+Aug 17, 2022 01:54:58.949 [9700] INFO - [I] device_manager_t::init. Initialize provider manager
+Aug 17, 2022 01:54:58.949 [9700] INFO - [I] device_manager_t::init. Initialize all device auxes
+Aug 17, 2022 01:54:58.949 [9700] INFO - [I] dvb_device_factory_t::get_aux_list
+Aug 17, 2022 01:54:58.949 [9700] INFO - [I] bda_aux_t::init
+Aug 17, 2022 01:54:58.952 [9700] INFO - [I] web_server_t::start. Starting web server on port 32600
+Aug 17, 2022 01:55:06.142 [9956] INFO - [I] web_service_t::process_device_discovery
+Aug 17, 2022 01:55:06.142 [9956] INFO - [I] device_reactor_t::get_device_list ()
+Aug 17, 2022 01:55:08.269 [9956] INFO - [I] SAT2IP - discover_satip_servers(): no servers found
+Aug 17, 2022 01:55:08.789 [11400] WARN - [E] enum_create(): Class not found, CreateClassEnumerator returned S_FALSE
+Aug 17, 2022 01:55:08.789 [11400] INFO - [I] DeviceGetListEx_impl: pDL->Count:0
+Aug 17, 2022 01:55:08.790 [9956] DEBUG - [I] file_tuner::get_stream_file. File C:\Program Files (x86)\Plex\Plex Media Server\Resources\Tuner\Private\devices\dvb\file\drv_file.ini does not exist
+Aug 17, 2022 12:50:19.699 [9952] INFO - [I] web_service_t::process_device_discovery
+Aug 17, 2022 12:50:19.699 [9952] INFO - [I] device_reactor_t::get_device_list ()
+Aug 17, 2022 12:50:21.789 [9952] INFO - [I] SAT2IP - discover_satip_servers(): no servers found
+Aug 17, 2022 12:50:22.296 [12692] WARN - [E] enum_create(): Class not found, CreateClassEnumerator returned S_FALSE
+Aug 17, 2022 12:50:22.296 [12692] INFO - [I] DeviceGetListEx_impl: pDL->Count:0
+Aug 17, 2022 12:50:22.297 [9952] DEBUG - [I] file_tuner::get_stream_file. File C:\Program Files (x86)\Plex\Plex Media Server\Resources\Tuner\Private\devices\dvb\file\drv_file.ini does not exist
+Aug 17, 2022 12:50:32.452 [9956] INFO - [I] web_service_t::process_device_discovery
+Aug 17, 2022 12:50:32.452 [9956] INFO - [I] device_reactor_t::get_device_list ()
+Aug 17, 2022 12:50:34.529 [9956] INFO - [I] SAT2IP - discover_satip_servers(): no servers found
+Aug 17, 2022 12:50:34.965 [6424] WARN - [E] enum_create(): Class not found, CreateClassEnumerator returned S_FALSE
+Aug 17, 2022 12:50:34.965 [6424] INFO - [I] DeviceGetListEx_impl: pDL->Count:0
+Aug 17, 2022 12:50:34.965 [9956] DEBUG - [I] file_tuner::get_stream_file. File C:\Program Files (x86)\Plex\Plex Media Server\Resources\Tuner\Private\devices\dvb\file\drv_file.ini does not exist
+Aug 17, 2022 12:50:36.991 [9956] INFO - [I] web_service_t::process_device_discovery
+Aug 17, 2022 12:50:36.991 [9956] INFO - [I] device_reactor_t::get_device_list ()
+Aug 17, 2022 12:50:39.068 [9956] INFO - [I] SAT2IP - discover_satip_servers(): no servers found
+Aug 17, 2022 12:50:39.502 [6872] WARN - [E] enum_create(): Class not found, CreateClassEnumerator returned S_FALSE
+Aug 17, 2022 12:50:39.502 [6872] INFO - [I] DeviceGetListEx_impl: pDL->Count:0
+Aug 17, 2022 12:50:39.503 [9956] DEBUG - [I] file_tuner::get_stream_file. File C:\Program Files (x86)\Plex\Plex Media Server\Resources\Tuner\Private\devices\dvb\file\drv_file.ini does not exist
+Aug 17, 2022 17:14:01.680 [6828] INFO - [I] Signal Control-Break was received
+Aug 17, 2022 17:14:01.694 [9700] INFO - [I] device_manager_t::term
+Aug 17, 2022 17:14:01.694 [9700] INFO - [I] device_manager_t::term. Stop all devices
+Aug 17, 2022 17:14:01.694 [9700] INFO - [I] device_manager_t::term. Shut down all device auxes
+Aug 17, 2022 17:14:01.694 [9700] INFO - [I] bda_aux_t::term
+Aug 17, 2022 17:14:01.695 [9700] INFO - [I] web_server_t::stop. Web server is stopped
+Aug 17, 2022 17:14:01.696 [9700] INFO - [I] device_manager_t::term
+Aug 17, 2022 17:14:01.696 [9700] INFO - [I] device_manager_t::term. Stop all devices
+Aug 17, 2022 17:14:01.696 [9700] INFO - [I] device_manager_t::term. Shut down all device auxes
+Aug 17, 2022 17:14:01.696 [9700] INFO - [I] broker_t::shutdown. Shutdown is completed.

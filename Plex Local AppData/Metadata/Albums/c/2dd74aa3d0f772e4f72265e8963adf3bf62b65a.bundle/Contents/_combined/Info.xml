@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2016-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="17afc65e2ce5f55f7362fa59f04e2dd8" media="com.plexapp.agents.localmedia_2e7faa810a669ea3483e56d8e101a4c159583625" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Rogue One: A Star Wars Story</title>
+  <tracks>
+    <item key="18655" path="tracks\08493a415cf0fc8430348156ca975a0bce5f3027">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>8</track_index>
+    </item>
+    <item key="18668" path="tracks\fd1912094fc944f699919cf9672bf9b3b3e50b11">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>21</track_index>
+    </item>
+    <item key="18669" path="tracks\7c3eaea0fc0d9a9b7921c2c2cf9f98f958e73433">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>22</track_index>
+    </item>
+    <item key="18654" path="tracks\82942f50b13f46f3be18a6718378afdef3c4a364">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>7</track_index>
+    </item>
+    <item key="18664" path="tracks\c9c86ac1a24b5d6e503abbefbbe46fab7f971068">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>17</track_index>
+    </item>
+    <item key="18665" path="tracks\2093c733e6f1f0acd96f901c2361b59668d08418">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>18</track_index>
+    </item>
+    <item key="18666" path="tracks\e08361c35c37a548dde5ea90a40b98a2a13437a9">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>19</track_index>
+    </item>
+    <item key="18667" path="tracks\6436a888ff7e892f2eeda82a1263fb0deeb54e67">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>20</track_index>
+    </item>
+    <item key="18660" path="tracks\1d8fdc6722e34be42980788bbae85ff2939c105a">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>13</track_index>
+    </item>
+    <item key="18661" path="tracks\970eed4eb096e7f74f1a8af2a80cc104fcba42c4">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>14</track_index>
+    </item>
+    <item key="18648" path="tracks\be67fc18b5b6dd3c7ffcebf20d896e200a48e882">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="18649" path="tracks\3dab8adb39373a17249ab48cb447b412bd40d4d2">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="18656" path="tracks\58343395e6b0e3940c3e74af71803dc86fac0bec">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>9</track_index>
+    </item>
+    <item key="18651" path="tracks\6c45638f61580a086554168fd461b69388603df0">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="18650" path="tracks\af4550a3d15f1fcffa7c26d8b7302f4cf9dcf023">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="18653" path="tracks\decdb17f6239ced9508e09895a10140474a82818">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>6</track_index>
+    </item>
+    <item key="18652" path="tracks\db781ef0d4f4997f0ec57dcabea1c98873f937cc">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>5</track_index>
+    </item>
+    <item key="18673" path="tracks\c803083aad35ee2b5fe0ce8e17981483139e9958">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>26</track_index>
+    </item>
+    <item key="18672" path="tracks\3016eb7e1b141be64d2976e2050d7226e0a86357">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>25</track_index>
+    </item>
+    <item key="18671" path="tracks\263b57f9e114b88acad0d14ced91ede2879bf92d">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>24</track_index>
+    </item>
+    <item key="18670" path="tracks\f4fd65fa56d6b13d0ae61ef47fceaf4b0519e6be">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>23</track_index>
+    </item>
+    <item key="18677" path="tracks\c2b7b95845019e32501ef2ff6d6bd62257b3f354">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>30</track_index>
+    </item>
+    <item key="18676" path="tracks\41f14cd8f3098a712aa4f89561786b6c23daefac">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>29</track_index>
+    </item>
+    <item key="18675" path="tracks\f36f01eae744b9e28abf24659dc7da79cb5d2ea3">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>28</track_index>
+    </item>
+    <item key="18674" path="tracks\da2c0271773f8f6520202368addde571c6662bc3">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>27</track_index>
+    </item>
+    <item key="18679" path="tracks\b5c75772f45127d2d888ce1425ca45d5b0e1522b">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>32</track_index>
+    </item>
+    <item key="18678" path="tracks\d2eb5724e9692eecf284f22722af07f320d8c2ab">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>31</track_index>
+    </item>
+    <item key="18659" path="tracks\a1dc15e97b71fb5c33afda458b76f58de5e97c34">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>12</track_index>
+    </item>
+    <item key="18658" path="tracks\a2ff4a504a9c2deca952483173d68930fbd96d1b">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>11</track_index>
+    </item>
+    <item key="18662" path="tracks\47a2ebe97999e21436fa8680f4e559f8f730313e">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>15</track_index>
+    </item>
+    <item key="18663" path="tracks\8035cb6e8210d4bb79e83ec5de2cfc538eda1745">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>16</track_index>
+    </item>
+    <item key="18657" path="tracks\04d8e42aca30ecc4aa755c6e975c5031b368aa48">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Rogue One: A Star Wars Story</title>
+      <track_index>10</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

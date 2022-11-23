@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters/>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>This Time Next Year</title>
+  <tracks>
+    <item key="18065" path="tracks\cf49992b625671a642020144d8b77ca8f4e2eb44">
+      <lyrics/>
+      <moods/>
+      <original_title>Sophie Cousens</original_title>
+      <tags/>
+      <title>This Time Next Year - Part 9</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

@@ -1,0 +1,5 @@
+Aug 20, 2022 04:44:07.234 [3804] INFO - Plex Media Scanner v1.28.1.6092-87136b92b - Microsoft PC x64 - build: windows-x86 - GMT -04:00
+Aug 20, 2022 04:44:07.234 [3804] INFO - Windows version: 6.2 (Build 9200), language en-US
+Aug 20, 2022 04:44:07.234 [3804] INFO - 4 3504 MHz processor(s): Architecture=0, Level=6, Revision=24067 Processor Identifier=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+Aug 20, 2022 04:44:07.234 [3804] DEBUG - "C:\Program Files (x86)\Plex\Plex Media Server\Plex Media Scanner.exe" --generate --chapter-thumbs-only --item 15555 --log-file-suffix " Chapter Thumbnails"
+Aug 20, 2022 04:44:07.233 [8748] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.35.5, threadsafe=1

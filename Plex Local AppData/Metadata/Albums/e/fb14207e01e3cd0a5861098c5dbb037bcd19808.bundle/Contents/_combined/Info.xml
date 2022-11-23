@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters/>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>No-Drama Discipline</title>
+  <tracks>
+    <item key="18008" path="tracks\15726bbda34ec73702d4d952d70b072c33367446">
+      <lyrics/>
+      <moods/>
+      <original_title>Daniel J. Siegel/Tina Payne Bryson</original_title>
+      <tags/>
+      <title>No-Drama Discipline - Part 6</title>
+      <track_index>6</track_index>
+    </item>
+    <item key="18009" path="tracks\94bb5abd72b477d24a4d59b9e0eed27397696b6a">
+      <lyrics/>
+      <moods/>
+      <original_title>Daniel J. Siegel/Tina Payne Bryson</original_title>
+      <tags/>
+      <title>No-Drama Discipline - Part 7</title>
+      <track_index>7</track_index>
+    </item>
+    <item key="18004" path="tracks\a010c4d7ec84f6d5b26531b4233dad47923f4a89">
+      <lyrics/>
+      <moods/>
+      <original_title>Daniel J. Siegel/Tina Payne Bryson</original_title>
+      <tags/>
+      <title>No-Drama Discipline - Part 2</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="18005" path="tracks\081e50e14d2f1c44f8b26eb567bacf0329d281d1">
+      <lyrics/>
+      <moods/>
+      <original_title>Daniel J. Siegel/Tina Payne Bryson</original_title>
+      <tags/>
+      <title>No-Drama Discipline - Part 3</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="18006" path="tracks\ac1e87dd1c185ea1629b0f7d80c865a451f7734f">
+      <lyrics/>
+      <moods/>
+      <original_title>Daniel J. Siegel/Tina Payne Bryson</original_title>
+      <tags/>
+      <title>No-Drama Discipline - Part 4</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="18007" path="tracks\497faca19edc85402f93513c425cbc1e883aa281">
+      <lyrics/>
+      <moods/>
+      <original_title>Daniel J. Siegel/Tina Payne Bryson</original_title>
+      <tags/>
+      <title>No-Drama Discipline - Part 5</title>
+      <track_index>5</track_index>
+    </item>
+    <item key="18003" path="tracks\bcf4b5dd5075b886818b2b77e4fcb810bdfc1e67">
+      <lyrics/>
+      <moods/>
+      <original_title>Daniel J. Siegel/Tina Payne Bryson</original_title>
+      <tags/>
+      <title>No-Drama Discipline - Part 1</title>
+      <track_index>1</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

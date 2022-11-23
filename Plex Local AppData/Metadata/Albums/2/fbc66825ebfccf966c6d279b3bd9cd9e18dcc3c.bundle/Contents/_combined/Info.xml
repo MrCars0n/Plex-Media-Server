@@ -1,0 +1,455 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters>
+    <item external="True" url="997ed5d4a6dcf4d884b4ed66b6caf9cd" media="com.plexapp.agents.localmedia_0bf827e8410edf1a9b6277059d8f68cf1a012b4a" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="e6fb2a302e666303a26521997e663623" media="com.plexapp.agents.localmedia_b4f08603ba39f26deb590a5e461ccd6836efdb78" sort_order="2" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="e0fae07067edc42eff24999840248035" media="com.plexapp.agents.localmedia_d8679f6403061d0a0f4689f26d867a441f202206" sort_order="3" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="f1abe1894b8ab4d5e63404c63b7ce972" media="com.plexapp.agents.localmedia_03e620091d58509f0301972d02471559f385b9d8" sort_order="4" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Aftermath</title>
+  <tracks>
+    <item key="18934" path="tracks\e763a8d9358278496b72385e161324db83664ddb">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 20</title>
+      <track_index>27</track_index>
+    </item>
+    <item key="18935" path="tracks\f629251feab595426b1e9b62ba8f1d922472d6ec">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 21</title>
+      <track_index>28</track_index>
+    </item>
+    <item key="18936" path="tracks\c54a78102fcf3739e809263d5b7b718c718c3662">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Interlude: Sevarcos</title>
+      <track_index>29</track_index>
+    </item>
+    <item key="18937" path="tracks\cba13a9007301836a0ea7645caa51bf05c645194">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Part 3 - Chapter 22</title>
+      <track_index>30</track_index>
+    </item>
+    <item key="18930" path="tracks\a9baa7bdd67b2610e4955371b7e0a2c6f3d6813d">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 17</title>
+      <track_index>23</track_index>
+    </item>
+    <item key="18931" path="tracks\c06b7bd9402ec7cee5e47b2d6b9c106ad8a99355">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 18</title>
+      <track_index>24</track_index>
+    </item>
+    <item key="18932" path="tracks\2a79747ca35aac42d5bbed0264ad161bd1fa423c">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Interlude: Coronet City, Corellia</title>
+      <track_index>25</track_index>
+    </item>
+    <item key="18933" path="tracks\8fe4c8daef530d91e3ee8b6abb9b89c48cfef789">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 19</title>
+      <track_index>26</track_index>
+    </item>
+    <item key="18958" path="tracks\3fc7c95cdc91e6a2baceafbbd424f603d5e2484d">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 37</title>
+      <track_index>51</track_index>
+    </item>
+    <item key="18959" path="tracks\57e389424af33c65d92a1fd811db13526dd111d0">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Interlude: Jakku</title>
+      <track_index>52</track_index>
+    </item>
+    <item key="18938" path="tracks\b7f43e3a50f5657f53c34d487b895ca7deea6b18">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 23</title>
+      <track_index>31</track_index>
+    </item>
+    <item key="18939" path="tracks\9c8fb88c6d493c14cf723f4189690c8cc2d12244">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 24</title>
+      <track_index>32</track_index>
+    </item>
+    <item key="18918" path="tracks\d53aee73045092b5aab74db3f88337e477dd8ceb">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 8</title>
+      <track_index>11</track_index>
+    </item>
+    <item key="18919" path="tracks\49b697e9ba099a1da786d74caa1213a2ea5f956a">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 9</title>
+      <track_index>12</track_index>
+    </item>
+    <item key="18916" path="tracks\efc7aa41e4fcee5f36656f6493385acd79f6b582">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Interlude: Saleucami</title>
+      <track_index>9</track_index>
+    </item>
+    <item key="18917" path="tracks\bf3a923663ffa41e094382fd91bf11fbd6363a6d">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 7</title>
+      <track_index>10</track_index>
+    </item>
+    <item key="18914" path="tracks\b3a8aa8dc2935ea39630a6ef159e766d9b6bd8ea">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 5</title>
+      <track_index>7</track_index>
+    </item>
+    <item key="18915" path="tracks\da5f007736de8e25269081c15503e02125b1cbab">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 6</title>
+      <track_index>8</track_index>
+    </item>
+    <item key="18912" path="tracks\c217fd37e7d15be2047b95c1c1a95d68624e889f">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Interlude: Chandrila</title>
+      <track_index>5</track_index>
+    </item>
+    <item key="18913" path="tracks\af847d63620c5034062985a7373f297e0d3347d3">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 4</title>
+      <track_index>6</track_index>
+    </item>
+    <item key="18910" path="tracks\94270a83b246a7ff53d65efd0955feca89ca0161">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 2</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="18911" path="tracks\00a3a7bf5bcc72ce37acbf2d9bb5e9a4836a0ac1">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 3</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="18952" path="tracks\2d505b8b6dc24e1fd181e06144c3c6724de72861">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 32</title>
+      <track_index>45</track_index>
+    </item>
+    <item key="18953" path="tracks\891b6c065bc7b49f2f5d8a8a8ac0a418476dea13">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 33</title>
+      <track_index>46</track_index>
+    </item>
+    <item key="18950" path="tracks\34e341d1c65dd7d9357d995341aa6011d62f3989">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 31</title>
+      <track_index>43</track_index>
+    </item>
+    <item key="18951" path="tracks\8879f458a3af20e82c954128371c6bd2127a0ffc">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Interlude: Tatooine</title>
+      <track_index>44</track_index>
+    </item>
+    <item key="18956" path="tracks\ae2b5bdcaf44ace0fc9683657c48114f754a5ad8">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 35</title>
+      <track_index>49</track_index>
+    </item>
+    <item key="18957" path="tracks\42fa4a303f9b8bef1b131d0df6a7efddfd6306bd">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 36</title>
+      <track_index>50</track_index>
+    </item>
+    <item key="18941" path="tracks\0ceb35fa793a0e573c408a3b31546c68b619c81c">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 25</title>
+      <track_index>34</track_index>
+    </item>
+    <item key="18940" path="tracks\db13e93b221ceb92d05359966b00495fc49d8dbb">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Interlude: Taris</title>
+      <track_index>33</track_index>
+    </item>
+    <item key="18943" path="tracks\6550254133733f32c5db10dac35273d06c36c7c4">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Interlude: Hyperspace</title>
+      <track_index>36</track_index>
+    </item>
+    <item key="18942" path="tracks\cf3fb890bed39db7597c9f17131314d4af050ebd">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 26</title>
+      <track_index>35</track_index>
+    </item>
+    <item key="18945" path="tracks\641dd5a3a3d46720fce1d5629d19f1bc67003d8a">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Interlude: Coruscant</title>
+      <track_index>38</track_index>
+    </item>
+    <item key="18944" path="tracks\b3f1e3e70d5d0a7636ba0aa3ce406ac8be01af89">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 27</title>
+      <track_index>37</track_index>
+    </item>
+    <item key="18947" path="tracks\9fafe6add472e9a8138a592d9619f4cb62944c45">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Interlude: Theed, Naboo</title>
+      <track_index>40</track_index>
+    </item>
+    <item key="18946" path="tracks\906b5c56b67295be6d733a8683363a1069ee03f6">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 28</title>
+      <track_index>39</track_index>
+    </item>
+    <item key="18949" path="tracks\f2a3e404275184183287bbb5cf31b46e9d2e3077">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 30</title>
+      <track_index>42</track_index>
+    </item>
+    <item key="18948" path="tracks\2f8024fc012a3873dbb8804f29c57e632ccdf347">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 29</title>
+      <track_index>41</track_index>
+    </item>
+    <item key="18954" path="tracks\2a39e341b642b0d46fb58850ea523c0b1a01a220">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 34</title>
+      <track_index>47</track_index>
+    </item>
+    <item key="18955" path="tracks\90ff600aab4c7bae326653b9fee16afb3c2790d9">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Interlude: Bespin Cloud City</title>
+      <track_index>48</track_index>
+    </item>
+    <item key="18961" path="tracks\b72d2136e8ca08751af863d6cc6d1df1b7815aa5">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Epilogue</title>
+      <track_index>54</track_index>
+    </item>
+    <item key="18960" path="tracks\9322788353ed6b8df7c5f8eb185ee85920748a88">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Part 4 - Chapter 38</title>
+      <track_index>53</track_index>
+    </item>
+    <item key="18929" path="tracks\9633c992e3dd4bbd0c16d7c90c54b75159d2cc09">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 16</title>
+      <track_index>22</track_index>
+    </item>
+    <item key="18928" path="tracks\247881d348c4b6ac6701ea7a57a4eec19fa11688">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Interlude: Chandrila</title>
+      <track_index>21</track_index>
+    </item>
+    <item key="18909" path="tracks\b8eb40b39a10dcee7f9302dae80bff4e49d3665b">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Part 1 - Chapter 1</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="18908" path="tracks\1ae0f0e5cfe4309dee4e320b6a23ab1b672e10d4">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Prologue</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="18923" path="tracks\f09e51d31ea56c334be99de2985e83ba303670a2">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Part 2 - Chapter 12</title>
+      <track_index>16</track_index>
+    </item>
+    <item key="18922" path="tracks\522de18f3bd12de4657fd8a82f620fb2f6d4dcdb">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 11</title>
+      <track_index>15</track_index>
+    </item>
+    <item key="18921" path="tracks\f9378625cbbd0fb4090dc2681d45bb2707493c8c">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 10</title>
+      <track_index>14</track_index>
+    </item>
+    <item key="18920" path="tracks\5d24c716d253c75dd7fd34b1cb1d60c0dde5bbe1">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Interlude: Naalol</title>
+      <track_index>13</track_index>
+    </item>
+    <item key="18927" path="tracks\e9006b96224942f24eab2ebc1ec2659c89ac93d5">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 15</title>
+      <track_index>20</track_index>
+    </item>
+    <item key="18926" path="tracks\5c1e7f73674b6f98d74adc8b2e9b36e3fe51c6fb">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 14</title>
+      <track_index>19</track_index>
+    </item>
+    <item key="18925" path="tracks\de9af6ee804cb4242619fec66c4b3db789b7ff77">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Chapter 13</title>
+      <track_index>18</track_index>
+    </item>
+    <item key="18924" path="tracks\8ece867887bcb472312e0ad124ddf1169eccac8c">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>Interlude: Uyter</title>
+      <track_index>17</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

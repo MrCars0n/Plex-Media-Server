@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters>
+    <item external="True" url="b392e169b34961e593c4e69bf88fe246" media="com.plexapp.agents.localmedia_7fe6380c4bbc7232c3b82fe18dbea42d5ad441c3" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Legendborn</title>
+  <tracks>
+    <item key="17649" path="tracks\31348f0897df70a9f377ec5f774dd65bf9c4fe17">
+      <lyrics/>
+      <moods/>
+      <original_title>Tracy Deonn</original_title>
+      <tags/>
+      <title>Legendborn</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2019-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="4798399eb8f0c2b1d465e6d891ef87c2" media="com.plexapp.agents.localmedia_fd11a8e5cc8e9a445137664604e480b6cbb8471e" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <summary>Daisy is a girl coming of age in LA in the late '60s, sneaking into clubs on the Sunset Strip, sleeping with rock stars, and dreaming of singing at the Whisky a Go Go. The sex and drugs are thrilling, but it’s the rock and roll she loves most. By the time she’s 20, her voice is getting noticed, and she has the kind of heedless beauty that makes people do crazy things. Also getting noticed is The Six, a band led by the brooding Billy Dunne.</summary>
+  <tags/>
+  <title>Daisy Jones &amp; The Six: A Novel</title>
+  <tracks>
+    <item key="17637" path="tracks\f2a294caed29d1ff9eebbcc440eeda4b8198e164">
+      <lyrics/>
+      <moods/>
+      <original_title>Taylor Jenkins Reid</original_title>
+      <tags/>
+      <title>Daisy Jones &amp; The Six: A Novel</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

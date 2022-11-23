@@ -1,0 +1,76 @@
+2022-11-23 01:16:37,484 (8e4) :  INFO (core:349) - Starting framework core - Version: 2.6.3, Build: 87136b9 (Tue Aug 16 04:39:41 UTC 2022)
+2022-11-23 01:16:37,486 (8e4) :  DEBUG (core:361) - Using the elevated policy
+2022-11-23 01:16:37,486 (8e4) :  DEBUG (core:450) - Starting runtime component.
+2022-11-23 01:16:37,490 (8e4) :  DEBUG (core:450) - Starting caching component.
+2022-11-23 01:16:37,490 (8e4) :  DEBUG (core:450) - Starting data component.
+2022-11-23 01:16:37,490 (8e4) :  DEBUG (core:450) - Starting networking component.
+2022-11-23 01:16:37,493 (8e4) :  DEBUG (networking:261) - Loaded HTTP cookies
+2022-11-23 01:16:37,494 (8e4) :  DEBUG (networking:428) - Setting the default network timeout to 20.0
+2022-11-23 01:16:37,496 (8e4) :  DEBUG (core:450) - Starting localization component.
+2022-11-23 01:16:37,496 (8e4) :  INFO (localization:409) - Setting the default locale to en-us
+2022-11-23 01:16:37,500 (8e4) :  DEBUG (localization:427) - Loaded en strings
+2022-11-23 01:16:37,500 (8e4) :  DEBUG (core:450) - Starting messaging component.
+2022-11-23 01:16:37,500 (8e4) :  DEBUG (core:450) - Starting debugging component.
+2022-11-23 01:16:37,500 (8e4) :  DEBUG (core:450) - Starting services component.
+2022-11-23 01:16:37,500 (8e4) :  DEBUG (core:450) - Starting myplex component.
+2022-11-23 01:16:37,500 (8e4) :  DEBUG (core:450) - Starting notifications component.
+2022-11-23 01:16:37,503 (ca0) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400/system/messaging/clear_events/com.plexapp.plugins.WebTools'
+2022-11-23 01:16:37,607 (8e4) :  DEBUG (accessor:68) - Creating a new model access point for provider com.plexapp.plugins.WebTools in namespace 'metadata'
+2022-11-23 01:16:37,611 (8e4) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/resourceHashes'
+2022-11-23 01:16:37,872 (8e4) :  ERROR (networking:196) - Error opening URL 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/resourceHashes'
+2022-11-23 01:16:37,875 (8e4) :  CRITICAL (core:574) - Exception getting hosted resource hashes (most recent call last):
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\components\runtime.py", line 1293, in get_resource_hashes
+    json = self._core.networking.http_request("http://127.0.0.1:32400/:/plugins/com.plexapp.system/resourceHashes", timeout=10).content
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\components\networking.py", line 242, in content
+    return self.__str__()
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\components\networking.py", line 220, in __str__
+    self.load()
+  File "C:\Program Files (x86)\Plex\Plex Media Server\Resources\Plug-ins-87136b92b\Framework.bundle\Contents\Resources\Versions\2\Python\Framework\components\networking.py", line 158, in load
+    f = self._opener.open(req, timeout=self._timeout)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "C:\Program Files (x86)\Plex\Plex Media Server\python27.zip\urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+
+2022-11-23 01:16:37,884 (8e4) :  DEBUG (runtime:1117) - Created a thread named 'load_all_services'
+2022-11-23 01:16:37,884 (d60) :  DEBUG (services:265) - Plug-in is not daemonized - loading services from system
+2022-11-23 01:16:37,888 (d60) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_'
+2022-11-23 01:16:37,911 (8e4) :  DEBUG (runtime:1117) - Created a thread named 'get_server_info'
+2022-11-23 01:16:37,911 (8e4) :  DEBUG (core:150) - Finished starting framework core
+2022-11-23 01:16:37,911 (8e4) :  DEBUG (core:560) - Loading plug-in code
+2022-11-23 01:16:37,913 (e3c) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400'
+2022-11-23 01:16:37,923 (d60) :  DEBUG (services:362) - Loaded services
+2022-11-23 01:16:37,928 (e3c) :  DEBUG (core:538) - Machine identifier is 1fdbb643d7ecf4de09d917684ebc0c17c09d7032
+2022-11-23 01:16:37,930 (e3c) :  DEBUG (core:539) - Server version is 1.28.1.6092-87136b92b
+2022-11-23 01:16:37,933 (240) :  DEBUG (services:438) - No shared code to load
+2022-11-23 01:16:37,944 (8e4) :  DEBUG (core:566) - Finished loading plug-in code
+2022-11-23 01:16:38,144 (8e4) :  INFO (datakit:93) - Loaded the dictionary file
+2022-11-23 01:16:38,173 (8e4) :  DEBUG (preferences:258) - Loaded preferences from DefaultPrefs.json
+2022-11-23 01:16:38,174 (8e4) :  DEBUG (preferences:178) - Loaded the user preferences for com.plexapp.plugins.WebTools
+2022-11-23 01:16:39,721 (8e4) :  DEBUG (runtime:640) - Adding a prefix handler for 'WebTools' ('/applications/webtools')
+2022-11-23 01:16:39,724 (8e4) :  DEBUG (logkit:13) - *******  Started WebTools V3.0.0 on Windows at 2022-11-23 01:16 with locale set to ('en_US', 'cp1252') ***********
+2022-11-23 01:16:39,724 (8e4) :  DEBUG (logkit:13) - updateTranslationStore started
+2022-11-23 01:16:39,724 (8e4) :  DEBUG (logkit:13) - bundleStore: C:\Users\carso\AppData\Local\Plex Media Server\Plug-ins\WebTools.bundle\http\static\_shared\translations.js
+2022-11-23 01:16:39,724 (8e4) :  DEBUG (logkit:13) - dataStore: C:\Users\carso\AppData\Local\Plex Media Server\Plug-in Support\Data\com.plexapp.plugins.WebTools\DataItems\translations.js
+2022-11-23 01:16:39,726 (8e4) :  INFO (logkit:16) - Running upgradeCleanup
+2022-11-23 01:16:39,726 (8e4) :  DEBUG (logkit:13) - Asked Tornado to exit
+2022-11-23 01:16:42,746 (8e4) :  DEBUG (logkit:13) - tornado is handling the following URI: [('/login', <class 'LoginHandler'>), ('/logout', <class 'LogoutHandler'>), ('/version', <class 'versionHandler'>), ('/uas/Resources.*$', <class 'imageHandler'>), ('/static/_shared/translations.js', <class 'translateHandler'>), ('/', <class 'idxHandler'>), ('', <class 'idxHandler'>), ('/index.html', <class 'idxHandler'>), ('/api/v3.*$', <class 'apiv3'>), ('/getTranslate.*$', <class 'getTranslationHandler'>), ('/(.*)', <class 'MyStaticFileHandler'>, {'path': u'C:\\Users\\carso\\AppData\\Local\\Plex Media Server\\Plug-ins\\WebTools.bundle\\http'})]
+2022-11-23 01:16:42,753 (8e4) :  INFO (core:611) - Started plug-in
+2022-11-23 01:16:42,753 (8e4) :  DEBUG (socketinterface:160) - Starting socket server
+2022-11-23 01:16:42,756 (17c0) :  INFO (logkit:16) - Certificate crt file is C:\Users\carso\AppData\Local\Plex Media Server\Plug-ins\WebTools.bundle\Contents\Code\Certificate\WebTools.crt
+2022-11-23 01:16:42,756 (17c0) :  INFO (logkit:16) - Certificate key file is C:\Users\carso\AppData\Local\Plex Media Server\Plug-ins\WebTools.bundle\Contents\Code\Certificate\WebTools.key
+2022-11-23 01:16:42,757 (17c0) :  DEBUG (logkit:13) - Starting tornado on ports 33400 and 33443
+2022-11-23 01:16:42,763 (8e4) :  DEBUG (runtime:1117) - Created a thread named 'start'
+2022-11-23 01:16:42,763 (8e4) :  INFO (socketinterface:184) - Socket server started on port 60912
+2022-11-23 01:16:42,763 (8e4) :  INFO (pipeinterface:25) - Entering run loop
+2022-11-23 01:16:42,763 (8e4) :  DEBUG (runtime:717) - Handling request GET /:/prefixes
+2022-11-23 01:16:42,763 (8e4) :  DEBUG (runtime:814) - Found route matching /:/prefixes
+2022-11-23 01:16:42,765 (8e4) :  DEBUG (runtime:924) - Response: [200] MediaContainer, 455 bytes
+2022-11-23 01:16:43,206 (394) :  INFO (datakit:131) - Saved the dictionary file

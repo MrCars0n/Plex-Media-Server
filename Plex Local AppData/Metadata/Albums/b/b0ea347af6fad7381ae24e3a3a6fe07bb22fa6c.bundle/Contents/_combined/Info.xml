@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2016-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="82943dc7ed23b886b2c69dbe97e81cb2" media="com.plexapp.agents.localmedia_0d741dbca18c7df78f010e2eec86b60c7bf4596c" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>The Girl on the Dock: A Dark Fairy Tale</title>
+  <tracks>
+    <item key="19364" path="tracks\58ac4aa8de005c38c3c08aee189c06b5d2c2baab">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Girl on the Dock: A Dark Fairy Tale</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

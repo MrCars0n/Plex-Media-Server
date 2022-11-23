@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2022-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="01f364d12ca25c55de4ce98d22aa6d82" media="com.plexapp.agents.localmedia_7edff488cf861e1de63a9438d38a41324986e77d" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="e70c2b45a8a536c2c24376ab222fc179" media="com.plexapp.agents.localmedia_b3585bad5b2f2ed9087faae864c801f4c913a5f4" sort_order="2" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="792a26020ef13d2e76e64d0c577775f7" media="com.plexapp.agents.localmedia_e0089af08ba67d6322da84ebe0c9b1ed16883805" sort_order="3" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="f1a1421df2378fbeb5e9d2b8a94ba0bf" media="com.plexapp.agents.localmedia_4377ad60b594d27984ce5251368a358109ee6da4" sort_order="4" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="8db6b4c53ffebdae0020fe16ee616300" media="com.plexapp.agents.localmedia_7c468693624a80c5f356d3740b44beba732724b7" sort_order="5" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="f43fd3817ea44913b803e5842d1ba70b" media="com.plexapp.agents.localmedia_3a5a9d0f965c25b03a00f25eff16f73439a1c2ec" sort_order="6" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="d40061f208402e5622b03b3d174c53b7" media="com.plexapp.agents.localmedia_ee4a9c2fda7c3875b13b9f49cda49180eba41468" sort_order="7" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <summary>In this gripping sequel to Star Wars: The Rising Storm, the light of the Jedi faces its darkest hour. Time and again, the vicious raiders known as the Nihil have sought to bring the golden age of the High Republic to a fiery end. Time and again, the High Republic has emerged battered and weary, but victorious thank to its Jedi protectors - and there is no monument to their cause grander than the Starlight Beacon.</summary>
+  <tags/>
+  <title>Star Wars: The Fallen Star: Star Wars: The High Republic, Book 3</title>
+  <tracks>
+    <item key="18283" path="tracks\15b1b1e2c1a7a9e28d0fadec4a7c4f831f57e700">
+      <lyrics/>
+      <moods/>
+      <original_title>Claudia Gray</original_title>
+      <tags/>
+      <title>Star Wars: The Fallen Star: Star Wars: The High Republic, Book 3</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

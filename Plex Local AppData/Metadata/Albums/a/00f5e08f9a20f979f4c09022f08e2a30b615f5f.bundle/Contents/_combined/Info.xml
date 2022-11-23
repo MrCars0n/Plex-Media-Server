@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters>
+    <item external="True" url="670c891fd3446156280a42dc62b29523" media="com.plexapp.agents.localmedia_328738eb45c9f9db583d9a28ab28bb87a2a57ffe" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="f2d3f9748298bf7907ab9f54faa656cd" media="com.plexapp.agents.localmedia_6e01dcd3940c2bf69b6ae2038d869c73aaa57a86" sort_order="2" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="b867451a0f9e3f088c6007e7c133b35b" media="com.plexapp.agents.localmedia_68be4db572dfdfac68724445e63752bb8efe5ae8" sort_order="3" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>The Everything Store Jeff Bezos and the Age of Amazon</title>
+  <tracks>
+    <item key="19678" path="tracks\c8d6721ed13f875503e91bd2a2ff93e0f93325fc">
+      <lyrics/>
+      <moods/>
+      <original_title>Brad Stone</original_title>
+      <tags/>
+      <title>The Everything Store (Unabridged) Part 1</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="19679" path="tracks\486dbeaa1ea25bc0f909783c4aa22a71a258b487">
+      <lyrics/>
+      <moods/>
+      <original_title>Brad Stone</original_title>
+      <tags/>
+      <title>The Everything Store (Unabridged) Part 2</title>
+      <track_index>2</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

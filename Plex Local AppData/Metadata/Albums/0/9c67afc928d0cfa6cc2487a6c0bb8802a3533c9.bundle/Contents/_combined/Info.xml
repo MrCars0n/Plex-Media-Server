@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2012-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="9637beb1d6aa0113f50832dc3bc628b8" media="com.plexapp.agents.localmedia_6f199c4a9a772186edd175936305978440da3f5f" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <summary>The embattled Republic reels from the attacks of Grand Admiral Thrawn, who has marshaled the remnants of the Imperial forces and driven the Rebels back with an abominable technology recovered from the Emperor's secret fortress: clone soldiers. As Thrawn</summary>
+  <tags/>
+  <title>Star Wars: The Thrawn Trilogy, Book 3: The Last Command (Unabridged)</title>
+  <tracks>
+    <item key="18495" path="tracks\78a74789025c0b4f7b6b7c8f3e5511c659ae5bb7">
+      <lyrics/>
+      <moods/>
+      <original_title>Timothy Zahn</original_title>
+      <tags/>
+      <title>Star Wars: The Thrawn Trilogy, Book 3: The Last Command (Unabridged)</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

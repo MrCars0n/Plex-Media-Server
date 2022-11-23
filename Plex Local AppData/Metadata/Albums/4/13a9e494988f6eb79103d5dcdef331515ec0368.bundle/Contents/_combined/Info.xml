@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2018-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="035561b5419f00d9daf94ecf24d6cfba" media="com.plexapp.agents.localmedia_f5ee643ea317d9247ee45509abb950a6f3aa9b13" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>One Day in December (Unabridged)</title>
+  <tracks>
+    <item key="17666" path="tracks\2ff101256cb83c24b8d3617c5107c5b16f4ef9df">
+      <lyrics/>
+      <moods/>
+      <original_title>Josie Silver</original_title>
+      <tags/>
+      <title>One Day in December (Unabridged)</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

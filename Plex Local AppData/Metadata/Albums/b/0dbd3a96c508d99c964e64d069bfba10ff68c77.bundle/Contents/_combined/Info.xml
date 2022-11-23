@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters>
+    <item external="True" url="49b18372b9dc80b7dab7020c46017bd6" media="com.plexapp.agents.localmedia_4550d2a65f726f9055404bfa0876798abeffe46b" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Bounty Hunter Wars - Book 3</title>
+  <tracks>
+    <item key="18311" path="tracks\51059d830eeea96f5e777a9732c6e77e220dccca">
+      <lyrics/>
+      <moods/>
+      <original_title>K. W. Jeter</original_title>
+      <tags/>
+      <title>Hard Merchandise</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="18312" path="tracks\08abb27c18b72a85efdc6d9fddb4f39dc9f9f8e1">
+      <lyrics/>
+      <moods/>
+      <original_title>K. W. Jeter</original_title>
+      <tags/>
+      <title>Hard Merchandise</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="18313" path="tracks\fe933ebaaaa38a26b25b4e734f390d4fa5ba0d2d">
+      <lyrics/>
+      <moods/>
+      <original_title>K. W. Jeter</original_title>
+      <tags/>
+      <title>Hard Merchandise</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="18314" path="tracks\cc60e1eb3cb8f9a090be2b7a43db31a9a88659d5">
+      <lyrics/>
+      <moods/>
+      <original_title>K. W. Jeter</original_title>
+      <tags/>
+      <title>Hard Merchandise</title>
+      <track_index>4</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

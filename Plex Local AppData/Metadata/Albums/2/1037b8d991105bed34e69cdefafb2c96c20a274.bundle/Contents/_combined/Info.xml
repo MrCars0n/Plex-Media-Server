@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters>
+    <item external="True" url="e9d014b3ab1301c29988274409cf1aca" media="com.plexapp.agents.localmedia_58966954e538d82b0e2bd9cc50f11d2dfb9496e6" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Court of Thorns and Roses bk 2</title>
+  <tracks>
+    <item key="17624" path="tracks\35ae37fc5ab81da96edfb6110eca7fe2b2c81e8f">
+      <lyrics/>
+      <moods/>
+      <original_title>Sarah J. Maas</original_title>
+      <tags/>
+      <title>A Court of Mist and Fury</title>
+      <track_index>1</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

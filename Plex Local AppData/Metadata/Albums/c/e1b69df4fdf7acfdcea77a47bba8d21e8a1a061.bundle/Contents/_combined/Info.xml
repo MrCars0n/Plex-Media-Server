@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2019-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="00ccbb5ef7f170f9a8a7274477c5120d" media="com.plexapp.agents.localmedia_32dab05d1982da86083dc786797703ba78ba7b27" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Talking to Strangers: What We Should Know About the People We Don’t Know</title>
+  <tracks>
+    <item key="18040" path="tracks\cd938c4ff0e82c5bf13746f1b703fa8bd43b84ab">
+      <lyrics/>
+      <moods/>
+      <original_title>Malcolm Gladwell</original_title>
+      <tags/>
+      <title>007</title>
+      <track_index>7</track_index>
+    </item>
+    <item key="18041" path="tracks\edd65c752476b409c19786ad300041990fb52754">
+      <lyrics/>
+      <moods/>
+      <original_title>Malcolm Gladwell</original_title>
+      <tags/>
+      <title>008</title>
+      <track_index>8</track_index>
+    </item>
+    <item key="18042" path="tracks\1a7bc46ca5569e76187988cf66cf30119d149083">
+      <lyrics/>
+      <moods/>
+      <original_title>Malcolm Gladwell</original_title>
+      <tags/>
+      <title>009</title>
+      <track_index>9</track_index>
+    </item>
+    <item key="18043" path="tracks\27f640afb481b055ccf5a276ebc082fba58cafce">
+      <lyrics/>
+      <moods/>
+      <original_title>Malcolm Gladwell</original_title>
+      <tags/>
+      <title>010</title>
+      <track_index>10</track_index>
+    </item>
+    <item key="18044" path="tracks\4b573136a7a2945675f1f56b24a93d1b66ab962f">
+      <lyrics/>
+      <moods/>
+      <original_title>Malcolm Gladwell</original_title>
+      <tags/>
+      <title>011</title>
+      <track_index>11</track_index>
+    </item>
+    <item key="18045" path="tracks\8616a320de7733c9f89cb229caddcb205b67cf8a">
+      <lyrics/>
+      <moods/>
+      <original_title>Malcolm Gladwell</original_title>
+      <tags/>
+      <title>012</title>
+      <track_index>12</track_index>
+    </item>
+    <item key="18046" path="tracks\8759b5c934e5277c86053bfbb01910fa74f1bfa8">
+      <lyrics/>
+      <moods/>
+      <original_title>Malcolm Gladwell</original_title>
+      <tags/>
+      <title>013</title>
+      <track_index>13</track_index>
+    </item>
+    <item key="18035" path="tracks\d91be33ac3e6a2c39993b0fccdb3e6dc14d44c7c">
+      <lyrics/>
+      <moods/>
+      <original_title>Malcolm Gladwell</original_title>
+      <tags/>
+      <title>002</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="18034" path="tracks\3311eda57f0a7bdf61079313ea3b8030b166ca7e">
+      <lyrics/>
+      <moods/>
+      <original_title>Malcolm Gladwell</original_title>
+      <tags/>
+      <title>001</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="18037" path="tracks\24588123ead116b00f256c9ec6b93a41da4d0c8d">
+      <lyrics/>
+      <moods/>
+      <original_title>Malcolm Gladwell</original_title>
+      <tags/>
+      <title>004</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="18036" path="tracks\94f2e7bbabb3d0cbec7d7ade00e77fa1ea7d870c">
+      <lyrics/>
+      <moods/>
+      <original_title>Malcolm Gladwell</original_title>
+      <tags/>
+      <title>003</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="18039" path="tracks\a3ee38343461993df5966c174ff71af4cfcb2847">
+      <lyrics/>
+      <moods/>
+      <original_title>Malcolm Gladwell</original_title>
+      <tags/>
+      <title>006</title>
+      <track_index>6</track_index>
+    </item>
+    <item key="18038" path="tracks\df6355a05be5daf5d305cab6d59a38013acdd8b7">
+      <lyrics/>
+      <moods/>
+      <original_title>Malcolm Gladwell</original_title>
+      <tags/>
+      <title>005</title>
+      <track_index>5</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

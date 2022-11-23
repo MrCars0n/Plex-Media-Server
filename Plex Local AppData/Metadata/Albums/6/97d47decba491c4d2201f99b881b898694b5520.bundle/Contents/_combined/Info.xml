@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters>
+    <item external="True" url="1e2f48679937fc21154ae3c2d5662a2b" media="com.plexapp.agents.localmedia_d9ba6f6dec6798247e286a208de65f28495dd105" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Bounty Hunter Wars - Book 2</title>
+  <tracks>
+    <item key="18318" path="tracks\177d37eebd1ddf8414fcfee192e7aecf4c353e06">
+      <lyrics/>
+      <moods/>
+      <original_title>K. W. Jeter</original_title>
+      <tags/>
+      <title>Slave Ship</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="18319" path="tracks\4b966db993a7a895d4e92d611d3b3066c86e482f">
+      <lyrics/>
+      <moods/>
+      <original_title>K. W. Jeter</original_title>
+      <tags/>
+      <title>Slave Ship</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="18316" path="tracks\f335cf413251c935e7a6288633e1df7a122dd1b4">
+      <lyrics/>
+      <moods/>
+      <original_title>K. W. Jeter</original_title>
+      <tags/>
+      <title>Slave Ship</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="18317" path="tracks\c925ab1d8315d21664cf7cbe995e4d6dedf732e4">
+      <lyrics/>
+      <moods/>
+      <original_title>K. W. Jeter</original_title>
+      <tags/>
+      <title>Slave Ship</title>
+      <track_index>2</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

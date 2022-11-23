@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <posters/>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <tracks>
+    <item key="18576" path="tracks\efa723dddf99ed3b22ad46cbe26e91a6b27a90ca">
+      <lyrics/>
+      <moods/>
+      <original_title></original_title>
+      <tags/>
+      <title>The Force Awakens - Part 05</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

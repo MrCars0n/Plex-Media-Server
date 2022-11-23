@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2017-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="00f00139bc9fedd97f9d068da6f34e0f" media="com.plexapp.agents.localmedia_0f5558267aa8bb343e60324d2b49e1151a22978a" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>James Potter and the Morrigan Web</title>
+  <tracks>
+    <item key="19328" path="tracks\f2c950529b9722fbd8c88bf84c4c983bd6465eb6">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 8: Thwarting Grudje</title>
+      <track_index>13</track_index>
+    </item>
+    <item key="19329" path="tracks\826d53130e8c266ebd9f09acc071166f6d2e9ce1">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 9: The Midnight Assembly</title>
+      <track_index>14</track_index>
+    </item>
+    <item key="19322" path="tracks\185097e39b6d959f018da0203cc3684e6ac7df2d">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 25, Through a Glass Darkly</title>
+      <track_index>30</track_index>
+    </item>
+    <item key="19323" path="tracks\fe5e36dc2707409fffee48566fbbe1df542bf2c6">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 3: A Familiar Face</title>
+      <track_index>8</track_index>
+    </item>
+    <item key="19320" path="tracks\f96f438d2628140f78f7d9a66373547f9676aca5">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 23, Collective Constant</title>
+      <track_index>28</track_index>
+    </item>
+    <item key="19321" path="tracks\3bc61f0e98cf56f235667b44b93e61b260ea4a3a">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 24, The Most Vexing Question</title>
+      <track_index>29</track_index>
+    </item>
+    <item key="19326" path="tracks\c159a6c55bb85683181fc92966e448708a6b6035">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 6: The Night League</title>
+      <track_index>11</track_index>
+    </item>
+    <item key="19327" path="tracks\05a103c6e164a4a37eec3ed91528474e3477ec37">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 7: Echos of Umbridge</title>
+      <track_index>12</track_index>
+    </item>
+    <item key="19324" path="tracks\e8f6e006fa7816fb0d2801f790988f22677dda5d">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 4: The Collector</title>
+      <track_index>9</track_index>
+    </item>
+    <item key="19325" path="tracks\e557dc5bcd8290c633aacb9386aca6843ba7e15a">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 5: Suspicions and Secrets</title>
+      <track_index>10</track_index>
+    </item>
+    <item key="19317" path="tracks\8df3ca960ca060d9de2646b43c6fc9660a4d3906">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 20, Tyranny of Final Days</title>
+      <track_index>25</track_index>
+    </item>
+    <item key="19316" path="tracks\95ec30a1ef7836f2e454257a61be1edc8bdcfc4d">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 2: Brotherhood and tolerance</title>
+      <track_index>7</track_index>
+    </item>
+    <item key="19315" path="tracks\82aaf3661bf6f6a6ec7a14628400d369c502295c">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 19, Hagrid's Detention</title>
+      <track_index>24</track_index>
+    </item>
+    <item key="19314" path="tracks\590cace8df40f25b4a5ad30364430c91b890da55">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 18, The Morrigan Web</title>
+      <track_index>23</track_index>
+    </item>
+    <item key="19313" path="tracks\5ca76fe284355bae8372e442a5fdc682ade3b65c">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 17, Lair of the Gowrow</title>
+      <track_index>22</track_index>
+    </item>
+    <item key="19312" path="tracks\2eb5fe743e0b03feaf3eea76da9967b3674c563f">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 16, The Woes of Filch</title>
+      <track_index>21</track_index>
+    </item>
+    <item key="19311" path="tracks\f3a35d52c74cc2acdc008a12b812fd75409681ec">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 15, Origins Unveiled</title>
+      <track_index>20</track_index>
+    </item>
+    <item key="19310" path="tracks\a3163b7935e1d7c8f0fb32ed0cd957e1e3bf7518">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 14, Durmstrang's Depths</title>
+      <track_index>19</track_index>
+    </item>
+    <item key="19319" path="tracks\6514a4f370a910936d35bbb3321a7c3ef3bcd19a">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 22, An Impossible Bargain</title>
+      <track_index>27</track_index>
+    </item>
+    <item key="19318" path="tracks\fb4dff7fc266c0f96f4bb9acb4a716f7a9110e3b">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 21, The Third Marker</title>
+      <track_index>26</track_index>
+    </item>
+    <item key="19331" path="tracks\ea84e29f3701721fb43eb77d5456962d82a44dc7">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Prologue 2</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="19330" path="tracks\d029471030a552370553ffeb9ea65385ef6ce3fa">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Prologue 1</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="19333" path="tracks\61ef48050bbc7fe9b8d6a32ee56f0aef4ead7175">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Prologue 4</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="19332" path="tracks\b22152dc9a5b24086d8b2fe2c4db687c6a28329a">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Prologue 3</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="19334" path="tracks\00842851ed0af60fcc4d4566e62c2f2631cf9906">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Prologue 5</title>
+      <track_index>5</track_index>
+    </item>
+    <item key="19305" path="tracks\5f66c87ab9bbdea972ae324e0f71961df479dd0b">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 1: The Four Chapter 1: The Four Cabinets</title>
+      <track_index>6</track_index>
+    </item>
+    <item key="19306" path="tracks\565996ae852add192f2f17eb7720ba7db6a6f84b">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 10: A Clandestine Christmas</title>
+      <track_index>15</track_index>
+    </item>
+    <item key="19307" path="tracks\3814fd57976c6a0c0921fd327c534d48a5550b07">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 11: Quinn's Story</title>
+      <track_index>16</track_index>
+    </item>
+    <item key="19308" path="tracks\97467edc3fd477d6728767b0e4d98b430c74e3e4">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 12: Mystery at the White Tomb</title>
+      <track_index>17</track_index>
+    </item>
+    <item key="19309" path="tracks\af09b72702b5c33b9dc7baa5ae8e0d809f495c41">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 13: Dead Warlock's Clue</title>
+      <track_index>18</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

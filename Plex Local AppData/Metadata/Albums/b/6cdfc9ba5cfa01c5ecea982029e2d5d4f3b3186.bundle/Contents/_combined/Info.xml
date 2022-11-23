@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2020-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="f188a0a56c3261d9861ec6a45d4ddee0" media="com.plexapp.agents.localmedia_904b34878e582bb60ab793e8dec29cf5033d3660" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>The Tourist Attraction: Moose Springs, Alaska Series, Book 1</title>
+  <tracks>
+    <item key="17691" path="tracks\539cf36247c5e144bf702e1204d5a9d60effbf27">
+      <lyrics/>
+      <moods/>
+      <original_title>Sarah Morgenthaler</original_title>
+      <tags/>
+      <title>The Tourist Attraction: Moose Springs, Alaska Series, Book 1</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

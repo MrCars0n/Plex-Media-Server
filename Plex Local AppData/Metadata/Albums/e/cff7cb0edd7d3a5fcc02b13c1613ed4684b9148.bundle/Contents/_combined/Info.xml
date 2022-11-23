@@ -1,0 +1,357 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2021-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="29fe09a5e84cd5e154df0d586af2ef36" media="com.plexapp.agents.localmedia_2c03ca5b1a93f1c580194f2794195d6380a71743" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>The Four Winds: A Novel</title>
+  <tracks>
+    <item key="17829" path="tracks\e6aa6aeadd2753e78b30084ef65fd32073251595">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>24</track_index>
+    </item>
+    <item key="17828" path="tracks\9416a5e55f2ee2b4c490685e7ee9691fb15a4fd7">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>23</track_index>
+    </item>
+    <item key="17809" path="tracks\e8642210284af255aa481bd4692a579651f0d11e">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="17807" path="tracks\02f80c637ea75bcd17ff4fa21055982096e32b78">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="17806" path="tracks\4e5aa44b756d601224262f38039071afab8bf18a">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="17827" path="tracks\492e69c49ea797694d19009827693e6d5ea961e2">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>22</track_index>
+    </item>
+    <item key="17826" path="tracks\62e816e9013785fa72b590b50f970e94ef9e6a6b">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>21</track_index>
+    </item>
+    <item key="17825" path="tracks\35da5071f0cc797b12645a4cf5cd1fa25f628893">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>20</track_index>
+    </item>
+    <item key="17824" path="tracks\b6e8cace402ba28dcfb3fcbb07a33ce40425a749">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>19</track_index>
+    </item>
+    <item key="17823" path="tracks\a7833463ee7901607a1988ffdaefbfe4a2346d48">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>18</track_index>
+    </item>
+    <item key="17822" path="tracks\5f27e889208eccd794d8d89f4968d07fe7dbda0f">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>17</track_index>
+    </item>
+    <item key="17821" path="tracks\3c6441f7f254150412941593c26163ced6e561c1">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>16</track_index>
+    </item>
+    <item key="17820" path="tracks\e0eb6dc3740f5f6ae0ccb193f3562991274eceff">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>15</track_index>
+    </item>
+    <item key="17833" path="tracks\662e5647352414834478db04bac0257f63c11942">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>28</track_index>
+    </item>
+    <item key="17845" path="tracks\779807ae9c0b7c933ebd6665146a007b63daea50">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>40</track_index>
+    </item>
+    <item key="17844" path="tracks\98202468926c5a1a984b9e3af83f05fcf60777de">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>39</track_index>
+    </item>
+    <item key="17847" path="tracks\c0e93274281450320771c9b8de1583e1431f1adc">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>42</track_index>
+    </item>
+    <item key="17846" path="tracks\ae75fc14702f707cdf72afdbfd44fbef4f0fcf6e">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>41</track_index>
+    </item>
+    <item key="17841" path="tracks\89944912cb84d86b23810c9723d925e5b83a84be">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>36</track_index>
+    </item>
+    <item key="17840" path="tracks\41afe7d72a03ae6c63d4238cbe9037a9058c59fc">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>35</track_index>
+    </item>
+    <item key="17843" path="tracks\b209ad92299427000550b5fd40f176b833861c04">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>38</track_index>
+    </item>
+    <item key="17842" path="tracks\70b39d7af71c93700edfa7a5f7b557aa86564a25">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>37</track_index>
+    </item>
+    <item key="17832" path="tracks\beed282d83660938496d24ff46dc791ad8f71fb9">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>27</track_index>
+    </item>
+    <item key="17812" path="tracks\2793b508f0770c47ada5a88f5fae967e93421ca3">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>7</track_index>
+    </item>
+    <item key="17813" path="tracks\116426c946cd8287a97a6df63594dfa3f3a9d93c">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>8</track_index>
+    </item>
+    <item key="17810" path="tracks\6bf0bf179fbcbced31607b920b8a980ca86ac8e5">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>5</track_index>
+    </item>
+    <item key="17811" path="tracks\93e6a96b8303ac06afef982f9c9046ffb1a5f7b0">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>6</track_index>
+    </item>
+    <item key="17816" path="tracks\e1dd05322e096029a12cbf863c981c80a2a11026">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>11</track_index>
+    </item>
+    <item key="17817" path="tracks\ba3456a5d01fc1c9e51de9d0272db1b2b560aeef">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>12</track_index>
+    </item>
+    <item key="17814" path="tracks\4432659e68bd0346a079f8507fb0a77a142838e7">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>9</track_index>
+    </item>
+    <item key="17815" path="tracks\5151a0deab26bb4b4115c1c7d1668b54bd0d667d">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>10</track_index>
+    </item>
+    <item key="17830" path="tracks\1d48ca9c0a011dad3ddaf8138ccbb60836974a32">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>25</track_index>
+    </item>
+    <item key="17831" path="tracks\2cc89c4eb44e5036a0c43d6009eaba2f5bac8f1f">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>26</track_index>
+    </item>
+    <item key="17818" path="tracks\7b3ae29a698b4c29b285faf21b9d261c80088f14">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>13</track_index>
+    </item>
+    <item key="17819" path="tracks\2feae69fa7612287cd36810ea57f6cc2c7b69718">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>14</track_index>
+    </item>
+    <item key="17808" path="tracks\8c2c44f8a662aaefb5d27378d2b24ef9d21ff6d0">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="17835" path="tracks\69676f481c29bcc11c70dcbeb77b946d5e4d1f1c">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>30</track_index>
+    </item>
+    <item key="17836" path="tracks\58c8a43351d719c2424f90652001c021496d24ce">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>31</track_index>
+    </item>
+    <item key="17837" path="tracks\81dfd0a22d85154e8d6430538c2a804b48bcd758">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>32</track_index>
+    </item>
+    <item key="17838" path="tracks\c30f64939d307ae90c8dd6309c1a1f80d6b0d1ec">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>33</track_index>
+    </item>
+    <item key="17839" path="tracks\6f20c7f22d89098ed95e9b23e0c9bda839d04226">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>34</track_index>
+    </item>
+    <item key="17834" path="tracks\80ac313b930bdbdaeef0b45bfce85a91a894091d">
+      <lyrics/>
+      <moods/>
+      <original_title>Kristin Hannah</original_title>
+      <tags/>
+      <title>The Four Winds: A Novel</title>
+      <track_index>29</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

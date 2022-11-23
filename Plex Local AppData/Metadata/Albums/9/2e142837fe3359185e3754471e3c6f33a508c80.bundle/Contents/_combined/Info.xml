@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2014-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="a80467a6ade569926cfda6066fea9002" media="com.plexapp.agents.localmedia_b01cf5a36d558f0d32e2d4e25f5efb2f866bbf68" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>James Potter and the Curse of the Gatekeeper</title>
+  <tracks>
+    <item key="19366" path="tracks\a1053d8248e3b00de4d9b4f03aa5a4703aec174c">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Prologue</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="19367" path="tracks\bec5dd715583c4a5278f198d8be3731523a62f43">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 1</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="19377" path="tracks\45bed9475a3508a0b9974fc2135b5a120d0e6bcd">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 10, The Beacon Stone</title>
+      <track_index>11</track_index>
+    </item>
+    <item key="19376" path="tracks\2e69d25f0f20714a7d775831ecf48465b1169539">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 9, The Lady of the Lake</title>
+      <track_index>10</track_index>
+    </item>
+    <item key="19371" path="tracks\37629803ede68b5b7db2bbca3d177aaa3f6e9df6">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 5</title>
+      <track_index>6</track_index>
+    </item>
+    <item key="19370" path="tracks\dcfb4e1a434839f7097bc8a6528380c987cb3cd1">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 4</title>
+      <track_index>5</track_index>
+    </item>
+    <item key="19374" path="tracks\266b8e0a8f6fe12f561f5121e6e25de5c8a2da0e">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 7, Amsera Certh</title>
+      <track_index>8</track_index>
+    </item>
+    <item key="19375" path="tracks\f5221735e06786befd165d62bae3bcfba17f1d9e">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 8, The Audition</title>
+      <track_index>9</track_index>
+    </item>
+    <item key="19381" path="tracks\c0b011e433468f3af60c713c831dd05f02ce1ef2">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 14</title>
+      <track_index>15</track_index>
+    </item>
+    <item key="19382" path="tracks\c4047b8e8255bfd47b0124470d435f89e5645fa0">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 15</title>
+      <track_index>16</track_index>
+    </item>
+    <item key="19383" path="tracks\76bb044627b2cee72f8ac01a8f1d1632155e21e8">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 16</title>
+      <track_index>17</track_index>
+    </item>
+    <item key="19379" path="tracks\0c823ac30fa197eb8c2f377553d467b19b403732">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 12, Questions of Trust</title>
+      <track_index>13</track_index>
+    </item>
+    <item key="19378" path="tracks\95ecb78218b2143ec1b29d8e16df58c7dca5aa14">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 11, The Circle of Nine</title>
+      <track_index>12</track_index>
+    </item>
+    <item key="19368" path="tracks\adfb573d0bda2af3f619ae017f08011848a77b93">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 2</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="19369" path="tracks\e5b1c4ff47ec4cd27b040fa07816ac90e36eb99f">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 3</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="19380" path="tracks\3464dd67e6ec61de126a407c0429ff29325c0041">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 13, Christmas at Hogwarts</title>
+      <track_index>14</track_index>
+    </item>
+    <item key="19386" path="tracks\e03114ce9bd30f7a609f316ca8aab51985fa49ef">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 19</title>
+      <track_index>20</track_index>
+    </item>
+    <item key="19384" path="tracks\f2162c205079b0aa02be6b1e54426f238afa120d">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 17</title>
+      <track_index>18</track_index>
+    </item>
+    <item key="19387" path="tracks\7e1dd81dd31858d6b8139632d740a25704d683a0">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 20</title>
+      <track_index>21</track_index>
+    </item>
+    <item key="19385" path="tracks\dcbf501754a85874003a497a95e2e705efdb8269">
+      <lyrics/>
+      <moods/>
+      <original_title>G. Norman Lippert</original_title>
+      <tags/>
+      <title>Chapter 18</title>
+      <track_index>19</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

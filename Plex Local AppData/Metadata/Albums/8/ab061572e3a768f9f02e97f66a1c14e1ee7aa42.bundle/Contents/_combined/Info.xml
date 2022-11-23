@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2021-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="e82ce10d480b15ae4884dc039cd0fc22" media="com.plexapp.agents.localmedia_87d3f18c9bc85065888ab1c9a61af54caf0fbaaf" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>Malibu Rising</title>
+  <tracks>
+    <item key="17654" path="tracks\e50cff911fe36d697d7f2d5db08373bc0ca24da6">
+      <lyrics/>
+      <moods/>
+      <original_title>Taylor Jenkins Reid</original_title>
+      <tags/>
+      <title>Malibu Rising</title>
+      <track_index>1</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

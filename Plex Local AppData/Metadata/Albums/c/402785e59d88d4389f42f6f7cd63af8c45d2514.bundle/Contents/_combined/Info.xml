@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2020-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="8cb27bab5b125441c83c9a1e3d1de038" media="com.plexapp.agents.localmedia_b010bf13e255770b42a9d61cd714f56903aae613" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <title>The Vanishing Half</title>
+  <tracks>
+    <item key="17997" path="tracks\01b61b9ddd5632f78edb1bc40fdfa6d6aada083f">
+      <lyrics/>
+      <moods/>
+      <original_title>Brit Bennett</original_title>
+      <tags/>
+      <title>Part 10</title>
+      <track_index>10</track_index>
+    </item>
+    <item key="17996" path="tracks\efad6be58d515eea49e17255c0bcf823af0c32ae">
+      <lyrics/>
+      <moods/>
+      <original_title>Brit Bennett</original_title>
+      <tags/>
+      <title>Part 9</title>
+      <track_index>9</track_index>
+    </item>
+    <item key="17995" path="tracks\93928ad0c7605633b9168b7435aff110e8d6df72">
+      <lyrics/>
+      <moods/>
+      <original_title>Brit Bennett</original_title>
+      <tags/>
+      <title>Part 8</title>
+      <track_index>8</track_index>
+    </item>
+    <item key="17994" path="tracks\f5b87f13df16e1681de41f62ae871fa09f31fbb7">
+      <lyrics/>
+      <moods/>
+      <original_title>Brit Bennett</original_title>
+      <tags/>
+      <title>Part 7</title>
+      <track_index>7</track_index>
+    </item>
+    <item key="17993" path="tracks\05fded5bdfe8bad9118d0d5b1d33af598ab39794">
+      <lyrics/>
+      <moods/>
+      <original_title>Brit Bennett</original_title>
+      <tags/>
+      <title>Part 6</title>
+      <track_index>6</track_index>
+    </item>
+    <item key="17992" path="tracks\c23244a0b6511bea9cc7732b954a94b187454f3f">
+      <lyrics/>
+      <moods/>
+      <original_title>Brit Bennett</original_title>
+      <tags/>
+      <title>Part 5</title>
+      <track_index>5</track_index>
+    </item>
+    <item key="17991" path="tracks\4ce45e74ef4a8701eaaa4e8fb17bab705ebd772c">
+      <lyrics/>
+      <moods/>
+      <original_title>Brit Bennett</original_title>
+      <tags/>
+      <title>Part 4</title>
+      <track_index>4</track_index>
+    </item>
+    <item key="17990" path="tracks\70e80e691f225404bc21a65e319bf6a1d17985f3">
+      <lyrics/>
+      <moods/>
+      <original_title>Brit Bennett</original_title>
+      <tags/>
+      <title>Part 3</title>
+      <track_index>3</track_index>
+    </item>
+    <item key="17988" path="tracks\db2f277d3f22707160ecadbc85fdbf36f5e16775">
+      <lyrics/>
+      <moods/>
+      <original_title>Brit Bennett</original_title>
+      <tags/>
+      <title>Part 1</title>
+      <track_index>1</track_index>
+    </item>
+    <item key="17989" path="tracks\43c7ee17e6a37cb0a646cd1e9860ccbba1ebb982">
+      <lyrics/>
+      <moods/>
+      <original_title>Brit Bennett</original_title>
+      <tags/>
+      <title>Part 2</title>
+      <track_index>2</track_index>
+    </item>
+    <item key="17999" path="tracks\1a3ce48e8f59cb6d0e93e65b3d43ab3870cb9ef5">
+      <lyrics/>
+      <moods/>
+      <original_title>Brit Bennett</original_title>
+      <tags/>
+      <title>Part 12</title>
+      <track_index>12</track_index>
+    </item>
+    <item key="17998" path="tracks\3baab56fa80c2d2eba16f5b9fc97b60b5ada6a47">
+      <lyrics/>
+      <moods/>
+      <original_title>Brit Bennett</original_title>
+      <tags/>
+      <title>Part 11</title>
+      <track_index>11</track_index>
+    </item>
+    <item key="18000" path="tracks\2292e8f8e00a94ae43b2c5b020f7072833ca3e39">
+      <lyrics/>
+      <moods/>
+      <original_title>Brit Bennett</original_title>
+      <tags/>
+      <title>Part 13</title>
+      <track_index>13</track_index>
+    </item>
+  </tracks>
+</LegacyAlbum>

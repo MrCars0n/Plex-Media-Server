@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2018-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="f613acc5401d8b823890695d28953e3e" media="com.plexapp.agents.localmedia_4331f5f8560c80f4407f5a98283c0edab04be47f" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <summary>Board the Millennium Falcon and journey to a galaxy far, far away with the most beloved scoundrel in the galaxy in this thrilling novelization of the blockbuster movie Solo: A Star Wars Story. 
+Through a series of daring escapades deep within a dark and dangerous criminal underworld, a young Han Solo meets his mighty future copilot, Chewbacca, and encounters the notorious gambler Lando Calrissian in a journey that will set the course of the Star Wars saga’s most unlikely heroes.</summary>
+  <tags/>
+  <title>Solo: A Star Wars Story (Unabridged)</title>
+  <tracks>
+    <item key="18682" path="tracks\bfbe98b4b98ba2479befd3e5910cc6a98d812507">
+      <lyrics/>
+      <moods/>
+      <original_title>Mur Lafferty</original_title>
+      <tags/>
+      <title>Solo: A Star Wars Story: Expanded Edition (Unabridged)</title>
+    </item>
+  </tracks>
+</LegacyAlbum>

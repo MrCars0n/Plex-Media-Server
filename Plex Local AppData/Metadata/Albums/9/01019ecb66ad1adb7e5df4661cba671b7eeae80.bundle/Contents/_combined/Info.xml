@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <album_format/>
+  <album_type/>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <moods/>
+  <originally_available_at>2019-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="acc32812f2fb40a171c951460aa8ce7e" media="com.plexapp.agents.localmedia_2a5ebb56f794e74eef406c811f56e4d1fed6dbd3" sort_order="1" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <styles/>
+  <tags/>
+  <tracks>
+    <item key="17652" path="tracks\ad4a1acf2585a55a8d538600ba5ccca01cdca88c">
+      <lyrics/>
+      <moods/>
+      <original_title>Riley Sager</original_title>
+      <tags/>
+      <title>Lock Every Door</title>
+    </item>
+  </tracks>
+</LegacyAlbum>
